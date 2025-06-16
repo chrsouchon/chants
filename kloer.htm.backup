@@ -1,0 +1,274 @@
+<HTML>
+<HEAD>
+<TITLE>Contre les kloer</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to Contre les kloer">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Contre les kloer, son, La Villemarqué, Keransquer">
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>A-enep ar c'hloer</h1>
+<h2>Contre les clercs</h2>
+<h3>Against the clerics</h3>
+<h4>Chant noté par Théodore Hersart de La Villemarqué<br>
+dans le 3ème Carnet de Keransquer (p. 29) .</h4>
+
+<img src="didoste.png"><br>
+<br>
+<a href="didoste.mid">Didostait ta</a><br>
+<font size=-1><i>Mélodie de "Didostait 'ta" (Mode Dorien)</i></font><br>
+<br>
+<table width=100%>
+<td width=50% valign=top>
+<b>A propos de la mélodie:</b><br>
+Inconnue. La mélodie "Didostait 'ta gwazed yaouank" a été choisie comme illustration.<br>
+<br>
+<b>A propos du texte</b><br>
+Le carnet N°3 ne donne aucune indication sur ce chant que La Villemarqué semble être le seul à avoir noté (vers 1843).
+</td>
+<td width=50% valign=top>
+<b>About the tune</b><br>
+Unknown. The tune "Didoste 'ta gwazed yaouank" was chosen as an illustration.<br>
+<br>
+<b>About the lyrics</b><br>
+Notebook N ° 3 gives no indication about this song that La Villemarqué seems to be the only one to have noted (around 1843).
+</td></table>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>A-ENEP AR C'HLOER<br>
+<br>
+p. 29</b><br>
+<br>
+1. Bloavezh ar reuz ema hemañ, <br>
+Hemañ zo war an douar bras:<br>
+Disprizout an artisaned <br>
+Na rint penn dar skolaerien. [1]<br>
+<br>
+2. Be(z)añ zo merched en Treger, <br>
+O-deus laret kreñv atav<br>
+E larfe dan artisaned <br>
+Skolaerien-se o-devo !<br>
+<br>
+3. Pa oan-me ur skolaer yaouank <br>
+O tiskourouz e dous koant<br>
+A diougane de(zh)i he charo, <br>
+He charo, en delchamant ;<br>
+<br>
+4. E dorn gantañ war benn he glin,<br> 
+O tiskouriñ diraki<br>
+- Goude filoutet he chalon <br>
+Goap a raio anezhi. -<br>
+<br>
+5. Na me na gomzan ket amañ <br>
+Dimeus an holl skolaerien.<br>
+Me a gomz, e zivaskadezh,<br>
+Dimeus paotred ar visterien<br>
+<br>
+O choari ma-ne-gousto.<br>
+<br>
+<font size=-1><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>CONTRE LES CLERCS<br>
+<br>
+p. 29</b><br>
+<br>
+1. Année de malheur s'il en fut<br>
+Sur la grande planète.<br>
+Honte aux artisans qui n'ont su,<br>
+O clercs, vous tenir tête!<br>
+<br>
+2. A leurs artisans de maris,<br>
+Dans le Trégor, des femmes<br>
+Affirment vouloir dans leurs lits<br>
+Accueillir ces infâmes<br>.
+<br>
+3. Lorsque jétais jeune étudiant <br>
+Flirtant avec ma belle,<br>
+On m'entendait prophétisant <br>
+Que je n'aimerais qu'elle.<br>
+<br>
+4. La main posée sur son genou,<br> 
+Débitant des sornettes,<br>
+Prenant, quand j'en venais à bout,<br>
+La poudre d'escampette...<br>
+<br>
+5. Je ne vous parle pas ici <br>
+De tous les clercs, ma chère,<br>
+Mais surtout de ces malappris,<br>
+Ces acteurs de mystères,<br>
+<br>
+Qui jouent à n'importe quel prix.<br>
+<br>
+<i><font size=-1> Traduction Ch. Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>AGAINST THE CLERKS<br>
+<br>
+p. 29</b><br>
+<br>
+1. A year of woe, if there was one<br>
+On this earth of ours ever!<br>
+Shame on all those craftsmen who shun<br>
+Withstanding the clerks' power!<br>
+<br>
+2. In Tregor, there are women who<br>
+Say to their husbands: "Craftsmen<br>
+Some day we will, to replace you,<br>
+Sleep with one of these villains."<br>
+<br>.
+3. When a young student, I did purr <br>
+And meow with my fair mistress.<br>
+I used to prophesy to her<br>
+That my love would be endless;<br>
+<br>
+4. While my hand rested on her knee,<br>
+I was telling her nonsense.<br>
+When the way to her heart was free<br>
+Off I went, meant no offence!<br>
+<br>
+5. I am not talking to you here<br>
+Of the clerks in the stories<br>
+But especially of these mere,<br>
+False actors of mysteries,<br>
+<br>
+Who must needs play these comedies.<br>
+<br>
+<i><font size=-1> Traduction C. Souchon (c) 2020</i></font>
+</td></tr></TABLE><br>
+
+<br>
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top>
+[1]  Les poésies bretonnes surprennent souvent par leur laconisme. Les phrases se suivent dans un enchaînement logique dont tous les maillons ne sont pas toujours égrenés. Dans le cas présent, en supposant que c'est un "clerc" qui parle dès la strophe 1:
+
+<li> Il maudit l'année en cours qui l'a vu être impliqué dans une relation sentimentale qui lui pèse avec la femme d'un artisan. Il en rend ce dernier responsable du fait de sa faiblesse de caractère.
+
+<li> Il avait pourtant l'habitude des amours pour rire dont on s'échappe sans remords.
+
+<li> Il découvre la sincérité de ses sentiments. Finalement, il n'est pas un de ces comédiens superficiels tels que ceux qui jouaient les "mystères". <br>
+<br>
+Si cette interprétation est exacte, la poésie bretonne aurait traité, avant René Clair, le sujet du film: "Les Grandes manoeuvres" (1955), à savoir les "amours sans importance". Le clerc de la gwerz est devenu un jeune lieutenant de cavalerie (Gérard Philipe) et la femme de l'artisan une modiste (Michèle Morgan). Mais il n'y a rien à changer aux paroles de la chanson du film, composées par René Clair lui-même, :<br>
+<i>"On dit "toujours"/ On dit "jamais"/ On dit "Je veux" ou "je promets".../ La belle avance!<br>
+Tous ces beaux serments/ Vois-tu, ça n'a pas cours<br>
+Dans le jeu des amours / Sans importance..."</i><br>
+
+
+<br>
+[2] "Mystères": Ce mot désignait des scènes de l'Ancien et du Nouveau Testament que l'on jouait sur les parvis des églises. Cette tradition va du 12ème au 15ème siècle (où elle laisse la place à la comédie).<br>
+A Paris, ces mystères étaient joués par les "confrères de la Passion" qui étaient des bourgeois et des artisans. Il s'adjoignaient souvent d'autres confréries; notamment, celle des Enfants sans souci, qui représentaient sur la même scène des moralités, des soties ou des farces.
+</td>
+<td width=50% valign=top>
+[1] Breton poems often surprise by their laconism. The sentences follow one another in a logical sequence in which some links are sometimes skipped. In the song at hand, when assuming it is one and the same "clerk" speaking from stanza 1 to stanza 5:
+
+<li> He curses the current year in which he got involved in a strong sentimental relationship with a craftsman's wife. He blames it all on said craftsman on account of his weakness of character.
+
+<li> He was, as yet, used to make-believe loves from which he could escape without remorse.
+
+<li> He discovers the sincerity of his own feelings: All in all he is not one of those superficial comedians who play in  "mysteries" in front of churches.<br>
+<br>
+If this interpretation is correct, Breton poetry would have addressed before René Clair, the subject of the film: "Les Grandes manoeuvres" (1955), namely "unimportant loves". The clerk in the gwerz became a young lieutenant in the cavalry (Gérard Philipe) and the craftsman's wife a milliner (Michèle Morgan). But there is nothing to change in the lyrics of the film's song, composed by René Clair himself,: <br>
+<i> "Always" I say "/  "Never" you say/ "I swear, 'I've got to ..." A fat lot / Of good that's done us! <br>
+All these earnest oaths / You know, they are just loath- <br>
+some in the game of love / That does not matter ... "</i> <br><br>
+
+
+
+
+
+
+[2] "Mysteries": This word refers to scenes from the Old and New Testaments that were performed in front of churches. This tradition went from the 12th to the 15th century (when it gave way to comedy).<br>
+In Paris, these "mysteries" were played by the "Brotherhood of the Passion" consisting of bourgeois and craftsmen. They often hired other brotherhoods; in particular, that of the "Children-without-concern", who represented on the same stage funny plays known as "moralities", "soties" or "farces" (jokes).
+<br>
+</td></table><br>
+<br>
+<img src="grandman.png"><br>
+
+<br>
+<embed src="didoste.mid" height="60" autostart="true"><br>
+<audio src="didoste.mp3" controls> </audio><br>
+<br>
+<a href="contfran.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="yannjane.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+
+<!--
+1. Année de malheur s'il en fut<br>
+Jamais sur la grande planète.<br>
+Honte aux artisans qui n'ont su<br>
+Aux étudiants tenir tête.<br>
+<br>
+2. A leurs artisans de maris<br>
+Dans le Trégor, il est des femmes<br>
+Qui disent vouloir dans leurs lits<br>
+Accueillir ces êtres infâmes<br>.
+<br>
+3. Lorsque jétais jeune étudiant <br>
+Je badinais avec ma belle.<br>
+Et j'allais lui prophétisant <br>
+Que jamais je n'aimerais qu'elle;<br>
+<br>
+4. La main posée sur son genou,<br> 
+Vous lui débitiez des sornettes<br>
+Pour, quand son coeur était à vous,<br>
+Prendre la poudre d'escampette...<br>
+<br>
+5. Je ne vous parle pas ici <br>
+De tous les étudiants, ma chère.<br>
+Mais surtout de ces malappris,<br>
+Soi-disant acteurs de mystères,<br>
+Qui jouent à n'importe quel prix.<br>
+<br>
+1. A year of woe, if there was one<br>
+Ever on this big earth of ours!<br>
+Shame on all those craftsmen who shun<br>
+Withstanding the students' powers.<br>
+<br>
+2. In Tregor, there are women who<br>
+Say to their husbands the craftsmen<br>
+That some day or other they're doomed<br>
+To sleep with one of these villains<br>
+<br>.
+3. When a young student, I did purr <br>
+And meow my fill with my mistress.<br>
+I used to prophesy to her<br>
+That my love was true and endless;<br>
+<br>
+4. While my hand rested on her knee,<br>
+I did not stop telling nonsense.<br>
+When the way to her heart was free<br>
+Off I went and meant no offence!<br>
+<br>
+5. I am not talking to you here<br>
+Of all clerks in our histories,<br>
+But especially of these mere,<br>
+Bogus actors of mysteries,<br>
+<br>
+Who must needs play these comedies.<br>
+<br>
+-->

@@ -1,0 +1,35 @@
+[nerval.jpg]
+faces=rect64(414700e5c1476c4e),f07c858b46a4f025
+backuphash=28434
+[luzel.jpg]
+faces=rect64(13d20000b8face90),4c8718d375ae180f
+backuphash=33018
+[karadzic.jpg]
+faces=rect64(44440d09a0b5697b),d997f3a09f480202
+backuphash=8746
+[briseux.jpg]
+faces=rect64(5c290296f0a38a57),86bc14d67ef95cfd
+backuphash=7139
+[penguer1.jpg]
+faces=rect64(11a80000de74e592),1e650223fa7824c8
+backuphash=1884
+[rossetti.jpg]
+backuphash=755
+[burger.jpg]
+backuphash=44273
+[lepape.jpg]
+faces=rect64(3ced0354b6c8953f),ffffffffffffffff
+backuphash=21738
+[legoff.jpg]
+faces=rect64(47ae1b23af3b978d),ffffffffffffffff
+backuphash=3134
+[amnisti.jpg]
+backuphash=22928
+faces=rect64(42ed131bf0f0b24e),341741bd3b9f283b
+[Contacts2]
+341741bd3b9f283b=Loeiz Herieu;;
+f07c858b46a4f025=Gérard de Nerval;;
+d997f3a09f480202=Vuk Karadzic;;
+[folklor5.jpg]
+backuphash=158
+faces=rect64(5a2051f2b859d03),f07c858b46a4f025

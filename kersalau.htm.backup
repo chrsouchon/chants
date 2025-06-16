@@ -1,0 +1,978 @@
+<HTML>
+<HEAD>
+<TITLE>Kersalaun</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to Kersalaun">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Kersalaun, La Villemarqué, Keransquer">
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>An Aotrou Kersalaün</h1>
+<h2>M. l'Abbé de Kersalaün</h2>
+<h3>The Rev. Parson of Kersalaün</h3>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (pp. 147 / 78) .</h4>
+
+<img src="kersalau.jpg"><br>
+<br>
+<a href="../eideadh.mid">Òran don Èideadh Ghàidhealach</a><br>
+<font size=-1><i>Arrangement Ch. Souchon</i></font><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+<b>A propos de la mélodie:</b><br>
+Remplacée ici par "Òran don Èideadh Ghàidhealach" (Chant du costume des Highlands" qui accompagne le poème homonyme de Duncan Ban McIntyre dans "Orain agus dana Gaidhealach le Donnchadh Bàn Mac an t-Saoir".<br>
+La présente gwerz a été notée deux fois par La Villemarqué: vers 1841, dans la région de Leuhan et le 7 septembre 1863, peut-être dans la même région. Dans cette seconde version, la strophe ajoutée après coup, page 253 "Ar c'hleier...tad ker" est un quatrain de vers de 13 pieds avec une césure après le 8ème pied, forme qui épouse le mieux la logique du texte. Le chant écossais a exactement la même structure (cf. http://chrsouchon.free.fr/jacobe.htm chant d17). <br>
+<br>
+<b>A propos du texte</b><br>
+Ce chant figure 2 fois dans le carnet N°2. La version des pages 147/78  et 148 doit avoir été collectée en 1840 ou 1841 dans la région de Leuhan, comme les chants qui la précèdent et la suivent. Le titre surchargé que la transcription en ligne nous suggère de lire "De Mr. Kersalaün", dirige notre attention vers  le secteur <b>Plonevez-du-Faou - Leuhan - Pleyben</b>, compte tenu des autres occurrences du nom "Kersalaün" dans le carnet N°2:
+<li> Page 3, une note: "Son Margodik  zo bet savet gand Visent ar Bibi à chommé é Gersalaün, é parres Leuchan". (La chanson "Margodic" a été composée par Vincent Fils-de-Pierre qui habitait à Kersalaün en Leuhan.
+<li> Page 38: " Bonaventure ... hérite dun fusil à 2 coups, du comte de Kersalaun; [fusil] laissé dans le chateau de Kersalaun en Leuchan...[Ce]  seigneur [était] «meilleur que celui qui y est maintenant.» 
+<li> Page 46 : "Il y a dans le cimetière de Leuhan une tombe appelée "Bez an Tad mat" (la tombe du Bon père) sur laquelle on vient faire asseoir les enfants malades, simple pierre avec une croix double creusée entourée de leten (?) sans nom.  Cest un Kersalaün peut-être."
+<li> Page 190:  "Ma mère alors s'est dit: / J'irai à Kersalaün,<br>
+Je dois aller à Kersalaün / Parler à ces gens riches."
+
+<li> Page 240 : "M. de Kersalaün a chez lui un paysan de vieille famille, Davy... "<li> Pages 251 - 253, enfin, une autre version de la présente gwerz, intitulée  "Kersalaün (7 septembre 1863)- Variante " avec un ajout au crayon :<b> "L'abbé du Parc"</b>. Cette adjonction s'explique dès la 1ère ligne. La Villemarqué comprend qu'il faut lire ainsi  ("Abad Dupark") les mots <i>"abatu-par"</i> qui sont soulignés  et suivis d'un point d'interrogation.<br>
+Les bases de données généalogiques consultables en ligne ne donnent aucun résultat concluant pour "Kersalaün". En revanche, si l'on entre le nom "Du Parc",  on est dirigé vers un "Noble Rolland-René du Parc de<b> Kerret</b>", né à <b>Guerlesquin</b> en 1698, mort en 1754, (à l'âge de 56 ans!) qui fut recteur de <b>Plounevez-Moëdec</b> de 1730 à 1754. Les toponymes en caractères gras apparaissent dans la dernière strophe (12) de la version 1 où ils ne semblaient pas à leur place.<br>
+La gwerz provient de <b>Plounévez-Moëdec</b> en Trégor (à l'ouest de Belle-Isle-en-Terre). Environ 85 ans après les événements qu'elle décrit on la chantait dans les Montagnes Noires, mais le Plonevez de la chanson était Plonévez-du-Faou et la famille de Kersalaün de Pleyben avait remplacé les Du Parc de Kerret. C'est ce qu'en termes savants on appelle une <b>"gwerz exogène"</b>.
+</td>
+
+<td width=50% valign=top><font size=-1>
+<b>About the tune</b><br>
+Replaced here by "Òran don Èideadh Ghàidhealach" (Song to the Highland Garb "which accompanies the homonymous poem by Duncan Ban McIntyre in" Orain agus dana Gaidhealach the Donnchadh Bàn Mac an t-Saoir ".<br>
+This present gwerz was noted twice by La Villemarqué: around 1841, in the Leuhan area and on September 7, 1863, possibly in the same region. In this second version, an ulterior addition on page 253 "Ar c'hleier ... tad ker" is a quatrain of 13 foot verses with a break after the 8th foot, a form which best accounts for a logical rendering of the text. The above Scottish song has exactly the same structure (cf. http://chrsouchon.free.fr/jacobe.htm : chant d17).<br>
+<br>
+<b>About the lyrics</b><br>
+This song appears twice in La Villemarqué's notebook N ° 2. The version on pages 147 / 78 and 148 should have been collected in 1840 or 1841 in the Leuhan area, like the songs that precede and follow it. The overloaded title which we read "De Mr. Kersalaün",  as suggested by the online transcription, draws  our attention to the area <b> Plonevez-du-Faou - Leuhan - Pleyben </b>, on  account of the many  other occurrences of the name " Kersalaün "in notebook N ° 2:
+<li> Page 3, a note: "Son Margodik zo bet savet gand Visent ar Bibi à chommé é Gersalaün, é parres Leuchan". (The song "Margodic" was composed by Vincent Son-of-Peter who lived in Kersalaün near Leuhan);
+<li> Page 38: "Bonaventure ... inherits a 2-shot rifle from Count Kersalaun which he left in Kersalaun  castle near Leuc'han ... [The] lord [back then was a]" better master than the present one."
+<li> Page 46: "There is in Leuhan churchyard a tomb called" Bez an Tad mat "(the Good Fathers Tomb) on which sick children should sit down, consisting of a simple stone with an edged double cross engraved on it, without a name - Maybe a Kersalaün is buried here."
+<li> Page 190: "My mother then said to herself: / I will go to Kersalaün, <br>
+I have got to go to Kersalaün / And talk to these rich people. "
+<li> Page 240: "Lord Kersalaün employs a peasant named Davy who is the offspring of an old family ..
+<li> Pages 251 - 253: another version of this gwerz, entitled "Kersalaün (September 7, 1863 ) - A Variant" with an addition in pencil: <b>" L'abbé du Parc "</b>. This addition explains the 1st line. La Villemarqué understands that the words <i>"abatu-par"</i>, which are underlined and followed by a question mark should read "Abad Dupark". <br>
+The online genealogical databases give no conclusive result for "Kersalaün". On the other hand, if you enter the name "Du Parc", you are directed to a "Noble Rolland-René du Parc de <b> Kerret </b>", born in <b> Guerlesquin </b> in 1698 , died in 1754, (at the age of 56!) who was the parson of <b> Plounevez-Moëdec </b> from 1730 to 1754. The placenames in bold characters appear in the last stanza (12) of  version 1 where they feel out of place. <br>
+The gwerz comes from <b>Plounévez-Moëdec</b> in Trégor (west of Belle-Isle-en-Terre). About 85 years after the events it describes it was sung in the Black Mountains, but the Plonevez in the song was now Plonévez-du-Faou and the Kersalaün family of Pleyben had replaced the Du Parc de Kerrets. This is what in scholarly terms is called an <b> "exogenous gwerz" </b>.
+
+.
+</td></table>
+
+
+<br>
+<h2> VERSION 1 - notée vers 1841</h2>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>DE Mr KERSALAÜN</b><br>
+<br><font size=-1>
+<b>p. 147 / 78</b><br>
+<br>
+1. Bennozh Doue war an abat, ene an abad<br>
+Zo marv e Plonevez, ha lakaet er vered,<br>
+An abad ne oa ket kozh met avañset en oad,<br>
+Tre daou bloaz hag hanter-kant ne oa ken an abad [1].<br>
+<br>
+2. D'ar pardon Kersalaun, o-deus an dud klevet,<br>
+E oa skoet an abad gant ar c'hleñved<br>
+Met chom a reas d'ar ger, ne yeas ket d'ar pardon,<br>
+Kemen-se a zeblante a oa touchet e galon. [2]<br>
+<br>
+3. Da lar an oferenn eizh eur e ilis Plonevez<br>
+Reiñ ar bennozh d'an holl dud vit ar wech divezañ.<br>
+A-benn daou pe dri devezh eñ lare d'ar c'hure<br>
+Ha d'an aotrou Salomon a oa eno ivez:<br>
+<br>
+4. - Gant Doue, ma breudeur beleien,<br>
+Digas din er memes amzer sakramant an nouenn. -<br>
+Kemer a reas an(ezh)e. gant un <i>uvelded</i> vras<br>
+D'ober amand enorus bouchat da droad ar groaz<br>
+<br>
+5. Kemer a reas an(ezh)e. gant un <i>uvelded</i> vras<br>
+D'ober amand enorus bouchat da droad ar groaz<br>
+Hag unan a oa kaset, un espres a oa kaset [3]<br>
+D'an itron Kersalaun da zont d'ar ger timad. <br>
+<br>
+6. - Hastit, hastit Itron vat, hastit dont d'eñ gwelet<br>
+'vit kimiadañ diganeoc'h abarzh mont d'oc'h ar bed.-<br>
+An itron a Gersalaun 'n'em lakaas da ouelañ<br>
+An abad d'he frealziñ evitañ da vout klañv.<br>
+<br>
+<b>p. 148</b><br>
+<br>
+7. - Tavit Itron, O tavit, tavit, na ouelit! [4]<br>
+An holl a rankomp mervel, ha dilezel ar bed. -<br>
+ A-barzh neuz a wer a oa bet lakaet [5]<br>
+E-barzh ar presbitoer o c'hortoz bout douaret,<br>
+<br>
+8. O c'hortoz e vreur gabiten oa aet e-maez ar vro, [6]<br>
+On a oa e ker a Roazhon, aet oa gant (kalz) ar  [s]tadoù <br>
+Neuze souden a teue, o ya, ne oa ket pell<br>
+D'eñ lakaat da interiñ hag eñ gwisket e gwenn.<br>
+<br>
+9. Na pa eaz kuit ar c'horf, o vont maez an ti<br>
+Kalz a dud da ouelañ, o ya, da ouelañ kriz ;<br>
+Koulskoudé an dud a arme o-deuz kalonoù kriz.<br>
+[Koulskoudé an dud a arme o-deuz kalonoù kriz.]<br>
+<br>
+10. Kriz a vije [er galon, an hini na ouelje]<br>
+Barzh ar veret Plonevez nep a vije,<br>
+O welet ar groaz arc'hant o vonet da heul ar bez,<br>
+Ar veleien a gane, ar c'hleier a vralle;<br>
+<br>
+11. Mar vije gorroet kuit, weler a-zi-a-bell [7]<br>
+Skrivet a oa warne da nep a ouie lenn:<br>
+- Ha c'hwi Aotrou Salomon, c'hwi hoc'h-bet an avantaj<br>
+Da interiñ an abad: pa oa aet, it en e blas!<br>
+<br>
+12. Dudigaik (?)  oa an abad, c'hwi Aotrou ne 'n oc'h ket,<br>
+D'eus ar parez <b>Gwerleskin</b>, d'eus ar vaner <b>Kerred</b>, <br>
+Barzh ar vered Plonevez, e-kichen an nor-tal<br>
+Eo en e chas e repoz hag e ene er c'hloar! [8]<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>M L'ABBE DE KERSALAÜN</b><br>
+<br><font size=-1>
+<b>p. 147 / 78</b><br>
+<br>
+1. La bénédiction de Dieu sur l'âme de l'abbé<br>
+Qui mourut et que l'on mit en terre à Plonevez!<br>
+Sans être vieux, bien que son âge fût avancé,<br>
+Il mourut agé de cinquante-deux ans passés. [1]<br>
+<br>
+2. Au pardon de Kersalaün les gens ont appris,<br>
+Qu'il avait été frappé par quelque mal subit<br>
+Et qu'il restait chez lui, ne viendrait pas au pardon,<br>
+Cela démontrait combien son mal était profond. [2]<br>
+<br>
+3. Il dit la messe de 8 heures à Plonevez<br>
+L'ultime bénédiction à tous il put donner.<br>
+Mais au bout de deux ou trois jours, au vicaire il dit<br>
+Et le seigneur Salomon était présent aussi:<br>
+<br>
+4. - Pour l'amour du Ciel, frères prêtres, faites-moi donc<br>
+Porter - et sans plus attendre - l'extrème-onction! -<br>
+Il la reçut dans l'humilité, fit de surcroît<br>
+Amende honorable en baisant le pied de la croix<br>
+<br>
+5. Il la reçut dans l'humilité, fit de surcroît<br>
+Amende honorable en baisant le pied de la croix.<br>
+A Kersalaün un courrier exprès fut dépêché [3]<br>
+Pour que la dame des lieux vienne sans plus tarder.<br>
+<br>
+6. - Hâtez-vous, hâtez-vous noble dame de venir <br>
+Il veut vous faire ses adieux avant de mourir. -<br>
+La dame de Kersalaün s'était mise à pleurer.<br>
+L'abbé la consola, tout malade qu'il était.<br>
+<br>
+<b>p. 148</b><br>
+<br>
+7. - Madame, consolez-vous, allons, ne pleurez pas [4]<br>
+Tous nous devons mourir, c'est notre sort ici-bas. -<br>
+Dans une vitrine (?) de verre on plaça son corps [5]<br>
+Au presbystère, ne pouvant l'inhumer encor.<br>
+<br>
+8. Sans son frère, un capitaine qui n'était point là [6]<br>
+Mais à Rennes où s'étaient réunis les Etats [de Bretagne].<br>
+Il vint enfin, mais Il s'en fallait de peu vraiment<br>
+Pour qu'on ne l'ait enterré déjà, vêtu de blanc.<br>
+<br>
+9. Et lorsque l'on sortit le corps à l'extérieur <br>
+Tout le monde et le capitaine ont versé des pleurs,<br>
+Bien que les hommes d'armes aient le coeur endurci.<br>
+[Bien que les hommes d'armes aient le coeur endurci.]<br>
+<br>
+10. Ah, bien cruel [le coeur de quiconque étant allé]<br>
+Au cimetière de Plonevez, quel qu'il fût, n'eût pleuré<br>
+En voyant la croix d'argent dominant le tombeau,<br>
+Les prêtres qui chantaient, les cloches sonnant bien haut;<br>
+<br>
+11.  Tous verraient de loin, les eût-on enlevées plus tôt [7]<br>
+Ecrits dessus pour ceux qui savent lire ces mots.<br>
+- Monsieur Salomon, c'est donc à vous que revient l'avantage<br>
+D'enterrer l'abbé: prenez sa place sans ambages!<br>
+<br>
+12. L'abbé vivait à aise (?). Mais vous ne l'êtes point,<br>
+Prêtres du manoir de <b>Kerret</b> ou de <b>Guerlesquin</b><br>
+ Au cimetière de Plonevez, finit l'histoire:<br>
+Il repose en sa chasse et son âme dans la gloire! [8]<br>
+<br>
+<i><font size=-2>Traduction Christian Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>REV. PARSON of KERSALAÜN</b><br>
+<br><font size=-1>
+<b>p. 147 / 78</b><br>
+<br>
+1. The blessing of God be on the soul of the abbot <br>
+Who died in Plonevez, and was buried in the cemetery <br>
+The abbot, without being very old, was not young, <br>
+He died in his fifty-second year. [1]<br>
+<br>
+2. At the Kersalaün "Pardon" feast people have heard <br>
+That the abbot had been struck by disease. <br>
+And that he would stay at home and not come to the feast, <br>
+And it was a heartbreak for him. [2]<br>
+<br>
+3. He would say the 8 o'clock mass in the church of Plonevez <br>
+And give everyone the blessing for the last time. <br>
+After two or three days, he said to the curate <br>
+And to Sir Solomon who was there too: <br>
+<br>
+4. - With the body of our Lord, my brethren, <br>
+Let me have the Last Anointing at the same time. <br>
+He received them with great humility <br>
+To make amends, he kissed the foot of the cross <br>
+<br>
+5. He received them with great humility <br>
+To make amends, he kissed the foot of the cross <br>
+Now an expressman was sent with the message [3]<br>
+For the Lady of Kersalaün that she had to come immediately. <br>
+<br>
+6. - Hasten, hasten noble lady to come and see him <br>
+Who wants to say goodbye to you on leaving this world.<br>
+The Lady of Kersalaün started to cry on seeing him <br>
+But he endeavoured to console her, though he was the sick one. <br>
+<br>
+<b>p. 148</b><br>
+<br>
+7. - Be quiet, Lady, don't cry  [4]<br>
+We all have to die and leave this world. - <br>
+In a glass case they laid his body [5]<br>
+In the presbytery in wait to be buried, <br>
+<br>
+8. Waiting for his brother, a captain to come [6]<br>
+Who had left for Rennes city summoned to the States [of Brittany]. <br>
+At last he came. It wouldn't have taken much for them<br>
+To have buried him, as they had already clad him in white. <br>
+<br>
+9. And when they took the body outside the house <br>
+All  started crying, crying bitterly, <br>
+Although they were men-at-arms with hardened hearts. <br>
+[Although they were men-at-arms with hardened hearts.]<br>
+<br>
+10. Cruel the heart that would not have cried <br>
+At the Plonevez cemetery, whoever he was,<br>
+Seeing the silver cross placed near the grave, <br>
+Hearing the singing priests, the ringing bells; <br>
+<br>
+11. Had the bells been removed, all would have seen from afar, <br>
+Written on them for all who can to read. [7]<br>
+- Reverend Solomon, enjoy the advantage <br>
+Of burying the abbot. He's gone you take his place. -<br>
+<br>
+12. The abbot was in easy circumstances (?) here, unlike you<br>
+Who come from parish <b>Guerlesquin</b>, or <b>Kerret</b> manor! - <br>
+In the Plonevez cemetery, near the portal<br>
+He rests in his shrine and his soul in glory! [8]<br>
+<br>
+<i><font size=-2></i></font><br>
+</td></tr></TABLE><br>
+<br>
+<h2> VERSION 2 - notée en 1863</h2>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>ABBAD KERSALAUN (7 septembre 1863)</b><br>
+<br><font size=-1>
+<b>p. 251</b><br>
+<br>
+Variante - <i>Abbé du Parc</i><br>
+<br>
+0. Klevet ho-peuz aliez komz d'eus  Abad Dupar<br>
+A oa person e Plonevez pa oa war an douar?<br>
+<br>
+1. Mez marv hag interet e bered Plonevez<br>
+Gant Doue, hag egistañ, baradoz d'hon ene!<br>
+An abad ne oa ket kozh  met brevet gant ar mad<br>
+Pevar bloaz hag hanter-kant, ne oa ken an abad, [1]<br>
+<br>
+2. Pa oa skoet an abad da gentañ gant kleñved,<br>
+Oa  Pardon St Salaün, 'vit ma intentfet.<br>
+Mez chomet e oa er ger, oa ket deuet d'ar pardon,<br>
+Kement-se a ziskoueze oa skoet e galon : [2]<br>
+<br>
+3.1. Lavar an oferenn eizh eur e iliz Plonevez<br>
+3.4. Nag an aotrou Salaun (Salomon) a oa eno ivez :<br>
+3.3. 'Benn eur pennadig goude lavarez d'e gure:<br>
+4.1. Digasit din sakramant anaon, ma Doue."<br>
+<br>
+"Digasit din, ma Breur ker, sakramant an nouenn,.<br>
+4.a. (Salomon,) n'on ket evit echuiñ, hirio va oferenn".<br>
+<br>
+<b>p. 252</b><br>
+<br>
+4.3. Degemer reas an den gant ur uveldet vraz,<br>
+Hag en ur stouiñ e benn, bouchet da droad ar groaz,<br>
+<br>
+5.a. Hag en eur stouiñ e benn war diri an aoter,<br>
+Hag a-hed e gorf eno, gwisket e zilhad kaer.<br>
+5.3. Benn ur pennadig goude e oa kaset un espres, [3]<br>
+Da vaner Kersalaun a c'herc'h d'an itron gaezh. [4]<br>
+<br>
+6.a. ( 'Ma o vont kuit ho preur ker, itron, deuit!)<br>
+6.1. Da lavar dezhi : « Deuit buhan, itron kaezh, d'her gwelet,<br>
+Ma kimiadfe ouzhoc'h 'benn mont diwar ar bed ; (x)<br>
+(x) An itron p'he-deus (klevet) gwelet, n'em lakaas da ouelañ :<br>
+An abad he c'honforte 'vitañ da vezañ klañv:<br>
+<br>
+7. - Tavit, ma c'hoar, emezañ, tavit, na ouelit ket <br>
+Rak holl e renkomp mervel ha dilezel ar bed .<br>
+<br>
+7.a. Ya, holl e renkomp mervel ha dilezel ar bed-mañ<br>
+Pa zeuy Doue d'hor gervel 'benn en ne-meur amañ<br>
+. ... renkomp laouen gantañ! -<br>
+10. <strike> [Kriz a vije ar galon daoulagad na ouelje<br>
+Barzh e bered Plonevez an deiz neb a vije.]</strike><br>
+<br>
+7.3.  Benn tri devezh war nugent e oa bet kempennet, <i>(embaumé)</i><br>
+Ar c'horf barzh ar presbital c'hortoz, o vezañ nouet, [5]<br>
+<br>
+8.1. C'hortoz e vreur Salaün oa aet e-maez ar vro,<br>
+Oa aet da ger a Roazhon, aet oa (gant kalz) d'ar Stadoù :[6]<br>
+<br>
+9. Pa zeuas ar c'horfad paour e-maez dimeus ar porzh<br>
+Holl 'n'em lakont da grial, oh ya, da grial forzh,<br>
+<br>
+<b>p. 253</b><br>
+<br>
+Koulskoude an dud-arme o-deus kalonoù kriz,<br>
+Holl 'n'em lakais da loskel un herrad hag ur c'hriz,<br>
+<br>
+10. Kriz a vije er galon, daoulagad na ouelje,<br>
+E_barzh e bered (<strike>iliz</strike>) Plonevez an deiz-lid a vije.<br>
+O welet ar groaz arc'hant 'vont he- unan d'ar bez,<br>
+Ar veleien a gane (ouele), ar c'hleier a vralle,<br>
+<br>
+11.a. Na vrallañ 'rae ar c'hleier, na vrallañ raent uhel,<br>
+11.1. Kement ma vijent klevet demeus a zi-a-bell (1)<br>
+(1)  Ar c'hleier a lavare, da nep ' halle kompren : [7]<br>
+"Setu marv ur beleg, ur c'hristen, mat a zen,<br>
+<br>
+12.a. Un den a vrud hag a stud, a gare <b>Yann Kouer</b>,<br>
+N'eus hini e Plonevez na ra kañv d'un tad ker."<br>
+12.2. Barzh e bered Plonevez, e kichen an nor-tal<br>
+Ema e gorf o kousket hag e ene er c'hloar. [8] [9] [10]<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br><center>
+<center><b>L'abbé de KERSALAUN (7 septembre 1863)</b></center>
+<br><font size=-1>
+<b>p. 251</b><br>
+<br>
+Variante <br>
+<br>
+0. De cet Abbé du Parc vous a-t-on souvent parlé?<br>
+Quand il fut sur terre, il fut recteur de Plonevez.<br>
+<br>
+1. Mort, c'est au cimetière de Plonevez qu'il git<br>
+Dieu garde nos âmes et la sienne au paradis!<br>
+L'abbé n'était pas très vieux, mais il fit tant de bien<br>
+Qu'à cinquante-quatre ans il mourut d'un mal soudain. [1]<br>
+<br>
+2.  La première fois qu'il fut terrassé par ce mal,<br>
+Avait lieu le pardon de St Salaün: jour fatal:<br>
+Il était resté chez lui; sans aller au pardon,<br>
+C'est dire comme il était atteint d'un mal profond : [2]<br>
+<br>
+3.1. A la messe basse en l'église de Plonevez<br>
+3.4. A laquelle le seigneur Salomon assistait,<br>
+3.3. A son vicaire il disait après cette émotion<br>
+4.1. "Apportez-moi, mon bien cher frère, l'extrème-onction,.<br>
+<br>
+Apportez-moi l'extrème-onction, pour l'amour de Dieu<br>
+4.a. Terminer ma messe hélas, aujourd'hui je ne peux".<br>
+<br>
+<b>p. 252</b><br>
+<br>
+4.3.  Il reçut le sacrement avec humilité:<br>
+Le pied de la croix, baissant la tête, il embrassait.<br>
+<br>
+5.a. S'inclinant jusqu'à toucher les marches de l'autel,<br>
+Il gisait de tout son long dans l'habit solennel.<br>
+5.3. Sur ce, de toute urgence l'on envoya quelqu'un [3]<br>
+Quérir la pauvre dame du manoir de Kersalaün [4]<br>
+<br>
+6.a. (- Votre frère va trépasser, Madame, venez!)<br>
+6.1. Lui dit-on: « Venez vite, pauvre dame, il voudrait,<br>
+Avant de quitter ce monde, de vous prendre congé (x)<br>
+(x)  En entendant cela, cette dame sanglota<br>
+ Et bien qu'il fût malade, l'abbé la consola,:<br>
+<br>
+7. - Du calme, ma soeur, disait-il, cessez de gémir!<br>
+Tous nous devons quitter ce monde, devons mourir.<br>
+<br>
+7.a. Oui, de ce monde un jour, tous il nous faudra partir<br>
+Quand Dieu vient nous appeler, qu'il faut partir d'ici<br>
+[Quand Dieu nous appelle,] il nous faut Le suivre réjouis! -<br>
+10. <strike>[Cruels, combien cruels les yeux qui n'eussent pleuré<br>
+ Quels qu'ils fussent, au cimetière de Plonevez].</strike><br>
+<br>
+7.3. On conserva jusqu'à vingt-trois jours après la mort<i>(embaumé)</i><br>
+Muni de l'extème-onction à la cure le corps: [5]<br>
+<br>
+8.1. Jusqu'au retour de son frère, Salaün, parti.<br>
+Pour Rennes participer aux Etats du pays [de Bretagne]. [6]<br>
+<br>
+9. Quand le pauvre corps embaumé sorti de la cour<br>
+Tous se mirent à gémir et pleurer sans détour,<br>
+<br>
+<b>p. 253</b><br>
+<br>
+Bien que les hommes d'armes aient le coeur endurci,<br>
+Tous se mirent à pousser des soupirs et des cris<br>
+<br>
+10. Quel coeur cruel eût eu celui qui n'eût point pleuré,<br>
+En ce grand jour au cimetière <strike>(à l'église)</strike> de Plonevez,<br>
+Voyant vers la tombe la croix d'argent s'avancer.<br>
+Tandis que le prêtres chantaient (pleuraient), les cloches sonnaient,<br>
+<br>
+11a. Comme elles sonnaient ces cloches, sonnaient haut et fort,<br>
+11.1. Afin que leur chant soit entendu loin au dehors(1)<br>
+(1) A qui pouvait le comprendre, les cloches disaient : [7]<br>
+"Un prêtre, chrétien, homme de bien est décédé! <br>
+<br>
+12.a. Célèbre et savant, et ami de <b>Jean Paysan</b>,<br>
+En lui, nul à Plonevez qui ne pleure un parent."<br>
+12.2. Au cimetière de Plonevez, près du portail<br>
+Son corps dort et son âme exulte au divin bercail. [8] [9] [10]<br>
+<br>
+<i><font size=-2>Traduction Christian Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>The parson of  KERSALAÜN (7 September 1863)</b><br>
+<br><font size=-1>
+<b>p. 251</b><br>
+<br>
+A variant <br>
+<br>
+0. You often heard of  Abbé du Parc<br>
+Who was parson of Plonevez when he was on earth.<br>
+<br>
+1. But he died and was buried in Plonevez cemetery<br>
+May God, as for him, open paradise to our souls!<br>
+The abbot was not old, but his benevolence told hard on him<br>
+The abbot was only fifty-four years old, [1]<br>
+<br>
+2. The first time he was stricken by disease,<br>
+It was on St Salaün's "pardon" day, as you will understand:<br>
+He stayed at home, could not attend the celebration<br>
+This shows you that he was stricken to the heart. [2]<br>
+<br>
+3.1. He was saying 8 o'clock mass at Plonevez church<br>
+3.4. Which Sir Solomon attended:<br>
+3.3. A moment later he said to his vicar:<br>
+4.1. "Bring me, my dear brother, the Last Anointing oil <br>,.
+<br>
+Bring me the Last Anointing, for God's sake<br>
+4.a. (Salomon) I will not be able to finish my mass today. "<br>
+<br>
+<b> p. 252 </b> <br>
+<br>
+4.3.. He received the sacrament with great humility, <br>
+And bowing his head, he kissed the foot of the cross, <br>
+<br>
+5.a. He bowed his head until he touched the steps of the altar, <br>
+Where he was lying full length in his beautiful chasuble. <br>
+5.3. Shortly after, they sent an expressman [3]<br>
+To Kersalün mansion to call on the unhappy lady to come. [4] <br>
+<br>
+6.a. - (Your dear brother is about to pass away, Madam, come), <br>
+6.1. She was told, "Come quickly, my Lady, to see him, <br>
+That he may tell you farewell on leaving this world; (x) <br>
+(x) On hearing this, the lady began to cry: <br>
+It was the abbot who consoled her, though he was sick: <br>
+<br>
+7. - Be quiet, my sister, he said, stop crying! <br>
+All of us must die and leave this world. <br>
+<br>
+7.a. Yes, we all have to die and leave this world <br>
+When God comes to call us, we have to leave from here <br>
+[When God calls us,] let us obey in joy! - <br>
+10. <strike>[Cruel eyes that would not have cried <br>
+At the Plonevez cemetery that day, whoever they were].</strike><br>
+<br>
+7.3. Up to twenty-three days he remained embalmed <br>
+ In the presbytery, provided with the anointing sacrament: [5]<br>
+<br>
+8.1. Waiting for his brother, Salaün, who was not in the country. <br>
+He had left for Rennes to attend a meeting of the States of Brittany: [6] <br>
+<br>
+9. When the dear embalmed body came out of the yard <br>
+16.2. They all started shouting, oh yes, shouting loudly, <br>
+<br>
+<b> p. 253 </b> <br>
+<br>
+All cried out in pain and lamented, <br>
+Though these men-at-arms had hardened hearts, <br>
+<br>
+10. How cruel-hearted would have been whoever had not wept, <br>
+In Plonevez churchyard (church) on this solemn day. <br>
+Seeing the silver cross advancing, ahead of all, towards the grave, <br>
+While priests were singing (crying), and bells ringing, <br>
+<br>
+11.a. As they rang these bells, as they rang loudly, <br>
+11.1. So that one could hear them from afar (1) <br>
+(1) The bells said to who could understand: [7]<br>
+"Behold, a priest, a Christian, a good man who died, <br>
+<br>
+12a. A renowned and learned man he was and a friend to <b>"Farmer John"</b>, <br>
+No one in Plonevez who did not mourn him as he would a father. "<br>
+In Plonevez churchyard, near the porch <br>
+His body rests and his soul is in glory.[8] [9] [10] <br>
+<br>
+<i><font size=-2></i></font><br>
+</td></tr></TABLE><br>
+<br>
+
+
+
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] Les registres paroissiaux de Plounévez-Moëdec mis en ligne par les Archives départementales des Côtes d'Armor donnent l'information suivante à la date du 27 novembre 1754 (cf. illustration ci-après):<br>
+"Noble et discret messire <b>Rolland René Duparc</b>, en son vivant recteur
+de cette paroisse de Plounevez-Moëdec, âgé denviron <b>cinquante sept ans</b>, décédé d<b>hier</b> en son manoir presbytéral muni de tous les sacrements, le lendemain vingt sept novembre mil sept cent cinquante quatre, a été inhumé dans le cimetière dudit Plounevez comme il lavait requis de
+son vivant. Ses obsèques faites par noble messire René Charles du Garzpern,
+recteur de Plougonver, en présence de messire René François Duparc,
+Chevalier seigneur de Kerret, écuyer Louis et Alexandre Henry seigneur de
+Porsanparc et des autres soussignants."<br>
+Les 2 variantes indiquent des âges proches de la réalité: 52 et 54 ans.<br>
+Par ailleurs, le site "Infobretagne"  (http://www.infobretagne.com/plounevez-moedec.htm) nous apprend que le Noble Rolland-René du Parc de Kerret  fut recteur de la paroisse de Plounévez-Moëdec de 1730 à 1754.<br>
+<br>
+[2] L'Abbé Du Parc, selon les 2 variantes, a été victime d'une attaque ou d'un malaise cardiaque, alors qu'il disait une messe basse en présence du seigneur du lieu (un Euzenou de Kersalaün), le jour du pardon de Saint-Salaün (Salomon), sans doute dans l'esprit de la gwerz locale, le pardon en la chapelle Saint-Salomon de Plouyé, le 10 juin, qui comporte une messe suivie d'une bénédiction des chevaux (Pardon ar C'hezeg) et, bien sûr, d'un repas champêtre.<br> 
+La gwerz d'origine envisageait sans doute une autre fête. <br>
+A Plonevez-du-Faou dont l'église paroissiale est placée sous l'invocation de Saint-Pierre apôtre, le pardon de la paroisse a lieu le second dimanche·du 
+mois d'août, à l'occasion de la fête de.saint Pierre-ès-Liens. Les deux versions précisent bien que le pardon de Kersalaün n'a pas lieu dans cette église.<br>
+<br>
+[3] La séquence du messager qu'on envoie en toute hâte porter une lettre est une des figures qu'affectionnent les gwerzioù. Mais on ne peut qu'être intrigué par la formule utilisée ici: "e oa kaset un <b>espres</b>", "on envoya un exprès". Le dictionnaire du Père Grégoire de Rostrenen (1732), montre que ce mot désignait un messager en français: "Exprès: celui qu'on envoie expressément", mais donne le mot breton usuel "Kannad".<br>
+<br>
+[4] La dame du manoir de Kersalaün qu'on envoie quérir est appelée par l'abbé "ma soeur" dans la version 2 uniquement . Le site "Généanet" indique que Rolland-René du Parc eut <b>2 soeurs</b>, Jeanne-Marguerite, née en 1710 et Isabelle Corentine née et décédée en 1713. On ne sait rien de plus à leur sujet.<br>
+<br>
+[5] Dans la version 1, le 3ème vers de la strophe 7 est difficilement lisible. On lit, semble-t-il "a-barzh neuz a wer" où "neuz" veut dire "apparence, allure, aspect" et le reste de la phrase signifie "Il fut mis dans un... de verre". Peut-être s'agit-il d'un cercueil avec un couvercle pourvu d'une vitre. On est étonné  par le délai de 23 jours qui, dans la version 2, s'écoule entre le décès et l'inhumation, en attendant l'arrivée du frère capitaine. La Villemarqué a écrit à la suite du vers 7.3 le mot <b>"embaumé"</b> pour traduire "kempennet" qui signifie d'ordinaire "arrangé". Il est vrai que, selon Wikipédia, <i>"L'embaumement semble, en Europe, n'avoir été que rarement utilisé, par exemple pour le rapatriement des corps de croisés morts loin de chez eux. Des anatomistes de la Renaissance s'y sont essayés pour conserver leurs spécimens"</i>. Mais il faut attendre 1837 pour que soit déposé un premier procédé efficace  d'embaument.<br>
+<br>
+[6] Rolland-René du Parc avait plusieurs frères: François-René (1696-1773), Etienne-Marie (1704-?) et <b>Jean-Baptiste</b> (1707 - ?). L'ouvrage "Recherches sur les Etats de Bretagne", mis en ligne sur le site "Internet archive" nous apprend que ce dernier était délégué de l''Evêché de Tréguier à la tenue des Etats de 1730.<br>
+Les registres paroissiaux de Plounévez précisent que ce personnage mourut en 1766, qu'il avait été capitaine au régiment de Brie, (un régiment d'infanterie créé en 1684) et qu'on lui avait décerné l'ordre royal et militaire de Saint-Louis créé en1693 pour récompenser les officiers catholiques et de bonne noblesse les plus valeureux ayant au moins 10 ans de service.<br>
+<br>
+[7] <b>"Mar vije gorroet kuit"</b>, "si on les avait enlevées", (str. 7) en parlant des cloches de Plonevez-du -Faou, fait allusion à un épisode de l'époque révolutionnaire. La chapelle Saint Herbot possède une grande tour de 8 m de côté et 30 m de hauteur ornée d'un portail dont le tympan montre Saint Herbot portant une longue barbe frisée et où l'on peut lire la date de fondation de ladite tour: 1516.<br>
+"Une belle cloche ornait ce beffroi. Le 10 prairial an II (29 mai 1794) elle fut descendue et on dut la briser pour la faire sortir de la chapelle. A cause de ses grandes dimensions, avant d'être placée dans la tour, elle avait été fondue dans la chapelle même".(Chanoine Pérennès, "Plounevez-du-Faou, Monographie de la Paroisse", Rennes, Imprimerie bretonne, 1942).<br>
+<br>
+[8] <b>"Yann Kouer"</b> (Jean Paysan) dans la version 2 évoque la participation des  habitants de Plonévez-du-Faou à la Révolte des Bonnets Rouges de 1675, au cours de laquelle ceux-ci, y compris leurs six ou sept prêtres, mirent à sac le château de Kergoët en Saint-Hernin.<br>
+En revanche Guerlesquin et Kerret dans la version 1 et le nom de l'Abbé Du Parc, cité au début de la version 2 nous transportent à Plounévez-Moëdec en Trégor, le pays du folkloriste F-M. Luzel.<br>
+<br>
+[9] <b>2 versions "endogènes"</b><br>
+Luzel a recueilli en septembre 1849 auprès de Jeanne Le Gall, servante à Keranborn en Plouaret une gwerz de 45 vers intitulée "Abbad Plonevez". Une autre version de cette gwerz, de 42 vers seulement, intitulée "Abbet Duparc" figure, avec la mélodie, dans un "Cahier de 37 chansons" copiées par Yves Le Masson, né en 1871, fils de Louis, sacristain de Plounévez-Moëdec. <br>
+Le premier document est inclus dans le manuscrit Ms 1020, cahier 4 des "Chansons populaires de Basse-Bretagne recueillies par Luzel" conservé à la Bibliothèque de Rennes Métropole.<br>
+Le second fait partie du "Fonds Donatien Laurent" de l'université de Bretagne occidentale-CRBC, col.26-34. <br>  
+Cette gwerz "endogène" répond à la plupart des questions soulevées par la version "exogène" recueillie tout d'abord par La Villemarqué:
+<li> Le pardon de la strophe 2, auquel le recteur frappé par une attaque ne put assister, est celui de <b>Kerdelahaye</b> en Plounévez, une chapelle aujourd'hui disparue et il avait lieu le 15 août. La gwerz cite le vicaire Yves Le Bon qui tenait les registres paroissiaux évoqués plus haut: c'est lui qui administra ce jour-là les derniers sacrements au Recteur.
+<li> Huit jours avant sa mort ( donc le 18 novembre), le recteur envoya un message à la dame du manoir de Kerdelahaye. Ce n'était pas sa soeur. Elle s'appelait <b>Jeanne de Launay de Kerespres</b> (d'où le mot "espres",strophe 5!). La version Luzel ajoute que le recteur fit également venir ses soeurs.
+<li> C'est Jean-Baptiste du Parc de Kerret qui fit enterrer son frère <b>vêtu de blanc</b> (Le Masson), détail conservé dans la gwerz de Cornouaille, strophe 8.  
+<li> L'enterrement eut lieu un dimanche à midi affirme la version Luzel, contredisant en cela les archives. En effet le 27 novembre 1754 était un mercredi. Les registres paroissiaux affirment que les obsèques furent célébrées le <b>lendemain du décès</b>. La gwerz trégoroise (Le Masson) nous apprend que le recteur était alité lorsqu'il envoya prévenir de son décès imminent son frère qui était aux Etats de Bretagne à Rennes. La distance Plounevez-Rennes est de 140 km, distance que le messager et le capitaine ont dû parcourir tour à tour à une vitesse moyenne de 9 à 10 km/h. Bref, il s'est écoulé certainement bien plus de 24 heures entre le départ du messager et l'arrivée du capitaine au chevet de son frère. La version cornouaillaise considère que la mort du prêtre fut bien antérieure au retour de son frère et qu'elle nécessita même l'embaumement du corps pendant 23 jours (str. 7.3, version 2). La distance Plonévez-du-Faou - Rennes est proche de 170 km.
+
+<li> Les gwerzioù endogènes divergent quant au <b>nom du prêtre qui célébra l'enterrement</b> Louis Thomin, recteur de Trégrom pour l'une (Le Masson), Yves Le Bon, le vicaire de Plounévez pour l'autre (Luzel). Les archives paroissiales nous apprennent que c'est ce dernier qui signa l'acte de décès, mais que le premier hérita de la charge de recteur de Plounévez-Moëdec jusqu'en1768
+<li> Les perfides remarques, version 1 strophes 11 et 12, au sujet des <b>revenus comparés des paroisses</b> de Plonevez (dont hérite monsieur Salomon), Guerlesquin et Kerret fait écho à des remarques similaires dans les deux variantes de la gwerz d'origine, si ce n'est que le nom de l'heureux gagnant est Pierre le Bouëtté (appelé Yann Ar Poeto) chez Luzel et, ce qui est conforme à la réalité, Louis Thomin, chez Le Masson. Les deux versions se livrent à une estimation du traitement du recteur: la paroisse vaut 500 écus et le revenu ("kazuel" ou "gajoù") est de 200 écus dans l'une, 300 écus dans l'autre!
+<li> Enfin l'édifiante épitaphe n'est pas proclamée par les cloches comme à la strophe 11 de la version 2 , mais plus classiquement gravée sur la tombe, ici aussi à l'intention de ceux qui savent lire. C'est du moins ce que dit la version Luzel. Celle de Le Masson évoque aussi, semble-t-il, les <b>cloches disparues</b> pendant la Révolution: <br>
+<i>E Plonevez zo un tour war an uhel/ Market war ar "code civil" a weler a ziabell<br>
+A Plounévez une tour s'élève vers le ciel / Elle est marquée par le code civil. Cela se voit de loin.</i><br>
+La carte postale ancienne ci-dessous représente la chapelle de Keramanac'h et son clocher-mur à 3 chambres de cloches dont deux sont vides. <br>
+<br>
+[10] <b>Apparentement</b>: Ce chant qui décrit la mort d'une personnalité locale s'apparente à la gwerz du Barzhaz de 1839, <a href="../nevetf.htm">Elégie de M. de Nevet</a>, en ce qu'il parle de la mort donnée en spectacle et décrit avec sympathie le décès d'un prélat d'origine aristocratique.<br>
+Malgré la similitude de titre, il n'y a pas lieu de le rapprocher de <a href="persbann.htm">L'abbé de Plounévez</a> publié par Luzel dans "Soniou" ; tome II, p. 146, qui relève non pas de l'élégie, mais du persiflage. 
+</td>
+<td width=50% valign=top><font size=-1>
+[1] The parish registers of Plounévez-Moëdec put online by the Departmental Archives of Côtes d'Armor give the following information, dated November 27, 1754 (see illustration below):<br>
+"Noble and discreet Reverend <b>Rolland-René Duparc</b>, in his life time parson of this parish Plounevez-Moëdec, aged about <b>fifty seven years</b>, who died yesterday in his presbytery manor, fortified with the rites of the Church, was the next day, the twenty-seventh of November seven-hundred and fifty-four, buried in the cemetery of said Plounevez, as he had required during his lifetime. His funeral made by Noble Sir René Charles du Garzpern, Parson of Plougonver, in the presence of Knight René François Duparc, Lord of Kerret, Louis and Alexandre Henry Lord of Porsanparc Esq. and the other gentlemen undersigned. "<br>
+The 2 variants indicate ages close to reality: 52 and 54 years.<br>
+In addition, the site "Infobretagne" (http://www.infobretagne.com/plounevez-moedec.htm) confirms that the Noble Rolland-René du Parc de Kerret was parson of the parish Plounévez-Moëdec from 1730 to 1754,<br>
+<br>
+[2] The Abbé Du Parc, according to the 2 variants, fell victim to a heart stroke or sudden disease, while he was saying a low mass in the presence of the lord of the place (an Euzenou de Kersalaün), on Saint-Salaün (Solomon)'s "Pardon" day, very likely understood by the Quimper area gwerz, as the "Pardon" feast celebrated in Plouyé's Saint-Salomon chapel, on June 10th, including a mass followed by a blessing of horses (Pardon ar C'hezeg) and, of course, a country meal.<br>
+We may assume that in the original gwerz another "Pardon" was meant.<br>
+In Plonevez-du-Faou whose parish church is placed under the invocation of Saint Peter the Apostle, the Pardon of the parish takes place on the second Sunday of August, on the occasion of the feast of Saint Peter in Chains. We definitely infer from both versions that Kersalaün's Pardon does not take place in this church.<br>
+<br>
+[3] The figure of the nimble messenger sent in a hurry to forward a letter is one of the clichés traditional gwerzioù are fond of. But the word used here: "e oa kaset un <b>espres</b>", "they sent an expressman" is puzzling. Father Grégoire of Rostrenen's dictionary (1732) states that the word did apply to a messenger in French: "Express: the one who is sent expressly", but also gives the usual Breton word: "Kannad".<br>
+<br>
+[4] The lady of Kersalaün manor who is asked to come is called by the parson "my sister" in version 2 only. The "Généanet" website states that Rolland-René du Parc had <b>two sisters</b>, Jeanne-Marguerite, born in 1710 and Isabelle Corentine born and died in 1713. Nothing more is known about them.<br>
+<br>
+[5] In version 1, the third line of stanza 7 is almost illegible. It reads possibly: "a-barzh neuz a wer" where "neuz" means "appearance, look, aspect" and the rest of the sentence means "He was laid in a glass...". Perhaps a coffin with a glass window cover is meant. We are puzzled by the 23-day delay which, in version 2, elapses between the death and the burial, pending the arrival of the brother captain. La Villemarque added after verse 7.3 the word <b>"embalmed"</b> to translate "kempennet" which usually means "arranged". In fact, according to Wikipedia, <i>"Embalming seems, in Europe, to have been used only rarely, for example for the repatriation of bodies of crusaders who died far from home. Renaissance anatomists have tried to use it to keep their specimens."</i>  But it was not until 1837 that a first patent for an effective embalming process was registered.<br>
+<br>
+[6] Rev. Rolland-René du Parc had several brothers: François-René (1696-1773), Etienne-Marie (1704-?) and <b>Jean-Baptiste</b> (1707 -?). The survey "Research on the States of Brittany", put on line on the website "Internet archive" states that the latter was delegated by the Bishopric of Tréguier to the 1730 session of the Estates of Brittany. 
+The parish registers of Plounévez specify that this gentleman died in 1766, that he had been captain in the regiment of Brie (an infantry regiment created in 1684) and that he had been awarded the Royal and Military Order of Saint-Louis created in 1693 to reward the most valiant Catholic officers of the nobility with at least 10 years of service in the armed forces.<br>
+<br>
+[7] <b>"Mar vije gorroet kuit"</b>, "if we had lifted them off", (str. 7) applying to the bells of Plonevez-du-Faou, alludes to an episode from the revolutionary era. The Saint Herbot chapel has a large tower (8 m broad and 30 m high), adorned with a portal whose tympanum displays Saint Herbot wearing a long curly beard and a banderole with the date of foundation of said tower: 1516 .<br>
+"A beautiful bell hung in this belfry. On 10 Prairial year II (May 29, 1794) it was lowered and had to be broken in several pieces to get it out of the chapel. Because of its large dimensions, when it was hung in the tower, it had been melted in the chapel itself ". (Chanoine Pérennès," Plounevez-du -Faou, Monographie de la Paroisse ", Rennes, Imprimerie bretonne, 1942).<br>
+<br>
+[8] <b>"Yann Kouer"</b> (Jean Paysan) in version 2 evokes the part played by the inhabitants of Plonévez-du-Faou in the "Red Bonnet Revolt" of 1675, during which they, including their six or seven priests, sacked the castle of Kergoët in Saint-Hernin.<br>
+On the other hand, the placenames Guerlesquin and Kerret in version 1 and the name Abbé Du Parc quoted in version 2 definitely point to Plounévez-Moëdec in Trégor, the homeland of folklorist F-M. Luzel.<br>
+<br>
+
+[9] <b>2 "endogenous" versions</b><br>
+Luzel collected in September 1849 from the singing of Jeanne Le Gall, a  maidservant at Keranborn near Plouaret, a gwerz of 45 verses titled "Abbad Plonevez". Another version of this gwerz, of only 42 verses, titled "Abbet Duparc" appears with the tune to it, in a "Notebook of 37 songs" copied by Yves Le Masson, born in 1871, son of Louis, sacristan of Plounévez-Moëdec church.<br>
+The former document is included in the manuscript Ms 1020, 4th part of "Popular songs of Lower Brittany collected by Luzel" kept at the Rennes-Métropole Library.<br>
+The latter is part of the "Donatien Laurent fund" of the University of Western Brittany-CRBC, col. 26-34.<br>
+This "endogenous" gwerz answers most of the questions raised by the "exogenous", first collected version for which we are endebted to La Villemarqué:
+<li>The "Pardon" in stanza 2, which the parson, due to a stroke, could not attend, is that of <b>Kerdelahaye</b> near Plounévez, a now disappeared chapel, and it took place on August 15. The gwerz mentions the curate Yves Le Bon who kept the parish registers, as stated above: it was he who administered the last sacraments to the parson that day.
+<li> Eight days before his death (on November 18), the parson sent a message to the Lady of Kerdelahaye manor. She was not his sister. Her name was <b>Jeanne de Launay de Kerespres</b> (hence the word "espres" in stanza 5!). But the Luzel version states that the parson also sent for his sisters.<br>
+<li> It was Jean-Baptiste du Parc de Kerret who had his brother <b>dressed in white</b> (Le Masson) before he was buried, a detail preserved in the Cornouaille gwerz, stanza 8.
+<li> The burial took place on a Sunday at noon, as stated in the Luzel version, which contradicts the archives. In fact November 27, 1754 was a Wednesday. The parish registers state that the funeral was celebrated the day after the death. The Trégor version (Le Masson) tells us that the rector was in bed when he sent to inform his brother who was attending the Estates of Brittany in Rennes of his imminent death. The distance from Plounevez to Rennes is 140 km, which the messenger and the captain had to cover in turn at an average speed of 9 to 10 km/h. In short, there elapsed certainly much more than 24 hours between the departure of the messenger and the arrival of the captain at his brother's bedside. The Quimper version considers that the priest's death occurred a long time before the return of his brother and that it even required the embalming of the body for 23 days (str. 7.3, version 2). The distance from Plonévez-du-Faou to Rennes is close to 170 km.
+<li> The endogenous gwerzioù diverge as for <b>the name of the priest who celebrated the funeral</b>,  Louis Thomin, parson of Trégrom in one version (Le Masson), Yves Le Bon, the Plounevez curate in the other (Luzel). The parish archives tell us that it was the latter who signed the death certificate, but that the former was granted the office of parson of Plounévez-Moëdec until 1768.
+<li> The insidious remarks in version 1, stanzas 11 and 12, about the <b>comparative parson's incomes expected in the parishes</b> Plonevez (granted to Rev. Salomon), Guerlesquin and Kerret echoe similar remarks in the two variants of the original gwerz: the name of the lucky winner is Pierre le Bouëtté (in Breton, Yann Ar Poeto) in the Luzel variant, whereas it is accurately stated as Louis Thomin in the Le Masson variant. Both variants give an assessment of the parson's salary: the parish is worth 500 crowns and the parson's income ("kazuel" or "gajoù") is 200 crowns in one, 300 crowns in the other variant!
+<li> Finally the edifying epitaph is not proclaimed by the bells, as it is in stanza 11 of version 2, but more classically engraved on the priest's tomb, here also for the benefit of whoever can read it. At least that's what is stated in Luzel's version. Le Masson could also evoke <b>bells melted</b> during the Revolution:<br>
+<i>E Plonevez zo un tour war an uhel / Market war ar "code civil" a weler a ziabell<br>
+In Plounévez a tower rises towards the sky / It is branded by Code Civil law. You can see it from afar.</i><br>
+The old postcard below shows the chapel of Keramanac'h and its wall-bell-tower with bell-holes, two of which are left empty.<br>
+<br>
+[10] <b> Comparison with other songs </b>: This song which describes the death of a local personality is similar to the 1839 Barzhaz ballad, <a href="../nevetf.htm"> Elegy of Mr de Nevet </a>, inasmuch as it is about a death openly  staged as a show and as it describes with sympathy the death of a man of aristocratic origin. <br>
+Despite the similar title, there is no reason to compare it with <a href="persbann.htm"> The curate of Plounévez </a> published by Luzel in "Soniou"; volume II, p. 146, which is by no means an elegy, but a piece treating a priest with mockery.
+ </font> </td>
+</table><br>
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para1')"><img id="para1_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">Abbad Plonevez / Version Luzel / Fonds Luzel, ms 1020</a>
+<div id="para1" style="display:none;">
+<table border=1 width=100%>
+<td align=left valign=top width=50%><font size=-1>
+Benôs Doue voar an iné deus a abbad Duparc<br>
+Voa Person hen Plounevez pa oa voar an Douar<br>
+So marwet ac interet hen berret Plounevez<br>
+Goulennomp digant Doue ar Barados dhi Iné.<br>
+<br>
+Deïz pardon ar Guerdalaë ewit ma intentfet<br>
+Oa scoët an Abbat quenntan gant ar chlenved<br>
+Chom a ra bars ar guer, nha quet dar pardon<br>
+Quement-se a seblante oa touchet hi galon.<br>
+<br>
+Nabbad pa chômas claonv a euré eunn exprès<br>
+DItron ar Guerdalaë da dont dar guer expres<br>
+Komer res hin depecho buhanan ma challes<br>
+Hen presbiter Plounevez buhan a nônn rentas<br>
+<br>
+Nabbad a lavare dhi vreudeur beleyenn<br>
+Digass desan hi zalver ac ive hi nouenn<br>
+Recev a ra ho zalver gant humilité vras<br>
+Ober aman henorabl pôquet da dreid ar groas.<br>
+<br>
+Na choerezed an abbad ar re-se a ouële<br>
+Nabbad wit besan claonv ho chonsolé<br>
+Tewet ma choërezed, tewet na ouëlet quet<br>
+Quëit ma vin hen bue chui veso soulaget. »<br>
+<br>
+Nabbad a choulenné deus an dut achané<br>
+Pa oa eat hi choërezet hen Kernew da valé<br>
+« Pelech ma ma choërezet pa na maint quet voar ma zro?<br>
+Glacharet eo ho chalon pa voëaient ma maro. »<br>
+<br>
+Nabbad pa chômas claonv a eure eun expres<br>
+Da gass dhi vreur chabitenn oa éet maïs ar vro<br>
+Eet oa da Roazon, éet oa dar stado<br>
+<br>
+Heman lakas hen liennan en guenn<br>
+Ac lakaët hen interrin, ia na vaë quet pell<br>
+Commanç a ezure goëlan pa hé er maës an ty<br>
+Koulsgoude an dut a errué a neus kentan cry.<br>
+<br>
+Henont Dom Erwan ar bôn, bet person hen tregrom<br>
+Neus groet an interramant ac glacharet hi galon.<br>
+DechDomYann ar Poêto eo bet eunn avantaj<br>
+Besan marwet an abbad rac chui deu hen hi blas.<br>
+<br>
+Talvoudegezh pemp kant scoët dall parrous Plounevez<br>
+Ac daou chant scoët casuet quen sclêr evel an deïz.<br>
+Né dindan eunn ivinenn hen kornik ar verret<br>
+Vis-à-vis dan dor dall, hen a so interet.<br>
+<br>
+Ar bez a so huel, a vé guélet a bell<br>
+Scritur mad zo varnesan wit an hini goâr lenn<br>
+.<br>
+Cri vije ar galon dan hini na voelgé<br>
+Hen berret Plounevez dar Zul da greiz-deiz<br>
+O voëlet ar groaz archant betek ar bez ô dont<br>
+Ar veleyenn ô canan, ac ar chleyer ô sonn.<br>
+<br>
+<i>Orthographe d'origine</i>
+</font></TD>
+<td align=left valign=top width=100%><font size=-1>
+Que Dieu donne sa bénédiction à lâme de labbé Duparc<br>
+Recteur de Plounévez de son vivant<br>
+Mort et enterré à Plounévez<br>
+Demandons à Dieu le paradis pour son âme.<br>
+<br>
+Le jour du pardon de Kerdelahaye pour que vous compreniez<br>
+Labbé fut frappé la première fois par la maladie.<br>
+Il reste chez lui, il ne va pas au pardon<br>
+Il semblait que cétait son cur qui était touché.<br>
+<br>
+Retenu par sa maladie, il envoya un message<br>
+À la dame de Kerdelahaye pour quelle vienne au plus vite<br>
+Elle prit des nouvelles aussi vite que possible<br>
+Elle se rendit au presbytère de Plounévez.<br>
+<br>
+Labbé dit à ses frères prêtres<br>
+De lui apporter son sauveur et aussi son extrême-onction<br>
+Il reçut son sauveur avec grande humilité<br>
+Et fit amende honorable en baisant le pied de la croix.<br>
+<br>
+Les surs de labbé pleuraient<br>
+Labbé en dépit de son mal les consolait<br>
+« Cessez de pleurer mes surs<br>
+Tant que je serai en vie, vous serez soulagées. »<br>
+<br>
+Labbé demandait aux gens qui étaient là<br>
+Quand ses surs étaient allées se promener en Cornouaille :<br> 
+Où sont mes surs que je ne vois pas près de moi<br>
+Leur cur sera chagriné quand elles me verront mort.<br>
+<br>
+Labbé restant alité fit envoyer un message express<br>
+À son frère capitaine qui était hors du pays<br>
+Il était allé aux États de Bretagne à Rennes.<br>
+<br>
+Celui-ci le fit ensevelir en blanc<br>
+Et le fit enterrer rapidement<br>
+Il se mit à pleurer en sortant de la maison<br>
+Cependant les gens qui arrivaient eurent le premier cri.<br>
+<br>
+Celui-là, Yves Le Bon, qui fut recteur de Trégrom<br>
+Célébra lenterrement le cur gros.<br>
+Lavantage pour vous Jean Le Bouëtté est que<br>
+Labbé soit mort car vous avez pris sa place.<br>
+<br>
+La paroisse de Plounévez vaut cinq cents écus<br>
+Et deux cents écus de casuel, aussi clair que le le jour.<br>
+Sous un if au coin du cimetière<br>
+Vis-à-vis du porche dentrée, il a été enterré.<br>
+<br>
+La tombe est haute et elle se voit de loin<br>
+Elle porte une belle inscription pour celui qui sait lire.<br>
+<br>
+Dur serait le coeur de celui qui ne pleurerait<br>
+Dans le cimetière de Plounévez, un dimanche à midi<br>
+En voyant la croix dargent venir jusque la tombe<br>
+Les prêtres chantant au son des cloches<br>.
+<br>
+<i>Traduction Luzel</i>
+</font></TD></table>
+</div>
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para2')"><img id="para2_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">Abbet Duparc/ Version Le Masson /  / Fonds Donatien Laurent</a>
+<div id="para2" style="display:none;">
+
+<table border=1 width=100%>
+<td align=left valign=top width=50%><font size=-1>
+Bennos Doue war an ine deus an abbé Duparc<br>.
+A oa person en Plounévez pa oa war an douar <br>.
+<br>.
+Maro hé ac interret en béret Plounévè.<br>.
+Digant Doue a requetan ar barados de ine <br>.
+<br>.
+Kenta ma oa an abad scoued gant clenved<br>.
+A oa gant pardon ar Kerdelahai evit ma intenfet<br>.
+<br>.
+E laret an ofern eizeur en illis Plounévé<br>.
+E celebri ar sacrifis evit e zivèan guech.<br>.
+<br>.
+Choma eure er guer, na neo quet dar pardon<br>.
+Quement-se a seblante e oa touchet è galon.<br>.
+<br>.
+Nan éé curé ar Bon an eus gréet ar voyen<br>.
+Dar reï dezan e Zoue a kenkent an nouen.<br>.
+<br>.
+Receo a ra i Zoue gant humilité vras<br>.
+Ober a ra amand enorabl poket da dreit ar groas.<br>.
+<br>.
+Eun eiz-de araog e varo en kassas eun express<br>.
+Da noblans ar Kerdelahai an itron a Guerexpress.<br>.
+<br>.
+Dober dezi dont den guelet araog kuittat ar bed.<br>.
+An itron pa clevas so meurbet estonnet.<br>.
+<br>.
+An itron pa en guelas so comancet da welà<br>
+An abad échonsolé evithan da veza clan<br>
+<br>:
+« Tevet itron, emezan, tevet na welet quet<br>
+Tout a renkfomp mervel a dilezel ar bed ».<br>
+<br>
+Penevert ma breur cabitan o vont e-mez ar vro<br>
+Arru éé en Roazon o vont war ar stado.<br>
+<br>.
+E vreur pa neus clevet a neus gret ar voyen<br>
+Da lakat e interi hac en gouisko en guen.<br>
+<br>
+E vreur cabitan a oélé o tont er mez an ty<br>
+Couscoude tud an arme deus calon cri. <br>
+<br>
+Cri vije ar galon ac ar galon na ouelche<br>
+En beret Plounévé eur sulvez da creis-té.<br>
+<br>
+O welet ar hroaz archant o vont betec ar béé<br>
+Ar veleien o kana ar chleier o vralla.<br>
+<br>
+Person Dom Louis Thomin deus ar vourc tregrom<br>
+A neus graet an interamant ha glachar en i galon.<br>
+<br>
+Goëla ellet Plouneveïs goela dre asuranc<br>
+Houi a neus collet eur Pastor ac a dal, muioch evit chevanç<br>
+<br>
+Gannach person Dom Louis Tomin eman an avantach,<br>
+Pe héé marwet an abad a deuet en e blaç.<br>
+<br>
+Pemp cant scoët a hon sur a dal Plounevez;<br>
+Tri hant scoët ar gajou a zo ken scler ac en dé.<br>
+<br>
+En Plounevez so un tour so war an uhel<br>
+Marquet war « ar code civil » a weler a ziabell <br>
+<br>
+<i>Orthographe d'origine</i>
+</font></TD>
+
+<td align=left valign=top width=100%><font size=-1>
+La bénédiction de Dieu sur  lâme de labbé Duparc<br>
+Recteur de Plounévez quand il fut sur terre<br>
+<br>
+Mort et enterré au cimetière de Plounévez<br>
+Je demande à Dieu le paradis pour son âme<br>
+<br>
+La première fois que labbé fut frappé par la maladie<br>
+Ce fut le jour du pardon de Kerdelahaye, vous m'entendez bien!<br>
+<br>
+En disant sa messe de huit heures en léglise de Plounévez<br>
+En célébrant le divin sacrifice pour la dernière fois.<br>
+<br>
+Il resta chez lui, il nalla pas au pardon<br>
+Cela montrait clairement que son cur était touché. <br>
+<br>
+Cest le vicaire Le Bon qui a trouvé le moyen<br>
+De lui donner le corps du Christ, ainsi que lextrême-onction.<br>
+<br>
+Il reçoit son Dieu avec grande humilité<br>
+Il fait amende honorable en baisant le pied de la croix.<br>
+<br>
+Un jour avant sa mort il envoya un message<br>
+Au manoir de Kerdelahaye à la dame de Kerespres<br>
+<br>
+Pour la faire venir le voir avant quil ne quitte ce monde.<br>
+La dame fut très étonnée dapprendre cela. <br>
+<br>
+La dame en le voyant s'est mise à pleurer<br>
+Labbé la consolait bien qu'il fût malade<br> :
+<br>
+« Cessez Madame, dit-il, cessez de pleurer,<br>
+Nous devrons tous mourir et quitter ce monde »<br>
+<br>
+Si ce nétait mon frère qui va quitter le pays<br>
+Il est arrivé à Rennes pour se rendre aux États.<br>
+<br>
+Son frère, en apprenant la nouvelle, a trouvé le moyen<br>
+De le faire enterrer et de le faire habiller de blanc<br>.
+<br>
+Son frère capitaine pleurait en sortant de la maison<br>
+Pourtant les soldats ont le cur dur<br>
+<br>
+Dur serait le cur de celui qui ne pleurerait<br>
+Dans le cimetière de Plounévez ce dimanche à midi.<br>
+<br>
+En voyant la croix d'argent s'avancer jusqu'à la tombe<br>
+Les prêtres chanter et les cloches carillonner.<br>
+<br>
+Le recteur Dom Louis Thomins du bourg de Trégrom<br>
+A fait lenterrement le cur plein de chagrin.<br>
+<br>
+Vous pouvez pleurer gens de Plounévez, j'en suis certain<br>
+Vous avez perdu un pasteur qui vaut plus que da chevance..<br>
+<br>
+Vous avez lavantage, recteur Dom Louis Thomin<br>
+Puisque labbé est mort et que vous avez pris sa place.<br> 
+<br>
+Plounévez vaut cinq cents écus, jen suis sûr,<br>
+Trois cents écus de gages aussi clairs que le jour. <br>
+<br>
+A Plounévez, il y a une tour qui monte au ciel<br>
+Marquée sur « le Code civil » et que lon voit de loin.<br>
+</font></TD></table>
+</div>
+<audio src="bennosd.mp3" preload="auto" controls></audio><br>
+<br>
+Mélodie notée par Yves Le Masson<br>
+<br>
+
+
+<img src="decesdup.png"><br>
+<br>
+Extrait du registre paroissial de Plounévez-Moëdec du 27. novembre 1754<br>
+<br>
+
+
+<img src=kerschat.png><br>
+<br>
+Château de Kersalaün en Leuhan et Chapelle de Keramanac'h en Plounévez-Moëdec<br>
+<br>
+<embed src="../eideadh.mid" height="60" autostart="true"><br>
+<audio src="kersalau.mp3" controls> </audio><br>
+<br>
+<a href="argall.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="kantipou.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+
+
+
+<!--
+Fonds Villard (21 Fi)
+Sommaire > Reproductions de documents et d'oeuvres d'art.
+21 Fi 1860 
+Reproduction d'une gravure du Château de Kersalaün à Leuhan. 
+Sans date
+Genre/Caractéristiques physiques :
+Données techniques : négatif, gélatino-bromure d'argent
+Support : verre
+Noir et blanc ou couleur : noir et blanc
+Dimensions : 11,9 × 16,8 cm (image), 12,8 × 17,8 cm (support) 
+Documents numérisés : 1 document
+1 image
+
+Pardon des Bovins de St  Herbot (Plonevez)
+En 1793, un décret de la Convention impose que les cloches soient fondues pour être transformées à Brest en canons. La paroisse de Saint-Herbot n'ayant pas exécuté le dit décret, un commissaire fut nommé et envoyé sur place. Mais la cloche était si grosse, si lourde et si dangereuse à démonter qu'il fut impossible de le faire. L'histoire ne dit pas ce qu'il advint finalement car en 1887 elle fut remplacée par une nouvelle cloche nommée "Herbot"12.
+
+ Une belle cloche ornait le beffroi de Sàint-Herbot. Le
+10 prairial an :i:I (29 mai 1794) elle fut descendue et on dut
+·le( briser pour la faire -sortir de la> chapelle. A cause de ses
+g:tiandes dimensions, avant d'être placée dans la tour, elle
+avait"étê fondue 'dans la chapelle même (1). 
+
+https://diocese-quimper.fr/bibliotheque/files/original/bd492284b708d27c6305fbdba8d5639a.pdf
+
+Le Pardon de Saint Salomon représenté par l'artiste peintre huelgoatain Paul Marzin (1904-1996) en 1935. Une toute autre époque...
+Toile exposée au musée de Morlaix.
+***************************************
+
+
+***************
+
+ 
+-->

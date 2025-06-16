@@ -1,0 +1,468 @@
+<HTML>
+<HEAD>
+<TITLE>Ar marc'heg yaouank</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Ar marc'heg yaouank, Le jeune chevalier, The young knight, La Villemarqué, Keransquer, gwerz, M-00735 ">
+<META Name="description" content="Midi File, French and English translation of the Breton lyrics and Information on ''Ar marc'heg yaouank">
+<script language="javascript">
+function prechargerImages()
+{if (document.images)
+{var fichiersImages = prechargerImages.arguments;
+var prechargerTableau = new Array();
+for (var i=0; i < fichiersImagr.length; i++)
+{prechargeTableau[i] = new Image;
+prechargeTableau[i].src = fichiersImage[i];}}}
+</script>
+<script language="javascript">
+prechargerImages('denieuan.jpg','annozken.jpg','martyaou.jpg','erplahio.jpg','janton.jpg';"retourma.jpg"');
+</script>
+</HEAD>
+<BODY>
+<center><h1>Ar marc'heg yaouank</h1>
+<h2>Le jeune chevalier</h2>
+<h3>The young knight</h3>
+<b>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (p.121).</b><br>
+<br>
+<img src="retourma.jpg" width=640 height=430 border=0 name=AP><br>
+<img src= "moratune.jpg" height=100 width=490 usemap=#CARTE border=0>
+
+<MAP name=CARTE>
+
+<AREA onmouseover="document.AP.src='denieuan.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=1,1,171,50 href="denieuan.mid">
+
+<AREA onmouseover="document.AP.src='annozken.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=172,1,324,50 href="annozken.mid">
+
+<AREA onmouseover="document.AP.src='martyaou.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=325,1,490,50 href="martyaou.mid">
+
+<AREA onmouseover="document.AP.src='erplahio.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=1,51,171,100 href="erplahio.mid">
+
+<AREA onmouseover="document.AP.src='janton.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=172,51,324,100 href="janton.mid">
+
+<AREA onmouseover="document.AP.src='dansdreg.jpg';" 
+onMouseOut="document.AP.src='retourma.jpg';"
+shape=RECT target=_blank coords=325,51,490,100 href="dansdreg.mid">
+
+</map>
+<br>
+<table width=100%>
+
+<tr><td width=50% valign=center ><font size=-1>
+1° "Dén ieuank en armé" publiée dans "Guerzenneu ha Sonnenneu Bro-Guéned"  de <b>Loeiz Herrieu</b><br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="denieuan.mp3" preload="auto" controls> Mélodie 1</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+2° "An noz kentañ ma eured" publiée dans "Carnets de route" d'<b>Ifig Troadeg</b> <br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="annozken.mp3" preload="auto" controls> Mélodie 2</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+3° "Ar martolod yaouank" publiée dans "Musiques bretonnes de <b>M. Duhamel</b>" <br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="martyaou.mp3" preload="auto" controls> Mélodie 3</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+4° "Er plah iouank tromperéz" publiée dans "Revue de Bretagne, de Vendée.., 1857-1914" par l'Abbé <b>Jean-Mathurin Cadic</b> (coll. avant 1891).<br>
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="erplahio.mp3" preload="auto" controls> Mélodie 4</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+5° "Jan'ton" publiée dans "Chants traditionnels vannetais" de <b>Jean-Louis Larboulette</b>, 2005.<br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="janton.mp3" preload="auto" controls> Mélodie 4</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+6° "Dañs Dreger" publiée dans "Tradition populaire de danse " de <b>J-M. Guilcher</b>.<br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="dansdreg.mp3" preload="auto" controls> Mélodie 4</audio><br>
+</td></tr>
+
+</table><br>
+<br>
+<i><font size=-2>Arrangement Christian Souchon (c) 2020</font></i><br> 
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+<b>A propos de la mélodie</b><br>
+C'est celle qui accompagne la version vannetaise de ce chant, "Dén ieuank en armé / Le jeune homme soldat" collectée par <b>Loeiz Herrieu</b> à Lanester et publiée dans "Guerzenneu ha Sonnenneu Bro-Guéned " en 1913 (Position dans louvrage : 1912 - n° 23, p. 529-531).<br>
+Le site propose 5 mélodies bien distinctes. La mélodie 5, "Jeanneton" est à l'origine de la "Danse de Trégor" (Dañs Dreger)  notée dans l'ouvrage "Tradition populaire de danse en Basse-Bretagne de Y. Guilcher<br>
+<br>
+<b>A propos du texte</b><br>
+Le <b>sujet</b> est très proche de celui du chant précédent: l'infidélité d'une jeune fille lassée d'attendre un fiancé devenu soldat ou marin. On peut même imaginer que la présente gwerz dont on connaissait jusqu'à présent plus de 25 versions ait pu inspirer au dénommé Per-Yannik les <a href="2vinon.htm"> k117. Deux amis</a>  et que les deux pièces aient été interprétées par le vieillard Gorvel de Maël-Pestivien, puisque les deux pièces se suivent dans le carnet N°2:<br>
+Cette proximité a conduit La Villemarqué à utiliser l'un et l'autre chant pour composer son poème <a href= "../seizennf.htm">31. La ceinture de noces</a>.<br>
+<br>
+<b>Classification Malrieu</b>:<br>
+Le site https://tob.kan.bzh/chant-00735.html donne pour ce chant les caractéristiques suivantes:<br>
+Référence : <b>M-00735 </b><br>
+Titre critique breton : An disparti noz kentañ an eured<br>
+Titre critique français : Le retour du matelot (renvoyé)<br>
+En fait, les titres français et anglais ne s'appliquent vraiment qu'à des versions dans lesquelles le nouveau mari est préféré au "revenant", contrairement à ce que dit le chant du carnet N°2.  <br>
+Dans une variante vannetaise notée par <b>Jean-Mathurin Cadic</b>, "Er plah iouank tromperéz", le jeune soldat provoque en duel le jeune marié son rival. Ce dernier déclare qu'il ne veut pas se battre et abandonnera plutôt son épouse. L'autre alors se montre généreux et lui dit qu'il peut garder la jeune femme qu'il vient d'épouser.<br>
+Aucune version authentique n'envisage le drame sanglant, l'assassinat de la jeune parjure, qui conclut la "Ceinture de noces" du Barzhaz.<br>
+Le site "tob.kan.bzh" recensait 27 versions et 44 occurrences. En voici les principales, selon l'étude d'Hervé Peaudecerf dans "<b>Alexandre-Louis-Marie Lédan</b> (1777-1855), un imprimeur breton au XIXème siècle (1805-1855)", 2002:<br>
+
+- "Seizen eured", coll. auprès de Gorvel de Maël-Pestivien, par <b>Hersart de La Villemarqué</b>. Voir "Barzhaz-Breizh 1845".<br>
+
+- "Ar martolod iaouanc", coll. auprès de Jeanne Le Gall de Plouaret, en 1849, par <b>François-MarieLuzel</b>. Voir "Soniou", éd. Maisonneuve & Larose, 1971, tome 2, p. 296-301.<br>
+
+- "Greg he daou bried", deux versions coll. par <b>Mme de Saint-Prix</b>, dont lune avant 1851. Voir ms. 92 de de Penguern, "Gwerin" 8, p. 146-151.<br>
+
+- "Un den armet", coll. par Mme de Saint-Prix, recopié par <b>Le Diberder</b>.<br>
+
+- "Noz kenta va euret", coll. auprès de Jeannet Puill de Henvic, le 09/02/1851, par <b>J-M. de Penguern</b>. Voir ms. 89, "Gwerin" 5, p. 213-214.<br>
+
+- "Ar martolod iaouank" coll. auprès de Marie-Jeanne La Bail, de Port-Blanc, par <b>Maurice Duhame</b>l, éd. en 1913.<br>
+Comme on l'a dit, le texte fut aussi collecté plusieurs fois dans le Vannetais à la fin du XIXè et début du XXè siècle. Il la été aussi en Centre-Bretagne dans la seconde moitié du XXè (Glomel, 09/1957). <br>
+<br>
+La distinction avec les chants classés sous la référence Malrieu <b>M-00733</b> s'avère très délicate: Portant le titre critique "Plac'h he daou bried", la femme aux deux maris, ils mettent en scène des époux qui meurent de joie de se retrouver. C'est à cette catégorie qu'appartient le chant du Barzhaz 
+<a href="../magerf.htm">21 Le frère de lait</a><br>
+<br>
+<b>Le retour du marin</b><br>
+Le sujet de la gwerz bretonne est traité dans une chanson populaire en langue française "Le retour du Marin" dont l'incipit est "Brave marin revient de guerre, tout doux". Elle est illustrée par une carte postale dessinée par un artiste signant "Jack" et éditée par M. Barré et J. Dayez qui produisirent, à partir de 1923, une série de 23 cartes, la série 1479, consacrée aux chansons anciennes. On remarque (cf.ci-dessus) que le marin et l'hotesse portent des costumes bretons. L'ouvrage de Martin Pénet, "Mémoires de la Chanson", date celle-ci du 18ème siècle, mais  n'indique pas d'origine.<br>
+
+
+
+
+
+</td>
+<td width=50% valign=top><font size=-1>
+<b>About the tune</b><br>
+The sound background to this page accompanies the Vannes version of the ballad at hand, "Dén ieuank en armed / The young soldier" collected by <b>Loeiz Herrieu</b> at Lanester and published in "Guerzenneu ha Sonnenneu Bro-Guéned" in 1913 (In the 1912 issue of the book: No. 23, p. 529-531). <br>
+Here below are presented 5 very distinct melodies. Melody 5, "Jeanneton" is at the origin of the "Dance of Trégor" (Dañs Dreger) noted in the work "Popular dance tradition" in Lower Brittany by Y. Guilcher <br>
+<br>
+<b>About the lyrics</b><br>
+The <b>subject</b> is very close to that of the previous song: the infidelity of a young girl tired of waiting for a fiancé who went away to serve as a soldier or a sailor. One can even imagine that the present gwerz, of which more than 25 versions were known to date, could have inspired the named Per-Yannik with the lament <a href="2vinon.htm"> k117. Two friends </a> and that both songs were sung  by the old man Gorvel of Maël-Pestivien, since they follow each other in notebook N ° 2: <br>
+The proximity between both songs prompted La Villemarqué to use both of them as  the core of his poem <a href= "../seizennf.htm"> 31. The wedding belt </a>. <br>
+<br>
+<b> Malrieu classification </b>: <br>
+The site https://tob.kan.bzh/chant-00735.html gives the following characteristics for this song: <br>
+Reference: <b>M-00735</b> <br>
+Breton critical title: An disparti noz kentañ an eured <br>
+English critical title: The return of the sailor (who was turned down) <br>
+In fact, the French and English titles only adequately apply to versions in which the new husband is preferred to the "returner", unlike in the song of notebook N ° 2. <br>
+In a Vannes variant noted by Father<b> Jean-Mathurin Cadic</b>, "Er plah iouank tromperéz", the young soldier challenges to a duel his rival, the bridegroom. The latter declares that he does not want to fight and will instead abandon his wife. The other then magananimously tells him that he can keep the young woman he has just married. <br>
+No authentic version envisages the bloody drama, the assassination of the young perjury, which concludes the "Wedding Belt" poem of the Barzhaz. <br>
+The "tob.kan.bzh" site lists for this gwerz 27 versions and 44 occurrences. Here are the main ones, according to the study by Hervé Peaudecerf in "<b> Alexandre-Louis-Marie Lédan </b> (1777-1855), a Breton printer in the XIXth century (1805-1855)", 2002: <br >
+
+- Seizen eured, from the singing of Gorvel at Maël-Pestivien, gathered by<b>Hersart de La Villemarqué</b>. See "Barzhaz-Breizh 1845".<br>
+
+- Ar martolod iaouanc, as sung by Jeanne Le Gall at Plouaret, in 1849, gathered by <b>François-MarieLuzel</b>. See "Soniou", éd. Maisonneuve & Larose, 1971, book 2, p. 296-301.<br>
+
+- "Greg he daou bried", two versions coll. by <b>Mme de Saint-Prix</b>, one of them before 1851. See De Penguern's ms. 92, "Gwerin" 8, p. 146-151.<br>
+
+- "Un den armet", coll. by Mme de Saint-Prix, copied by <b>Le Diberder</b>.<br>
+
+- "Noz kenta va euret", coll. from the singing of Jeannet Puill of Henvic, on 09/02/1851, by <b>J-M. de Penguern</b>. see ms. 89, "Gwerin" 5, p. 213-214.<br>
+
+- "Ar martolod iaouank" as sung by Marie-Jeanne La Bail, at Port-Blanc, published by <b>Maurice Duhame</b>l, éd. en 1913.<br>
+
+As alredy stated, the text was also collected several times in the Vannes area in late 19th and early 20th century. It also was in Middle Brittany in the 2nd half of the 20th century (e.g. at Glomel, 09/1957). <br>
+The distinction from the songs classified under Malrieu <b>reference  M-00733</b> is no easy task: they wear the critical title "Plac'h he daou bried", the woman with two husbands, and stage spouses who die of joy when they meet again. The following song of "Barzhaz" belongs to this category
+<a href="../magerf.htm">21 The foster brother</a><br>
+<br>
+<b>The return of the sailor</b><br>
+The subject-matter of the Breton gwerz is the same as in a popular song in French language, "The return of the Sailor" whose incipit is "Brave sailor returns from war, slowly". It is illustrated by a postcard drawn by an artist signing "Jack" and edited by M. Barré and J. Dayez who produced, from 1923, a series of 23 cards, the series 1479, devoted to old Folk songs. We note (see above) that the sailor and the hostess in the picture wear Breton costumes. Martin Pénet, in his book, "Mémoires de la chanson", dates it  from the 18th century, but does not indicate its geographic origin. <br>
+</td></table><br>
+<br>
+<img src="marhegya.jpg" width=600><br>
+<br>
+<font size=-2><i> Les barres verticales signalent les modifications ultérieures qui annoncent la "Ceinture de mariage".<br>
+Vertical bars point out ulterior changes that are a first step towards the "Wedding Belt"</i></font><br>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=33% valign=top>
+BREZHONEG (Stumm KLT)<br>
+<font size = -1>
+<br>
+<b>P. 121 / 64</b><br>
+<br>
+Ar marc'heg yaouank [1] [2]</b><br>
+<br>
+<i>[Comme le précédent, peut-être "chanté à Gorvel de  Kerrochou"]</i><br>
+=<br>
+1. (=1) Noz kentañ ma eured, m'em-boa gourc'hemenn din:<br> 
+Da vonet dar brezel  red eo bezout din.<br>
+<i>[kemmet da]<br>
+... dim(ez)i...oa din gourc'hemenn..., <br> 
+... gant ost an aotrou, ...</i><br>
+<br>
+2. (=9.2) Tavit, ma dous Fransesa  <i>(Aloïda)</i> [3] ha nen em chifit ket<br>
+Barzh un, daou, pe dri bloaz, me zeuy choazh dho kwelet <br>
+<br>
+3. Barzh un daou pe dri bloaz, pe ur pe(v)ar dan hirrañ<br>
+Me a zeuy choazh dho kwelet, ma dousik Franseza.<br>
+<br>
+<b>P. 122</b><br>
+<br>
+4. Setu echu an tri bloaz, ar pe(v)aret erruet<br>
+Hag ar marcha(d)our [2] yaouank, er ger n'arrue ket,<br>
+<br>
+5. Setu echu ar pe(v)ar bloaz, hag ar pempved ivez<br>
+Hag ar marc'ha(d)our yaouank, ne zeue tamm dar chontre,<br>
+(=14.4) Ar plach n'eus graet he soñj da zim(ez)iñ adarre.<br>
+<br>
+6. (=18.1) Na pa oa tud an eured d'eus an daol o koaniañ,<br>
+Erruaz ar marha(d)our en ti da choul loñjañ.<br>
+<br>
+7. (=18.3) - Demat deoc'h, matez vihan, me halfe bout loñjet,<br>
+Erru eo an abardaez, n'ouzhon pelec'h monet,<br>
+<br>
+8. - Ho salokras, emezi, ne viot ket loñjet:<br>
+Tud an eured zo amañ henoazh vo repuet.<br>
+<br>
+9. Hogen ar marc'ha(d)our, tre 'n'ouie doare an ti<br>
+Da gaout an hini gozh da c'houlen diganti:<br>
+<br>
+10. - Noz (eur) vat deoc'h ma moereb kozh, me halfe bout loñjet<br>
+(=19.1) - E-leal marc'heg yaouank, loñjet mat e viot,<br>
+'Gevret gant tud an eured henoazh ha koaniet. -<br>
+<br>
+11. Na pa oa debret e goan, 'gevret gant re gentañ<br>
+Hag eñ a c'houl an diñsoù [4] 'vit nem divertisañ<br>
+Hag ar plac'h he euret da barlantout gantañ.<br>
+<br>
+12. (=23.3) - Pelech 'ma ma gwalenn aour ha diamanchoù<br>
+Em-boa me roet deoc'h, bremañ zo seizh bloaz zo?<br>
+<br>
+<b>P. 123 / 65</b><br>
+<br>
+13. (=23.3) Pelech ma gwalenn aour, hag ivez ma diamant<br>
+Em boa me roet deoc'h ouzh daol ar sakramant? <br>
+.<br>
+14. (=24.1) Hi lakaas e kroaz he daouzorn trezek an nec'h<br>
+- Betek bremañ, Jezus, m'em-boa bevet dinech.<br>
+<br>
+15.(=24.2) Betek bremañ, Jezus, dinech em-boa bevet.<br>
+Soñjet e oan intañvez, ha bet din daou bried!<br>
+<br>
+16. - Gant davet pehini anezhe a yefen da gousket?<br>
+Daved an hini kentañ, am-eus choant da vonet<br>
+Hag egile ye dar ger evel ema deuet!<br>
+<br>
+<i>KLT gant Christian Souchon (c) 2020<br>
+<br>
+Notenn: Niverennoù-poz etre kromelloù a glot gant re e barzhoneg Barzhaz Breizh "Seizenn Eured".</i>
+</font></TD>
+<td width=33% valign=top>
+FRANCAIS<br>
+<br>
+<font size = -1>
+<b>P. 121 / 64</b><br>
+<br>
+Le jeune chevalier </b><br>
+<br>
+<i>[Comme le précédent, peut-être "chanté à Gorvel de  Kerrochou"]</i><br>
+=<br>
+1. (=1) La nuit de mon mariage, un ordre m'est donné<br>
+De partir pour la guerre et ce, sans plus tarder<br>
+<i>[modifié en]<br>
+C'est la nuit de ma noce: au service de l'host<br>
+Du seigneur sans attendre, on m'enjoint de me rendre.</i><br>
+<br>
+2. (=9.2) Calmez-vous ma Françoise <i>(Héloïse)</i> Il ne faut point gémir<br>
+Dans un an ou deux vous me verrez revenir.<br>
+<br>
+3. Dans un, deux ou trois ans, ou quatre tout au plus,<br>
+Françoise ma chérie, je serai revenu.<br>
+<br>
+<b>P. 122</b><br>
+<br>
+4. Trois ans sont écoulés, le quatrième est là<br>
+Et le jeune marchand ne revient toujours pas,<br>
+<br>
+5. Et voici que quatre ans, puis cinq ans ont passé<br>
+Et le jeune marchand n'est toujours pas rentré,<br>
+(=14.4) La jeune femme alors veut se remarier.<br>
+<br>
+6. (=18.1) Quand les gens de la noce ont pris place au banquet,<br>
+Le marchand se présente et veut être logé.<br>
+<br>
+7. (=18.3) - Bonjour la fille, je voudrais loger céans,<br>
+Il est tard. Je ne sais où aller maintenant,<br>
+<br>
+8. - Excusez-moi, dit-elle, on ne peut vous loger:<br>
+Nous avons les gens de la noce à héberger.<br>
+<br>
+9. Mais le marchand connaît les us de la maison.<br>
+A la vieille patronne, il pose la question:<br>
+<br>
+10. - Tante, bonsoir à vous, pouvez-vous me loger?<br>
+(=19.1) - Bien sûr, jeune seigneur, vous serez bien reçu<br>
+Avec ceux de la noce et nourri de surplus. -<br>
+<br>
+11. Il dina, fut de ceux qu'en premier l'on servit<br>
+Il demande des dés pour passer le temps, puis<br>
+Voici que la mariée s'entretient avec lui.<br>
+<br>
+12. (=23.3) - Où donc est l'anneau d'or rehaussé de diamants<br>
+Que je vous ai donné, cela fera sept ans?<br>
+<br>
+<b>P. 123 / 65</b><br>
+<br>
+13. (=23.3) Où donc est l'anneau d'or, ainsi que les diamants<br>
+Reçus par vous devant l'autel du sacrement? -<br>
+.<br>
+14. (=24.1) Bien haut, et comme en croix, elle leva les mains: <br>
+- Jusqu'à présent, Jésus, j'ignorais le chagrin.<br>
+<br>
+15.(=24.2) Jusqu'à ce jour j'étais du chagrin épargnée:<br>
+Je pensais être veuve et suis deux fois mariée!<br>
+<br>
+16. - Avec qui me faudra-t-il dormir cette nuit?<br>
+Mais avec celui qu'en premier j'avais choisi!<br>
+Et l'autre, il ne lui reste qu'à rentrer chez lui!<br>
+<br>
+<i>Traduction Christian Souchon (c) 2020 <br>
+<br>
+Note: Les N° de strophes entre parenthèses sont ceux des strophes correspondantes dans "La ceinture de noces" du Barzhaz.</i>
+</TD>
+<td width=33% valign=top>
+ENGLISH<br>
+<br>
+<font size = -1>
+<b> P. 121/64 </b> <br>
+<br>
+The young knight </b> <br>
+<br>
+<i> [Like the previous one, maybe "sung by Gorvel from Kerrochou"] </i> <br>
+= <br>
+1. (= 1) The night of my wedding, I received the order <br>
+To leave for the war without further ado <br>
+<i> [changed to] <br>
+The night of my wedding, to serve the host <br>
+Of my Lord immediately I was ordered. </i> <br>
+<br>
+2. (= 9.2) Br quiet, dear Françoise <i> (Héloïse) </i> Don't moan <br>
+In a year or two you will see me come back. <br>
+<br>
+3. In one, two or three years, or four at the most, <br>
+Françoise, my darling, I'll be back. <br>
+<br>
+<b> P. 122 </b> <br>
+<br>
+4. Three years have passed, the fourth is here <br>
+And the young merchant still doesn't come back, <br>
+<br>
+5. And now four years, then five years have passed <br>
+And the young merchant still hasn't come home, <br>
+(= 14.4) The young woman now decides to remarry. <br>
+<br>
+6. (= 18.1) The wedding folks  were sitting at the banquet table, <br>
+When the merchant turned up, and asked to be housed. <br>
+<br>
+7. (= 18.3) - Hello maidservant, I would like to stay here, <br>
+It is late and I don't know where to go now, <br>
+<br>
+8. - Excuse me, she said, we can't accommodate you: <br>
+We have the wedding people to house. <br>
+<br>
+9. But the merchant knew the customs of the house. <br>
+To the old goodwife, he asked the question: <br>
+<br>
+10. - My dear Aunt, good evening, would you care to house me? <br>
+(= 19.1) - But of course, my young Lord, you will be well received <br>
+With those of the wedding. You will be fed to boot. - <br>
+<br>
+11. He dined.  As he was one of the first to be served <br>
+He asked for dice to pass the time until the dance. <br>
+But now, here is the bride who is talking to him. <br>
+<br>
+12. (= 23.3) He said: "Where is the gold ring adorned with diamonds <br>
+That I had given you some seven years ago? <br>
+<br>
+<b> P. 123/65 </b> <br>
+<br>
+13. (= 23.3) Say, where is the gold ring adorned with diamonds <br>
+You accepted before altar and sacrament? " <br>
+. <br>
+14. (= 24.1) As if she were crucified the girl raised her hands: <br>
+Saying: " Until now,  Lord Jesus, I've ignored grief. <br>
+<br>
+15. (= 24.2) Up to the present day by grief I have been spared, <br>
+Thought I was a widow; I'm twice married instead! <br>
+<br>
+16. - But now I wonder who I'm  to sleep with tonight? <br>
+Must be with the one whom I chose first certainly! <br>
+As for the other one he may go home freely! <br>
+<br>
+<i>
+Note: The stanza numbers of in parentheses are those of the corresponding stanzas in the Barzhaz poem  "The wedding belt".</i>
+</td></tr></table><br>
+<br>
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] <b>Marc'heg yaouank</b>, 'Le jeune chevalier": Ce titre  semble avoir été ajouté après coup, tout comme les variantes des deux premiers vers. Il s'agit certainement du début de transformation de ce chant appelé à fournir la matière de 7 des 26 strophes du poème du Barzhaz de 1845, <a href="../seizennf.htm">31. La ceinture de noces</a>.  Comme c'est le cas  pour le <a href="../brozaozf.htm">17. Retour d'Angleterre</a>, un chant évoquant l'enrolement plus ou moins forcé de marins ou de soldats, tel qu'on le pratiquait au plus tôt au 17ème ou au 18ème siècle, est vieilli par le collecteur. Les tournures <i>"marc'heg</i> (chevalier) et<i> "ost an aotrou"</i> (host de mon seigneur)  fleurent bon le haut moyen-âge et s'accordent à merveille avec l'expédition de Jean de Rieux en 1405, à laquelle le collecteur pense devoir rattacher cette pièce.<br>
+<br>
+[2] <b>Marc'heg et marc'hadour</b> 'Chevalier" et "marchand": Le mot <i>"marc'heg"</i> apparaît certes une fois dans le texte non surchargé, mais c'est quand la matrone qui dirige la maison, s'adresse au nouveau-venu sur le ton de la plaisanterie (str.10). Partout ailleurs le malheureux héros est désigné par la profession qu'il exerçait avant de servir à l'armée: <i>"marc'haour"</i>, pour  "marchadour", à savoir "marchand". Quand cette pièce fait son entrée dans le Barzhaz, on observe la même métamorphose que dans le chant  <a href="../gwesklef.htm">28. Vassal de Du Guesclin</a> autrement appelé <i>"Ar marc'hadour Rouan"</i>, le Marchand de Rouen. Dans la "Ceinture", il est question de <i>"Aotrou Baron"</i> (seigneur baron), le héros de l'histoire est doté, non pas d'un ami, mais d'un <i>"floc'hig"</i>, (d'un page, str. 2); on lui donne de l' <i>"Aotrou ker"</i> (cher seigneur, str. 3) et il est est désigné à trois reprises par le mot <i>"marc'heg"</i> (chevalier, strophes 10, 11 et 15).<br>
+<br>
+[3] <b>Fransesa et Loïda</b>: Le remplacement à la strophe 2, de <i>"Fransesa"</i> (Françoise) par <i>"Loïda" </i>(Adélaïde?, str.9 de la "Ceinture") répond certainement au même objectif, anoblir le propos, en introduisant un prénom peut-être trouvé dans quelque  généalogie aristocratique.<br>
+<br>
+[4] <b>Les dés</b>: Dans "Distro ar martolod" (le retour du marin) noté par Lédan (ms VIII, pp.134-137), au couplet 12, le matelot - revenant propose de jouer la première nuit de la mariée aux dés ou aux cartes, avant de se faire reconnaître à la strophe suivante!<br>
+La version de Lédan publiée en 1854 se conclut par une strophe 17, tout aussi édifiante: "Mieux vaut ne pas tourner autour des veuves, et surtout des femmes de marins".<br>
+<br>
+[5] Ce chant est suivi d'une variante de<br>
+- <a href="intanvez.htm">La veuve</a> (carnet N° 1) et de<br>
+- <a href="santmike.htm">Pardon de Saint Michel</a> (carnet N° 2).
+</td>
+<td width=50% valign=top><font size=-1> 
+[1] <b> Marc'heg yaouank </b>, 'The young knight ": This title seems to have been added at a later stage, like the variants to the first two verses. It is certainly the outset of a metamorphosis of this song which was to provide the material for 7 of the 26 stanzas of the 1845 Barzhaz poem titled <a href="../seizennf.htm">31. The wedding belt</a>. As is the case with <a href="../brozaozf.htm">17. Return from England</a>, the collector endeavours to ascribe high antiquity to a song relating to compulsory enlistment of sailors or soldiers, as became usual at the earliest in the 17th or 18th century. The words and phrases<i> "marc'heg </i> (knight) and <i>" ost an aotrou "</i> (host, service in a lord's army) are reminiscent of the Middle Ages and match to perfection with the 1405 expedition of Jean de Rieux, to which the collector has persuaded himself this piece should be connected.<br>
+<br>
+[2] <b> Marc'heg and marc'hadour </b> 'Knight "and" merchant": The word <i>" marc'heg "</i> does appear once in the plain handwritten text, but put in the mouth of the matron who runs the house, when she addresses the newcomer in a joking tone (str.10). Everywhere else the unfortunate hero is designated by the trade that was his before serving in the army: <i>"marc'haour"</i>, for "marchadour", i.e. "merchant". When this piece entered the Barzhaz, it underwent the same metamorphosis as the song 
+<a href="../gwesklef.htm">28. Vassal of Du Guesclin</a>, also known as <i> "Ar marc'hadour Rouan"</i>, The Merchant of Rouen. In the "Wedding Belt", there is a mention of an <i>"Aotrou Baron" </i> (Lord Baron), the hero of the story is not endowed with a friend, but a <i> " floc'hig "</i>, (a "page", str. 2); he is addressed as <i> "Aotrou ker" </i> (My dear Lord, str. 3) and he is three times referred to by the word <i> "marc'heg" </i> (knight , stanzas 10, 11 and 15). <br>
+<br>
+[3] <b> Fransesa and Loïda </b>: The replacement in stanza 2, of <i> "Fransesa" </i> (Françoise) by <i> "Loïda" </i> (Adélaïde ?, str.9 of the "Wedding Belt") certainly meets the same objective: Enhancing the subject, by introducing a first name possibly borrowed from some aristocratic genealogy list. <br>
+<br>
+[4] <b> The dice </b>: In "Distro ar martolod" The Return of the Sailor) noted by Lédan (ms VIII, pp.134-137), we read in verse 12 that the returning sailor offers to play for the first night with the bride using dice or cards, before he was recognized in the ensuing stanza! <br>
+Lédan's version published in 1854 concludes with a stanza 17, which is just as edifying: "Better keep clear of widows, and especially wives of sailors!" <br>
+<br>
+[5] This song is followed by<br>
+- a variant to <a href="intanvez.htm">The Widow</a> (collection book #1) and<br>
+- a variant to <a href="santmike.htm">Saint Michael's pardon</a> (collection book #2).
+
+recorded in.<br>
+
+
+</font> </td>
+</table><br>
+<br>
+
+<Embed src="denieuan.mid"  height=60  autostart="true"><br>
+<audio src="denieuan.mp3" controls> </audio><br>
+<br>
+
+<a href="2vinon.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="minorez.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br>
+<script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML>
+
+
+
+<!-- 
+
+-->
+

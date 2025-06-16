@@ -1,0 +1,703 @@
+<HTML>
+<HEAD>
+<TITLE>Ar c'hont Gwilhoù</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to O tistreiñ eus al leur nevez">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Ar c'hont Gwilhoù, Le comte Guillaume, Earl William, La Villemarqué, Keransquer">
+<script language="javascript">
+function prechargerImages()
+{if (document.images)
+{var fichiersImages = prechargerImages.arguments;
+var prechargerTableau = new Array();
+for (var i=0; i < fichiersImagr.length; i++)
+{prechargeTableau[i] = new Image;
+prechargeTableau[i].src = fichiersImage[i];}}}
+</script>
+</HEAD>
+<BODY> 
+<script language="javascript">
+prechargerImages('guillou.jpg','guillou1.jpg','guillou2.jpg','guillou3.jpg','guilou4.jpg','guillou5.jpg','guillist.jpg');
+</script>
+<CENTER>
+<H1>Ar c'hont Gwilhoù</h1>
+<h2>Le comte Guillaume</h2>
+<h3>Earl William</h3>
+
+
+<table width=100%>
+<td width=33% valign=top>
+<b>A propos des mélodies:</b><br>
+Elles sont tirées des "Musiques bretonnes" (Gwerzioù ha Sonioù Breiz-Izel) de Maurice Duhamel, Paris, 1913, où elles sont données comme accompagnant différentes versions de "Ar c'hont Gwilhoù" publiées par F-M. Luzel dans "Gwerzioù II" (1874):
+<li> 1: N° 104, chantée par Maryvonne Le Flem de Port-Blanc (Trégor)
+<li> 2: N°105, chantée par l'Abbé Le Besça (Bas-Léon), communiquée par M. F. Vallée
+<li> 3: N°106, "Priñsez a Wilhoù", chantée par Marguerite Philippe à Pluzunet (Trégor), enregistrement phono de F. Vallée
+<li> 4: N°214, Notée par M. P. Chardin à Ploëzal (Trégor). M. Chardin est l'informateur de Luzel pour cette version du chant.
+<li> 5: "Ar c'hont a Weto", tiré de "Chants et Danses des Bretons", par Narcisse Quellien, publié en 1889 
+Chanté par Louis Kerambrun, tisserand, à Pleudaniel (Trégor) (Fond sonore de la page).<br> 
+Les versions 1 et 3 ont des strophes de 2 vers de 12 pieds (alexandrins), dont le second est répété. La version 5 présente la même  structure, suivie d'un distique de 12 et 6 pieds. La version 2 alterne des éléments de 4, 6 et 5 pieds et répète le second vers. La version 4 a également une structure complexe composée de vers de 9, 6 et 12 pieds.<br>
+Les versions 2, 3 et 5 sont dans le mode majeur, la version 4 est notée dans le mode mineur (mais il s'agit sans doute d'un thème hypodorien où la septième note a été relevée d'un demi-ton). La version 1 est dans le mode du plain-chant grégorien (hypolocrien).<br>  
+
+
+<br>
+<b>Bibliographie</b><br>
+Cette gwerz a souvent été collectée. On la trouve:<br>
+- Sous forme manuscrite, dans la collection de Penguern, t. 89: Ar Princess a Voetou (= Gwerin 4); t. 91, 10: Comtess a Welo - Comtesse de Goelo, 139: Comt Goelo, 166: Ar c'homtess a Woëlo; t. 94, 80: Ar gontess a Welo; t. 95, 17: Ar c'hontess a Gwoelo; Ms. 1013 (Rennes): Ar gontess a Welo (=Bulletin archéoligique de l'Association Bretonne, 1906, Annexe).<br>
+- Sous forme imprimée, dans le recueil "Gwerzioù II" de Luzel: Ar c'homt Gwillou (Berhet, 1868). Princess ar Gwillou (Pluzunet). Ar C'hont Gwillou, Ploezal, 1871, recueilli par M. Chardin).<br>
+et dans les "Chants et danses des Bretons" de Quellien: Ar C'hont a Weto.<br>
+- Dans un périodique: Besco, Fureteur breton I (1905 -6)<br>
+<br>
+<b>Remarque</b><br>
+Le chant manuscrit est intitulé "Itronez ar Faouet" (La dame du Faouët). On peut donc que La Villemarqué s'apprêtait à entendre une autre version du chant dont il a tiré <a href="krouazouf.htm">L'épouse du croisé</a>. C'est sans doute pourquoi, il manque, pour la compréhension de l'histoire, plusieurs passages qu'il a remplacés par des lignes de points. On les a rétablis ici à partir d'un des textes recueillis par De Penguern,  "Comtesse de Goëlo" (strophes numérotées de A. à W., texte en italiques).
+</td>
+
+<td width=34% valign=center align=center>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 1er Carnet de Keransquer (p. 243).</h4>
+
+<img src="guillou.jpg" height=420 width=500 border=0 name=AP><br>
+<img src="guillist.jpg" height=48 width=400 usemap=#CARTE border=0><br>
+
+<MAP name=CARTE>
+
+<AREA onmouseover="document.AP.src='guillou1.jpg';" 
+onMouseOut="document.AP.src='guillou.jpg';"
+shape=RECT target=_blank coords=1,1,80,48 href="guillou1.mid">
+
+<AREA onmouseover="document.AP.src='guillou2.jpg';" 
+onMouseOut="document.AP.src='guillou.jpg';"
+shape=RECT target=_blank coords=81,1,160,48 href="guillou2.mid">
+
+<AREA onmouseover="document.AP.src='guillou3.jpg';" 
+onMouseOut="document.AP.src='guillou.jpg';"
+shape=RECT target=_blank coords=161,1,240,48 href="guillou3.mid">
+
+<AREA onmouseover="document.AP.src='guillou4.jpg';" 
+onMouseOut="document.AP.src='guillou.jpg';"
+shape=RECT target=_blank coords=241,1,320,48 href="guillou4.mid">
+
+<AREA onmouseover="document.AP.src='guillou5.jpg';" 
+onMouseOut="document.AP.src='guillou.jpg';"
+shape=RECT target=_blank coords=321,1,400,48 href="guillou5.mid">
+
+</map>
+<br>
+
+<audio src="guillou1.mp3" controls></audio><br>
+<audio src="guillou2.mp3" controls></audio><br>
+<audio src="guillou3.mp3" controls></audio><br>
+<audio src="guillou4.mp3" controls></audio><br>
+<audio src="guillou5.mp3" controls></audio><br>
+<br>
+
+<font size=-2> Arrangement Christian Souchon (c) 2015<br>
+(Illustration Henri Dimpre "Contes et Légendes de Champagne")</font><br>
+<br>
+
+</td>
+<td width=33% valign=top>
+<b>About the tunes</b><br>
+They are drawn from "Musiques bretonnes" (Gwerzioù ha Sonioù Breiz-Izel) by Maurice Duhamel, Paris, 1913, where they are directed to be sung to the different versions of "Ar c'hont Gwilhoù" published by  F-M. Luzel in "Gwerzioù II" (1874):
+<li> 1: N° 104, sung by Maryvonne Le Flem at Port-Blanc (Trégor)
+<li> 2: N°105, sung by Abbé Le Besça (Lower-Léon), contributed by  M. F. Vallée
+<li> 3: N°106, "Priñsez a Wilhoù", sung by Marguerite Philippe à Pluzunet (Trégor), phonographic record by F. Vallée
+<li> 4: N°214, recorded by M. P. Chardin at Ploëzal (Trégor). M. Chardin is Luzel's informant for this version of the song.
+<li> 5: "Ar c'hont a Weto", drawn from "Chants et Danses des Bretons", by Narcisse Quellien, published in 1889, sung by Louis Kerambrun, weaver, at Pleudaniel (Trégor) (the sound back ground for the present page).<br> 
+Versions 1 and 3 are made up of two 12 syllable lines (alexandrines), whereby the second line is repeated. Version 5 has the same structure with an additional 12 syllable and 6 syllable distich. Version 2 alternates 4, 6 and 5 syllable elements with a repetition of the second line. Version 4 also has an elaborate structure of lines of 9, 6 and 12 syllables.<br>  
+Versions 2, 3 and 5 are in the major mode, version 4 is notated in the minor mode (but it is very likely a hypodorian tune whose seventh note has been raised by half a tone). Version 1 is in the Gregorian chant mode.<br> 
+
+<br>
+<b>Bibliography</b><br>
+This gwerz was often collected. I will be found:<br>
+- In handwritten form, in Penguern 's MScollection, t. 89: "Ar Princess a Voetou" (= Gwerin 4); t. 91, 10: "Comtess a Welo - Comtesse de Goelo", 139: "Comt Goelo", 166: "Ar c'homtess a Woëlo"; t. 94, 80: "Ar gontess a Welo"; t. 95, 17: "Ar c'hontess a Gwoelo"; Ms. 1013 (Rennes): "Ar gontess a Welo" (=Bulletin archéoligique de l'Association Bretonne, 1906, Attachment).<br>
+- As a print, dans in the collection "Gwerzioù II" by Luzel: "Ar c'homt Gwillou" (Berhet, 1868). "Princess ar Gwillou" (Pluzunet). "Ar C'hont Gwillou", Ploezal, 1871, recorded by M. Chardin);<br>
+And in "Chants et danses des Bretons" by Quellien: "Ar C'hont a Weto".<br>
+- In a periodical: Besco, Fureteur breton I (1905 -6)<br>
+<br>
+<b>Remark</b><br>
+In La Villemarqué's MS, the song is titled "Itronez ar Faouet" (The Lady of Faouët). We may therefore infer that La Villemarqué expected another version of the song which he published as <a href="krouazouf.htm">The Crusader's Wife</a>. This should explain why several passages which are essential for understanding the story were replaced by lines of dots. They are restored here from one of the versions, recorded by De Penguern, of "Comtesse de Goëlo" (stanzas numbered from A. to W., texts in italics).<br>
+
+</td></table><br>
+
+
+
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=33% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>AR C'HONT GWILHOU</b></center><br>
+<br>
+<b>p. 243</b><br>
+<br>
+I<br>
+1. Me wel ar c'hont Gwilhou [1] war an hent ' tont d'ar ger <i>(div w.)</i><br>
+Hag araok dirazañ pevar c'hant marc'heger.<i>(div w.)</i><br>
+-pevar c'hant marc'heger.<br>
+<br>
+2. Pevar c'hant den armet zo gantañ war an dro,<br>
+- Deuit-c'hwi, va faj bihan, arestit v'inkane!<br>
+<br>
+3. Selaouit ur plac'hik war 'r menez o kanañ,<br>
+Hirio a zo seizh vloaz m'he gleviz diwezhañ.<br>
+<br>
+4. - Deuit-c'hwi, berjerennik, kanit ho kanaouenn,<br>
+Pehini kanec'h aze, barzh al lann bremañ-sonn -<br>
+<br>
+<i><font size=-2>[E "Comtesse de Goëlo" ur paourik bihan eo a zo klevet gant ar c'hont]</font><br>
+<br>
+A. - O salokras, Aotroù, salokras na rin ket.<br>
+Ma breur zo war ar mor,  aon 'm-eus na ve beuzet. [2]<br>
+<br>
+B. - Dal ta, paourik bihan, na kanit ar zon-se din<br>
+Ha pa koustfe triwec'h skoed pep poz anei din!<br>
+<br>
+C. - O salokras, Aotroù, salokras na rin ket.<br>
+Ma breur zo war ar mor,  aon 'm-eus na ve beuzet.<br>
+<br>
+D. - Na paourik bihan, kanit-c'hwi ar zon-se,<br>
+Pe me ya d'oc'h treuziñ bremañ gant va c'hleze! -<br>
+<br>
+E. Ar paourik bihan, gant aon koll he buhez,<br>
+Gomañsas da ganañ dezhañ e zon nevez:<br>
+<br>
+F. - Un dimezell yaouank deus a ger an Naoned<br>
+Zo dimeet nav miz zo, euredet na n'eo ket. [3]<br>
+<br>
+G. Un, daou pe tri deiz zo ez eo gwilioudet<br>
+Allas, siwazh dezhi maleüruz eo bet,<br>
+Da lazhañ he c'hrouadur hep bezañ badezet.</i><br>
+<br>
+5. O bezañ ar map-se ken kaer evel an deiz,<br>
+Seblantout bezañ map d'ur priñs, pe d'ur roue... -<br>
+<br>
+<i>H. - Sesit paourik bihan, sesit ho kanaouenn!<br>
+Bleset 'peus va c'halon, na c'houlan klevout ken! -<br>
+<br>
+I. Hag eñ lakas e zorn e godell e livitenn<br>
+Ha roas dezhañ eizh skoed e-barzh en aour melen.</i><br>
+<br>
+
+II<br>
+<i>J. Ar priñsez gozh lare e kampr d'he merc'h henañ<br> 
+Pa bigne 'n deiz a oa: - Petra vo graet bremañ?<br> 
+<br>
+K. Aotrou Doue! va merc'h, petra a vezo graet?<br>
+Erru ar c'hont e kêr, ma vefet eureujet. -<br> 
+<br>
+L. Bezañ 'n-deus ur c'hoar a zo koant a giz<br>
+A gorf hag a vizaj, henvel e oa outi.</i><br>
+<br>
+6. - Dallit-c'hwi, va mamm-gaez, dallit va alc'hwezioù<br>
+Hag it-c'hwi d'am c'hambr <i>wenn</i> kerc'hat va braverioù!<br>
+<br>
+7. Ha digasit ganeoc'h va sae ruz-inkarnal<br>
+Evit lakaat d'am <i>c'hoar, </i>pa antreo er zal.</b>.<br>
+<br>
+8. - Na gwiskit hi, va <i>merc'h</i>, gwiskit propik ha koant,<br>
+<i>Ar senturenn gaerañ, an dantelezh arc'hant!</i><br>
+<br>
+III<br>
+<i>M. - <font size=-2>Bonjour deoc'h, merc'h yaouank, bonjour! Gant ho liv koant,</font><br>
+Ho feson a ziskouez oc'h ur plac'h pasiant.<br>
+<br>
+N. N'eo ket c'hwi an hini a oa din-me dimezet!<br>
+En bev pe en marv e renkan he kavet. -<br>
+<br>
+</i>IV<i><br>
+O. - O Doue, va merc'h kaezh, petra a vezo graet?<br>
+Refuzet eo ho c'hoar, c'hwi a renk da gavet<br>
+<br>
+P. Va mamm, di-aesit an dristañ va habijoù,<br>
+C'hoazh a vo ge awalc'h evit soufr ar marv! -<br>
+<br>
+Q. Va mamm, di-aesit din va habit arvoulous,<br>
+Ma wiskit dindani va c'hotilhonenn rous!<br>
+<br>
+R. Deus va c'hoefoù noz diaesit ar bravañ<br>
+Gante eo ervad e vin manet klañv.<br>
+<br>
+</i>V<i><br>
+S. - Demat deoc'h, merc'h yaouank, demat, gant ho liv pal!<br>
+Dindan an dilhad-se e dougit ho klac'har!</i><br>
+<br>
+9. - Dindan ar zae-se zo flouridaj kuzhet<br>
+<i>Pelec'h ema ar verc'h pe map ho-peus ganet?</i><br>
+<br>
+10. - Me gar bout kenfontet evel amann rouzet,<br>
+N'am-eus biskoazh <i>na merc'h, na map, Aotroù,</i>  ganet!<br> 
+<br>
+<i>T. Hag eñ 'tapout he dorn neuse war he feultrin:<br>
+A zilampas al laezh deus he c'habit satin.</i><br>
+<br>
+</i>VI<i><br>
+11. - Deuit aman, sonerien! Sonit ar paz kaerañ!<br>
+Setu am-eus kavet, an hini a garan!<br>
+<br>
+12. <i>Alo, va sonerien,</i> sonit ur gabotenn! <br>
+Ez aimp va mestrez koant ha me war an dachenn.<br> 
+<br>
+<i>U. - Tri miz hanter zo 'boe ma on gant an derzhienn,<br>
+N'on-me vit chom er zal d'ober ar gabotenn. -<br>
+<br>
+V. Hag eñ tapout e dorn war e pognard arc'hant<br>
+ 'N-neus he flañta en he c'halon, neuze, souden.<br>
+<br>
+W. - Homan oa an naontekvet am-boa dimezet,<br>
+Heb biskoazh hini n'am-eus bet euredet. - [4]<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+<br>
+</td>
+<td width=34% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>LE COMTE GUILLAUME</b></center><br>
+<br>
+<b>p. 243</b><br>
+<br>
+I<br>
+1. Je vois, précédé de quatre cents cavaliers, <i>(bis)</i><br>
+Vers le bourg le comte Guillaume [1] s'avancer, <i>(bis)</i><br>
+- Guillaume s'avancer.<br>
+<br>
+2. Oui, par quatre cents hommes d'armes escorté,<br>
+- Mon page, tiens mon cheval, je veux m'arrêter!<br>
+<br>
+3. J'entends le chant d'une fille à l'orée du bois:<br>
+Sept ans que je n'ai plus entendu cet air-là.<br>
+<br>
+4. - Bergère, approche donc, chante-moi la chanson<br>
+Que tu chantais sur la lande au creux du buisson! -<br>
+<br>
+<i><font size=-2>[Dans "Comtesse de Goëlo" c'est un petit mendiant que le comte a entendu.]</font><br>
+<br>
+A. - Seigneur, excusez-moi, mais je n'en ferai rien: <br>
+Je craindrais de noyer mon frère: il est marin. [2]<br>
+<br>
+B. - Allons, petit, allons, tu chanteras pour moi<br>
+Et dût-il m'en coûter dix-huit écus, ma foi!<br>
+<br>
+C. - Seigneur, excusez-moi, je ne dois pas chanter: <br>
+Mon frère, le marin, je crains de le noyer.<br>
+<br>
+D. - Chante, petit mendiant, Assez de simagrées,<br>
+Ou bien je te transperce avec ma longue épée! -<br>
+<br>
+E. Notre petit mendiant qui tenait à la vie,<br>
+Lui chanta donc cette nouvelle mélodie:<br>
+<br>
+F. - Une fille de Nantes s'était fiancée<br>
+Neuf mois plus tôt sans s'être encore mariée. [3]<br>
+<br>
+G. Il y a deux ou trois jours, elle accoucha, dit-on.<br>
+Hélas, la malheureuse a tué son garçon<br>
+Sans que l'eau du baptême ait coulé sur son front.</i><br>
+<br>
+5. C'était un fils beau comme le soleil. Je crois<br>
+Que son père était prince, ou bien qu'il était roi... -<br>
+<br>
+<i>H. - Arrête ta chanson: elle est triste à cur fendre!<br>
+J'en ai l'âme blessée; je ne veux plus l'entendre! -<br>
+<br>
+I. Puis il tira d'une poche de son manteau<br>
+Huit écus d'or qu'il a remis au pastoureau.</i><br>
+<br>
+
+II<br>
+<i>J. La mère de la belle est montée ce jour-là<br> 
+Dans sa chambre disant: Que ferons-nous, dis-moi?<br> 
+<br>
+K. Ma fille, au nom de Dieu, dis-moi que ferons-nous?<br>
+Le comte en ville vient pour être ton époux. -<br> 
+<br>
+L. Elle avait encore une fille bien tournée <br>
+De visage et de corps, semblable à son aînée.</i><br>
+<br>
+6. - De mes coffres, pauvre mère, voici les clés:<br>
+J'y range tous mes plus beaux atours. Prenez-les!<br>
+<br>
+7. Ma robe rouge écarlate n'oubliez pas.<br>
+Pour entrer dans la salle ma <i>sur</i> la mettra.</b>.<br>
+<br>
+8. - Revêts-moi donc, ma <i>fille</i>, afin d'être jolie,<br>
+<i>Ceinture d'or, dentelles d'argent, je te prie!</i><br>
+<br>
+III<br>
+<i>M. - Bonjour, jeune fille, bonjour! Votre pâleur,<br>
+Ainsi que vos façons trahissent votre cur.<br>
+<br>
+N. Vous n'êtes point celle à qui je suis fiancé!<br>
+Celle-là, morte ou vive, je veux la trouver. -<br>
+<br>
+</i>IV<i><br>
+O. - Mon Dieu, ma pauvre fille, alors, que ferons-nous?<br>
+Il refuse ta sur. C'est toi qu'il veut. C'est tout.<br>
+<br>
+P. Ma mère, il me faut mes plus tristes vêtements,<br>
+Ils seront assez gais pour le sort qui m'attend! -<br>
+<br>
+Q. Ma mère, décousez mon habit de velours,<br>
+Mon jupon couleur sang dépassant tout autour!<br>
+<br>
+R. De mes coiffes de nuit, prenez la plus jolie,<br>
+De celles que j'avais pendant ma maladie.<br>
+<br>
+</i>V<i><br>
+S. - Jeune fille, bonjour, jeune fille au teint pâle!<br>
+A quel chagrin ces atours servent-ils de voile?</i><br>
+<br>
+9. - Cette robe recèle une manuvre immonde:<br>
+<i>Où se trouve l'enfant que vous mites au monde?</i><br>
+<br>
+10. - Je veux être fondue comme beurre roussi,<br>
+Si j'enfantai jamais, Monseigneur, <i>fille  ou fils</i>!<br> 
+<br>
+<i>T. Alors, sur sa poitrine, il a pressé sa main:<br>
+Et le lait a jailli sur l'habit de satin.</i><br>
+<br>
+VI<br>
+11. - Ménétriers, venez! Sonnez vos plus beaux pas!<br>
+Car celle que j'aime est à nouveau près de moi!<br>
+<br>
+12. <i>Allons, sonneurs, allons</i>, sonnez une gavotte! <br>
+Ma maîtresse jolie, je prends votre menotte...<br> 
+<br>
+<i>U. - J'ai souffert de la fièvre, trois mois et demi.<br>
+Danser la gavotte avec vous, je ne le puis. -<br>
+<br>
+V. On le vit se saisir de son poignard d'argent<br>
+Il le lui planta dans le cur, soudainement.<br>
+<br>
+W. - Dix-neuf filles auxquelles je fus fiancé,<br>
+Sans que je n'en épousasse aucune jamais! - [4]<br>
+<br>
+<font size=-2>Traduction Christian Souchon (c) 2015</font>
+</TD>
+<td width=33% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>EARL WILLIAM</b></center><br>
+<br>
+<b>p. 243</b><br>
+<br>
+I<br>
+1. I saw Earl William [1] riding to our town, ahead <i>(twice)</i><br>
+Of him a train of four hundred troopers were spread. <i>(twice)</i><br>
+- all his troopers were spread.<br>
+<br>
+2. Four hundred men in arms who spread along the road,<br>
+- My page, here is my horse, for long enough I rode!<br>
+<br>
+3. Now hark, a lass's voice on the hill don't you hear?<br>
+I've not listened to it for these past seven years.<br>
+<br>
+4. - Come on, shepherdess, come on! Would you sing the song<br>
+You were singing? To hear it to the end I long. -<br>
+<br>
+<i><font size=-2>[In "Comtesse de Goëlo" the singing shepherdess is a poor shepherd boy]</font><br>
+<br>
+A. - O with your leave, my Lord, with your leave, I will not,<br>
+For it could cause my brother at sea to be lost. [2]<br>
+<br>
+B. - I'll hear it, little beggar, and I do insist<br>
+Aye, should it cost me eighteen pence for each couplet!<br>
+<br>
+C. - O with your leave, my Lord, with your leave, I will not,<br>
+My sailor brother is at sea. He could be lost.<br>
+<br>
+D. - That I should not lose my temper, my lad, take care<br>
+<font size=-2>My blade through your heart, instead, could then be your share! -</font><br>
+<br>
+E. The shepherd full of fear lest he should lose his life,<br>
+Now started his new song of the Earl's future wife:<br>
+<br>
+F. - A lady of Nantes has, as the rumour was spread,<br>
+Been engaged for nine months, but she had not yet wed. [3]<br>
+<br>
+G. One, two, three days ago, she delivered a child.<br>
+Alas, alas, as she feared she would be reviled,<br>
+She killed the newborn child, before it was baptized.</i><br>
+<br>
+5. It was a little boy, was as fair as the sun,<br>
+Must have been of a prince or of a king a son... -<br>
+<br>
+<i>H. - Now stop it, shepherd! Of it I shall hear no more!<br>
+Your song did hurt my heart and I am distressed sore! -<br>
+<br>
+I. Then he stuck his hand in the pocket of his coat<br>
+And produced eight gold crowns for the boy with the goat.</i><br>
+<br>
+
+II<br>
+<i>J. The old princess went upstairs to her daughter's room<br> 
+And said: - What shall we do? We must decide it soon.<br> 
+<br>
+K. My God! What shall we do? My daughter, if you knew:<br>
+The Earl now is in town and wants to marry you. -<br> 
+<br>
+L. The princess had a younger daughter who was fair<br>
+Resembling her sister, had about her an air.</i><br>
+<br>
+6. - My mother, I entrust you with this key of mine<br>
+Go to my room and fetch the clothes you will find!<br>
+<br>
+7. Do not forget my dress of scarlet and the shawl<br>
+That my sister shall wear on entering the hall.</b>.<br>
+<br>
+8. - Now, <i>daughter</i>, put it on, you will wear it with grace<br>
+<i>Along with a fine belt adorned with silver lace!</i><br>
+<br>
+III<br>
+<i>M. - Good day to you, young girl with a fair complexion,<br>
+Your stiff deportment hints at patient submission!<br>
+<br>
+N. You're not the one who was engaged to marry me!<br>
+Alive or dead I must find out where she may be. -<br>
+<br>
+</i>IV<i><br>
+O. - O God! What shall we do? I ask you for advice.<br>
+He turned your sister down, wants you at any price.<br>
+<br>
+P. My mother, you shall bring the sadest dress you find,<br>
+T' will be merry enough for what he has in mind! -<br>
+<br>
+Q. My mother you shall bring my fine dress of velvet,<br>
+Lets show below it my petticoat of scarlet!<br>
+<br>
+R. Of the nightcaps I wore the handsomest you'll bring, too<br>
+To mark that I was sick and may be sick anew .<br>
+<br>
+</i>V<i><br>
+S. - - Good day to you, young girl with a fair complexion!<br>
+Does this sad attire hide your profound dejection?</i><br>
+<br>
+9. - Or does it hide some trick involving a bastard?<br>
+<i>Where is the son or the daughter you delivered?</i><br>
+<br>
+10. - May I, alive, be browned in a pan like butter,<br>
+If I ever gave birth <i>to a son or daughter</i>!<br> 
+<br>
+<i>T. But he seized her hand and pressed it on her bosom:<br>
+And a squirt of milk was sent up on the satin.</i><br>
+<br>
+</i>VI<i><br>
+11. - Come on, pipers, come on! Come play your finest dance!<br>
+To find again the lass I loved, I had the chance!<br>
+<br>
+12. <i>Come on, pipers, come on,</i> play a gavotte, somehow!<br>
+For my sweetheart and I will tread the dance floor now.<br> 
+<br>
+<i>U. - Three months and a half I've been suffering of fever;<br>
+I don't feel like dancing a dance whatsoever. -<br>
+<br>
+V. But he has grasped his knife with a sharp silver blade<br>
+And suddenly plunged it in the heart of the maid.<br>
+<br>
+W. - She was the nineteenth lass to whom I was engaged,<br>
+But never did my wooing result in marriage. - [4]<br>
+<br>
+
+<font size=-2>Translated by Christian Souchon (c) 2015</font>
+</td></tr></TABLE><br>
+<h3>NOTES</h3>
+<table width=100%>
+<td width=50% valign=top>
+[1] Selon les versions "Guillou" (=Guillaume) est remplacé ou complété par "de Goëlo", ou encore  "(W)oetou" que Luzel interprète comme "du Poitou". La fiancée infidèle est parfois appelée "Comtesse de Pinblan (Pain-blanc?)". Il ne paraît cependant pas possible de rattacher cette ballade à des personnages réels précis.<br>
+<br>
+[2] Sans doute parce que chaque chant triste répété, comme chaque verre qui tinte (selon Gilbert Bécaud), est un marin qui meurt.<br>
+<br>
+[3] Dans la seconde version de "La Comtesse de Goëlo" dans le tome 91 des manuscrits de Penguern, la seconde strophe dit, à propos de cette princesse :<br>
+"Pehini zo dimeet dre ur c'has lizheroù/ Da vravañ priñs yaouank a vale e Poëtou"<br>
+"Laquelle fut fiancée, par un envoi de lettres/ Au plus beau jeune prince que le Poitou vit naître".<br>
+<br>
+[4] Cette conclusion est commune à plusieurs gwerzioù.<br>
+Dans une autre version, le comte demande aux sonneurs de jouer un air de deuil ("sonit barzh en kañvioù") pour marquer son veuvage.<br>
+Comme le signale N. Quellien dans "Chansons et danses des Bretons" cette gwerz "remonterait plus haut que notre époque d'assises et de jurés. Elle en est encore aux coutumes locales. [Elle nous montre moins] un fiancé abusé, qu'un seigneur exerçant sur ses terres ou dans sa ville un droit particulier de justice. Ce droit de vie ou de mort n'est même pas contesté par la victime.<br>
+<font color=blue><br>
+[5] Depuis la publication en ligne du 2ème carnet de Keransquer en novembre 2018, on sait que ce manuscrit contient, p. 212 et 219, 8 strophes  et un résumé des strophes sautées qui permettent de reconstituer la seconde partie de la gwerz. On les trouvera ci-après.<br>
+<br>
+La page suivante, p. 220,  commence par une transcription de la mélodie de <a href="../lezbreiz.htm">Lez-Breizh</a> telle que F. Silcher l'avait modifiée, suivie de la description de la <b>Fête du Bouc</b>:<br>
+<i>"Celui qui est le dernier à couper son blé noir (1) dans les montagnes, trouve, un beau
+matin, un bouc empaillé, au coin de sonchamp : On le porte la nuit avec torches
+de résine & force cris. "<br>
+(1)  Le blé noir vient du diable et le blé de Dieu.</i><br>
+<br>
+[7] M. Jérémy Loysance suggère de voir dans le comte Guillaume de la gwerz, le héros de la tragédie imprimée à Morlaix en 1815, "Saint Guillaume, comte de Poitou" (Tragedien Sant Guillarm, condt deus a Poetou) que l'on doit à un ouvrier de la manufacture de tabac de Morlaix, Joseph Coat (Jobig Koad, 1789-1858).<br>
+Cet écrivain très prolifique (selon Anatole Le Braz, il aurait composé plus de 300 pièces en breton qui sont restées sous forme de manuscrits) 
+interprétait lui-même ses pièces à la tête d'une compagnie qu'il avait fondée à Morlaix.<br>
+Le style de cet auteur n'incite guère à se plonger dans les 128 pages couvertes d'alexandrins bretons émaillés de mots français qui constituent cette pièce de théâtre. Cependant l'examen de la liste des personnages et un survol du texte montrent qu'il ne comprend pas de scène qu'on puisse rapprocher de la gwerz. Pages 119 à 122 Guillaume discute avec une jeune fille, mais celle-ci n'est autre que le diable venu tenter le saint personnage, Sant Guillarm, qu'est devenu le comte (ar C'hondt) à partir de la page 97. C'est au cours d'un entretien avec Saint Bernard de Clairvaux qu'intervient la conversion de ce personnage présenté au début comme rapace et sans scrupule.<br>
+Cela ne prouve pas pour autant que le comte Guillaume dont la jalousie fait un criminel dans la gwerz ne soit pas le héros de la pièce, Guillaume VIII de Poitou, né en 1099 à Toulouse et mort le 9 avril 1137 à Saint-Jacques-de-Compostelle.<br> 
+Ce comte de Poitou et duc d'Aquitaine, fils de Guillaume IX d'Aquitaine, dit le Troubadour, auquel il succède et père d'Aliénor d'Aquitaine qui fut tour à tour reine de France en 1137, puis reine d'Angleterre en 1152, devint, à la fin du Moyen Âge, un personnage de légende, en partie confondu avec Guillaume de Gellone (750-812) et saint Guillaume de Maleval, un ermite mort en 1157 à lorigine de lordre des Guillemites.
+
+
+
+
+
+
+</font></td>
+<td width=50% valign=top>
+[1] Depending on the version, "Guillou" (= William) is replaced or completed  by "Goëlo", or else by "(W)oetou" which Luzel translates as "Poitou" (the Poitiers area). The unfaithful bride is sometimes dubbed "Comtesse de Pinblan (White-Bread?)". However, it is impossible to link this ballad to historically recorded events.<br>
+<br>
+[2] Possibly because a repeated sad song is as ominous as clinking glasses, which, according to certain sayings, causes sailors at sea to die.<br>
+<br>
+[3] In the second version of "Comtesse de Goelo" in Book 91 of the  de Penguern MS, stanza 2 states, concerning this princess:<br>
+"Pehini zo dimeet dre ur c'has lizheroù/ Da vravañ priñs yaouank a vale e Poëtou"<br>
+"Who was betrothed by an exchange of correspondence / To the handsomest Prince of Poitou".<br>
+<br>
+[4] This conclusion is common to several gwerzioù.<br>
+In another version, the Earl orders the pipers to play a mourning air ("sonit barzh en kañvioù") to mark that he has become a widower.<br>
+As stated by N. Quellien in "Chansons et danses des Bretons" this gwerz "takes us further back than our time of jurymen and courts of assizes. Local customs still prevail. [It features] a fooled fiancé, but above all a lord  exercising judicial powers over his lands or his town, whose right of life or death is in no way questioned by his victim.<br>
+<font color=blue><br>
+[5] Since the online publication of Keransquer notebook N°2 in November 2018, we know that this manuscript contains, on pages 218 and 219, 8 stanzas and a summary of the skipped stanzas which make it possible to reconstruct the second part of the gwerz. They are found below.<br>
+<br>
+The next page, p. 220, begins with a transcription of the melody of <a href="../lezbreiz.htm"> Lez-Breizh </a> as modified by F. Silcher, followed by the description of the <b> Stuffed Goat celebration</b>: <br>
+<i> "The one who is the last to cut his buckwheat (1) in the mountains, finds, one morning, a stuffed goat in a corner of his field: They carry the goat at night with torches of resin, loudly crying. "<br>
+(1) Buckwheat comes from the devil and wheat from God. </i><br>
+<br>
+[7] Mr. Jérémy Loysance suggests seeing in Count Guillaume in the Breton lament, the hero of the tragedy printed in Morlaix in 1815, "Saint Guillaume, Count of Poitou" (Tragedien Sant Guillarm, condt deus a Poetou) written by a worker in the Morlaix tobacco factory, Joseph Coat (Jobig Koad, 1789-1858).<br>
+This very prolific writer (according to Anatole Le Braz, he composed no less than 300 pieces in Breton which remained in ms form) 
+used to perform his own pieces at the head of a theatre company he had founded in Morlaix.<br>
+The style of this author hardly encourages one to delve into the 128 pages covered in Breton alexandrines, interspersed with French words, which encompasses this play. However, examination of the list of characters and an overview of the text show that it does not include a scene to be paralleled to the gwerz. Pages 119 to 122 Guillaume talks with a young girl but she is none other than the devil who has come to tempt the holy character, Sant Guillarm, i.e. the count (ar C'hondt) who has become a saint as from page 97. It was during an interview with Saint Bernard of Clairvaux that the conversion of this character, presented at first as rapacious and unscrupulous, took place.<br>
+This does not imply, however, that Count William, whose jealousy makes him a criminal in the gwerz, is not the hero of the play, William VIII of Poitou, born in 1099 in Toulouse and died on April 9, 1137 in Saint-James of Compostella.<br>
+This Count of Poitou and Duke of Aquitaine, son of William IX of Aquitaine, known as "the Troubadour", whom he succeeded and father of Eleanor of Aquitaine who was in turn Queen of France in 1137, then Queen of England in 1152, became, at the end of the Middle Ages, a legendary character, partly confused with William of Gellone (750-812) and Saint William of Maleval, a hermit who died in 1157 at the origin of the order of the Guillemites.
+</font></td>
+</table><br>
+<br>
+<h2>Extrait du carnet N° 2</h2>
+<h3>Excerpt from copybook N° 2</h3>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=33% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>LE CHEVALIER</b></center><br>
+<br>
+<b>p. 218</b><br>
+<br>
+L. - Ma mammig kaezh mar am charit,<br>
+Va choar yaouank a gwiskfet,<br>
+Lakait dezhi ma dilhad eured!<br>
+<br>
+<b> p. 219 / 131<br>
+</b><br>
+<i>Chanson <strike> (Bodelio) </strike></i><br>
+<br>
+6. Lakait dezhi ma diamanchoù<br>
+Ha war he fenn ma boukedoù.-<br>
+<br>
+N. Ar plach pa oa bet degaset:<br>
+- N'eo ket houmañ eo ma fried.<br>
+<br>
+<i>(On lui mène la 2e) 
+Enfin on lui amène sa femme et il fait la même réponse. Il prie sa femme à danser  il organise une fête...</i><br>
+<br>
+11. - Sonerien, sonit un ton nevez<br>
+Kollet ma gwreg - adkavet eo.<br>
+<br>
+12. Soner,soner, sonit dous<br>
+Hag a zañsfe gant ma dous ! <br>
+<br>
+12bis. Kent vit ober un dro-dañs,<br>
+Kement a gred 'r gwall-chañs ;<br>
+<br>
+V. E c'hle(z)e en-deus tapet<br>
+En he galon -deus hen plantet.<br>
+...<br>
+W. - Me am-eus daouzek a vugale.<br>
+Te az-peus lazhet neb o mage.<br>
+=<br>
+</td>
+<td width=34% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>LE CHEVALIER</b></center><br>
+<br>
+<b>p. 218</b><br>
+<br>
+L. - Ma pauvre mère, si vous m'aimez<br>
+Ma jeune soeur vous la revêtirez,<br>
+Vous la revêtirez de ma robe de mariée!<br>
+<br>
+<b> p. 219 / 131<br>
+</b><br>
+<i>Chanson <strike> (Bodelio) </strike></i><br>
+<br>
+6. Mettez-lui mes diamants<br>
+Et ma couronne de fleurs.-<br>
+<br>
+N. C'est la jeune fille qui se présenta:<br>
+- Celle-ci n'est pa ma femme.<br>
+<br>
+<i>(On lui mène la 2e) 
+Enfin on lui amène sa femme et il fait la même réponse. Il prie sa femme à danser  il organise une fête...</i><br>
+<br>
+11. - Sonneurs, jouez-nous une musique nouvelle<br>
+J'avais perdu ma femme - Elle est retrouvée.<br>
+<br>
+12. Sonneur, sonneur, jouez moins fort<br>
+Que je danse avec ma douce! <br>
+<br>
+12bis. Avant de faire un tour de gavotte,<br>
+Pour conjurer (pour autant qu'on croie à) la guigne,<br>
+<br>
+V. Son épée il a saisie<br>
+Et la lui a plantée en plein coeur.<br>
+...<br>
+W. - J'ai une douzaine d'enfants.<br>
+Tu a tué celle qui les nourrissait. -<br>
+=<br>
+</TD>
+<td width=33% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>THE KNIGHT</b></center><br>
+<br>
+<b>p. 218</b><br>
+<br>
+L. - My poor mother, if you love me <br>
+My young sister you will dress up, <br>
+She shall wear my wedding dress! <br>
+<br>
+<b> p. 219/131 <br>
+</b> <br>
+<i> Song <strike> (Bodelio) </strike> </i> <br>
+<br>
+6. Let her be adorned with my diamonds<br>
+And my wedding flower wreath. - <br>
+<br>
+N. It was the young sister who came forth <br>
+- This one is not my wife. <br>
+<br>
+<i> (The 2nd daughter enters). At last his wife appears. He first gives the same answer. Then he asks his wife to dance. He sets up a dance party.</i> <br>
+<br>
+11. - Pipers, play us some new tune <br>
+I had lost my wife - I've found her again. <br>
+<br>
+12. Piper, piper, play less loudly <br>
+That I may dance with my sweetheart! - <br>
+<br>
+12bis. Before dancing a suite of gavotte, <br>
+To ward off (as far as we believe in) bad luck <br>
+<br>
+V. His sword he seized <br>
+And planted it in her heart. <br>
+... <br>
+W. - I have a dozen children. <br>
+You killed the one who fed them. - <br>
+= <br>
+
+
+
+
+</td></tr></TABLE><br>
+<br>
+<embed src="guillou5.mid" height="60" autostart="true"><br>
+<audio src="guillou5.mp3" controls></audio><br>
+<br>
+<img src="GuillaumeX.jpg" width=25%><br>
+<br>
+Guillaume X d'Aquitaine (1099-1137)<br>
+par Marten Pepijn vers 1643. (Musée des Beaux-Arts de Valenciennes).<br>
+<br>
+<a href="otistrei.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="merdeidi.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 

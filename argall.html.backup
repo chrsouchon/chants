@@ -1,0 +1,697 @@
+<HTML>
+<HEAD>
+    <meta charset="UTF-8">
+<TITLE>Kloareg Ar Gall</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to Ar vinorez">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Manac'h Gwilhaouig Ar Gall, Le moinr Guillaume Le Gall, Monk William Le Gall, La Villemarqué, Keransquer">
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>Manac'h Gwilhaouig Ar Gall</h1>
+<h2>Le moine Guillaume Le Gall</h2>
+<h3>Friar William Le Gall</h3>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (pp. 141 / 75 - 142 et 211 /127 - 211 bis) .</h4>
+
+<img src="plourin.jpg" width=600><br>
+<br>
+<audio src="plourin.mp3" preload="audio" controls>Mélodie</audio><br>
+<font size=-1><i>"Kabusin Ar Gwenn", Arrangement Léon-Marie Louyer de Villermay (1852-1914)</i></font><br>
+<br>
+<table width=100%>
+<td width=36% valign=top><font size=-1>
+<b>A propos de la mélodie:</b><br>
+Il s'agit ici de "Kloarek Plourin", tiré de "Musiques bretonnes" de Maurice Duhamel (1913), p. 89, chant N° 177, interprêté par Marguerite Philippe à Pluzunet pour un enregistrement phonogarphique de F. Vallée destiné à la Faculté des Lettres de Rennes. <br>
+Le chant de référence est la version collectée par F-M. Luzel dans ses "Gwerzioù", tome II, page 360, "Kloarek Plourin", le "Clerc de Plourin".<br>
+L'harmonisation reproduit largement celle composée par le violoniste Léon-Marie Louyer de Villermay (1852-1914) pour une version de cette gwerz chantée par Marguerite Philippe et publiée sous le titre "Kabusin ar Gwen" (le Capucin Le Guen) dans la "Revue de Bretagne" par F. Vallée. Celui-ci écrit:<i>" La mélodie de Kabusin ar Gwen est fort belle et peut prendre rang à côté de celles de "Ar Baradoz" et de "Treinded Santel" pour l'expression du sentiment religieux. De plus ... elle appartient à un <a href="../musique.html">mode ancien</a> que M. Bourgault-Ducoudray ne mentionne pas dans son recueil..."</i><br>
+Le compositeur L; de Villermay indique dans une note qu'il s'agit du mode hypo-mixolydien et qu'il a utilisé dans son harmonisation  successivement l'harmonie grégorienne du 8ème mode et le contrepoint avec une harmonie "moderne" (en 1903).<br> 
+Autre exemple de ce mode: <a href="../fhirachu.mid">Fhir a chuil duinn as caoile mala</a> (a23, Jeune homme châtain aux beaux sourcils), un chant jacobite cryptique écossais.<br>
+<br>
+<b>A propos du texte</b><br>
+Le site <a href="https://tob.kan.bzh/chant-00152.html">Ton.kan.bzh</a> consacré à la classification Malrieu  donne à ce chant:<br>
+-  la référence M -00152 <br>
+- le titre critique breton : Ar chloareg choant gantañ bezañ kapusin<br>
+- le critique français : Le clerc qui veut être capucin<br>
+- le titre critique anglais : The cleric who wants to be a capuchin<br>
+- thèmes : résumés de vie, destinées, vies de personnages historiques<br>
+Il recense 5 versions et 8 occurrences, auxquelles il faut ajouter la présente version tirée du 2ème carnet et qui doit avoir été notée entre 1840 et 1844. Si la première partie du chant (str. 1 à 22) est séparée de la seconde (str. 23 à 41), c'est sans doute parce que, quand le chant a été noté, ces parties se trouvaient sur un même feuillet double, dans lequel un cahier de 17 autres feuillets doubles fut inséré par la suite, obligeant La Villemarqué à faire un renvoi: <i>"V. p. 127"</i><br>
+Parmi les collecteurs on retrouve les noms habituels : <br>
+- François Vallée  "Kabusin ar Gwen", 1903  (Marguerite Philippe, Pluzunet)<br>
+- François-Marie Luzel "Kloarek Plourin", 1864 (Anna Salic, Keramborgne) GBI II p. 360.<br>
+- Jean-Marie de Penguern, "Cabucin"- "Kloareg Kroaz ar Mendi", avant 1856 , MS 112, transcrit par J. Ollivier.<br>
+- Abbé Jean Mathurin Cadic "Mab ur prins bras galuet de chervij Doué / Vocation du fils dun grand prince", avant 1893, Revue Morbihanaise 1891-1913, p.312, et un collecteur inhabituel:<br>
+- Abbé Henri Duine de Kerbeuzec "Le capucin de Tromelin" , Plougasnou, avant 1896, "Cojoù Breiz", 1896 (en français).<br>
+La présente version est donc la première qu'on ait collectée. <br>
+<br>
+<b>Comparaison entre les versions</b><br>
+Le site Tob.kan.bzh indique:<br>
+<i>" - Le clerc de Huelgoat devient capucin dans un grand collège dEspagne (Vallée ne dit pas pourquoi il titre "Kapusin ar Gwenn").<br>
+- Le "Clerc de Kroas ar Mendy" va au couvent "Melin ar roue".<br>
+- Pour le "Clerc du manoir de Tromelin", sans préciser ses raisons, H. de Kerbeuzec date ce chant du XVIe siècle. Le manoir de Tromelin est situé en Plougasnou. Les ruines de sa chapelle, recueillies, ont formé le sanctuaire du couvent de Pontplancouet, dans la même paroisse.<br>
+- Le "Clerc de Plourin", de Huelgoat va au couvent de Perhet."</i><br>
+- Dans la présente version, le jeune homme s'appelle Guillaume le Gall, mais "Ar Gwenn" (Le Guen) est le nom de jeune fille de sa mère (str. 19). Cependant une variante (str. 22) la nomme "Marig Kelenn" (Marie Quélen). Le jeune homme entre chez les Capucins à Nantes. Il habite Huelgoat. Certaines strophes (le cortège de jeunes gens qui accompagnent son départ, dialogue à propos de son héritage) indiquent clairement que ce clerc est le fils de personnages riches et puissants.<br>
+Ce chant où s'exprime une foi profonde et sincère ne doit en aucun cas être rangé parmi les <a href="../kloaregf.html">"chansons de clercs"</a>.
+</td>
+<td width=28% valign=center align=left><font size=-2>
+<img src="capucin.png" width=90%><br>
+<br>
+</td>
+<td width=36% valign=top><font size=-1>
+<b>About the tune</b><br>
+This tune is titled "Kloarek Plourin", taken from "Musiques bretonnes" by Maurice Duhamel (1913), p. 89, song No. 177, performed by Marguerite Philippe in Pluzunet for a phonographic roll recording by F. Vallée intended for the Faculty of Letters in Rennes.<br>
+The lyrics connected to it are the version of the "Clerc de Plourin" collected by F-M. Luzel in his "Gwerzioù", volume II, page 360.<br>
+The present harmonization largely reproduces that composed by the violinist Léon-Marie Louyer de Villermay (1852-1914) for a version of this gwerz sung by Marguerite Philippe and published under the title "Kabusin ar Gwen" (Le Capucin Le Guen) in the " Revue de Bretagne "by F. Vallée. The latter writes: <i>"The melody of "Kabusin Ar Gwen" is very beautiful and can rank alongside those of "Ar Baradoz" and "Treinded Santel" for the intensity of religious sentiment. On the other hand ... it belongs to an old <a href="../musique.html">musical mode</a> that M. Bourgault-Ducoudray does not mention in his book ..." </i><br>
+The composer L. de Villermay states in a note that it is the hypo-mixolydian mode and that he used in his harmonization successively the Gregorian harmony of the 8th mode and the counterpoint with a "modern" harmony (in 1903).<br>
+Another instance of this unusual mode: <a href="../fhirachu.mid"> Fhir a chuil duinn as caoile mala </a> (a23, Brown-haired lad with thin eyebrows), a Scottish cryptic Jacobite song. <br>
+<br>
+<b>About the lyrics</b><br>
+The <a href="https://tob.kan.bzh/chant-00152.html">Ton.kan.bzh</a> site dedicated to the Malrieu classification ascribes to this song:<br>
+- the reference M -00152<br>
+- the Breton critical title: "Ar chloareg choant gantañ bezañ kapusin"<br>
+- the French critical title: "Le clerc qui veut être capucin"<br>
+- the English critical title: The clerk who wants to be a capuchin<br>
+- the themes: summaries of life, destinies, lives of historical figures<br>
+It lists 5 versions and 8 occurrences of this ballad, to which we should add the present version taken from La Villemarqué's Second Notebook, which should have been recorded between 1840 and 1844. If the first part of the song (str. 1 to 22) is separated from the second (str . 23 to 41), it is undoubtedly because, when the song was noted, these parts were on the same double sheet, into which a ream of 17 additional double sheets was subsequently inserted, causing La Villemarqué to add the hint: "See p. 127"<br>
+The collectors' names are the usual names:<br>
+- François Vallée "Kabusin ar Gwen", 1903 (sung by Marguerite Philippe, Pluzunet)<br>
+- François-Marie Luzel "Kloarek Plourin", 1864 (sung by Anna Salic, Keramborgne) GBI II p. 360.<br>
+- Jean-Marie de Penguern, "Cabucin" - "Kloareg Kroaz ar Mendi", before 1856, MS 112, transcribed by J. Ollivier.<br>
+- Father Jean Mathurin Cadic "Mab ur prins bras galuet de chervij Doué / Vocation of the son of a great prince", before 1893, Revue Morbihanaise 1891-1913, p.312 ... plus an unusual collector:<br>
+- Abbé Henri Duine de Kerbeuzec "Le capucin de Tromelin", Plougasnou, before 1896, "Cojoù Breiz", 1896 (in French).<br>
+The version at hand should be therefore the oldest record of this ballad with religious background.<br>
+<br>
+<b>Comparison between different versions</b><br>
+As stated on the Tob.kan.bzh site:<br>
+<i>"- The "Clerk of Huelgoat" becomes Capuchin in a large college in Spain (Vallée does not givr the reason for the title" Kapusin ar Gwenn ").<br>
+- The "Clerk of Kroas ar Mendy" goes to the convent "Melin ar Roue".<br>
+- As for the "Clerk of Tromelin Manor", without elucidating his reasons, H. de Kerbeuzec dates this song from the 16th century. Tromelin Manor is located near  Plougasnou. The remains of its dilapidated chapel were used to build the chapel  of the Pontplancouet convent in the same parish.<br>
+- The "Clerk of Plourin", a native of Huelgoat goes to a convent in Perhet."</i><br>
+- In the present version, the young man is called Guillaume le Gall, but "Ar Gwenn" (Le Guen) is the maiden name of his mother (str. 19). However a variant (str. 22) names her "Marig Kelenn" (Marie Quélen). The young man enters a  Capuchin convent in Nantes. He is a native of Huelgoat. Some stanzas (the procession of young people accompanying him when he leaves, the dialogue about his heritage) clearly show that he is the son of rich and powerful people.<br>
+This ballad where deep and sincere faith is expressed should by no means be classified among the usual <a href="../kloaregf.html">"kloareg ditties".</a><br>
+</td></table><br>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>MANAC'H GWILHAOUIG AR GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 75</b><br>
+<br>
+Le moine (Mélange avec la Complainte à Mr Nerval) [7]<br>
+<br>
+I<br>
+1. - Pemp bloaz war-nugent zo bremañ,<br>
+'Baoe me oan krouet er bed-mañ.<br>
+<br>
+2. Netra n'am-eus me perc'hennet<br>
+'Met ur galon leun a berched.<br>
+<br>
+3. Me a garfe bout er plasig<br>
+Lec'h ne glefin 'met an trouzig (X)<br>
+<br>
+<i>(en marge à gauche:)</i><br> 
+(X) 4. An trouzig d'eus ar preñved,<br>
+O krignat ar c'higoù marvet<br>
+O krignat prenn an arched,<br>
+<br>
+5. Lech ne glefin 'met ur pintig<br>
+Lec'h ne glevin netra bemde,<br>
+Ma mamm baour, 'met pediñ Doue. -<br>
+<br>
+6. - Gwell eo ganin, ma mab kloareg,<br>
+' Chomfech er ger ha bout beleg.<br>
+Plijadur m'am-eus ho kwelet<br>
+<br>
+7. Dar zul dho kwel't dre ar vered<br>
+Da ganañ dimp an oferenn-bred,<br>
+<br>
+8. - Micher ar beleg zo karguz.<br>
+Ma ene paour zo morc'heduz.<br>
+<br>
+9. - Ouzhpenn ar garg d'eus ec'h ene<br>
+D'eus ene re-all 'ma ivez.<br>
+<br>
+<i>(en marge gauche verticalement:) </i><br>
+ema / emaint<br>
+<br>
+<i>(en marge à droite)</i><br>
+10. - Ma zadig paour, mar ma c'harit,<br>
+Me a yey bremañ d'ar gouent.<br>
+<br>
+11. Choazit ar gouent a garfet,<br>
+N'hen ho lintr mar karit<br>
+<br>
+<b>P. 142</b><br>
+<br>
+12.  Gwell eo ganin, ma mamm, monet<br>
+Dar gouent dar Gabusined. [1]<br>
+<br>
+13. Lec'h ne glevin netra bemde<br>
+Nemet pedennoù da Zoué. <br>
+*********************************<br>
+II<br>
+14. Kriz vije 'r galon na ouelje<br>
+En Huelgoat neb a vije,<br>
+<br>
+15. Wel't an henchoù bras o leizhañ<br>
+Gant an dud yaouank na ouelfe,<br>
+<br>
+16. Gant an dud yaouank o ouelañ,<br>
+Kloareg Ar Gall o tiblasañ :<br>
+<br>
+17. - Keno, ma mamm, keno ma zat,<br>
+Dam choarezed, avañtur vad;<br>
+<br>
+18. Met dam breudeur ne laran ket<br>
+E zeuy d'an Naoned dam gwelet. - [2]<br>
+<br>
+19. - Janed ar Gwennig a lare<br>
+War an hent bras pa yae.<br>
+Da Gwilhaou r Gall  (Kloarek Gwenn) an deiz a oe: [3]<br>
+<br>
+20. - Itron Varia, en hoc'h iliz,<br>
+Gouarnet-c'hwi din ma yaouankiz!<br>
+*********************************<br>
+III<br>
+21. - Poent eo dit/dimp mont da wel't hor mab<br>
+Degas de(zh)añ ur gobrig (un dra) bennak.<br>
+<br>
+22. Janed ar Gwennig ( Marig Kelenn) a lare<br>
+E ker Naoned pa 'z errue:<br>
+<br>
+<i>(V. p. 127)</i>
+<br>
+<b>p 211 / 127</b><br>
+<br>
+23. - Aet eo ar bale-sakr en-dro,<br>
+Me a glev ma mab o kanañ.<br>
+<br>
+24. N'eo ket c'hoazh an oferenn-bred,<br>
+Ar proses en-dro d'ar vered.<br>
+<br>
+25. Me wel ma mab gwisket e gris,<br>
+Ur c'hordenn reun oc'h ober kriz.<br>
+<br>
+26. - Demat deoch, ma mab kloareg.<br>
+- Ha deoch ma zad deuet dam gwel't,<br>
+Ma mamm baour, hag he-deus yeched?<br>
+<br>
+27. - Yach eo, a drugarez Doue,<br>
+Deuet eo dho kwelet koulz ha me. <br>
+Ema e-maez amañ ganin.<br>
+<br>
+28. - O Itron Varia Druez!<br>
+Fidel eor vamm dar vugale! [4]<br>
+<br>
+29. Dont hanter-kant lev dam gwelet<br>
+Ha biskoazh n'am-eus (nam-boa ket) dellezet.<br>
+<br>
+30. - Ma mabig paour mar ma c'harit,<br>
+Bremañ pa z' eomp deut dho kwelet,<br>
+Petra diganimp a (choulit)  c'hoantait?<br>
+<br>
+31. - Netra diganeoch ne choulan<br>
+'Met ho kimiat da jom amañ.<br>
+<br>
+32. - C'hwi ho-po bennoz hon daou.<br>
+(Kimiat hon daou chwi ho-pefec'h) +<br>
+<br>
+33. Hag un nebeut d'eus hor madoù.<br>
+Ha lod eus ar madoù a zo.<br>
+<br>
+34. + Me bedo Doue noz ha deiz<br>
+M'am-bo ma lod e-barzh ane(zh)oc'h.<br>
+<br>
+35. Me bedo Doue deiz ha noz<br>
+M'am-bo ma lod er baradoz. (*)<br>
+<br>
+<b>p. 211 bis</b><br>
+<br>
+36. Mar 'm-eus madoù evit (heritaj) ma darn,<br>
+Roit dar beorien va bro dre rann.<br>
+<br>
+37. + Ma bedont Doue deiz ha noz<br>
+M'am-bo ma lod er baradoz. -<br>
+<br>
+38. Er menez Kalvar zo ur we(zh)enn,<br>
+Ar gaerañ welas den biken,<br>
+<br>
+39. Hag a renkan ar gwelllañ dindanañ<br>
+Kevret gant Mari Madalen. (**)<br>
+<br>
+40. Keno ma mamm, keno ma zad,<br>
+Keno en traonienn Jozafat!<br>
+<br>
+41. Barzh baradoz pe war-dro,<br>
+Gant gras Doue, ni nem gwelo. - [5] [6]<br>
+<br>
+(*) E stumm An Uhel: "N choulennan tra euz ho mado, /Met un dousenn mouchouero, / Da secha r glis hag an daero,/ Pa vinn prezek er parousio."<br>
+<br>
+(**) E stumm An Uhel: "War mene Kalvar zo ur groaz, / Ar gaera a welis biskoaz; / Eomp holl d sikour hi dougenn. / Sambles gant Mari Madalenn, / 
+Ni welo hon Zalver binniget / Ebars ar groaz krusifiet!"<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b> LE MOINE GUILLAUME LE GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 75</b><br>
+<br>
+Le moine  (Mélange avec la Complainte à Mr Nerval) [7]<br>
+<br>
+I<br>
+1. - Il y a ce jour vingt-cinq ans,<br>
+Que je suis venu dans ce monde.<br>
+<br>
+2. De biens je n'en ai point sinon  <br>
+Un coeur que la malice inonde.<br>
+<br>
+3. Je souhaite être en un lieu de deuil<br>
+Où je n'entendrais à la ronde (X)<br>
+<br>
+<i>(en marge à gauche:)</i><br> 
+(X) 4. Que le seul bruit des vers qui sondent,<br>
+Les chairs pourries qui se morfondent,<br>
+Ainsi que le bois du cercueil,<br>
+<br>
+5. Un seul chant: celui du pinson<br>
+Chaque jour donnant sa leçon<br>
+M'enseignant, mère, à prier Dieu. -<br>
+<br>
+6. -  Mon fils, tu sais que je préfère<br>
+-rais que tu sois le vicaire.<br>
+De ce bourg, afin que mes yeux<br>
+<br>
+7. Chaque dimanche au cimetière<br>
+Te voient à la messe en ces lieux.<br>
+<br>
+8. - Métier de prêtre est redoutable.<br>
+Et ma pauvre âme le pressent:<br>
+<br>
+9. Outre son âme, il est comptable<br>
+De celle d'autrui tout autant.<br>
+<br>
+<i>(en marge gauche verticalement:) </i><br>
+il est  / ils sont<br>
+<br>
+<i>(en marge à droite)</i><br>
+10. - Père, ai-je votre permission <br>
+De me retirer au couvent?<br>
+<br>
+11. - Choisissez-en un mon garçon!<br>
+Vous avez mon consentement.<br>
+<br>
+<b>P. 142</b><br>
+<br>
+12.  Mère, l'ordre que je préfère<br>
+Serait celui des Capucins.<br>
+<br>
+13. Chez qui l'on n'entend d'ordinaire<br>
+Rien d'autre qu'office divin. <br>
+*********************************<br>
+II<br>
+14. Qu'elle eût été cruelle l'âme<br>
+Qui par Huelgoat eût passé,<br>
+<br>
+15. Et n'eût, voyant sur la grand'route<br>
+Tous ces jeunes gens assemblés,<br>
+<br>
+16. A leurs pleurs mêlé quelques gouttes<br>
+Quand le clerc Le Gall s'en allait :<br>
+<br>
+17. - Adieu ma mère, adieu mon père<br>
+A mes soeurs ma bénédiction!<br>
+<br>
+18. Mais je ne vous dis rien, mes frères: <br>
+A Nantes nous nous reverrons. -<br>
+<br>
+19. - Jeannette le Guennic devise<br>
+Avec Guillot (avec le clerc Le Guen) tandis qu'il va<br>
+Sur la grand'route, ce jour-là:<br>
+<br>
+20. "Dame Marie en votre église<br>
+Prenez soin de mon jeune gars!"<br>
+*********************************<br>
+III<br>
+21. - Il est temps de rendre visite<br>
+A notre fils, de le doter.<br>
+<br>
+22. Et tandis qu'elle entrait à Nantes,<br>
+Jeannette Le Guennic ( Marion Le Quélen) disait<br>
+<br>
+<i>(Voir. p. 127)</i>
+<br>
+<b>p 211 / 127</b><br>
+<br>
+23. - La procession s'est mise en branle,<br>
+Et j'entends notre fils chanter.<br>
+<br>
+24. Ce n'est point encor la grand' messe:<br>
+Le tour d'église a commencé,<br>
+<br>
+25. C'est mon fils dans sa cotte grise,<br>
+Ceint d'un rude cordon de crin.<br>
+<br>
+26. - Mon fils le clerc, bonjour. - Mon père<br>
+Est là! Je brûle qu'on me dise<br>
+Si ma mère se porte bien.<br>
+<br>
+27. - Mais fort bien! A Dieu j'en rends grâce.<br>
+Elle est venue aussi vous voir. <br>
+Elle attend dehors sur la place.<br>
+<br>
+28. - La fidélité d'une mère,<br>
+O Notre-Dame de Pitié!<br>
+<br>
+29. Cinquante lieues qu'elle a dû faire:<br>
+En quoi l'aurais-je mérité?<br>
+<br>
+30. - Mon cher enfant, voici la cause<br>
+De notre venue. Tous les deux,<br>
+Voulons léguer nos biens au mieux.<br>
+<br>
+31. - De vous je n'attends qu'une chose:<br>
+L'accord pour rester en ces lieux.<br>
+<br>
+32. - Vous avez, soyez en sûr, notre<br>
+Accord et sans restriction +<br>
+<br>
+33. Quelques-uns de nos biens, en outre,<br>
+Et nous en avons à foison.<br>
+<br>
+34. + Passer nuit et jour en prière:<br>
+C'est ce qu'ici-bas j'ai requis.<br>
+<br>
+35. Prier Dieu des journées entières<br>
+Sera mon lot au paradis.(*) <br>
+<br>
+<b>p. 211 bis</b><br>
+<br>
+36. Je cède ma part d'héritage<br>
+Aux pauvres gens de mon pays.<br>
+<br>
+37. + Ils prieront Dieu. Leur parrainage <br>
+Me gagnera ce lieu béni. -<br>
+<br>
+38. Au mont Calvaire il est un chêne<br>
+Le plus beau que jamais l'on vit-<br>
+<br>
+39. Auprès de Marie Madeleine:<br>
+Où trouverais-je un tel abri? (**)<br>
+<br>
+40. Nous nous reverrons, père et mère,<br>
+Dans la vallée de Josaphat,<br>
+<br>
+41. Au paradis ou sa lisière,<br>
+Si Dieu permet que cela soit. -<br>
+<br>
+(*) Version Luzel: "Je ne demande rien de vos biens,/ Si ce nest une douzaine de mouchoirs,/
+Pour essuyer la sueur et les larmes,/ Quand je serai à prêcher dans les paroisses."<br>
+<br>
+(**)  Version Luzel: "Sur la montagne du Calvaire est une croix, / La plus belle que jamais je vis. /  Allons tous aider à la porter, /Avec Marie Madeleine, / Nous verrons notre Seigneur béni / Attaché sur la croix!"<br>
+<br>
+<i><font size=-2>Traduction  Christian Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>FRIAR WILLIAM LE GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 78</b><br>
+<br>
+The Capuchin friar (Mixed up with "Mr Nerval's Lament") [7]<br>
+<br>
+I<br>
+1. - Twenty-five years have passed by now <br>
+And I'm still living here below. <br>
+<br>
+2. I never have owned anything <br>
+Except a heart that's full of sin. <br>
+<br>
+3. I'd like to dwell in a recess <br>
+From all mundane ado to rest (X) <br>
+<br>
+<i> (left margin :) </i> <br>
+(X) 4. Hearing but the faint noise of worms <br>
+Gnawing at the flesh falling from<br>
+Dead bones and wood of coffin boards, <br>
+<br>
+5. A place where you hear finch's chord <br>
+And nothing else the whole long day, <br>
+Mother, than men of God who pray - <br>
+<br>
+6. - My son the clerk, I would find best<br>
+You might stay with us as a priest. <br>
+To see you I would be so glad:<br>
+<br>
+7. On Sundays the churchyard you had<br>
+To cross to sing High Mass for us <br>
+<br>
+8. - But being a priest is no light thing <br>
+My soul knows the load it may bring: <br>
+<br>
+9. Beside the load of your own soul <br>
+That of your parish as a whole . <br>
+<br>
+<i> (left margin vertically :) </i> <br>
+we have / they have <br>
+<br>
+<i> (right margin) </i> <br>
+10. - I beg as gift of my parents'<br>
+Bounty to go to the convent. <br>
+<br>
+11.- Please, choose the convent that you want, <br>
+If it is your choice, I consent. <br>
+<br>
+<b> P. 142 </b> <br>
+<br>
+12. - I prefer, my mother, to be <br>
+Sent to a Capuchin abbey. <br>
+<br>
+13. A place where friars always pray<br>
+To God and praise Him night and day - <br>
+********************************* <br>
+II <br>
+14. Cruel the heart of whoever may <br>
+In Huelgoat, keep his tears at bay, <br>
+<br>
+15. On seeing the highway filling up <br>
+With children, both small and grown up, <br>
+<br>
+16. Young people who're lamenting all<br>
+When departing from Clerk Legall! <br>
+<br>
+17. - Goodbye my mother, my father, <br>
+And good luck to you my sisters; <br>
+<br>
+18. To my brothers I say nothing:<br>
+In Nantes.we will soon be meeting - <br>
+<br>
+19. - Jeanne Leguennic as she rode <br>
+With the young clerk on the main road. <br>
+With Guillaume Legal (with the Clerc Leguen) said that day: <br>
+<br>
+20. - Virgin Mary, in your church, may <br>
+You take care of my boy always! <br>
+********************************* <br>
+III <br>
+21. - It's time we went and saw our son <br>
+And that his heirloom right be done. <br>
+<br>
+22. Jeannette Leguennic (Marion Le Quélen) said on<br>
+Arriving that day in Nantes town: <br>
+<br>
+<i> (See p. 127) </i>
+<br>
+<b> p 211 / 127 </b> <br>
+<br>
+23. - Around the church the procession<br>
+Goes and I hear singing my son. <br>
+<br>
+24. High Mass does not start already, <br>
+They still walk round the cemetery. <br>
+<br>
+25. I see my son. In grey he's dressed, <br>
+A rough horsehair cord round his waist. <br>
+<br>
+26. - My son the clerk, good day to you!<br>
+- To you who have come for me, too! <br>
+Is my dear mother in good health? <br>
+<br>
+27. - Thank God, health is her greatest wealth<br>
+She came to see you too. Outside<br>
+She has decided to abide.<br>
+<br>
+28. - How faithful is, Blessed Virgin,<br>
+A dear mother to her children! <br>
+<br>
+29. Travels fifty leagues to see me<br>
+O I don't deserve it, surely!. <br>
+<br>
+30. - Now my dear son, if you love me <br>
+Who have come to see you, tell me: <br>
+What do you want to inherit? <br>
+<br>
+31. - I ask for nothing, you know it,<br>
+Except permission to stay here. <br>
+<br>
+32. - We give you our blessing, my dear<br>
+(Of us both you have permission) + <br>
+<br>
+33. But have some goods in addition.<br>
+For goods we have in profusion. <br>
+<br>
+34. + To pray to God late and early <br>
+Was here below bestowed on me. <br>
+<br>
+35. Praying at sunset and sunrise <br>
+Will be my lot in paradise. (*) <br>
+<br>
+<b> p. 211 bis </b> <br>
+<br>
+36. My heirloom you shall give freely<br>
+To the paupers in my country. <br>
+<br>
+37. + They shall pray to God night and day. <br>
+That to heaven I find my way. - <br>
+<br>
+38. On Mount Calvary there's a tree, <br>
+The rarest that was ever seen, <br>
+<br>
+39. Is there a better place to be <br>
+Than beside Mary-Magdalene? (**) <br>
+<br>
+40. My mother, my father, farewell! <br>
+We shall meet in Josaphat's vale <br>
+<br>
+41. Or when to paradise we plod, <br>
+The three of us, so help us God! - <br>
+<br>
+(*) Luzel version: "I do not ask for anything from you, / Except a dozen tissues, /
+To wipe away sweat and tears, / When I am preaching in parishes. "<br>
+<br><br>
+(**) Luzel version: "On Mount Calvary is a cross, / The most beautiful that I ever saw. / Let us all help to carry it, / As did Marie Madeleine, / We will see our blessed Lord / Nailed on the Cross ! "<br>
+<br>
+<i><font size=-2>Translation Christian Souchon (c) 2020</i></font><br>
+</td></tr></TABLE><br>
+<br>
+<br>
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] <b>Capucins</b><br> 
+Si H. de Kerbeuzec date ce chant du 16ème siècle c'est peut-être parce que l'engouement du jeune Guillaume Le Gall pour la branche de l'ordre des Franciscains que sont les <b>Capucins</b> trahit la nouveauté de cette institution. Or, après avoir été conçue en 1525 par Matthieu de Baschi, moine franciscain de Montefiorentino aidé des frères Louis et Raphaël de Fossombrone, c'est en 1528 que cette communauté fut approuvée par le Pape Clément VII qui maintenait toutefois ces porteurs de barbes et de capuces plus amples et plus pointus sous la juridictions des "Frères mineurs observantins". Ils furent affranchis de cette obéissance en 1619. La réforme visait à retrouver l'esprit franciscain primitif (<b>pauvreté totale, vie érémitique</b>) tel qu'il est décrit dans la présente gwerz (en particulier aux strophes 3 - 5, 13, 34 - 37).<br>
+<br>
+[2] <b>Les capucins de Nantes</b><br>
+Dans la version de Luzel, le clerc va au couvent de Perhet. Peut-être s'agit-il de Perret, une localité proche de Rostrenen. Cette ville a vu naître un Capucin fameux, le père Grégoire l'auteur du Dictionnaire franco-breton de 1732.<br>
+Selon Wikipédia, "les Capucins portaient tous, avant le Concile Vatican II, une robe d'étoffe brune, ou grise dans certains pays de l'hémisphère Sud." Notre gwerz parle de "robe grise" (str. 25). Mystère!
+<li> La <b>rue de l'Hermitage à Nantes</b> doit son nom à un ancien hermitage fondé en <b>1529</b> par un franciscain du nom de Gilles Bellyan dans un terrain appartenant au seigneur de la Hautière.<br>
+Mais ce n'est qu'en <b>1614</b> que l'hermitage est remplacé par un couvent  doté d'une chapelle, confié aux frères appelés ici "Petits Capucins". La <b>Place des Capucins</b> qui exista ici marqua leur présence à cet endroit. En 1630, on construit un hospice (hôpital). Les Capucins y sont peu nombreux: de 12 en 1729, ils ne sont plus que 7 en 1790. Le monastère est évacué puis vendu en 1793.
+<li> Dans la gwerz, il peut aussi s'agir des "Grands Capucins" qui donnèrent leur nom à la <b>rue Neuve-des-Capucins</b> (quai de la Fosse - rue de l'Héronnière) ainsi nommée en 1830, en souvenir des capucins établis à Nantes en <b>1568</b>, rue du Marchix en 1593, puis vers 1629 à l'emplacement de ladite rue Neuve..<br>
+<li> Les Capucins revinrent à Nantes en 1874. Après le départ définitif des religieux, la propriété est cédée à la Ville en 1985. Le parc de l'ancien couvent des Capucins devient un parc public (<b>Parc des Capucins</b>, ouvert en 1993). Les bâtiments conventuels abritent depuis 1990, le centre chorégraphique national de Nantes et un centre médico-social.<br>
+<br>
+[3] <b>Le Capucin Le Guen </b><br>
+ Dans la variante notée à la strophe 19, le jeune clerc est appelé "Kloarek Gwenn", comme dans la version de François Vallée, "Kabusin ar Gwen",  chanté en 1903 par la fameuse Marguerite Philippe de Pluzunet.
+Il s'agit en fait du nom de sa mère, qui conserve son nom de jeune fille après son mariage, comme le veut la coutume de Basse-Bretagne. Elle est désignée par un autre nom, strophe 22: "Marig Kelenn" (Marie Quélen).<br>
+<br>
+[4] <b>Notre-Dame de Pitié</b><br>
+Les Capucins partagent avec les autres communautés franciscaines une dévotion particulière à ND de Pitié (en breton "Itron Varia a Druez"). Le thème de la Mater Dolorosa inspira la fameuse "séquence" "Stabat Mater" attribuée à un Franciscain italien du XIVème siècle, Jacopone da Todi. Le fait que le Concile de Trente décida d'exclure cette séquence du missel romain en 1570 et qu'elle ne réintégra le bréviaire romain qu'en 1727 ne semble pas pouvoir nous renseigner sur l'ancienneté de la gwerz. Pas plus que l'instauration de la fête de ND des sept douleurs à la fin du XVème - début du XVIème siècle. En effet la muse populaire de Basse-Bretagne avait intimement intégré le <b>dolorisme</b> qui s'exprime dans le poème romain pour en faire un des ses sujets favoris. Alors même que le héros est un criminel comme La Fontenelle, la souffrance qu'il endure en expiant ses fautes le réhabilite aux yeux du barde et se son audience. Les strophes 5 et 6 de l'hymne ont par ailleurs très certainement inspiré la fameuse formule de lamentation "Kriz vije'r galon na ouelje e... nep avije, gwelet...." (cruel le coeur qui n'eût pleuré à... en voyant, etc.) que la présente gwerz utilise aux strophes 14 à 16. Le passage du modèle en question est le suivant:<br>
+5. Quis est homo qui non fieret / Matrem Christi si videret / In tanto supplicio?<br>
+6.Quis non posset contristari / Christi Matrem contemplari / Dolentem cum filio?<br>
+5. Quel est l'homme qui n'eût souffert / Voyant qu'à la mère du Christ / Sont infligées tant de souffrances?<br>
+6. Qui n'eût partagé sa tristesse / En contemplant la mère du Christ / Pleurant sur la mort de son fils?<br>
+<br>
+[5] <b> Images inhabituelles</b><br>
+La métaphore inhabituelle de l'arbre pour désigner la Croix et l'étonnante géographie de l'autre-monde où le paradis et ses alentours jouxtent la vallée de Josaphat (str.38 - 41: "en traonienn Jozafat, barzh baradoz, pe war-dro")  pourraient illustrer la troisième revendication majeure des Capucins: la <b>liberté de prédication</b>.<br>
+On est aussi frappé par l'évocation dans la gwerz de Marie-Madeleine qui, dans les quatre évangiles, contrairement aux apôtres fut témoin de la Passion du Christ et fut le premier témoin de Sa résurrection. Pour les Pères de l'Eglise elle fut un apôtre et même l'Apôtre de Apôtres, jusqu'à ce que le pape Grégoire le Grand l'assimile à la pécheresse de l'évangile de Luc, vers 591. La corde qui sert de ceinture aux Franciscains a-t-elle un rapport avec le fait que Marie-Madeleine est la patronne des cordiers, métier exercé par les lépreux? L'assonnance entre les toponymes "La Maladredrie" (=léproserie") et "La Madeleine" en a souvent fait des synonymes. Il faut attendre 1969 pour que le pape Paul VI déclare que Madeleine ne doit plus être fêtée comme « pénitente », mais comme « disciple », l'Église préférant la mettre en valeur via le texte de Jean. Le fameux "Da Vinci code" (et les ouvrages dont il s'inspire sans les citer clairement) pose avec les élucubrations qu'il échafaude autour de ce personnage de vraies questions au premier rang desquelles la place de la sexualité dans le christianisme et le refoulement du féminin dans les religions, tout au moins dans les 3 grandes religions issues de la Bible, juive, chrétienne et Islam. Chez les chrétiens, le culte de la Vierge mère et la dévotion à la Pécheresse repentie, deux archétypes qui rappellent étrangement des modèles païens, n'ont jamais réussi à compenser la masculinisation à outrance du divin.<br>
+<br>
+[6] <b>Le mépris de la chair</b><br>
+ Les effarantes 4 premières strophes de la présente gwerz illustrent de façon saisissante une conséquence de la masculinisation du divin et un formidable paradoxe: le christianisme, religion de l'Incarnation est devenu la religion du mépris de la chair et du rejet du corps au profit de l'âme. Parallèlement la question de la sexualité niée ou condamnée devenait la névrose du christianisme  (et le sujet de plusieurs gwerzioù, telle que celle des <a href="../trimanaf.html">"Trois moines rouges"</a>). Pourtant, on ne trouve dans les paroles de Jésus rapportées par les Evangiles aucune trace d'un dualisme entre le corps tentateur et méprisable et l'âme pure et admirable. Cette notion semble avoir été introduite par les Pères de l'Eglise sous l'influence d'autres courants spirituels qu'ils déclaraient combattre, les philosophies dualiste, gnostique, manichéenne ou platonicienne. On sait combien depuis une vingtaine d'année cette déviation est devenue un problème brûlant par les scandales qu'elle engendre. Le pape François qui porte un nom choisi en mémoire de saint François d'Assise, le fondateur des Franciscains, saura-t-il le résoudre?<br>
+<br>
+[7] <b> "Mélange avec la Complainte à M. Nerval"</b><br>
+Peut-être cette remarque inscite au crayon à droite du titre et entourér d'un trait circulaire, vise-t-elle  la "Complainte sur la Mort de haut et puissant seigneur le Droit dAînesse," à propos d'une tentative,  à l'initiative du Garde des Sceaux, de rétablir le droit d'ainesse et écartée le 8 avril 1826 par le Sénat . Ce texte parut en avril et juin de la même année, accompagné de commentaires et de notes de "Cadet Roussel", alias l'essayiste Félix Bodin(1795-1837). Nadar affirme que 2 des 22 strophes, les 2 dernières, de cette Complainte sont de Gérard de Nerval. A part la proximité du sujet et la strophe IX qui signale l'appui au projet apporté par un procureur de Bretagne, on ne voit pas trop en quoi consiste le "mélange" de cette complainte avec la présente pièce. A moins qu'il ne s'agisse de la  strophe 19:<br>
+<br>
+<i>On avait bien raison dêtre<br>
+Peu content de ce bagoût :<br>
+Tout le monde na pas goût<br>
+À se faire moine ou prêtre,<br>
+Et les filles, bien souvent,<br>
+Naiment guère le couvent.</i><br>
+
+
+
+
+</td>
+<td width=50% valign=top><font size=-1>
+[1] <b>Capuchins</b><br>
+We may suppose that H. de Kerbeuzec dates this song from the 16th century  because the fanatic infatuation of the young Guillaume Le Gall for the branch of the Franciscan order known as <b>Capuchins</b> could betray the novelty of this institution. This movement was initiated in 1525 by Matteo di Baschi, a Franciscan friar of Montefiorentino and supported by the brothers Luiggi and Raffaele di Fossombrone. In 1528 this reform was approved by Pope Clement VII who maintained however these bearded friars in their wide hooded robes under the jurisdiction of the so-called "Observant Friars Minor". It was not until 1619 that they were freed from this obedience. The reform was aimed at restoring the genuine Franciscan spirit (<b>total poverty, eremitic life</b>) which pervades the present gwerz (see in particular stanzas 3 - 5, 13, 34 - 37). <br>
+<br>
+[2] <b>Capuchins in Nantes</b><br>
+In Luzel's version, the clerk is said to enter the "Perhet convent". Maybe we should read "Perret", a locality near Rostrenen. The latter city saw the birth of a famous Capuchin, Father Grégoire, the author of the 1732 Franco-Breton Dictionary.<br>
+According to Wikipedia, "all Capuchins wore, before the Second Vatican Council, a robe of brown, or of grey cloth in some southern hemisphere countries." Why does the present gwerz mention a "grey dress" (str. 25)?
+
+<li> The <b>rue de l'Hermitage in Nantes</b> owes its name to an old hermitage founded in <b>1529</b> by a Franciscan by the name of Gilles Bellyan on an estate belonging to the Lord de la Hautière. <br>
+But it was not until <b>1614</b> that the hermitage was replaced by a convent with a chapel run by the so-called "Little Capuchins". The former <b>Place des Capucins</b> marked their presence there. In 1630, a hospice was appended. The friars dwelling there were few: from 12 in 1729, their number had decreased to 7 by 1790. The monastery premises were evacuated, then sold in auction in 1793.
+
+<li> But the gwerz may also refer to "Grands Capucins" who gave their name to the <b> Rue Neuve-des-Capucins </b> (between Quai de la Fosse and Rue de l'Héronnière). This name since 1830 hints at Capuchins established in Nantes in <b> 1568 </b>, who moved to Rue du Marchix in 1593, then around 1629 to the above Rue Neuve ...
+
+<li> A century after the Revolution, the Capuchins returned to Nantes in 1874. After the friars had definitely left, the property was donated to the City in 1985. The gardens of the former Capuchin convent became a public park (<b>Parc des Capucins </b>, which opened in 1993). Since 1990, the convent buildings have housed the National Choreographic Center of Nantes and a medico-social center.<br>
+<br>
+[3] <b>Capuchin Le Guen</b><br>
+In a variant inserted in stanza 19, the young cleric is called "Kloarek Gwenn", as in François Vallée's version, "Kabusin ar Gwen", sung in 1903 by the famous Marguerite Philippe at Pluzunet. "Gwenn" is actually the name of the clerk's mother, who kept her maiden name after her marriage, as was usual in Lower Brittany. She is referred to by another name, in stanza 22: "Marig Kelenn" (Marie Quélen).<br>
+<br>
+[4] <b>Our Lady of Sorrows</b><br>
+The Capuchins share with the other Franciscan communities a particular devotion to Our Lady of Sorrows (in Breton "Itron Varia a Druez"). The subject of the Sorrowful Mother inspired the famous hymn "Stabat Mater" attributed to a 14th century Italian Franciscan, Jacopone da Todi. The fact that the Council of Trent decided to suppress this liturgical sequence from the Roman missal in 1570 and that it was not restored to it until 1727 does not allow any inference about the antiquity of the gwerz. Nor does the establishment of the celebration of Our Lady of the Seven Sorrows in the late 15th - early 16th centur, since the folk poetry of Lower Brittany had thoroughly integrated the <b>woefulness</b> expressed in the Roman poem to make it one of its favorite features. Even when the protagonist is a criminal character like La Fontenelle, the suffering he endures by expiating his faults rehabilitates him in the eyes of the bard and his audience. The verses 5 and 6 of the hymn have moreover certainly inspired the famous lamentation formula in the Breton gwerzioù: "Kriz vije'r galon na ouelje e ... nep a vije, o gwelet ...." (cruel the heart which would not have cried in ... on seeing, etc.) that this gwerz uses in stanzas 14 to 16. These  verses in the model are:<br>
+5. Quis est homo qui non fieret / Matrem Christi si videret / In tanto supplicio?<br>
+6. Quis not posset contristari / Christi Matrem contemplari / Dolentem cum filio?<br>
+5. Who would not have suffered / Seeing the mother of Christ / Inflicted by so much suffering?<br>
+6. Who had not shared her sadness / Seeing the mother of Christ / Crying over the death of her son?<br>
+<br>
+[5] <b>Unusual images</b><br>
+The unusual metaphor of the tree applying to the Cross and the astonishing geography of the otherworld where paradise and its outskirts adjoin the Josaphat valley (str.38 - 41: "en traonienn Jozafat, barzh baradoz, pe war-dro") could illustrate the third major claim of the Capuchins: <b>freedom of preaching</b><br>
+We are also puzzled by the evocation of Mary Magdalene who, as stated in all  four Gospels, unlike the apostles witnessed the Passion of Christ and became the first witness to His resurrection. For the Church Fathers, she was an apostle  in her own right and even the Apostle to the apostles, until Pope Gregory the Great identified her with the sinner in the Gospel of Luke, around 591. Does the rope round the waist of each Franciscan friar have anything to do with the fact that Mary-Magdalene is the patron saint of ropemakers, a trade followed by lepers? The similarity between the toponyms "La Maladredrie" (= leper colony) and "La Madeleine" often made them synonymous. It was not until 1969 that Pope Paul VI declared that Magdalene should no longer be celebrated as a  "penitent", but as a "disciple", which is the way she is presented in the Gospel  of John. The famous book "Da Vinci code" (and the works on which it draws without openly quoting them), for all the wild imaginings around this character,  deals with truly importantl questions the foremost of which concerns the place of sexuality in Christianity and the repression of the feminine in religions, at least in the three religions of the Book, Jewish, Christian and Islam. The worship of the Virgin mother and devotion to the repentant sinner woman are two archetypes which strangely remind us of pagan models. They never could counterbalance  the excessive masculinization of the divine.<br>
+<br>
+
+[6] <b>Contempt for the flesh</b><br>
+The terrifying first 4 stanzas of this gwerz illustrate in a striking way a consequence of the masculinization of the divine and a formidable paradox: Christianity, though a religion of the Incarnation has become the religion of contempt for the flesh and rejection of the body in favour of the soul. At the same time the question of denied or condemned sexuality became the most arduous issue for Christianity (and the subject of several gwerzioù, such as that of the <a href="../trimanaf.html">"Three Red Monks"</a>). However, we find in the words of Jesus as recorded in the Gospels no trace of dualism between the tempting and despicable body and the pure and admirable soul. This notion seems to have been introduced by the Church Fathers under the influence of other spiritual currents which they declared to fight, Dualism, the Gnostic, Manichean or Platonic philosophies. We know how much, in the course of twenty years, this deviation has become a burning problem, considering the scandals it generates. Pope Francis chose his name to honour Saint Francis of Assisi, the founder of the Franciscans. Will he be able to solve this problem?
+<br>
+[7] <b> "Mixed up with Mr. Nerval's lament" </b> <br>
+Perhaps this remark, written in pencil to the right of the title and surrounded by a circular line, applied to the "Lament for the Death of High and Powerful Lord Right of the First-born," about the back then Keeper of the Seals' attempt to restore the old birthright. It was ruled out on April 8, 1826 by the Senate. Said lament appeared in April and June of the same year, accompanied by comments and notes by "Cadet Roussel", alias the essayist Félix Bodin (1795-1837). Nadar affirms that the last 2 of the 22 stanzas of this Lament are by Gérard de Nerval. Apart from the proximity of the subjects and stanza IX of the lament  which mentions that the project was supported by a prosecutor of Brittany, one does not really see in what consists the "mixture" of this complaint with the present poem. Unless this rematk points to stanza 19: <br>
+<br>
+<i> We were right, not to be <br>
+Happy with this speech <br>
+Not everyone wants <br>
+To become a monk or a priest, <br>
+And girls, very often, <br>
+Don't like the idea of going to a convent. </i> <br>
+
+
+
+
+
+
+
+
+
+</td>
+</table><br>
+<br>
+Ce chant est suivi d'éléments de <a href="../filhorez.html">Filhorez an Aotrou Gwesklen</a><br>
+<br>
+<img src=tregornan.jpg><br>
+<br>
+Procession de ND de Pitié à Trégornan (Rostrenen)<br>
+<br>
+<embed src="plourin.mid" height="60" autostart="true"><br>
+<audio src="plourin.mp3" controls> </audio><br>
+<br>
+<a href="montreze.html"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.html" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="kersalau.html"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+

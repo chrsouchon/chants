@@ -1,0 +1,1829 @@
+<HTML>
+<HEAD>
+<TITLE>Kantipou</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to Kantipou">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Kantipou, Gourener, lutte bretonne, Pontcallec, La Villemarqué, Keransquer">
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>Kantipou ar gourener</h1>
+<h2>Cantipou le lutteur</h2>
+<h3>Cantipou the Wrestler</h3>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (pp. 149 - 154) .</h4>
+
+<img src="kantipou.jpg"><br>
+<br>
+<a href="../pontkale.mid"></a><br>
+<font size=-1><i>Mélodie de Pontcallec</i></font><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+<b>A propos de la mélodie:</b><br>
+La mention qui est faite à la strophe 51 du Marquis de Pontcallec non seulement permet de dater ce chant de l'époque de la Régence (Pontcallec fut exécuté le 26 mars 1720), mais suggère que la mélodie de la <a href="../pontkalf.htm">fameuse complainte </a> pourrait accompagner ce présent chant, lui aussi composé de distiques de 8 pieds. Cette hypothèse n'est pas contredite par le refrain qui suit la strophe 35, lequel peut faire office de phrase intercalaire, comme le "treitour, ah mallozh-dit-ta!" du modèle qui présente la même syllabe finale et pourrait bien avoir été inventé par La Villemarqué pour remplacer le trivial "O réguédictou-ta,
+Tourélouré, louré-da".<br>
+<br>
+<b>A propos du texte</b><br>
+Certaines strophes sont numérotées dans le manuscrit, généralement entre parenthèses, de (2) à (18), sans doute afin de rétablir un ordre plus logique que celui dans lequel elles ont été chantées. Nous avons donné aux autres des numéros complétant les vides, d'abord de 1 à 1f, puis 6a à 6d, 8a à 8e, 9a et 9b, 10a à 10e, 13 a et 13b, 15 à 17a, enfin de 19 à 52, fin du chant. La numérotation originale comprend trois redites, signalées par les ajouts [bis] et [ter]: 6bis, 6ter, 7bis et 8bis. Le manuscrit comporte au total 1 refrain (onomatopées) et 80 distiques de 8 pieds, dont plusieurs semblent être des ébauches élaborées en vue d'une publication. Bien que le récit soit assez confus, on y distingue quelques épisodes: le roi des lutteurs, la charrette, le maure, le trèfle à quatre feuilles, la mort de Cantipou, Cantipou et Pontcallec.<br>
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para5')"><img id="para5_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"> (cliquer sur + ) </a>
+<div id="para5" style="display:none;">
+Bien que la lisibilité de ces histoires imbriquées les unes dans les autres et les ajouts du collecteur ne facilitent pas son déchiffrement, nous suggérons de résumer ainsi cette gwerz:<br>
+<br>
+Le roi des lutteurs,<br>
+Julien Cantipou est un lutteur cornouaillais invincible, un gaillard velu comme un faune qui remporte tous les gages lors des tournois. Il est autant estimé de ses pairs, de Quimper à Corlay, qu'il est craint des lutteurs anglais, y compris de leur champion que son patron l'invite à défier.<br>  
+<br>
+La charrette, <br>
+Il n'y a pas qu'à la lutte que Cantipou réalise des tours de force. C'est ainsi qu'il a suspendu une charrette aux branches d'un arbre. Quatorze hommes ne peuvent la redescendre. Pour calmer la colère du patron, Cantipou procède à cette opération et remplit le char de pierres. Les boeufs qu'on y attèle ne peuvent le déplacer. Le champion libère les bêtes et les remplace, sous les applaudissements frénétiques des spectateurs qui décident de composer une gwerz à sa gloire.<br>
+<br>
+Le maure,<br>
+Un maure gigantesque provoque Cantipou. Aussitôt un "lamm" impeccable met fin au combat. La mère du champion pénètre dans la lice pour embrasser son fils.<br>
+<br>
+Le trèfle à quatre feuilles, <br>
+Parmi les gages qui seront remis aux vainqueurs, il y a des bottes de trèfles, dont des trèfles à quatre feuilles, qu'une demoiselle porte dans un panier. Les animaux que Cantipou a libérés, ignorent les vertus magiques du porte-bonheur. Ils la poursuivent pour lui dérober ce gage dont ils raffolent. Pour finir un petit enfant distribue à chacun un brin du précieux trèfle.<br>
+<br>
+Cantipou et Pontcallec.<br>
+Cantipou et le marquis de Pontcallec se fréquentent. Ils se rencontrent au Pardon de Notre-Dame des Portes  de Châteauneuf-de-Faou.<br>
+<br>
+La mort de Cantipou,<br>
+ La condamnation de Pontcalec entraîne la pendaison de Cantipou, victime de la répression visant tous les membres supposés de la conspiration. Compte tenu de sa force, dix huit bourreaux durent unir leurs forces pour le rouer avant de le pendre.<br>
+</div>
+
+
+Si l'on suppose que ces pages du carnet ont été rédigées en 1841, la remarque en diagonale qui le précède, page 149/80, indique que l'informateur de La Villemarqué a appris ce chant en 1824 d'une femme de Riec-sur-Belon qui, elle-même, l'avait entendu pour la première fois en 1750, soit une trentaine d'années après les événements, puisque le marquis de Pontcallec dont il est question dans les dernières strophes mourut en 1720.
+</td>
+<td width=50% valign=top><font size=-1>
+<b>About the tune</b><br>
+The mention of Marquis de Pontcallec in stanza 51 not only makes it possible to date this ballad back to the time of the Régence (Pontcallec was beheaded on March 26, 1720), but suggests that the melody of <a href="../pontkalf.htm">The Death of Pontcallec</a> could accompany this song, also made up of eight-foot distiches. This assumption is not contradicted by the refrain following stanza 35. It can be used as a burden in the same way as the phrase  "treitour, ah mallozh-dit-ta!" in the model, with the same final syllable. This burden might have been devised by La Villemarqué to replace the undecorous "O regediktou-ta, toureloure, loure-da".<br>
+<br>
+<b>About the lyrics</b><br>
+Certain stanzas are numbered in the manuscript, generally in parentheses, (2) to (18), no doubt with a view to putting them in a more logical order than in the text recorded. We gave the other stanzas numbers filling the gaps, first from 1 to 1f, then from 6a to 6d, 8a to 8e, 9a and 9b, 10a to 10e, 13 a and 13b, 15 to 17a, finally from 19 to 52 , the last stanza. The original numbering has three redundancies, hinted at by the extensions [bis] and [ter]: 6bis, 6ter, 7bis and 8bis. The manuscript includes a total of 1 refrain (onomatopoeias) and 80 eight-foot distiches, several of them being apparently drafts intended for publication. The story, albeit  quite messy, is made up of a few distinct episodes: The King of Wrestlers; The Iron Wheel Cart; The Moor; The Four-leaf Clover; The Death of Cantipou; Cantipou and Pontcallec.<br>
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para6')"><img id="para6_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"> (click on + ) </a>
+<div id="para6" style="display:none;">
+Although the readability of these nested stories and the additions made by the collector make it difficult to construe, we suggest summarizing this gwerz zs follows: <br>
+<br>
+The King of Wrestlers, <br>
+Julien Cantipou is an invincible Quimper wrestler, a fellow hairy as a faun, who is the winner in all tournaments. He is as esteemed by his peers from Quimper to Corlay, as he is feared by English wrestlers, including their champion whom his boss invites him to challenge. <br>
+<br>
+The cart, <br>
+It is not only in wrestling matches that Cantipou achieves feats of strength. Once he hangs a cart on the branches of a tree. Fourteen men cannot bring it down. To calm the boss' anger, Cantipou proceeds to this operation, then fills the chariot with stones. The oxen hitched up to it cannot move it. The champion frees the beasts and replaces them, triggering a frenzied applause from the audience who decide to compose a gwerz of praise to glorify him. <br>
+<br>
+The Moor, <br>
+A gigantic Moor provokes Cantipou. In no time an impeccable "lamm" puts an end to the fight. The champion's mother enters the wrestling field to kiss her son. <br>
+<br>
+The four-leaf clover, <br>
+Among the trophies that will be given to the winners, there are bunches of clovers, including four-leaf clovers, which a young lady carries in a basket. The animals that Cantipou has freed ignore the magic virtues of the lucky charm. They pursue her to steal from her these herbs they are so fond of. Finally, a little child distributes a sprig of the precious clover to everyone. <br>
+<br>
+Cantipou and Pontcallec. <br>
+Cantipou and the Marquis de Pontcallec meet at the Pardon celebration of Notre-Dame des Portes at Châteauneuf-de-Faou. <br>
+<br>
+Cantipou's death, <br>
+ The conspiracy of Pontcalec caused Cantipou to be hung, as a victim of the repression against the alleged members of the plot. Given his strength, eighteen executioners had to join forces to wheel him before hanging him. <br>
+</div>
+When assuming that this part of the notebook was recorded in 1841, we may infer from a remark written across the top margin of page 149/80, that La Villemarqué's informant learned it in 1824 from a Riec-sur-Belon woman who herself heard it for the first time in 1750, some thirty years after the events, since Marquis de Pontcallec, mentioned in the last verses, died in 1720.
+</td></table>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>KANTIPOU AR GOURENER<br>
+Ar Saoz hag ar Breton</b><br>
+<br><font size=-1>
+<b>p. 149 / 80 (=79)</b><br>
+<br>
+<font size=-2>(En diagonale, en haut à gauche, à l'encre:)</font><br>
+<i>"Chanté il y a 17 ans<br> 
+par une femme de Riec [sur Belon?] morte <br>
+à 84 ans, qui en avait 10 <br>
+quand il lui fut chanté. "</i><br>
+<br>
+<font size=-2>(En haut à droite, au crayon:)</font><br>
+<i>"Roue ar Gourenerien Kernev.<br>
+Probablement contre un lutteur de Cornwall."</i> [1]<br>
+<br>
+I. ROUE AR GOURENERIEN KERNEV<br>
+<br>
+1. Selao[uit] holl, [O selaouit<br>
+<i>Regediktou - Gedik, ta!</i><br>
+Ur zon nevez a zo] savet.<br>
+<i>O Regediktou, regedik, ta!<br>
+Toureloure, Toure ta!</i><br>
+<br>
+1a. Savet da Julian Koantipou<br>
+Oa mestr war an holl gourenoù. [2]<br>
+<br>.
+1b. Paotr Kernev (<i>Kantipou</i>) na gave e bar [3]<br>
+Na war ar mor na war-zouar :<br>
+<br>
+	<font size=-2>(Dans la colonne de droite)</font><br>
+	<i>1c. Nag e Bro-Zaoz nag er vro-mañ<br>
+	Ne gave nikun eveltañ.</i><br>
+<br>
+1d. Paz'ae Kantipou <i>(Paotr Kernev)</i> war ar prad<br>
+Youc'hale (<i>a c'houlenne</i>) 'r gourenerien vat. (x)<br>
+<br>
+	<font size=-2>(Dans la colonne de droite)</font><br>
+	<i>(x) 1e. Kantipou a oa ur paotr mat<br>
+	Hag en-deve[ze] kalonad.</i><br>
+<br>
+	<font size=-2>(En marge à gauche verticalement.)</font><br>
+	<i>1f. Nag e [Kemper], nag e Korle<br>
+	Meur a gein 'lakaas da strakal! </i><br>
+<br>
+(6) Ar c'haboned, ar manegoù,<br>
+Ar c'hole hag ar zei(z)ennoù, <br>
+Hag an nompr <i>(niver)</i> bras a rubanoù.<br>
+<br>
+(7) Holl <i>(Rac'h)</i> a oa aet gant Kantipou:<br>
+Ar c'hole hag ar zei(z)ennoù. [4]<br>
+<br>
+	<font size=-2>(dans la colonne de droite)</font><br>
+	<i>(2) - Me ne daolin ket ma dilhad,<br>
+	Mar ne vez ket amañ ar paotr mat. -</i><br>
+<br>
+(4) Ken tev ar blev war e zivhar<br>
+Evel eo ar geot war an douar..[5]<br>
+<br>
+(3) Mar a zo mab barzh ar ger-mañ,<br>
+'Lakay ma c'hein war an dachenn!<br>
+<br>
+(5) <i>(Seizh Saoz a bil gant taol biz-troad)</i><br>
+Eñ bil seizh Saoz gant taol biz-troad<br>
+Ha kement Gall gant ur fasad.<br>
+<br>
+5a. Betek an o(zh)ac'h a oa en ti<br>
+A yeas a gomandiñ neuze: (6 [bis])<br>
+<br>
+	<font size=-2>(En marge à droite verticalement)</font><br>
+	<i>(6 [bis]) - Meur skeudenn-heol en-devez bet<br>
+	Digant an duk ha baroned<br>
+	Digant ar roue ha rouanez. - </i><br>.
+<br>	
+<b>p. 150</b><br>
+<br>
+	<font size=-2>(En marge supérieure:)</font><br>
+	<i>6b. Ken a lare roue Bro-Saoz: [6]<br>
+	- Hemañ zo en tu gant Paol-gozh!</i><br>
+<br>
+6c. - Me ne lam ket mui ma jupenn<br>
+<i>(Deoc'h</i>) da lakaat deoc'h war an dachenn. -<br>
+<br>
+<font size=-2>(Entre parenthèses)</font><br>
+<i>6d. Rak e mar a grogad vat<br>
+Kantipou zo ar paotr koupabl. -</i><br>
+*********<br>
+<br>
+II. AR C'HARR HOUARNET - Darn gentañ<br>
+<br>
+(6 [ter]) Ur c'harr houarnet 'doa eñ kemeret <i>(en-deus gwelet)</i><br>
+Barzh beg (d'eus benn) ur we(ze)nn 'doa hen lakaet.<br>
+<br>
+(7 [bis]) Pevarzek den a oa bet eno<br>
+O klask tennañ ar c'har d'an traoñ;<br>
+<br>
+(8) Ha Kantipou buan barzh ar we(ze)nn<br>
+A gign da gas <i>(Ha gign he c'has)</i> gantañ war e gein:<br>
+<br>
+(9) -  'M-eus hen douget, m'hen <i>(hag)</i> diskenno,<br>
+Beza drouk gant nep a garo! -<br>
+<br>
+9a. Ur gazeg wenn a oa staget<br>
+N' hallent ket i [avat n'hallent ket:]<br>
+E-bar mitizhien diskennet oant bet.<br>
+<br>
+9b. Ne oa ket 'ne(zh)e evit ober<br>
+Koantipou mont degas d'ar ger<br>
+<br>
+(10) Lakaet e viz e toull ar c'hleur<br>
+En-deus kaset ar c'harr d'al leur<br>
+<br>
+10a. Holl <i>(rac'h)</i> ar baotred oa souezhet<br>
+Biskoazh kemend-all n'oant gwelet.<br>
+*********<br>
+<br>
+	<font size=-2>(En marge à droite)</font><br>
+	III. AR MORIAN<br>
+	<br>
+	<i>(8bis) Ken a dostaas ur Morian<br>
+	Ha ne oa nikun eveltañ.<br>
+	<br>
+	8a. Paotr Kernev hen 'n-deus kroget ;<br>
+	War e gein en-deus hen lakaet.<br>
+	<br>
+	8b. War e gein en-deus eñ lakaet<br>
+	'maes al lis en-deus hen stlapet.</i><br>
+	<br>
+	<font size=-2>(Au crayon)</font><br>
+	<i>8c. Ken a grias holl a bouez-penn:<br>
+	- Ul lamm eo! - ul lamm eo!  laouen! [7]<br>
+	<br>
+	8d. Hag e vamm evel pa glevas<br>
+	E-barzh al lis hi a lammas,<br>
+	<br>
+	8e. Etre ziouvrec'h eñ he zavas<br>
+	Ken sklaer e zaoulagad evel sklas.</i><br>
+*********<br>
+<br>
+<b>p. 151</b><br>
+<br>
+II. AR C'HARR HOUARNET - Eilved darn<br>
+<br>
+10b. Met pa oa digou(ez)et mestr an ti<br>
+Hennezh en-defe melkoni,<br>
+<br>
+10c. 'Welet e garr a oa krouget,<br>
+Bout er-fin gantañ ma vo graet!<br>
+<br>
+10d. Ha Kantipou 'zavas bremañ<br>
+Hag a eas da gerc'het hen de(zh)añ<br>
+<br>
+10e. Voa rentet e garr d(ezh)añ er porzh<br>
+Koantipou rae ket pikol-forzh.<br>
+<br>
+(11) - N'eo ket pare ganin-me<br>
+Me hen gargo d'eoc'h c'hoazh (leun) a vein,<br>
+<br>
+(12) C'hwi stago d'outañ (al) ho loened<br>
+Pa rin he charre, na rint ket. -<br>
+<br>
+(13) <i>(Daou ejen vras a oa staget)</i><br>
+An daou ejenn hag ar c'hezeg<br>
+Fichal ar c'harr ne hallent ket;<br>
+<br>
+13a. (16?) Mestr al lis a lare neuze:<br>
+- Hennezh kreñvañ paotr zo er bet-mañ. -<br>
+<br>
+<b>p. 152</b><br>
+<br>
+13b. - Peus ket 'met pare gant homañ<br>
+An hini krisañ ma emaez a-benn. -<br>
+<br>
+(14) War gorf-e-roched i oa aet,<br>
+Ar c'harr d'ar park 'n en-deus kaset.<br>
+<br>
+15. Hag a lare mestr an ti:<br>
+- Hemañ zo gward evidomp-ni,<br>
+<br>
+16. 'Gredan ket ve' nikun er vro-mañ<br>
+Hag a zeufe a-benn outañ.<br>
+<br>
+17. Ar c'harr ar paotr en-deus charreet<br>
+Pouez teir barrikenn oa barzh, me gred<br>
+<br>
+17a. Hen a ren e nerzh e-unan<br>
+Ha ne lakae ket pikol van!<br>
+<br> 
+(18) Ar re oa eno oant souezhet<br>
+Doc'h Kantipou oant o sellet,<br>
+<br>
+19. E wellt tost d'al lein Kantipou<br>
+'Tispakañ e loenedigoù (eno), e c'hwiligoù<br>
+<br>
+20. War ar regenn i a gerzhe<br>
+Ez aent 'n eil da gaout egile ('nezhe)<br>
+<br>
+<font size=-2>(Marge du bas)</font><br>
+<i>21. Hennezh vije bet souezhet<br>
+O welet al loenedigoù<br>
+<br>
+22. En-dro dezhañ o vont en-dro.<br>
+(En-dro dezhañ o vont en-dro)<br>
+Bep a velchon en o c'henoù.</i><br>
+*********<br>
+<br>
+	<font size=-2>(En marge à gauche verticalement)</font><br>
+	IV. AR MELCHON PEDER-DELIENN - Darn gentañ<br>
+	<br>
+	<i>23. Gante un dimezellig gwenn<br>
+	Ganti melchon peder delienn<br>
+	Melchon ganti leizh he barlenn.<br>
+	<br>
+	<i>(En marge à droite verticalement)</i><br>
+	24. Gante un dimezellig gwenn<br>
+	Melchon ganti leizh he barlenn.<br>
+	Melchon ganti peder delienn<br>
+	<br>
+	25. Ganti el liz chatal vije bet.<br>
+	Neb a vije bet o sellet<br>
+	<br>
+	26. Melchon ganti peder delienn,<br>
+	Hennezh a vije bet souezhet<br>
+	<br>
+	27. Gweller, tro mare rouejoù,<br>
+	O tont war e c'hiz Kantipou,<br>
+	<br>
+	28. O tont d'al liz. Pa'z hi welas<br>
+	Anezhañ e tegouezhas.<br>
+	<br>
+	29. Ganti melchon peder delienn<br>
+	Peder delienn leizh he barlenn<br>
+	<br>
+	30. Tri ha tri hag en o c'hreiz<br>
+	Ar plac'hig gwenn, gwisket e gwenn<br>
+	<i>(Suite en marge p. 153)</i><br>
+	<br>
+	<i>(Entre parenthèses:)</i><br>
+	31. (O welet he c'hwilligoù<br>
+	Bep a velchon en o c'henoù<br>
+	<br>
+	32. En o c'henou pep a velchon<br>
+	Pep a velchon peder delienn).</i><br>
+	<br>
+<b>p. 153 /</b><br>
+<br>
+II. AR C'HARR HOUARNET - Trede darn<br>
+<br>
+33. Neuze al lec'h a oa gwelet<br>
+Petra eno a oa (kavet) degouet<br>
+<br>
+34. Ret oa skrivañ al lizherioù<br>
+Da gan dezhañ e tro ar vrou<br>
+<br>
+35. Peogwir oa ar vrud Kantipou<br>
+Balamour vo son da Gantipou<br>
+<br>
+Diskan. <i>O regediktou-ta,<br>
+Toureloure, loure-da</i><br>
+=======<br>
+<br>
+V. MARV KANTIPOU<br>
+<br>
+36. Etre tudjentiled ha beleien<br>
+Ne gomande ket den <i>(d'en)</i> a-grenn<br>
+<br>
+37. <i>(Nikun an(ezh)e ne gomande)</i><br>
+Ken na re forzh gant ar roue<br>
+<br>
+38. Eñ oa en-tu gant ar Vretoned<br>
+Balamour d'eus eno a oa deuet.<br>
+<br>
+39. Bet a oa bet ' klask e grougañ<br>
+Ha kavet nikun evitañ<br>
+<br>
+40. Ar krouger a zo bet trec'het<br>
+(War ar fin unan oa tapet):<br>
+Gour Kantipou a vo krouget. [8]<br>
+<br>
+41. - Me a gouzañvo e grougo,<br>
+Kent e vin torret gant ar rod. -<br>
+<br>
+42. Eñ oe an tu gant ar gumun,<br>
+Ha n'en (de)fe kollet e jupenn .<br>
+<br>
+43. Triwec'h an(ezh)e oa bet outañ<br>
+A oant deuet a-benn d'hen krougañ<br>
+=======<br>
+<br>
+	<font size=-2>(En marge à droite horizontalement)</font><br>
+	IV. AR MELCHON PEDER-DELIENN - Eilvet darn<br>
+	<br>
+
+	<i>44. Ur c'hroadur bihan oa gwelet (kavet)<br>
+	Hogen war ar prad mailhuret<br>
+	<br>
+	45. Ha gantañ en he dornig gwenn,<br>
+	Peder melchon peder delienn.<br>
+	<br>
+	46. Ret a vo skrivañ lizherioù<br>
+	Da gas, avat, dre ar vroioù,<br>
+	<br>
+	47. Evit ma vo soñj da Gantipou,<br>
+	A zo mestr war an holl gourenoù.<br>
+	<br>
+	<i>(En marge à droite verticalement)</i><br>	
+	48. Gant pep unan ur bleuñv melchon<br>
+	Gant peb unan peb a velchon,<br>
+	Peb a velchon peder delienn.<br>
+	<br>
+	49. Gante pep a velchonig gwenn<br>
+	Pep a velchon peder delienn.</i><br>
+	<br>
+<b>p. 154 / 89</b><br>
+<br>
+VI. KANTIPOU HA PONTKALLEK<br>
+<br>
+50. Pardon Itron Varia Porzhoù<br>
+Eno oa gwelet Kantipou.<br>
+<br>
+51. Kantipou ennañ voa gwelet,<br>
+A-du gant Markiz Pontkallek. [9]<br>
+<br>
+52. D'eus gourenerien ar Gregoù,<br>
+Ne oa nikun 'vit Kantipou! [10]<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>CANTIPOU LE LUTTEUR<br>
+L'Anglais et le Breton<br>
+<br><font size=-1>
+p. 149 / 80 (=79)</b><br>
+<br>
+<font size=-2>(En diagonale,en haut à gauche, à l'encre:)</font><br>
+<i>"Chanté il y a 17 ans <br>
+par une femme de Riec [-sur-Belon?] morte <br>
+à 84 ans, qui en avait 10 <br>
+quand il lui fut chanté."</i><br>
+<br> 
+<font size=-2>(En haut à droite, au crayon:)</font><br>
+<i>"Roue ar Gourenerien Kernev.<br>
+Probablement contre un lutteur de Cornwall". [1]</i><br>
+<br>
+I. LE ROI DES LUTTEURS DE CORNOUAILLE<br>
+<br>
+1. Ecoutez tous! Tous, écoutez<br>
+<i>Regediktou - Gedik, ta!</i><br>
+Ce chant qu'on vient de composer!<br>
+<i>O Regediktou, regedik, ta!<br>
+Toureloure, Toure ta!</i><br>
+<br>
+1a. Le sujet: Julien Cantipou<br>
+Le meilleur lutteur entre tous, [2]<br>
+<br>.
+1b. Cornouaillais, n'ayant d'adversaire [3]<br>
+De son rang sur mer ni sur terre:<br>
+<br>
+<font size=-2>(Dans la colonne de droite)</font><br>
+<i>1c. Chez nous ou bien chez les Saxons,<br>
+Nul n'a pu vaincre ce garçon.</i><br>
+<br>
+1d. Dès qu'il pénétrait sur le pré,<br>
+Les meilleurs lutteurs l'acclamaient. (x)<br>
+<br>
+<font size=-2>(Dans la colonne de droite)</font><br>
+<i>(x) 1e. C'était un garçon généreux,<br>
+Tout en étant fort courageux.</i><br>
+<br>
+<font size=-2>(En marge à gauche verticalement.)</font><br>
+<i>6a. Combien, de [Quimper] à Corlay,<br>
+D'échines a-t-il fait claquer!</i><br>
+<br>
+(6) Les chapons, les gants [parfumés],<br>
+Le taurillon enrubanné <br>
+Et les flots de rubans [dorés],<br>
+<br>
+(7) Tout revenait à Cantipou: <br>
+Taurillon et rubans et tout! [4]<br>
+<br>
+<font size=-2>(Dans la colonne de droite)</font><br>
+<i>(2) - Je n'ôterai mes vêtements<br>
+Que contre lui, [lui seulement!]</i><br>
+<br>
+(4) Lui dont les jambes sont couvertes<br>
+De poils drus comme l'herbe [verte]. [5]<br>
+<br>
+(3) Capable d'un seul coup, d'un seul<br>
+De plaquer mon dos sur le sol!<br>
+<br>
+(5) (Sept Anglais d'un seul coup de pied!)<br>
+Il abat, du pied, sept Anglais;<br>
+D'une giffle, autant de Français!<br>
+<br>
+5a. Alors le maître de maison<br>
+Est venu dire à ce garçon:<br>
+<br>
+<font size=-2>(En marge à droite verticalement)</font><br>
+<i>(6 [bis]) L'ombre portée est bien plus grande<br>
+Venant des ducs que des barons,<br>
+Des rois que des reines, dit-on.</i><br>.
+<br>
+<b>p. 150</b><br>
+<br>
+<font size=-2>(En marge supérieure:)</font><br>
+<i>6b. Chez les Anglais, le roi [champion], [6]<br>
+Le disait suppôt du démon!</i><br>
+<br>
+6c. Que j'ôte ma veste? Non pas!<br>
+Chez vous autres plus de combat!</i><br>
+<br>
+<font size=-2>(Entre parenthèses)</font><br>
+<i>6d. (En cas de douteuse empoignade,<br>
+Cantipou, c'est lui le coupable!)</i><br>
+*********<br>
+<br>
+II. LA CHARRETTE - Première partie<br>
+<br>
+(6 [ter]) Une charrette aux roues ferrées<br>
+Qu'en haut d'un arbre il a hissée <i>(vue)</i>.<br>
+<br>
+(7) Quatorze hommes n'arrivent pas<br>
+A la tirer  de haut en bas;<br>
+<br>
+(8) Cantipou grimpe donc là-haut<br>
+Et veut la prendre sur son dos:<br>
+<br>
+(9) - Je l'ai prise et la descendrai<br>
+Et tant pis si cela déplait! -<br>
+<br>
+9a. Une jument blanche, en vain, fut<br>
+Attelée. Garçon, serais-tu<br> 
+Au rang de femme descendu?<br>
+<br>
+9c. En désespoir de cause on va<br>
+Chercher Cantipou. Le voilà!<br>
+<br>
+(10) Dans le trou du timon il mit<br>
+Son doigt et la redescendit<br>
+<br>
+10a. Tout le monde était ébahi<br>
+Tant cet exploit était inouï.<br>
+*********<br>
+<br>
+<font size=-2>(En marge à droite)</font><br>
+III. LE MAURE<br>
+<br>
+<i>(8bis) Et un maure alors s'approcha,<br>
+Un [géant] comme on n'en voit pas.<br>
+<br>
+8a. Le Cornouaillais l'a saisi ;<br>
+Et vlan! sur le dos il l'a mis<br>
+<br>
+8b. Sur le dos il l'avait couché.<br>
+Hors de la lice il l'a lancé.</i><br>
+<br>
+<font size=-2>(Au crayon)</font><br>
+<i>8c. Et les gens criaient à tue-tête:<br>
+- C'est un "lamm"!  Un "lamm"! C'est la fête! [7]<br>
+<br>
+8d. Et sa mère en voyant cela<br>
+Dedans la lice s'élança,<br>
+<br>
+8e. Il la souleva dans ses bras<br>
+Avec, dans les yeux, quel éclat!</i><br>
+*********<br>
+<br>
+<b>p. 151</b><br>
+<br>
+II. LA CHARRETTE - Deuxième partie<br>
+<br>
+10b. Voilà qu'arrive le patron.<br>
+Lequel se languit, dirait-on,<br>
+<br>
+10c. De voir sa charrette pendue.<br>
+Il veut qu'elle lui soit rendue,<br>
+<br>
+10d. Alors Cantipou s'est levé<br>
+Et il est allé la chercher.<br>
+<br>
+10e. Elle est revenue dans sa cour<br>
+Cantipou l'a fait sans effort.<br>
+<br>
+(11) - Ma prestation doit être entière:<br>
+Je m'en vais la remplir de pierres,<br>
+<br>
+(12) Amenez de quoi la tirer,<br>
+Pour que le tableau soit complet.<br>
+<br>
+(13) Deux boeufs sont attelés, deux beaux<br>
+Grands boeufs qu'on ajoute aux chevaux:<br>
+Il ne bouge pas, le chariot;<br>
+<br>
+13a. Le maître des lieux dit alors:<br>
+- Nul homme au monde n'est plus fort! -<br>
+<br>
+<b>p. 152</b><br>
+<br>
+13b. Je n'ai pas eu satisfaction:<br>
+D'être le plus strict j'ai raison! -<br>
+<br>
+(14) Ils tirent, en corps de chemise,<br>
+La charrette où l'on l'avait prise.<br>
+<br>
+15. Le maître des lieux dit bien haut:<br>
+- C'est le protecteur qu'il nous faut.<br>
+<br>
+16. Je crois que nul en ce pays<br>
+Ne peut se mesurer à lui.<br>
+<br>
+17. Le char qu'il a tiré sans peine,<br>
+Pesait bien trois barriques pleines,<br>
+<br>
+17a. A la seule force des bras<br>
+Sans beaucoup d'efforts, de surcroît!<br>
+<br> 
+(18) Le public était éberlué,<br>
+Avait sur lui les yeux rivés:<br>
+<br>
+19. Près de la lice, Kantipou<br>
+A dételé les animaux<br>
+<br>
+20. Et en file indienne ils marchaient <br>
+L'un tout contre l'autre pressé,<br>
+<br>
+<font size=-2>(Marge du bas)</font><br>
+<i>21. De quoi vraiment devenir fou,<br>
+Quand vous voyez des animaux<br>
+<br>
+22. Ainsi tourner autour de vous.<br>
+Et les voir tourner [gentiment]<br>
+Chacun du trèfle entre les dents.</i><br>
+*********<br>
+<br>
+<font size=-2>(En marge à gauche verticalement)</font><br>
+IV. LE TREFLE A QUATRE FEUILLES - 1ère Partie<br>
+<br> 
+<i>23. Et une blonde demoiselle<br>
+Avec, tout plein son escarcelle,<br>
+Du trèfle à quatre feuilles, Oui.</i><br>
+<br>
+<i>(En marge à droite verticalement)<br>
+24. Et une blonde demoiselle,<br>
+Du trèfle plein son escarcelle<br>
+A quatre feuilles [toutes belles,]<br>
+<br>
+25. Sur la lice avec les bestiaux<br>
+Qui la regardaient. Quel tableau!<br>
+<br>
+26. A quatre feuilles, oui, ma foi,<br>
+De quoi provoquer tant d'émoi!<br>
+<br>
+27. Au moment de choisir les "rois"<br>
+Cantipou revint sur ses pas<br>
+<br>
+28. Vers la lice. Elle l'avisa<br>
+Et s'approcha de quelques pas.<br>
+<br>
+29. A quatre feuilles toutes belles,<br>
+Les trèfles dans son escarcellle.<br>
+<br>
+30. Trois par trois, avec en leurs rangs<br>
+Cette blonde vêtue de blanc<br>
+<i>(Suite en marge p. 153)</i><br>
+<br>
+<i>(Entre parenthèses:)</i><br>
+31. (On vit les animaux marchant<br>
+Avec du trèfle entre les dents,<br>
+<br>
+32. Chacun son trèfle à quatre feuilles,<br>
+[Qu'il mâchonnait avec orgueil])</i><br>
+<br>
+<b>p. 153 /</b><br>
+<br>
+II. LA CHARRETTE - Troisième partie<br>
+<br>
+33. Et l'on réalise après coup<br>
+Ce qui s'est passé. Avant tout,<br>
+<br>
+34. Il fallait écrire des lettres,<br>
+Permettant à tous de connaître<br>
+<br>
+35. Et de répandre un peu partout<br>
+La chanson du grand Cantipou.</i><br>
+<br>
+Refrain: <i>O regediktou, O egedikta,<br>
+Toureloure, loure Toureloure-da</i><br>
+=======<br>
+<br>
+V. LA MORT DE CANTIPOU<br>
+<br>
+36. Les prêtres et les gentilshommes<br>
+Ne commandaient plus à personne.<br>
+<br>
+37. Non, personne ne commandait.<br>
+Et du Régent tous se moquaient,<br>
+<br>
+38. Son parti c'était les Bretons,<br>
+Etant l'un de leurs rejetons.<br>
+<br>
+39. On décida donc de le pendre,<br>
+Mais sans bourreau comment s'y prendre?<br>
+<br>
+40. Le bourreau, il le dominait<br>
+(Mais on finit par en trouver)<br>
+Ce Cantipou on le pendrait! [8]<br>
+<br>
+41. - Il faut, avant que de me pendre,<br>
+Sur la roue qu'on brise mes membres. -<br>
+<br>
+42. Le peuple était de son côté.<br>
+Nul n'aurait oté son gilet.<br>
+<br>
+43. Et pour le pendre ils se sont mis<br>
+Et avec grand' peine à dix-huit.<br>
+=======<br>
+<br>
+<font size=-2>(En marge à droite horizontalement)</font><br>	
+	IV. LE TREFLE A QUATRE FEUILLES - 2ème Partie<br>
+	<br> 
+	<i>44. Et l'on vit un petit enfant<br>
+	Emmailloté dans le grand champ<br>
+	<br>
+	45. De sa blanche menotte il cueille<br>
+	Quatre trèfles à quatre feuilles.<br>
+	<br>
+	46. Il faut qu'on écrive des lettres<br>
+	Pour partout les faire paraître,<br>
+	<br>
+	47. En souvenir de Cantipou,<br>
+	Le champion de lutte entre tous<br>
+	<br>
+	<i>(En marge à droite verticalement)</i><br>	
+	48. A chacun une fleur de trèfle<br>
+	A chacun du trèfle: il doit être,<br>
+	A quatre feuilles [c'est bien mieux.]<br>
+	<br>
+	49. Ils portaient tous du trèfle blanc<br>
+	A quatre feuilles, [oui vraiment].</i><br>
+<br>
+<b>p. 154 / 83</b><br>
+<br>
+VI. CANTIPOU ET PONTCALLEC<br>
+<br>
+50. Et au pardon de Notre-Dame<br>
+Des Portes l'on vit Cantipou.<br>
+<br>
+51. Avec Monsieur de Pontcallec: [9]<br>
+L'un et l'autre, ils faisaient un tout.<br>
+<br>
+52. Parmi les anciens lutteurs grecs<br>
+Aucun n'égalait Cantipou! [10]<br>
+<br>
+<i><font size=-2> Traduction C. Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>CANTIPOU THE WRESTLER<br>
+The Englishman and the Breton [1]<br>
+<br><font size=-1>
+p. 149 / 80 (=79)</b><br>
+<br>
+<font size=-2>(Left top margin, diagonally, ink ) </font><br>
+<i>(French:) "Sung 17 years ago<br> 
+by a Riec [-sur-Belon?] woman who died<br>
+at 84. She was 10<br>
+when this was sung to her."</i><br>
+<br>
+<font size=-2>(Right top margin, pencil:)</font><br>
+<i>(Breton:) "The King of Cornouaille wrestlers<br>
+(French:) Probably against a <b>Cornwall</b> wrestler ". [1]</i> <br>
+<br>
+I. THE KING OF CORNOUAILLE WRESTLERS<br>
+<br>
+1. O Listen all to my ditty!<br>
+<i>Regediktou - redik, ta!</i><br>
+It was composed but recently<br>
+<i>O Regediktou, regedik, ta!<br>
+Toureloure, Toure, ta!</i><br>
+<br>
+1a. On Julian Cantipou, a wrestler <br>
+Who was the best wrestler ever, [2]<br>
+<br>
+1b. A Cornouaille man who could withstand [3]<br>
+Any lad on sea or on land: <br>
+<br>
+<font size=-2> (In the right column) </font><br>
+<i>1c. In England or in Brittany, <br>
+No one could beat him most surely. </i> <br>
+<br>
+1d. As soon as he entered the lists... <br>
+Say "hurrah!": you have got the gist! (x) <br>
+<br>
+<font size=-2>(In the right column)</font> <br>
+<i>(x) 1st. For he was a jolly young brat, <br>
+And a very brave one at that. </i> <br>
+<br>
+<font size=-2> (In the left margin vertically.) </font><br>
+<i>6a. How many backs, in Corlay town <br>
+Has he brought down to the ground! </i> <br>
+<br>
+(6) Fine woven gloves and plump capons, <br>
+A young bull adorned with ribbons,<br>
+A huge lot of decorations,<br>
+<br>
+(7) All trophies went to Cantipou: <br>
+The young bull with the ribbons too! [4]<br>
+<br>
+<font size=-2>(In the right column) </font><br>
+<i>(2) - If I am to take off my clothes,<br>
+Wrestling with him is what I choose.</i> <br>
+<br>
+(4) Him whose legs are covered with hairs <br>
+As thick as the hide of the bears. [5]<br>
+<br>
+(3) Able at the very first grasp<br>
+To lay my back down to the grass! <br>
+<br>
+(5) Seven Englishmen with a kick<br>
+He knocks down, aye, that is his trick; <br>
+As many Frenchmen with a clip! <br>
+<br>
+5a. Now the owner of the estate <br>
+Wants with the wrestler to debate: <br>
+<br>
+<font size=-2> (Right margin vertically)</font> <br>
+<i>(6 [bis]) - The drop shadow is larger from <br>
+A duke than from a low baron, <br>
+And from a "king" than from a queen... - </i> <br>.
+<br>
+<b> p. 150 </b> <br>
+<br>
+<font size=-2> (In the upper margin :)</font> <br>
+<i>6b. So that the "king" of England said, <br>
+- This lad by the devil was made! </i> [6] <br>
+<br>
+6c. I shan't take off my jacket that<br>
+Might be spoiled on the wrestling mat!. <br>
+<br>
+<font size=-2> (In brackets)</font> <br>
+<i>6d. (In case of a dubious grip, <br>
+Rely on it: he's the culprit!) </i> <br>
+********* <br>
+<br>
+II. THE IRON WHEEL CART - 1st Part<br>
+<br>
+(6 [ter]) Once he hoisted an iron wheeled<br>
+Cart up to the top of a tree. <br>
+<br>
+(7) Fourteen men pulling on a rope,<br>
+To take it down...They lost all hope; <br>
+<br>
+(8) Cantipou, being under attack,<br>
+Tried to take the cart on his back: <br>
+<br>
+(9) - I took it up; I'll take it down! <br>
+Too bad if it displeases some! - <br>
+<br>
+9a. A white mare they hitched up to start<br>
+With, but could not pull down the cart.<br>
+Frail maids would have been just as smart! <br>
+...<br>
+9b. The willful cart did not relent... <br>
+Cantipou had to lend a hand. <br>
+<br>
+(10) Into the drawbar hole he stuck <br>
+His finger: down came the whole truck!<br>
+<br>
+10a. And everyone was amazed <br>
+By this feat! Everyone gazed!<br>
+********* <br>
+<br>
+ <font size=-2>(Right margin)</font> <br>
+III THE MOOR<br>
+<br>
+<i>(8bis) A Moor had patted his shoulder, <br>
+The hugest that was seen ever. <br>
+<br>
+8a. The Cornouaille lad seized the Moor <br>
+And he flung his back to the floor!<br>
+<br>
+8b. The Moor laid with both shoulders down.<br>
+Then out of bounds he was thrown.</i> <br>
+<br>
+<font size=-2>(In pencil)</font> <br>
+<i>8c. The people yelled loudly:- Well done! <br>
+A "lamm", if there ever was one! - [7]<br>
+<br>
+8d. And his mother, as she saw it,<br>
+Into the bounds quick she hurried, <br>
+<br>
+8th. He lifted her up in his arms <br>
+And his eyes sparkled like twin charms! </i> <br>
+********* <br>
+<br>
+<b> p. 151 </b> <br>
+<br>
+II THE IRON WHEEL CART - 2nd Part<br>
+<br>
+10b. The landlord came back, was about. <br>
+To have a fit of rage, no doubt, <br>
+<br>
+10c. For he had seen his cart hanging:<br>
+- Put an end to this stupid thing! -<br>
+<br>
+10d. On hearing it, Cantipou starts <br>
+To his feet and runs for the cart.<br>
+<br>
+10e. Soon the cart was back in the yard:<br>
+Cantipou did it. 'Twas not hard. <br>
+<br>
+(11) - About it I will make no bones:<br>
+I'm going to fill it with stones, <br>
+<br>
+(12) Bring draught animals to trail it, <br>
+Without a team it's not complete. -<br>
+<br>
+(13) Two big oxen to the horses,<br>
+Are added to increase forces: <br>
+The cart does not move nonetheless; <br>
+<br>
+13a. The lord said:- Ask whomsoever: <br>
+No man in the world is stronger! - <br>
+<br>
+<b> p. 152 </b> <br>
+<br>
+13b. - I don't think your task is finished.<br>
+I am right if I'm very strict! - <br>
+<br>
+(14) So that they drew back, in their shirts: <br>
+The cart to where it stood at first.<br>
+<br>
+15. The landlord exclaimed: - Indeed: <br>
+He's the protector whom we need! <br>
+<br>
+16. I think no one in this country <br>
+Could measure up to him, surely! <br>
+<br>
+17. The chariot he pulled without toil, <br>
+Weighed, I take it,  three barrelfuls, <br>
+<br>
+17a. He just used the strength of his arms<br>
+And without doing himself harm! <br>
+<br>
+(18) People for a long time were quiet,<br>
+Could not take their eyes off the sight: <br>
+<br>
+19. Not far from the lists, Kantipou <br>
+Unhitched oxen and horses too. <br>
+<br>
+20. There in a single file they walked <br>
+Round as if by some magic blocked.<br>
+<br>
+<font size=-2>(Bottom margin)</font><br>
+<i>21. Who had not wondered at the sight<br>
+Of these beasts in that sorry plight, <br>
+<br>
+22. Spinning like a merry-go-round, <br>
+Like a merry-go-round spinning<br>
+And each of them clover munching?</i><br>
+********* <br>
+<br>
+<font size=-2> (Left margin vertically) </font><br>
+IV THE FOUR LEAF CLOVER - 1st Part<br>
+<br>
+<i>23. A fair young lassie furthermore<br>
+With four leaf clover that she wore<br>
+In her apron full to the brim.</i> <br>
+<br>
+<i> (Right margin vertically) <br>
+24.  There was a fair lass furthermore<br>
+With four-leaf clover that she wore<br>
+In her apron full to the brim.<br>
+<br>
+25. The hungry cattle did trespass <br>
+On the lists, were fond of the grass<br>
+<br>
+26. Devised to honour the new "king"...<br>
+What a show! How exciting! <br>
+<br>
+27. Time to proclaim the "kings" had come,<br>
+Time for Cantipou to return.<br>
+<br>
+28. Towards the lists he came over.<br>
+The lass took a few steps closer. <br>
+<br>
+29. With her apron full of four leaved, <br>
+Clover with which it overbrimmed. <br>
+<br>
+30. Three by three they stalked. In the mess <br>
+The blonde lassie with the white dress.<br>
+<i> (Continued in the margins p. 153) </i> <br>
+<br>
+<i> (In brackets :) </i> <br>
+31. (They saw these beasts, a spinning wreath,<br>
+Munching clover between their teeth, <br>
+<br>
+32. Each of them munched four-leaf clover, <br>
+[Four leaf clover tastes better!] </i> <br>
+<br>
+<b> p. 153 / </b> <br>
+<br>
+II THE IRON WHEEL CART - 3rd Part<br>
+<br>
+33. And they realized, all of them,<br>
+That a true wonder had happened, <br>
+<br>
+34. For writing letters there were grounds<br>
+To all notables here around.<br>
+<br>
+35. Spreading a song on Cantipou <br>
+Is the best thing we have to do. </i> <br>
+<br>
+Burden: <i> O regediktou, regedikta, <br>
+Toureloure, loureda </i> <br>
+======= <br>
+<br>
+V. DEATH OF CANTIPOU <br>
+<br>
+36. The rule of gentry and clergy<br>
+Did not count for anybody <br>
+<br>
+37. To obey no one was willing, <br>
+And no one did care for the King <i></i> <br>
+<br>
+38. He was a friend to the Bretons<br>
+Since he was one of their scions. <br>
+<br>
+39. They decided, he would be hung, <br>
+Well, but what about the hangman?<br>
+<br>
+40. The hangman was beaten by him. <br>
+(But they managed the thing to trim):<br>
+The man Cantipou will feel grim! [8]<br>
+<br>
+41. - I'll suffer to be hung with zeal <br>
+Once you have put me on the wheel.-<br>
+<br>
+42. The low people were on his side:.<br>
+He kept his jacket on his hide. <br>
+<br>
+43. And there were no less than eighteen<br>
+Men needed, the day they hanged him <br>
+======= <br>
+<br>
+<font size=-2> (In the margin on the right horizontally)</font>  <br>
+IV THE FOUR LEAF CLOVER - 2nd Part<br>
+<br>
+ <i>44. And then a little child was seen<br>
+In swaddling bands upon the green <br>
+<br>
+45. With its tiny hands, all over <br>
+The field, he plucked four-leaf clover. <br>
+<br>
+46. ??We have got to write letters and<br>
+To send them all over the land, <br>
+<br>
+47. For advertising Cantipou,<br>
+The wrestler: a thing we should do <br>
+<br>
+<i> (Right margin vertically) </i> <br>
+48. To each one a clover flower <br>
+To each of them, some fine clover<br>
+Four-leaf clover [is much better.] <br>
+<br>
+49. To each a bunch of  white clover <br>
+But, of course, of four-leaf clover.</i> <br>
+<br>
+<b> p. 154/83 </b> <br>
+<br>
+VI. CANTIPOU AND PONTCALLEC<br>
+<br>
+50. At the "Pardon" of Our-Lady<br>
+Of the Gates" they saw recently. <br>
+<br>
+51. Cantipou and Lord Pontcallec: [9]<br>
+They are two cards in the same deck. <br>
+<br>
+52. Which Greek wrestler of old do you<br>
+Think could compare with Cantipou? [10]<br>
+<br>
+<i><font size=-2>Translation C. Souchon (c) 2020</i></font><br>
+</td></tr></TABLE><br>
+<br>
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] <b>Contre un lutteur de Cornwall</b><br>
+Le chant qui commence à la page 149 est précédé d'une succession de titres qui témoigne de l'intérêt que lui porte le collecteur. Il semble considérer que le sujet principal est la rivalité entre deux lutteurs, l'un de Cornouaille bretonne (Kernev), l'autre de Cornouailles anglaise (Kernev-Veur). En réalité, seules 3 strophes (6b à 6d) notées en marge de la p.150, et que l'on peut, de ce fait, supposer ajoutées après coup, semblent se rapporter à un champion anglais ("roue Bro-Saoz") peu enclin à affronter l' adversaire breton. Il est vrai qu'une strophe du texte principal, P.149, str. 5,  affirme que ce dernier "abat 7 Anglais d'un coup d'orteils / et autant de Français d'une claque."<br>
+Ce chant monumental (80 strophes) comporte <b>6 récits </b>entremêlés sur le carnet d'enquête et prolongés par des variations et enjolivures qui sont probablement le fait du collecteur.<br>
+<br>
+[2] <b>La lutte bretonne</b><br>
+La thèse de doctorat consultable en ligne, défendue en mai 2008 par Melle Aurélie Epron devant l'Université Européenne de Bretagne Rennes 2 (EDHSH - Anthropologie et sociologie) parle d' "une
+lutte traditionnelle héritée des Celtes dès les premiers siècles de notre ère, des combats qui se déroulent uniquement debout  pas de jeu au sol, dès la chute les lutteurs se relèvent  , les mains peuvent uniquement saisir la roched ou chemise, les jambes
+attaquer les jambes, un vocabulaire technique et darbitrage en breton..."  (T.I p.10). La <b>filiation</b> avec les Bretons insulaires que La Villemarqué semble postuler "est généralement admise et prolongée du fait que, sur dautres terres celtiques, des luttes
+qui se jouent debout et habillées ont existé ou se pratiquent toujours."  C'est la cas en particulier pour la lutte cornique  "cornish wrestling" ou "wrasslin", la plus proche du "gouren" breton (costume similaire: "jacket" ou chemise, lutte pieds-nus). Si des traditions de lutte similaires au "gouren" existent en Suisse, en Espagne, en Islande..., c'est surtout avec leurs voisins d'Outre-Manche que les lutteurs bretons ont des interactions attestées par des documents anciens (rencontre à Châteaubriant en 1551...)<br>
+La présent pièce est un témoignage précieux sur le regard porté sur cette pratique, avant que le 
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para4')"><img id="para4_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"> (cliquer sur + ) <b>Dr Cotonnec</b> premier Président de la FALSAB </a>
+
+<div id="para4" style="display:none;">
+<font size=-2>
+Originaire de Scaër (Finistère), <b>Charles
+Cotonnec</b> naît à Saint-Thurien (Finistère) le 22 avril 1876 et meurt à Paris le 30 mars 1935.  Installé en 1922 comme médecin à Quimperlé (Finistère) où il crée sa propre clinique chirurgicale spécialisée en phlébologie, il devint chirurgien en chef de lhôpital civil de Quimperlé.<br>
+Si sa réputation de médecin lui valut d'être surnommé "ar paeour" (celui-qui-guérit), son uvre principale fut la rénovation des luttes bretonnes, la création de la FALSAB en 1930 et la reprise des relations interceltiques entre la Bretagne et les Cornouailles britanniques.<br> 
+On lit sur le site "https://www.univ-brest.fr/digitalAssets/36/36802_Biographie_Cotonnec.pdf":<br>
+"Jusqualors, lors des tournois, les lutteurs étaient peu nombreux, la lutte était simulée, lentente entre les lutteurs régnait... Tout le travail de Charles Cotonnec fut dès lors de doter les luttes et les tournois des
+règlements qui leur manquaient : un statut et une réglementation.  Il parvint ainsi à fédérer les différents comités, à leur faire adopter un règlement sportif standardisé et à obtenir le monopole de la gestion
+financière (prix, paris) liée au sport, les groupes et lutteurs dissidents faisant l'objet de sanctions disciplinaires....Par ailleurs, Charles Cotonnec a organisé le premier tournoi interceltique à Quimperlé le 19 août 1928
+et ce fut un véritable triomphe. Des milliers damateurs ...étaient présents ce jour-là et la victoire revint au Breton  <b>Scordia</b> (qui fut le premier lutteur à prononcer le serment en 1928), un boulanger de Scaër, sur le géant britannique <b>Francis Grégory</b>...<br>
+Cette rénovation du "gouren"...(résulte très largrment d'] une tradition réinventée,...de  la « sportivisation » (abaissement su seuil de violence tolérée) des pratiques... de la <b>laïcisation des jeux</b>"... et de la création d'une institution centralisée qui édicte des règlements standardisés. Elle s'inscrit dans un large mouvement occidental contemporain [eugénisme et olympisme].<br> 
+[Pour conférer au "gouren" rénové un niveau moral digne de ce dernier modèle], le Dr Cotonnec composa un <b>serment de loyauté</b> que les athlètes... se doivent encore de prononcer avant chaque tournoi et dont voici un extrait :
+<table width=100%><td width=50% valign=top><font size=-2>
+M'hen tou da c'houren gant lealded<br>
+Heb trubarderezh na taol fall ebet<br>
+Evit ma enor ha hini ma bro!<br>
+En testoni da ma gwiriegezh<br>
+Hag evit heuilh giz vat ma zud kozh<br>
+Kinnig a ran ae ma c'henvreur ma dorn ha ma jod.<br>
+</font></td>
+<td width=50% valign=top><font size=-2>
+Je jure se lutter avec loyauté<br>
+Sans traitrise ni brutalité<br>
+Pour mon honneur et celui de ma patrie!<br>
+En témoignage de ma sincérité<br>
+Et selon la coutume de mes ancêtres [?]<br>
+Je tends à mo confrère et ma main et ma joue.<br>
+</font></td></table><br>
+Ce texte énigmatique visait à conjurer plusieurs démons: "la violence, l'alcoolisme, les paris, le professionnalisme...[Cotonnec]  a également écrit que « les
+sports bretons [pouvaient] rénover la race ». (fin de citation)<br>
+On ne s'étonnera pas que l'auteur d'un tel texte ait été également un barde réputé dont les oeuvres furent publiées en 1935 sous le titre "Soñjennoù ur C"hernevad" (Rêveries d'un Cornouaillais).<br>
+<br>
+</font></div>
+
+(Fédération des Amis des Luttes et Sports Athlétiques Bretons 1930-1935) ne l'ait rénovée. Elle illustre comment chez un lettré du XIXème siècle la lutte bretonne devient l'un des marqueurs d'une l'identité bretonne bretonne idéalisée. La dernière strophe (str. 52) suggère un lien de filiation entre la lutte antique et le "gouren" breton (qu'Alfred Darjou semble mettre en doute, cf. illustration ci-dessous!)<br>
+<br>
+[3] <b>Cantipou</b><br> 
+Ce lutteur cornouaillais portait un nom d'origine <b>normande</b>. Louis de Viennens, échevin d'Harfleur, envoyé de cette ville auprès du roi (1455 - 1510) était seigneur de Sénitot et de Cantipou, un quartier de Gonfreville-L'Orcher. Ce titre était porté par sa femme, Marie, descendante de Thomas d'Ercambourg (né en  1325), seigneur de Gainneville, Sénitot, Cantipou (Harfleur).<br>
+<br>
+[4] <b>Chapons, taureau, gants et rubans</b><br>
+A cette liste de <b>trophées</b> il faut ajouter les "aiguillettes", à l'origine des cordons à bouts ferrés servant à attacher les chausses au pourpoint, puis des éléments décoratifs. "A Châteauneuf-du-Faou de 1616 à 1627, les dépenses de la fabrique (organisme administrant une paroisse)  mentionnent des aiguillettes et des gants pour faire jouer et lutter les jeunes gens, des rubans et épingles pour les jeunes filles (...pour dautres jeux)... Les archives paroissiales de Plogonnec indiquent que de 1624 à 1668, des aiguillettes étaient distribuées aux jeunes gens victorieux des luttes, le jour du pardon organisé à loccasion de lAscension. De 1634 à 1644, 38 sols étaient dépensés pour des aiguillettes et des gants comme prix pour les « jeunes gens ». (cité par Melle Epron). En revanche, il n'est nulle part question des trèfles à quatre feuille distribués  (ou vendus?) par une main innocente...<br>
+<br>
+[5] <b>Les jambes velues du lutteur</b><br>
+Il semble qu'inconsciemment le narrateur assimile ce lutteur à la force surhumaine à une créature <b>mythologique</b> (faune ou Pan) ou  encore à l'"homme sauvage" des contes dont le Merlin breton est le prototype.<br>
+<br>
+[6] <b>Le roi des Anglais</b><br>
+Le mot <b>"roue"</b> (roi) aux strophes 6b et 27 (mais non à la strophe 37 où il désigne le Régent) signifie à l'évidence "champion". Le sens à donner à ce mot au couplet 6bis est moins certain. Il signifie "champion" si l'on comprend que le propriétaire des lieux conseille à Cantipou d'affronter des adversaires détenteurs des titres pugilistiques les plus élevés possible. Dans ce cas "duc" et "baron" seraient aussi des titres - et "rouanez" (reine) une boutade -. Il se peut aussi que, vu ses talents exceptionnels, il lui recommande de se faire connaître des puissants de ce monde, auquel cas tous ces titres sont à prendre au sens propre.<br>
+<br>
+[7] <b>Un "lamm"</b><br>
+Un terme technique (str. 8c) qui signifie ordinairement "saut" et désigne la  "projection de l'adversaire à terre avec contact au sol des deux omoplates avant toute autre partie du corps". C'est le résultat parfait qui donne une victoire immédiate. Quelques autres termes propres à la lutte sont évoqués dans le chant: "Roched", la veste blanche de combat (strophe 14), le "croc-en-jambe", appelé "kliked" (ici "taol biz-troad"), mais la "fasad", la giffle, est de nos jours strictement prohibée (str. 5); "kein" (dos) est un avantage comptabilisé dans le décompte des points (str. 1f, 8, 8a, 8b). La strophe 6d, "e mar a grogad vat", "en cas de doute (mar) sur la validité (mat) d'une prise (krokad)" nous plonge au cur  du sujet.<br>
+Le "gouren" moderne a conservé d'autres <b>termes bretons</b>: "netra" ("rien": chute sans résultat); "kostin" ("côté": une seule omoplate au sol); "diwall" (avertissement), "fazi" (faute), "poent" (point), "fazi vras" (disqualification); "divrud" (faute grave).  Ces informations sont tirées de Wikipédia.<br>
+<br>
+[8] <b>"Gour Kantipou"</b><br>
+L'examen attentif de la page 153 montre que le troisième vers de la strophe 40 doit se lire "Gour Kantipou a oa kroughet", "<b>l'homme Cantipou</b> a été pendu" ("gour" et non "gant",  comme indiqué dans la transcription du CRBC et qui voudrait dire "il fut pendu par Cantipou"). Peut-être cette formulation inhabituelle  est -elle motivée par l'étymologie traditionelle du mot "gouren", "lutte et "lutter". La lutte était pourtant très appréciée des dames, en tant que spectatrices, comme le montrent les deux tableaux des peintres de Pont-Aven reproduits ci-dessous, Gauguin et Sérusier.<br>
+La mère de Cantipou assiste au combat qui l'oppose au Maure. Elle ne peut s'empêcher de pénêtrer dans la lice, ce qui, bien entendu, était normalement interdit (str. 8d-8e)!
+  <li> Mais il semble que les jeunes filles n'aient pas attendu 1930 et le docteur Cotonnec pour pratiquer ce sport. Melle Epron signale dans sa thèse l'existence d'une gwerz publiée par Ifig Troadec dans ses "Carnets de route 2005", pp. 228-229, intitulée <a href="rousval.htm">"Naig ar Rousval"</a>. Il s'agit d'une jeune lutteuse qui l'emporte sur le seigneur de Run-ar-Gov, lequel, subjugué, l'épouse.<br>
+Les nobles ne dédaignaient pas de se mesurer à la lutte avec les roturiers . 
+<li> On le voit dans <a href="../gwerand.htm">Le marquis de Guérant</a> du Barzhaz, où le sinistre personnage commence par provoquer le Clerc de Garlan à la lutte lors d'une <a href="../leurnevf.htm">aire-neuve</a>. Celui-ci refuse arguant du fait qu'un noble ne se bat pas avec le fils d'un simple paysan. Le duel épée contre bâton qui s'ensuit se termine par la mort du pauvre clerc. Dans cette gwerz les trophées sont appelés "gajoù", des gages et une prise "ur peg", ce que La Villemarqué traduit de façon très approximative par "croc-en -jambe" (str. 26). Ce mot, dans le dictionnaire du Père Grégoire est rendu par "krok-gouren" ou "encloch" (croche-pied) et est illustré par la phrase "donner le croc-en-jambe lutter et donner le saut", "Ober ur c'hrok-gouren ha reiñ lamm-kaer" ou "Kemer an encloch ha reiñ lamm-kaer" qui décrit un assaut victorieux.
+<li> <a href="kloadour.htm">Le clerc Le Claouder</a> commence de façon similaire: le chevalier de Lampaul provoque le clerc Le Claouder à la lutte, mais propose d'ajouter à l'enjeu habituel, "ar manegoù", les gants, une condition: "An hini gouezo ne zavo ket/ Med e wad a rank bezañ skuilhet" "Celui qui tombera ne se relèvera point/ Mais son sang devra être versé" (str. 10 à 12). L'exercice d'adresse devient un combat à mort. Mais ici c'est le clerc qui triomphe.
+<li> Enfin dans le chant qu'il a composé pour inciter les <a href="bragoumo.htm">Les gars du côté de Pont-l'Abbé</a> à cultiver leurs belles traditions, La Villemarqué n'oublie pas la lutte (str.11): "Pasoù, dañsoù ha gouren", "Les pas de danse et la lutte".<br>
+<br>
+[9] <b>Cantipou et Pontcallec</b><br>
+Outre cet aspect mythique ce chant a une tonalité <b>politique</b> marquée. Les strophes 50 à 52 nous apprennent que Cantipou et le marquis de Pontcallec se fréquentent. Ce dernier avait pris la tête d'une conspiration contre le Régent Philippe d'Orléans et fut décapité en 1720 (ce qui permet de dater ce chant).<br> 
+L'épisode de la rencontre des deux hommes au Pardon de Notre-Dame des Portes de Châteauneuf-de-Faou précède logiquement, celui de la pendaison de Cantipou, victime de la répression visant tous les membres supposés de la conspiration. La décapitation étant réservée aux nobles, Cantipou subit le supplice réservé aux roturiers, précédé, pour conjurer sa force surhumaine de celui de la roue.<br>
+
+Par ailleurs, il apparaît que La Villemarqué, en reportant sur le marquis ce qui est dit ici de Cantipou, a adapté les strophes 36 à 39, pour en faire les premiers couplets de l'"Elégie de Pontcallec" du Barzhaz de 1845.<br>
+<br>
+ [10] <b> Kan Gourenerien Breizh</b><br>
+A ces diverses références, il convient d'ajouter la suivante, tout empreinte de <b>fierté bretonne</b>. C'est une composition d'Yves Bertou  parue en 1912 dans le N° 207 du "Kloc'hdi Breiz" (Clocher breton), p. 2478. Ce "Chant de marche des lutteurs de Bretagne",  reférencé M-10604 dans le catalogue Malrieu, se chante sur l'air gallois de l'hymne "Bro gozh ma zadoù":<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+1. Ni zo paotred taer a Vreizh-Izel<br>
+A gar o mamm-vro dreist pep tra,<br>
+N'eus na mor, n'eus na tan, na brezel<br>
+Hag a vez kap d'ober deomp krenañ!<br>
+<br>
+<i>Diskan:</i><br>
+Paotred Breizh, gourenerien dispar<br>
+Paotred Breizh, gourenerien dispar<br>
+Paotred Breizh, n'eus 'vito diskar!<br>
+<br>
+2. Ar Vreizhiz a-viskoazh, da viken<br>
+A zo digabestr ha divlam.<br>
+N'eus bremañ na pagan, na kristen<br>
+Hag a ve kap da reiñ deomp al lamm!<br>
+<br>
+3. Gourenomp ha kanomp gant kalon<br>
+Evel hon tadoù-kozh gwechall,<br>
+Pa oa trec'h ar Vreizhiz d'ar Saozon,<br>
+Ha pa oa Breizh trec'hourez Bro-C'hall!
+</td>
+<td width=50% valign=top><font size=-1>
+1. Nous sommes des gars hardis de basse Bretagne<br>
+Qui aimons notre patrie par-dessus tout.<br>
+Il n'est mer, ni feu, ni guerre<br>
+Qui soit capable de nous faire trembler!<br>
+<br>
+<i>Refrain</i><br>
+Gars de Bretagne, lutteurs sans pareils<br>
+Gars de Bretagne, lutteurs sans pareils<br>
+Gars de Bretagne, rien ne les fait tomber!<br>
+<br>
+2. Les Bretons depuis toujours et à jamais<br>
+Sont libres et sans reproche<br>
+Il n'est maintenant ni païen, ni chrétien<br>
+Qui soit capable de nous infliger un "lamm"!<br>
+<br>
+3. Luttons et chantons de tout coeur<br>
+Comme le faisaient nos ancêtres<br>
+Quand ils étaient vainqueurs des Anglais<br>
+Quand la Bretagne l'emportait sur la France!
+</td></table><br>
+<center>
+<audio src="brogoz.mp3" preload="auto" controls></audio></center><br>
+"Cocorico!" se dit "Kokokog!" en breton! Ou mieux "Deus d'ar ger da gousket!" (Rentre chez toi te coucher!)
+</font></td>
+<td width=50% valign=top><font size=-1>
+<b>[1] Against a Cornwall wrestler</b><br>
+The song which begins on page 149 is preceded by several titles,  which testifies to the interest the collector takes in it. He apparently considers that the main subject is the rivalry between two wrestlers, one from Breton Cornouaille (Kernev), the other from British Cornwall (Kernev-Veur). In reality, only 3 stanzas (6b to 6d) noted in the margins of p.150, which we may therefore assume were added afterwards, seem to relate to an English champion ("roue Bro-Saoz") reluctant to challenge his Breton counterpart. Maybe he is well advised to do so since a stanza of the main text, P.149, str. 5 claims that the latter "knocked down 7 Englishmen with a kick / and as many Frenchmen with a slap."<br>
+This monumental song (80 stanzas) as it is appears in the collecting book  includes <b>6 intertwined stories</b> extended by variations and amendments which are probably imputable to the collector himself.<br>
+<br>
+[2] <b>Breton wrestling</b><br>
+The doctoral thesis available online, submitted in May 2008 by Ms. Aurélie Epron to the European University of Brittany Rennes 2 (EDHSH - Anthropology and Sociology) is about<br>
+"Wrestling traditions inherited from the Celts of the first centuries of our era: fight in  standing position only - no fighting in parterre position (after a fall wrestlers get up immediately); hands may only grasp the opponent's "roched" (shirt), legs attack the opponent's legs; technical vocabulary and arbitration in Breton..." (Part I, p.10).<br>
+ <b>British origins</b> that La Villemarqué seems to assume "are generally accepted and corroborated by the fact that, in other Celtic lands, wrestling is also practised in standing position and similar dress."<br> This is particularly relevant for Cornish wrestling (or "wrasslin"), which is closest to Breton" gouren" (costume:" jacket "or shirt, barefoot wrestling). Wrestling traditions akin to "gouren" also exist in Switzerland, Spain, Iceland ...,but it is with their neighbours across the Channel that Breton wrestlers most interact, as evidenced by old documents (wrestlers' meeting in  Châteaubriant in 1551 ...) <br>The song at hand is a precious testimony to how wrestling was practised before Dr Cotonnec, first President of FALSAB 
+
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para9')"><img id="para9_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"> (click the + sign ) <b>Dr Cotonnec</b> the first President of FALSAB </a>
+
+<div id="para9" style="display:none;">
+<font size=-2>
+A native from Scaër (Finistère), <b>Charles Cotonnec</b> was born at Saint-Thurien (Finistère) on April 22, 1876 and died in Paris on March 30, 1935. Installed in 1922 as a doctor in Quimperlé (Finistère) where he created his own surgical clinic specializing in phlebology , he became chief surgeon at the civil hospital of Quimperlé.<br>
+If his reputation as a doctor earned him the nickname "Ar Pareour" (He who heals), his main work was the renovation of Breton struggling, the creation of the FALSAB in 1930 and the resumption of Interceltic exchanges between Brittany and British Cornwall.<br>
+We read on the site "https://www.univ-brest.fr/digitalAssets/36/36802_Biographie_Cotonnec.pdf":
+"Until then wrestlers taking part in tornaments were few, wrestling often was but simulated struggle, wrestlers being hand in glove with one another ... Charles Cotonnec's commitment was from then on to impose on all matches and tournaments the statute and frame of regulations which they lacked. He succeeded in making of the various committees a federation which adopted standardized sporting regulations and was exclusively allowed to rule the financial aspect of this sport  (awards, bets), dissident groups or individual wrestlers being exposed to  disciplinary sanctions .... In addition, Charles Cotonnec organized the first Interceltic tournament in Quimperlé, on August 19, 1928 and it was a real triumph. Thousands of amateurs ... were present that day and the victory was gained by the Breton <b>Scordia</b> (who was the first wrestler to take the Wrestler's Oath in 1928), a baker from Scaër, over the British giant <b>Francis Gregory</b> ...<br>
+This restoration of the "gouren" was  ...[very largely due to] a reinvented tradition, ... the "sportivization" (lowering of the threshold of tolerated violence) of practices ... the <b>secularization</b> of games "... and the creation of a centralized institution issuing standard rules and belonged to a larger contemporary Western movement [promoting eugenics and Olympic ideals].<br>
+[To endow the renovated "gouren" with moral standards abreast of these lofty models], Dr Cotonnec composed an 'Oath of loyalty' that the athletes ... still should take before each tournament. Here is an excerpt thereof:<br>
+
+<table width=100%><td width=50% valign=top><font size=-2>
+M'hen tou da c'houren gant lealded,<br>
+Heb trubarderezh na taol fall ebet<br>
+Evit ma enor ha hini ma bro!<br>
+En testoni da ma gwiriegezh<br>
+Hag evit heuilh giz vat ma zud kozh<br>
+Kinnig a ran d'am c'henvreur ma dorn ha ma jod.<br>
+</font></td>
+<td width=50% valign=top><font size=-2>
+I swear to fight with loyalty <br>
+Without treachery or brutality <br>
+For my honour and that of my homeland! <br>
+As a proof of my sincerity <br>
+And as was the custom of my forefatherrs [?] <br>
+I hold out my hand and my cheek to my colleague. <br>
+</font></td> </table> <br>
+This enigmatic text aimed to ward off several demons: "violence, alcoholism, betting, wrestling as a profession ... [Cotonnec] also wrote that "The practice of Breton sports [would] renovate the race . (end of quote) <br>
+It should come as no surprise that the author of such a text was also a renowned bard whose works were published in 1935 under the title "Soñjennoù ur C'hernevad "(Reveries of a Cornouaille man). <br>
+<br>
+</font></div>
+
+(Federation of Friends of Breton Athletic Wrestling and Sports, 1930-1935) renovated it. It illustrates the fact that, in the eyes of a 19th century scholar, wrestling was considered an important marker of an idealized Breton identity.<br> On the other hand, the last verse (str. 52) suggests a link of descent from ancient Greek-Roman wrestling to Breton "gouren" (evidently denied by Alfred Darjou, see picture below!)<br>
+<br>
+[3] <b>Cantipou</b><br>
+This Breton wrestler had a name of <b>Norman</b> origin. Louis de Viennens, alderman of Harfleur, deputy of this city to the King (1455 - 1510) was styled Lord of Sénitot and Cantipou, a district of Gonfreville-L'Orcher near Harfleur. He held these titles in right of his wife, Marie, a descendant of Thomas d'Ercambourg (born in 1325), lord of Gainneville, Sénitot, Cantipou (Harfleur).<br>
+<br>
+[4] <b>Capons, bull, gloves and ribbons</b><br>
+To this list of <b>trophies</b>, "doublet-aglets" should be added, which were  at the origin cords with iron ends used to tie breeches to a doublet, then sheer decorative elements.<br>
+ "In Châteauneuf-du-Faou, from 1616 to 1627, the list of expenses incurred by the "fabrique" ( parish council) mentions 'aglets and gloves to be awarded to young wrestlers as well as ribbons and pins for young girls (... for other games) ...<br> 
+The parish archives of Plogonnec state that, from 1624 to 1668, aglets were awarded to young people victorious in wrestling matches during the "Pardon" which took place on the Ascension feast day: 38 crowns were spent on aglets and gloves as trophies for "young people" (quoted from Miss Epron's thesis).<br>
+However there is nowhere mention of the four-leaf clovers distributed (or sold?) by an innocent hand ...<br>
+<br>
+[5] <b>The wrestler's hairy legs</b><br>
+It seems that the narrator unconsciously assimilates this wrestler with superhuman strength with a <b>mythological</b> creature (Faunus or Pan) or even with the "wylde man" in ancient tales of which the Breton Merlin is the prototype.<br>
+<br>
+[6] <b>The "King" of the Britons</b><br>
+The word <b>"roue" </b>(king) in stanzas 6b and 27 (but not in stanza 37 where it applies to the Regent) obviously means "champion". The meaning to be given to this word in verse 6bis is less certain. It means "champion" if we understand that the owner of the premises advises Cantipou to confront opponents with the highest possible pugilistic titles. In this case "duke" and "baron" would also be titles earned by wrestlers - and "rouanez" (queen) a joke -. Given his exceptional talents, he may also recommend that Cantipou make himself known to the powerful in this world of ours, in which case these titles should be taken literally.<br>
+<br>
+[7] <b>A "lamm"</b><br>
+A technical term (8c) which usually means "jump" and refers to the "projection of the opponent on the ground with contact of both  shoulder blades before any other part of the body". It is the perfect grip resulting in an immediate victory. Some other terms specific to wrestling are encountered in the song: "Roched", the white combat jacket (str. 14); "tripping up" (Breton "kliked", here "taol biz-troad"), but the "fasad", meaning a slap, is nowadays strictly prohibited (str. 5); "kein" (back) is an advantage in the points count (str. 1f, 8, 8a, 8b). Stanza 6d, "e mar a grogad vat", "in case of doubt (mar) on the validity (mat) of a grip (krokad)" takes us to the heart of the subject matter.<br>
+Modern "gouren" has kept other <b>Breton terms</b>: "netra" ("nothing": a fall without point value); "kostin" ("side": only one shoulder on the ground); "diwall" (warning), "fazi" (fault), "poent" (point), "fazi-vras" (disqualification); "divrud" (gross fault). This information is taken from Wikipedia.<br>
+<br>
+[8] <b>"Gour Kantipou"</b><br>
+A close examination of page 153 shows that the third line of stanza 40 should read "Gour Kantipou a oa kroughet", which translates as  "The <b>man Cantipou</b> was hanged" ("gour" and not "gant", as stated in the CRBC transcription which would mean "he was hanged by Cantipou"). Perhaps this unusual formulation is motivated by the traditional etymology of the word" gouren ","(to) wrestle". Wrestling was nonetheless very much appreciated by ladies, as spectators, as evidenced in the pictures by two Pont-Aven painters inserted below, Gauguin and Sérusier. Cantipou's mother attends the match between her son and the Moor. She can not help entering the lists, which of course was usually forbidden (str. 8d-8e)!
+<li> But it also appears that young girls did not wait until 1930 for Doctor Cotonnec's reform to practice this sport. Miss Epron points out, in her thesis, a gwerz published by Ifig Troadec in his "Carnets de route 2005", pp. 228-229, entitled <a href="rousval.htm">"Naig ar Rousval"</a>. Naig (Nancy) is a young wrestler who wins against the Lord Run-ar-Gov, who, subjugated, asks her hand in marriage.<br>
+Aristocrats sometimes vouchsafed to measure themselves with commoners in wrestling matches.<br>
+<li> For instance in the Bazhaz gwerz <a href="../gwerand.htm">Marquis de Guérant</a>, where this nefarious character first challenges the Clerk of Garlan to a wrestling fight during a <a href="../leurnevf.htm">New threshing floor party</a>. The latter refuses, arguing that a nobleman should not fight against the son of a simple peasant. The ensuing sword-against-stick duel ends in the death of the poor clerk. In this gwerz the trophies are called "gajoù", (pledged things) and a grip is a "peg", which La Villemarqué translates very roughly as "tripping someone up" (str. 26). This phrase, in Father Grégoire's dictionary is rendered as "krok-gouren" or "encloch" and is illustrated by the sentence"to trip up and put down to the ground someone in fighting ", "Ober ur c'hrok-gouren ha reiñ lamm-kaer "or" Kemer an encloch ha reiñ lamm-kaer" which describes a victorious attack.
+
+<li> <a href="kloadour.htm"> The clerk Le Claouder </a> begins in a similar way: the Chevalier de Lampaul challenges Clerk Le Claouder to a wrestling bout, but proposes to add to the usual award ("ar manegoù", the gloves), a formidable condition: "An hini gouezo ne zavo ket / Med e wad a rank bezañ skuilhet", "He who falls shall not rise again / But his blood must be shed" (str. 10 to 12) . The skill contest has become a fight to the death. But here it is the clerk who eventually triumphs.
+
+<li> Finally in the song he composed to prompt the <a href="bragoumo.htm">Lads of Pont-l'Abbé </a> to maintain their lovely traditions, La Villemarqué does not forget the wrestling tradition  (str.11): "Pasoù, dañsoù ha gouren", "Dance steps and wrestling".<br>
+<br>
+[9] <b>Cantipou and Pontcallec</b>.<br>
+Besides this mythical aspect, this song also has a marked <b>political</b> tone. Stanzas 50 to 52 tell us that Cantipou and Marquis de Pontcallec were often seen together. The latter had taken the lead in a conspiracy against the Regent Philippe d'Orleans and was beheaded in 1720 (which allows us to roughly date this song).<br>
+The episode of the meeting of the two men at the Pardon of Notre-Dame-des-Portes in Châteauneuf-de-Faou logically precedes that of the hanging of Cantipou, victim of repression against all alleged members of the conspiracy. Beheading being a privilege of the nobles, Cantipou undergoes the torture reserved for the commoners, hanging, preceded by that of the wheel, to ward off his superhuman strength. <br>
+It appears that La Villemarqué, when transferring to the Marquis what is said here about Cantipou, adapted stanzas 36 to 39, to make of them the first verses of the "Elegy of Pontcallec" in the 1845 Barzhaz.<br>
+<br>
+[10] <b>Kan Gourenerien Breizh</b><br>
+To these various references, we cannot help adding the following, drenched with <b>Breton jingoism</b>. It is a composition by Yves Bertou,  published in 1912 in N° 207 of "Kloc'hdi Breiz" (The Breton bell steeple), p. 2478. This "March of the Wrestlers of Brittany", referenced M-10604 in the Malrieu catalog, is sung to the Welsh tune of the hymn "Bro gozh ma zadoù":<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+1. Ni zo paotred taer a Vreizh-Izel<br>
+A gar o mamm-vro dreist pep tra,<br>
+N'eus na mor, n'eus na tan, na brezel<br>
+Hag a vez kap d'ober deomp krenañ!<br>
+<br>
+<i>Diskan:</i><br>
+Paotred Breizh, gourenerien dispar<br>
+Paotred Breizh, gourenerien dispar<br>
+Paotred Breizh, n'eus 'vito diskar!<br>
+<br>
+2. Ar Vreizhiz a-viskoazh, da viken<br>
+A zo digabestr ha divlam.<br>
+N'eus bremañ na pagan, na kristen<br>
+Hag a ve kap da reiñ deomp al lamm!<br>
+<br>
+3. Gourenomp ha kanomp gant kalon<br>
+Evel hon tadoù-kozh gwechall,<br>
+Pa oa trec'h ar Vreizhiz d'ar Saozon,<br>
+Ha pa oa Breizh trec'hourez Bro-C'hall!
+</td>
+<td width=50% valign=top><font size=-1>
+1. We are bold Lower Brittany lads <br>
+Who love our homeland above all. <br>
+There is no sea, no fire, no war <br>
+We were afraid of!<br>
+<br>
+<i> Chorus</i> <br>
+Lads of Brittany, unrivaled wrestlers <br>
+Lads of Brittany, unrivaled wrestlers <br>
+Lads of Brittany, who could throw them down?<br>
+<br>
+2. Bretons always and forever <br>
+Are free and without reproach, <br>
+Neither Pagan nor Christian <br>
+Could inflict a "lamm" on us! <br>
+<br>
+3. Lets fight and sing wholeheartedly <br>
+Just like our ancestors did,<br>
+When they prevailed over the Britons <br>
+When Brittany prevailed over France!
+</td></table><br>
+<br><br><br>
+"Cock-a-doodle Doo!" (the cry of the proud Gallic cock) is in Breton either "Kotokogog!" or "Deus d'ar ger da gousket!" (Return home and go to bed!)
+</font></td></table><br>
+<br>
+
+<img src="jacoban2.jpg" width=90%><br>
+<br>
+<table width=90%>
+<td witdth=50% valign=top><font size=-1>
+ La lutte bretonne a inspiré divers artistes: Alfred Darjou ("Les luttes, comme ça rappelle l'antique!", 1859), Paul Gauguin ("Jacob et l'ange" ou "Vision après le sermon" ,1888 ), Paul Sérusier("La lutte bretonne",1888), Pierre Péron (Illustration pour la méthode de breton "Deskom Brezoneg", 1957).<br>
+Peut-être Gauguin et Sérusier ont-ils peint le même spectacle qui eut lieu à Pont-Aven, en 1888, où l'assistance se composait presque exclusivement de femmes et d'enfants. Les lutteurs étaient des garçons d'environ 14 ans.<br>
+Le tableau de Gauguin illustre l'exemple donné par le dictionnaire de 1732 du Père Grégoire à l'article 'lutte": "Jakob a c'hourenas oc'h un ael hed un nozvezh". "Jacob lutta contre l'Ange toute une nuit". On y voit le rouge pré de la lutte, l'Arbre de la connaissance  (ou s'agit-il de la rivière Jaboc et de la verte Terre promise?) et une vache qui représente, selon certaines interprérations, les voies de la rédemption. Ne serait-ce pas aussi le veau des strophes 6 et 7?
+
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para1')"><img id="para1_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"><b>Gauguin-Sérusier (cliquer sur "+")</b></a><div id="para1" style="display:none;">
+<font size=-1>
+<b>Paul Gauguin</b><br>
+Extrait d'une lettre de Paul Gauguin à Vincent Van Gogh datée de Pont-Aven le/vers le 26 septembre 1888<br>
+(réf. 688 - site http://www.vangoghletters.org/vg/letters/)<br>
+<br>
+"...Je viens de faire un tableau religieux très mal fait mais qui ma interessé à faire et qui me plaît. Je voulais le donner à leglise de Pont aven. Naturellement on nen veut pas.<br>
+Des bretonnes groupées prient, costumes noir très intense. Les bonnets blancs jaunes très lumineux. Les deux bonnets à droite sont comme des casques monstrueux. Un pommier traverse la toile, violet sombre, et le feuillage dessiné par masses comme des nuages vert emeraude avec les interstices vert jaune de soleil. Le terrain (vermillon pur). A leglise il descend et devient brun rouge.<br>
+Lange est habillé de bleu outremer violent et Jacob vert bouteille. Les ailes de lange jaune de chrôme 1 pur. Les cheveux de lange chrôme 2 et les pieds chair orange. Je crois avoir atteint dans les figures une grande simplicité rustique et superstitieuse. Le tout très sévère. La vache sous larbre est toute petite par rapport à la verité et se cabre. Pour moi dans ce tableau le paysage et la lutte nexistent que dans limagination des gens en prière par suite du sermon, cest pourquoi il y a contraste entre les gens nature et la lutte dans son paysage non nature et disproportionnée...."<br>
+<center>*********</center><br>
+<b>Paul Sérusier</b><br>
+Le critique dart Tai Mitsuji dans « La lutte avec Paul Sérusier, un contronyme visuel » (http://index-journal.org/issues/identity/wrestling-with-paul-serusier-by-tai-mitsuji) présente le tableau de Sérusier comme laboutissement de lart de conjuguer des notions contraires.<br> 
+Ce nest quen apparence la vision dune fête bretonne conforme à la description quen donne A. Le Braz dans "Au pays des pardons" (1894) : "Plaisirs agrestes et primitifs. On s'attroupe pour jouer aux noix, dans le gazon, au pied des ormes. Les gars se défient à la lutte, à la course sous les yeux des filles sagement assises sur les talus environnants..."<br>
+Sérusier, ce Parisien arrivé à Pont-Aven en 1888 était venu, en bon Nabis quil allait devenir, éprouver le spiritualisme dune culture réputée inchangée, propre à guérir le monde moderne, malade de son matérialisme. Cest dans cette petite ville fréquentée par bien dautres peintres, que Gauguin linitia au « Synthétisme », lart dinterpréter librement et de transposer le réel à travers le prisme de sa propre expérience. Il le guida pour réaliser luvre de référence des Nabis, « le Talisman », une étude abstraite, antithèse du naturalisme qui prélude à dautres uvres teintées de fantastique de Sérusier.<br>
+La lithographie dAlfred Darjou, "Les Luttes, comme ça rappelle lAntique", dénonçait comme son titre sarcastique lindique, le gouffre qui séparait les lutteurs idéalisés de lantiquité de leurs frustes émules bretons contemporains, des brutes aussi éprises de violence que leur public. (Cest à cette catégorie quappartient le Cantipou de la gwerz).<br>
+Les lutteurs de Sérusier pratiquent la lutte telle quelle sera codifiée quelque 40 ans plus tard par le Dr Cotonnec (1876-1935) : costume réglementaire, présence dun représentant de lordre, symbole de la tranquillité qui émane de cette foule silencieuse. Le caractère hiératique de la scène est renforcé par la technique utilisée, inspirée par lart des estampes japonaises (aplats de couleurs et contours surlignés qui rappellent les vitraux). <br>
+La transformation importée de lextérieur se manifeste dans les rangs des spectatrices toutes identiques ou presque : les coiffes de Pont-Aven dégagent les visages (contrairement à des modèles plus anciens) et ces dames sont munies dombrelles à la mode. La taille des personnages masculins laisse supposer quil sagit de jeunes garçons. La passivité du gendarme témoigne de lacceptation tacite par cette communauté paroissiale de lordre maintenu par lautorité laïque centralisée. Une lithographie de 1865, « Une lutte à Rosporden » de F-H Lalaisse montrait un homme armé dun fouet et un autre dune casserole sefforçant déloigner de la lice les spectateurs trop enthousiastes.<br>
+<br>
+En 1888, à Pont-Aven, une rencontre de lutte à laquelle nassistaient que des femmes, des enfants - et quelques peintres - devait être assez exceptionnelle pour quon puisse supposer que Gauguin et Sérusier aient représenté le même spectacle.<br>
+<center>*********</center><br>
+<b> Le clergé et la gymnastique</b><br>
+Les deux peintres qui pensaient dépeindre des moeurs bretonnes immuables, étaient en réalité les témoins d'une mutation profonde qui affectait les mentalités bien au-delà de la Bretagne. La même année, 1888, un certain Pierre de Coubertin fondait le "Comité de propagande des exercices physiques" dont l'objectif était d'introduire la gymnastique et le sport à l'école.<br>
+Le clergé de Bretagne a bientôt fait siennes ces préoccupations, même si le cantique du <a href="../baradoz.htm">Paradis</a> continuait d'affirmer (str. 4):<br>
+<br>
+<i>"Neuze me 'gimiado / Ouz ar c'hig ankeniuz, / Enebour da Jezuz."<br>
+"J'abandonnerai ce corps, / Qui me cause tant de torts / C'est l'ennemi de Jésus!"</i><br>
+<br>
+On ne s'étonnera donc pas si la figure d'un prêtre coiffé d'une calotte émerge du bord droit du tableau de Gauguin. Outre le prédicateur à l'origine de l'hallucination collective, c'était peut-être l'organisateur de la rencontre de jeunes lutteurs plus fidèlement représentée par Sérusier.<br>
+La méthode de breton dont est tirée l'image où Pierre Péron a dépeint en trois couleurs des prises de "gouren" est l'oeuvre de deux prêtres, V. Séité et L. Stêphan. Cette image illustre la leçon consacrée au vocabulaire relatif au corps de l'homme ("Korf an den"). Ce que ces deux ecclésiastiques disent de la gymnastique et du sport semble exprimer un enthousiasme sincère:<br>
+<br>
+<i>"Ha c'hoant ho-peus da welet kigennoù ho tivrec'h hag ho tivesker o kreñvaat? Ha c'hoant ho-peus e vefe gweñv hoc'h izili, yac'h ha mistr ho korf ha ruz ho penn? Ha c'hoant ho-peus e redfe en ho kwazied gwad nerzhus, gwad BREIZHAD, birvidig evel tan? Ha c'hant ho-peus pellaat diouzhoc'h ar c'hleñvet hag ar MARV zoken? En ur ger, ha c'hoant ho-peus hirraat ho puez?: En-em roït d'ar sportoù ha d'an embregerezh-korf..."<br>
+"Voulez-vous voir les muscles de vos bras et des vos jambes se raffermir? Voulez-vous que vos membres s'assouplissent, que votre corps soit sain et élégant et votre face respire la santé? Voulez-vous que coule en vos veines un sang vigoureux, un sang de BRETON, ardent comme le feu? Voulez-vous éloigner de vous la maladie, sinon la MORT? En un mot, voulez-vous vivre plus longtemps? Pratiquez les sports et la gymnastique! ..."</i><br>
+<br>
+A se demander si Francis Galton (1822-1911), l'inventeur de l'eugénisme (le concept et le mot et cousin de Charles Darwin), en 1883, n'aurait pas guidé la main des deux religieux! On ne leur fera pas l'injure de faire d'autres rapprochements...<br>
+<br>
+<center>
+<img src="eugenisme.jpg" width=90%><br>
+<br>
+</font></div>
+</font></td>
+
+<td witdth=50% valign=top><font size=-1>
+Breton wrestling inspired various artists:  Alfred Darjou ("Les luttes, comme ça rappelle l'antique!", 1859), Paul Gauguin ("Jacob and the angel" or "Vision after the sermon", 1888), Paul Sérusier ("The Breton wrestlers", 1888),  Pierre Péron (Illustration for the Breton manual "Deskom Brezoneg", 1957).<br>
+Gauguin and Sérusier maybe painted the same show which took place in Pont-Aven, in 1888, where the audience consisted almost exclusively of women and children. The wrestlers were boys of around 14 years.<br>
+Gauguin's painting illustrates the example given by Father Grégoire's dictionary (1732) under item "wrestle": "Jakob a c'hourenas oc'h un ael hed un nozvezh". "Jacob wrestled with the Angel all night long". We see the red meadow of the struggle, the Tree of knowledge (or is it the Jabbok river and the green Holy land?) and a cow which reveals, according to certain interpretations, the means of man's redemption. Could it not also be the calf in stanzas 6 and 7?<br>
+
+<p class=norme><a style="cursor:pointer;" onclick="return toggleMe('para3')"><img id="para3_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"><b>Gauguin-Sérusier (click the + sign)</b></a>
+<div id="para3" style="display:none;">
+<font size=-1>
+<b>Paul Gauguin</b><br>
+Excerpt from a letter of Paul Gauguin to Vincent Van Gogh, from Pont-Aven on/ca. 26 septembre 1888<br>
+(réf. 688 - site http://www.vangoghletters.org/vg/letters/)<br>
+<br>
+"...Ive just done a religious painting, very badly done, but which was interesting to do, and which I like. I wanted to give it to the church at Pont-Aven. They dont want it, of course.<br>
+Breton women, grouped together, are praying; costumes very intense black. The yellow-white bonnets very luminous. The two bonnets on the right are like monstrous helmets. An apple tree goes across the canvas: dark purple, and the foliage drawn in masses like emerald green clouds, with yellow-green interstices of sunlight. The earth (pure vermilion). At the church it goes down and becomes red brown.<br>
+The angel is dressed in violent ultramarine blue, and Jacob in bottle green. The angels wings pure no. 1 chrome yellow. The angels hair no. 2 chrome, and the feet flesh-orange. I believe Ive achieved a great rustic and superstitious simplicity in the figures. The whole very severe. The cow under the tree is tiny by comparison with reality, and is prancing. For me, the landscape and the wrestling exist only in the imagination of the people at prayer after the sermon; thats why theres a contrast between the real people and the wrestling in its landscape, not real and out of proportion..."<br>
+<center>*********</center><br>
+<b>Paul Sérusier</b><br>
+Art critic Tai Mitsuji in « Wrestling with Paul Sérusier, a visual contranym » (http://index-journal.org/issues/identity/wrestling-with-paul-serusier-by-tai-mitsuji) emphasizes the split nature of Sérusiers painting where a series of contrary notions are matched together.<br>
+It is only apparently a vision of Breton festivities alike to those described by A. Le Braz in "The Land of Pardons" (1894): " How innocent, how primitive! The good folk flock together to play knucklebones on the green sward, beneath the elms. And there, under the eyes of the girls, seated demurely on the surrounding slopes, the youths challenge one another to wrestle and running race.<br>
+The Parisian Sérusier had come to Pont-Aven in 1888, hoping to find there, as did all future Nabis the spiritualism of an allegedly unchanging culture, that would heal the modern world driven by matter and material. It was in this little town visited by alien painters, that Gauguin introduced him to « Synthetism », i.e. freedom to interpret and transcribe nature through the lens of personal experience. Under his guidance, Sérusier painted the reference work of the Nabis, « the Talisman », an abstracted study, which departed from his other works inflected with the fantastical.<br>
+Alfred Darjous lithography, "Les Luttes, comme ça rappelle lAntique", proclaimed, as did its sarcastic title, the gap between the idealized wrestlers of the classical past and their coarse present day Breton colleagues, who were as fond of violence as their onlookers. (Cantipou in the gwerz belongs to this class).<br>
+Sérusiers wrestlers combat in accordance with the rules which will be codified some 40 years later by Dr Cotonnec (1876-1935): regular sporting dress, presence of a gendarme, whose inaction signals the tranquility that prevails among the silent crowd. The hieratic aspect of the scene is enhanced by the painting technique used, Japoniste flatness with bold outlines (akin to the art of stained-glass window making).<br>
+Evidence of change under external influence is scattered throughout the ranks of the onlooking women who are, all of them, nearly identical: the Pont-Aven headdresses dont obscure the faces (as did older fashion) and the ladies wear parasols, the very latest thing back then. From the small stature of the male characters we may infer that they are young boys. The gendarmes inaction testifies to the tacit acceptance by this parish community of public order maintained by centralized secular governance. A 1865 lithography, « Une lutte à Rosporden » by F-H Lalaisse pictured a man holding a whip and another a saucepan striving to force off the lists the enthusiastic spectators.<br>
+In 1888, in Pont-Aven, a wrestling match attended only by women and children  and a few painters  should have been so rare an event that we may assume that  Gauguin and Sérusier have pictured the same scene.<br>
+<center>*********</center><br>
+<b> The clergy and gymnastics </b> <br>
+The two painters who thought they were portraying immutable Breton customs, were in reality the witnesses of a profound change which affected mentalities far beyond Brittany. The same year, 1888, a certain Pierre de Coubertin founded the "Propaganda committee for physical exercises" whose main objective was to introduce physical activity and sport to the schools. The clergy of Brittany soon adopted these concerns, even if the hymn of <a href="../baradoz.htm"> Paradise </a> continued to affirm (str. 4): <br>
+<br>
+<i>"Neuze me 'gimiado / Ouz ar c'hig ankeniuz, / Enebour da Jezuz." <br>
+"I'll depart from this body, / that does me so much harm / and is the enemy of Jesus!" </i><br>
+<br>
+It is therefore not surprising if the figure of a priest wearing a cap emerges from the right edge of Gauguin's painting. Maybe he was not only the preacher who induced the collective hallucination, but also the organizer of the matches of young wrestlers, more faithfully represented by Sérusier. <br>
+The Breton manual harbouring the image by Pierre Péron showing three typical "gouren" grips is the work of two priests, V. Séité and L. Stêphan. This picture illustrates the lesson devoted to vocabulary relating to the human body ("Korf an den"). What these two clergymen say about gymnastics and body exercises does express sincere enthusiasm: <br>
+<br>
+<i>"Ha c'hoant ho-peus da welet kigennoù ho tivrec'h hag ho tivesker o kreñvaat? Ha c'hoant ho-peus e vefe gweñv hoc'h izili, yac'h ha mistr ho korf ha ruz ho penn? Ha c'hoant ho-peus e redfe en ho kwazied gwad nerzhus, gwad BREIZHAD, birvidig evel tan? Ha c'hant ho-peus pellaat diouzhoc'h ar c'hleñvet hag ar MARV zoken? En ur ger, ha c'hoant ho-peus hirraat ho puez?: En-em roït d'ar sportoù ha d'an embregerezh-korf..."<br>
+"Do you want to see the muscles in your arms and legs firm up? Do you want your limbs to loosen up, your body to be healthy and slim. Do you want to breathe health? Do you want vigorous blood, BRETON blood, fiery like fire to run through your veins? Do you want to keep sickness away from yourself, if not DEATH? In a word, do you want to live longer? Just practice sports and gymnastics! ... "</i><br >
+<br>
+One wonders if Francis Galton (1822-1911), a cousin to Charles Darwin who  was the inventor of eugenics (the concept and the word), in 1883, did not guide the hand of the two monks! We shall refrain from making other offensive parallels ...<br>
+<br>
+<center>
+<img src="eugenisme.jpg" width=90%><br>
+<br>
+</font>
+</div>
+</font></td>
+
+</table><br>
+<br>
+<embed src="../pontkale.mid" height="60" autostart="true"><br>
+<audio src="../pontkale.mp3" controls> </audio><br>
+<br>
+<a href="kersalau.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="opetrari.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+
+
+
+
+
+
+
+<!--
+https://tel.archives-ouvertes.fr/file/index/docid/282462/filename/Epron.pdf
+
+http://www.index-journal.org/media/pages/issues/identity/wrestling-with-paul-serusier-by-tai-mitsuji/2124495822-1592547531/wrestling-with-paul-serusier-by-tai-mitsuji.pdf
+
+http://etab.ac-poitiers.fr/coll-gerard-philipe-niort/sites/coll-gerard-philipe-niort/IMG/pdf/La_Lutte_Bretonnelogan_et_enzo.pdf
+
+http://etab.ac-poitiers.fr/coll-gerard-philipe-niort/
+
+J'étudie une ballade bretonne qu'on peut dater de 1720, intitulée "Cantipou le lutteur".
+Mon attention a été attirée par la page dont l'adresse internet figure en objet .  Sans doute les nom et prénom "Logan" et "Enzo" qu'elle contient sont-ils ceux du jeune auteur. Il s'agit d'une description très réussie du tableau de Paul Sérusier, "La Lutte bretonne. Celle-ci donne, outre des indications qui peuvent se déduire de l'examen du tableau (coiffes de Pontaven...), un renseignement très précis, la date de la rencontre: le 14 mars 1888.
+J'aimerais savoir si cette date se fonde sur un document précis et si oui, lequel?
+Avec mes remerciements anticipés.     Christian Souchon
+
+http://an-uhelgoad.franceserv.com/gourenn.htm
+Les femmes portent la coiffe de Pont-Aven mais les hommes portent le costume du Poher .Mais ce tableau de Sérusier fait parti de son séjour au Huelgoat.
+
+
+
+Sérusier is mostly quoted as a main founder of the Nabis art movement or a pupil of Paul Gauguin and  his "Lutte bretonne" usually mentioned in passing, as illustrating the 19th century popular image of Brittany. <br>
+Art critic and historian Tai Mitsuji  wrote an article, "Wrestling with Paul Sérusier, a visual contranym" emphasizing the "split nature of the work.[where] the old is matched with the new; the foreign with the indigenous; the visceral with the tranquil... Sérusier has given us a vision that captures the inconsistencies of culture, revealing the Parisian fantasy of Brittany to be riddled with contradictions." <br>
+And so it was that in 1888, Sérusier left the comforts of the capital and set out for the small town of Pont-Aven in Brittany. The... spiritualism of allegedly unchanging Breton culture naturally appealed to the Nabis, whose name ... translated from Hebrew as the prophets [They endeavoured to] rediscover an Ancient Wisdom that would heal the modern world driven by matter and material. There Gauguin introduced Sérusier to Synthetism, i. e. freedom to interpret and transcribe nature through the lens of personal experience. Under Gauguins guidance, Sérusier painted Le Talisman, an abstracted study which departed from the mimetic language of naturalism. The artist not only captured nature, but also transformed it into an expression of his own psychology. It allowed Sérusier to avoid realist representation and instead to adopt a visual vocabulary inflected with the fantastical.
+ 
+Alfred Darjous "Les Luttes, comme ça rappelle lAntique"  The lithographs sarcastic title immediately establishes the disjunct between the idealised wrestlers of the classical past and the primitivism of their present-day Breton counterparts.The clothing which lies abandoned on the ground, for example, encodes the work with a sense of spontaneity, as if the fight has recently broken out and the men have undressed in haste. Undermining the veracity of this fetishistic vision, however, most wrestling matches tended to be organised and require that particular attire be worn. It is evident that this work was born more out of fantasy than observation.Darjous central figures are almost interchangeable with their pictured onlookers, as if to suggest that violence is not contained within this circumscribed space or confined to these two figures-instead, violence is ubiquitous within this primitive society.<br>
+Sérusiers combatants are shown in the customary sporting dress of Brittany: barefoot, wearing a tight white shirt and black trousers. These garments elevate the works cultural specificity, as they reproduce actual aspects of Breton culture and locate the viewer therein. Of course, physical violence resides at the heart of both scenes, yet Serusiers inclusion of a uniform provides us with a sense of the social contract that has been entered into by the participants. Darjous protagonists are caught in a fight, whereas Sérusiers subjects compete in a match.<br>
+There was nothing inherently religious about gouren, but aspects of spiritualism nonetheless pervaded the sport, with competitors crossing themselves and renouncing the devil before each match.<br>
+
+Gouren traditionally took place in a village meadow, with onlookers forming a circle around its perimeter. The right-hand side of the crowd begins to curve towards the viewer, alluding to the continuation of the line of onlookers beyond the canvas. This locates the viewer on the opposite side of the circle. This shared spatiality assimilates the viewer into the purportedly primitive culture: a push-pull between the exoticism that culturally distances him from the scene, and the visual directives that actively draw him into it. <br>
+
+Whereas other artists emphasised the raucous nature of such events, Sérusiers work is characterised by tranquillity. This tone is embodied by the painted crowd, who appear both silent and still as they observe the wrestlers. In echoing the dynamic of Gauguins work, Sérusier creates an equivalency between the wisdom of the Catholic vision and the culture of Brittany, but more than that, he also enacts an equivalency between the viewer and the viewed. The Japoniste flatness technique used hinders the viewers subsumption into the work. In this sense, La Lutte Bretonne is as much a reflection of the Parisian avant-garde as of the Breton locals.<br>
+
+Evidence of change and foreign influence is scattered throughout the ranks of the onlookers. Reflecting established gender divisions, the crowd is overwhelmingly composed of women, who assume their historically prescribed role, passively watching as the men wrestle. The crowd is characterised by this sameness, which visually reinforces the idea of unchanging cultural singularity.<br>
+Here, the coiffe, which had become a shorthand for ossified culture, in fact, becomes a declaration of change, since it does not obscure the faces.<br>
+The insertion of parasols into the Breton context may therefore be read as connecting the countryside to the city and complicates the trope of cultural isolation.<br>
+
+Finally, the idea of a socially dislocated Brittany is further ruptured by the inclusion of the policeman in La Lutte Bretonne. Wrestling matches were traditionally overseen by stewards, who kept the crowds at bay with either a whip or saucepan. Here the gendarme's inaction signals the tacit strength of his authority.and links rural traditions to centralised governance
+
+How innocent, how primitive! The good folk flock together in the shade of the walnut trees, on the green sward, beneath the spreading elms. And there, under the eyes of the girls, seated demurely on the surrounding slopes, the youths challenge one another to wrestle.1
+
+
+"Plaisirs agrestes et primitifs. On s'attroupe pour jouer aux noix, dans le gazon, au pied des ormes. Les gars se défient à la lutte, à la course sous les yeux des filles sagement assises sur les talus environnants..."
+(A. Le Braz "Au pays des pardons", 1894).
+Breton culture remained caught in an idealised past. Or so it seemed....The painting...builds up and collapses the idea of a fixed, unchanging Brittany.
+
+********
+Référence : M-02401 
+Titre critique breton : Annaig Ar Rousval ha Run Ar Go
+Titre critique français : Annaig Le Rousval et Run Ar Go
+Titre critique anglais : Annaig Le Rousval and Run Ar Go
+Résumé :  Run ar Go dit à Annaig Rousval de cesser de porter des dentelles car cest réservé à la noblesse. Celle-ci refuse dobéir. Ils luttent. Annaig gagne, en mettant à terre les deux épaules de Run ar Go. Celui-ci veut lépouser malgré le refus de sa mère.
+Thèmes : Désordre sociétal, changement de la société ; Disputes
+Versions (1 version, 1 occurrence )
+Collecteur : LE TROADEC Ifig, LE TROADEC Nanda
+Interprète : LE BONNIEC (Mme RIOU) Louise
+Date de collecte : 1980-07
+Lieu de collecte : Pluzunet (Plûned, 22)
+Version 1 : Annaig Ar Rousval ha Run ar Go / Annaig Le Rousval et Run Ar Go
+Langue : Breton, Traduction en français
+Type : Texte
+Ouvrage : Troadec (Ifig), Carnets de route, 2005
+Position dans louvrage : Livre, p. 228-229
+
+
+
+
+
+Annaig Ar Rousval ha Run Ar Go
+Annaig Le Rousval et Run Ar Go
+Louise LE BONNIEC (Mme RIOU)  Pluned  Hañv 1980 (Pluzunet  Eté 1980)
+Bien curieuse chanson que les mésaventures dAnnaig Le Rousval et sa manière inattendue de tenir tête et de faire plier Run Ar Go ! Cest un
+exemple caractéristique des surprises que nous réservait Louise Le Bonniec !
+Klevet am eus ma mamm kanañ un tamm chañson evel-se, un tamm
+rimastell :
+Naig Ar Rousval ar feumeulenn
+A doug dantelezh e-war he fenn
+A doug dantelezh e-war he zal
+War he divskoaz tri pe bevar
+Met Run Ar Go en deus lâret
+Lâret dAnnaig ar Rousval
+Dilezel he dantelezhoù
+Gant an noblañs hag en dougo.
+Naig ar Rousval he deus lâret :
+«Ma dantelezhoù a zo paeet
+Ma dantelezhoù, emezi, a vo douget !
+Pe vo drouk na mat gant Run ar Go
+Me a dougo ma dantelezhoù !»
+Met benn ar fin a zo savet gourennoù
+etre Naig ar Rousvalin ha Run ar Go
+Naig ar Rousval he deus lâret :
+«Gra Run ar Go gourennoù na pa garo
+nam eus ket aon deus Run ar Go !»
+Pa oa komañset ar gourennoù
+Tout an dud a ouele
+O welet Annaig ar Rousval
+O vont da chouren gant Run ar Go.
+Naig ar Rousval he deus lâret :
+«O ma zud kaezh ne ouelet ket
+Deus Run ar Go aon m eus ket !
+Mes ma sikouret ma vez ret
+Met aon, emezi, me nam eus ket !»
+A-raok ma oa fin ar gourennoù
+Nevoa bet tri lamm Run ar Go !
+Run ar Go neuze en deus lâret :
+«Ar Rousvalin honnezh a blij din
+Kaout da bried a renkin !»
+Pa nevoa de vamm lâret :
+«Dar Rousvalin e vin dimezet
+Ar Rousvalin a blij din
+Kaout anezhi da bried a renkin !»
+E vamm he deus dezhañ lâret :
+«Dar Rousvalin ne dimezfet ket.
+Neo ket ur plach a ligne vat
+Labourer douar eo he zad !»
+«Larfet din forzh petra, emezañ,
+Naig ar Rousval a vo ma fried.
+Ma vije ket an douar labouret
+Den ebet, emezañ, ne nije boued
+Ar Rousvalin a rinkin kavet !»
+Oant ket bet pell, kuida !
+
+
+Jai entendu ma mère chanter un petite chanson comme cela, une
+petite ritournelle :
+Annaig Le Rousval, la femme,
+Porte de la dentelle sur la tête.
+Elle porte de la dentelle sur le front
+Trois ou quatre sur les épaules.
+Mais Run Ar Go lui a dit ;
+Il a dit à Annaig Le Rousval
+De délaisser ses dentelles
+Car elles sont portées par la noblesse.
+Annaig Le Rousval a dit :
+«Mes dentelles sont payées
+Mes dentelles, dit elle, seront portées !
+Que Run Ar Go soit content ou pas
+Je porterai mes dentelles !»
+Mais pour finir on en est venu aux luttes
+Entre Annaig La Rousvaline et Run Ar Go
+Annaig Le Rousval a dit :
+«Que Run Ar Go lutte quand il veut
+Je nai pas peur de Run Ar Go !»
+Quand commencèrent les luttes
+Tout le monde pleurait
+En voyant Annaig Le Rousval
+Aller lutter contre Run Ar Go.
+Annaig Le Rousval a dit :
+«Oh mes pauvres gens, ne pleurez pas
+Je nai pas peur de Run Ar Goff !
+Mais aidez-moi sil le faut !
+Quant à avoir peur, dit-elle, je nai pas !»
+Avant que ne soient finies les luttes
+Run Ar Go avait eu trois lamm1
+ !
+Alors Run Ar Go a dit :
+«La Rousvaline, celle-là me plait
+Je laurai pour épouse !»
+Quand il dit à sa mère :
+«Je serai marié à la Rousvaline
+La Rousvaline me plait
+Je laurai pour épouse !»,
+Sa mère lui a dit :
+«Tu népouseras pas la Rousvaline
+Elle nest pas fille de bonne lignée,
+Son père est cultivateur !»
+«Vous me direz ce que vous voudrez, dit-il,
+Annaig Le Rousval sera mon épouse.
+Si la terre nétait pas labourée
+Personne, dit-il, naurait de nourriture !
+Jépouserai La Rousvaline !»
+Ils nont pas été longs, nest-ce-pas !
+
+1 Un «lamm» consiste à faire toucher terre aux deux épaules de son
+adversaire, une victoire incontestée qui équivaut en lutte bretonne au K.O.
+de la boxe.
+**********************
+Paotr bihan Run Ar Go  Le petit garçon de Run Ar Go
+Un istoar kontet gant Louise LE BONNIEC  Une histoire racontée par Louise LE BONNIEC
+
+«Eno, e Run Ar Go e Pederneg, e oa ur paotr bihan en devoa
+naon. Dar choulz-se e vije kalz a dud o kreuviñ gant an naon.
+Hag ar paotr bihan-se a laeras un aval. Gant se evit laerezh un
+aval da dibriñ en devoa naon, kuida ! Hag ar paotr bihan-se oa
+bet staget gant Run Ar Go deus ur wezenn, diwisket noaz, ha
+frotet leun a goavenn laezh diontan abalamour dar chelienn
+dont da dibriñ anezhañ !»
+«Petra oa arri goude ?»
+«Petra ? Run Ar Go oa bet skoet teir gwech an tan warnañ a
+oa kouezhet diwar ar Menez Bre ! Dar choulz-se e oa tud
+savant koulz ha bremañ, hag hemañ, Run Ar Go, an den-se, oa
+diskwelet dezhañ marteze e oa deuet da vezañ un dra bennak
+ivez. Ya ! Hennezh marteze en devoa dalchet soñj ! Ha teir
+gwech e oa bet chwezet an tan gwechall e Run Ar Go ha
+choazh e dijent doan deus an tan. Cà cétait la revanche de
+tout cela !
+Neus ket pell choazh e vije digaset keloù dan hini e vije
+merour e-barzh («au locataire») hag e vije lâret dezhañ kas e
+loened en-dro. Ha gant se e oa bet unan bennak hag en devoa
+dalchet soñj deus pezh e oa bet graet dezhañ ha rezon en devoa
+bet !»
+
+«Là, à Run Ar Go à Pédernec, il y avait un petit garçon qui
+avait faim. A cette époque, beaucoup de gens crevaient de faim
+! Et ce petit garçon vola une pomme. Il avait donc vraiment
+faim pour aller voler une pomme, nest-ce-pas ! Ce petit
+garçon fut attaché à un arbre par Run Ar Go, dévêtu, tout nu,
+et enduit de crème de lait pour que les mouches viennent le
+manger !»
+«Quétait-il arrivé ensuite ?»
+«Quest ce qui était arrivé ? Le feu avait frappé par trois fois
+le manoir de Run Ar Go, le feu tombé du Menez Bré ! A cette
+époque il y avait des gens savants autant quaujourdhui, et
+il lui avait été montré à ce type, Run Ar Go, quil était arrivé
+quelque chose également ! Oui ! Celui-là sétait peut-être
+souvenu ! Et par trois fois le feu sétait déclaré autrefois à
+Run Ar Go ! Et ils avaient encore peur du feu ! Cà cétait la
+revanche de tout cela !
+Il ny a pas si longtemps encore, on annonçait à celui qui était
+gérant au manoir de Run ar Go (au locataire) et on lui disait
+déloigner ses bêtes. Donc il y avait eu quelquun à se rappeler
+ce quil lui avait été fait, et avec raison !»
+
+**************************
+Interprète :
+Référence : D-01044
+Nom : LE BONNIEC (Mme RIOU)
+Prénom : Louise
+Variantes de nom : RIOU ( née LE BONNIEC) Louise
+Lieu associé : Pluzunet (Plûned)
+Métier : Agricultrice
+Notice : TROADEG Ifig, Carnets de route, p. 20 et p. 24 : Louise Le Bonniec, Mme Riou, (1902-1994). (Se reporter à sa biographie et son répertoire par ailleurs).
+
+Louise était née en 1902 et navait jamais quitté la région de Bégard de toute sa vie.
+Ses parents étaient de petits cultivateurs trégorrois originaires de la région de Tonquédec et Bégard. Son père, qui avait soixante-quatorze ans à la naissance de Louise, devait décéder moins de quatre ans plus tard, ce qui ?t dire à Louise que si elle avait beaucoup chanté, elle avait aussi beaucoup souffert et beaucoup pleuré. Elle ne fréquenta lécole que pendant un an et demi et fut mise en pension vers lâge de dix-onze ans chez les surs à St-Eloi. A quatorze ans, il lui fallut sengager comme bonne dans les fermes des environs pour gagner sa vie. Elle sinstalla ensuite dans la petite ferme parentale de Rubeuz (près de Kroaz ar Marchosioù à Pluzunet) où elle se maria. Louise avait une force de caractère qui lavait aidée à faire face à une vie dif?cile et à des événements tragiques comme lattaque dun convoi allemand par de jeunes résistants tout près de leur ferme le 3 Juillet 1944. Ces misères passées navaient entamé ni sa bonne humeur ni sa vitalité.
+Quand on la rencontra en 1979, elle coulait une retraite heureuse et bien méritée près de Marie, sa ?lle unique, qui veilla sur elle jusquà son décès en 1994.
+
+Louise possédait un immense répertoire quelle partageait avec beaucoup de plaisir et dentrain. Elle appréciait beaucoup nos visites et nous appelait, Nanda et moi, ses « vrrrrais amis ! ». On en était très ?ers ! Elle avait une mémoire extraordinaire qui nous surprenait à chaque fois et nous émerveillait : histoi- res fantastiques, chansons, rimadelloù, intersignes, gwerzioù, comptines, blagues, croyances Une simple question anodi- ne lançait laprès-midi : « Louise, daoust hag-eñ teus klevet komz ouzh ? » (Louise, as-tu entendu parler de ?). Elle nous avait dit elle-même un jour « Ya, me a zo ur grilleuse de cassettes ! » (Oui, moi je suis une grilleuse de cassettes !) cest tout dire !
+
+Elle tenait la majeure partie de son répertoire de sa mère et de sa famille : des sonioù, des gwerzioù, tout droit sortis des col- lectes que ?t Luzel 100 ans auparavant auprès de son illustre compatriote Marcharit Fulup qui vivait au village de Saint Idunet à Pluzunet, à un kilomètre de chez elle. Elle nous aura chanté et livré des informations sur plus de 50 chansons :
+- Des gwerzioù : 
+« Gwegan ha Mogero », 
+« Mari Flourio », 
+« Renean ar Glaz », 
+« Erwanig al Lintier », 
+« An Aotrou Koa- driou ha Janig Riou », 
+« Kloareg ar Glao », 
+« Isabel ar Iann hag ar Souiz braz », 
+« Erwanig Prigent », 
+« Yannig Kongar », 
+« Kroaz aour Plouared », 
+« Janedig Koant », 
+« Fañch ar Chal- vez », 
+« Yannig ar Gall ha mab ar sakrist », 
+« Fontanella »
+
+- Des complaintes ou chansons plus récentes : 
+« Jivestan Bouder ha Herve ar Geldron », 
+« Herriet ha Damon », 
+« Kêr Is », 
+« Ar faineant hag an interesant », 
+« Ar pesk ebrel », 
+« Ar paotr yaouank Erwan », 
+« Disput etre ur person hag ur menajer », 
+« Erwanig Michel », 
+« Ar gizioù nevez », 
+« Victor Malewas », 
+« Me a zo manet minor », 
+« Boñjour ma dous ma charantez »,
+« Pierre an Hery hag Anette Tilly », 
+« Ar fall paotr », 
+« Caroline ha Pauline », 
+« Ur plachig yaouank », 
+« Ma mestrezig a zo koant »
+
+- Des sonioù : 
+« Mam bije bet kreion », 
+« Tosenn Lein ar Roz », 
+« Plachig an Douar Nevez », 
+« An noz kentañ ma eured », 
+« Merched yaouank pa dimefet », 
+« Rene Rambal », 
+« An den nav wech intañv », 
+« Kog Fañchig Du », 
+« Dom Yann Geryann ha François Simon », 
+« Gwilhom ar Floch », 
+« Deus a gos- tez Treger », 
+« Bonomig », 
+« Ar wezenn avaloù », 
+« Ma Yannig », 
+
+« Annaig ar Rousval ha Run ar Go »,
+
+« Ar paour-kaezh Yannig », 
+« Ar butun »
+
+- Des chansons en français ou moitié français/moitié breton : 
+« Trois jeunes soldats », 
+« Gaiement la cruche sur la tête », 
+« Ah pa oan plach yaouank », 
+« En ce temps-là, vous nétiez pas marquise »
+
+Louise connaissait aussi des histoires étranges qui auraient certainement inspiré Anatole Le Braz : 
+« Kroaz ar Marchosioù », 
+« les cloches sous la révolution », 
+« Ma mômm », 
+« ar miliner o lenn e levr kozh » (le meunier lisant son vieux livre), 
+« Agripa Pipi Du » (lAgrippa de Pipi Du), 
+« une nuit dans lossuaire », 
+« les 3 jumeaux », 
+« Tadig Kozh »
+
+Quand on linterrogeait sur Marcharit Fulup, décédée en 1909 et dont elle avait bien sûr entendu parler dans son enfance, elle disait malicieusement « Goût a ouie kanaouennoù, met hervez klevet n he devoa ket an ton ! » (Elle connaissait des chansons, mais paraît-il, elle navait pas dair !). Cest évidemment loin de la vérité quand on écoute les enregistrements sur rouleaux de cire que ?t François Vallée de Marcharit en 1900. Par contre, il est vrai que Louise possédait un style de chant unique et déroutant. Il est parfois dif?cile en effet de retrouver la ligne mélodique dans une interprétation qui laisse une large place à limprovisation (ceci explique que beaucoup des chants que nous avons transcrits ne comportent pas de notation musicale). Pour Louise, le texte et lhistoire étaient primordiaux, la ver- si?cation passait parfois de 6 pieds à 8, voire à 13 ! Elle sen accommodait toujours !
+***************
+Liste des chants recensés pour cet interprète : (36 chants)
+
+Al lazherez bugale diskleriet (Mari Flouri) (Réf. M-00213)  
+Al lez-vamm (Erwanig al Linker) (Réf. M-00180)   
+An aotrou dichizet hag ar plach touellet (Janed Riou) (Réf. M-00364)   
+An intañv nav gwech dimezet (Réf. M-00568)  
+An intañvez kozh hag an den yaouank (Réf. M-00576)  
+Annaig Ar Rousval ha Run Ar Go (Réf. M-02401) 
+Ar baron lazhet dre drubarderezh (Réf. M-00036)  
+Ar chloareg lazhet war al leur nevez (Réf. M-00045)   
+Ar choant dimeziñ gant ur gakouzez (Yannig Kokard) (Réf. M-01143)  
+Ar floder lakaet en toull-bach (Fañch ar Chalvez) (Réf. M-00170)  
+Ar paotr o kofesaat e vestrez (Réf. M-01165)  
+Ar pej dindan ar varlenn (Réf. M-00410)  
+Ar plach hag he servijer o vont kuit da Sant-Maloù (Réf. M-02423) 
+Ar wreg falstamallet (Réf. M-00158) 
+Da betra servij bezañ koant ? (Réf. M-01029)  
+Dimezet a-enep dhe choant (Renean ar Glaz) (Réf. M-01015)   
+Diviz etre ur person hag ul labourer douar (Réf. M-02448) 
+Drouklazh pennhêrezig Kêr an Ivinenn e Bear (Réf. M-02383) 
+Erwan ha Marivon e Lannuon (Réf. M-02421) 
+Erwanig Michel deus a barrez Ploueg (Réf. M-02427) 
+Gwerzhet dur Jouiz (Réf. M-00237)   
+Janedig ar sorserez (Réf. M-00160)   
+Jannig ar Gall falstamallet mes salvet gant ar Werchez (Réf. M-00318)  
+Klemmoù ar plach yaouank fall zimezet (1) (Réf. M-00603)  
+Kroaz aour Plouared (Réf. M-00178)  
+Markiz ar Villaudrain (Réf. M-00219)   
+Marv beleg Gwegan (Réf. M-00202)  
+Paotred a vutun o chorniad, merched a implij butun-fri (Réf. M-02432) 
+Paotred Plouared (Réf. M-02364) 
+Paour-kaezh Yannig (Réf. M-00642)   
+Per an Herri hag e vestrez (Réf. M-01507)  
+Tassel hag e gog (Réf. M-01331)  
+Un amunuzer yaouank deus parrez Sant-Jili (Réf. M-02398) 
+Victor Malewas, lazher e wreg hag e vab (Réf. M-02385) 
+War bont an Naoned (Réf. M-00906)  
+Yannig a ra pep tra en tiegezh (Réf. M-02404) 
+*******************************
+FIG. 4
+François-Hippolyte Lalaisse, Une Lutte à Rosporden, 1865. Lithograph. Musée de Bretagne. © Photograph by Musée de Bretagne. 
+
+FIG. 3
+Paul Gauguin, La Vision Après le Sermon, 1888. 72.2 x 91cm, oil on canvas. National Galleries of Scotland. © Photograph by Antonia Reeve/National Galleries of Scotland.
+
+FIG. 2
+Alfred Darjou, Les Luttes, comme ça Rappelle lAntique, 1859. Lithograph. Collection Musée départemental breton, Quimper. © Photograph by Serge Goarin/Musée départemental breton.
+
+FIG.1
+Paul Sérusier, La Lutte Bretonne, 1890-1. 92 x 73cm, oil on canvas. Musée dOrsay, Paris. Photograph by the author.
+******************************
+
+
+
+
+-->

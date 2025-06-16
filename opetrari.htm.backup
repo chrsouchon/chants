@@ -1,0 +1,177 @@
+<HTML>
+<HEAD>
+<TITLE>O petra rimp-ni hon daou?</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to O petra a rimp hon daou?">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, O petra a rimp hon daou?, son, amour et pauvreté, La Villemarqué, Keransquer">
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>O petra a rimp hon daou?</h1>
+<h2>Comment ferons nous, tous deux</h2>
+<h3>How shall we get along, we both?</h3>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (p. 156) .</h4>
+
+<img src="marivbou.jpg"><br>
+<br>
+<a href="marivbou.mid">Marivonig</a><br>
+<font size=-1><i>Mélodie de "O petra rimp"</i></font><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+<b>A propos de la mélodie:</b><br>
+Toute cette "son" est notée pratiquement sans rature ni ajout ultérieur. De ce fait, les mots "ma dous" qui figurent seuls au milieu de la ligne 2 concluent sans doute un "écho" du "O petra" de la ligne 1 qui est elle même répétée en entier à la ligne 3 . La ligne 4 termine la phrase en respectant la rime.<br>
+Cette structure est celle d'une des mélodies qui accompagnent "Marivonig", un des chants dont La Villemarqué voulait citer certains passages dans sa composition, la "Quenouille d'ivoire". Celle-ci, à son tour évoque à la strophe 50, le 4ème couplet du présent chant.<br>
+Ladite mélodie a été recueillie en 1856 par le Colonel Alfred Bourgeois. Elle était chantée, accompagnant une version de Marivonik autre que celle publiée par Luzel, par un cocher de diligence, lors du trajet de Guingamp à Saint-Brieuc. Elle parut dans "Kanaouennoù Pobl" en 1959.
+<br>
+<br>
+<b>A propos du texte</b><br>
+Il semble que La Villemarqué ait été le seul à collecter cette jolie "son".<br>
+<br>
+Dans le carnet 2, ce chant est séparé du précédent par deux autres pièces  étudiées à propos des chants du Barzhaz:<br>
+- <a href="../alarchf.htm">An alarc'h</a><br>
+- <a href="../amzerdrf.htm">An amzer dremenet</a>.
+
+</td>
+<td width=50% valign=top><font size=-1>
+<b>About the tune</b><br>
+This pretty song is noted practically without erasure or subsequent addition. Therefore we may infer that the words "ma dous" in the middle of line 2  conclude an shortened "echo" of line 1 which is repeated in full in line 3. Line 4 ends the sentence and provides a rhyme to line 1. <br>
+This structure is that of one of the versions of "Marivonig", one of the songs which La Villemarqué wanted to cite  in his composition titled "Ivory distaff" which evokes in stanza 50, the 4th stanza of the presentsong. <br>
+The said tune was collected in 1856 by Colonel Alfred Bourgeois. It was sung to accompany a version of Marivonik other than that published by Luzel, by a coachman, during the journey from Guingamp to Saint-Brieuc. It was published in "Kanaouennoù Pobl" in 1959.<br>
+<br>
+<b>About the lyrics</b><br>
+It seems that La Villemarqué was the only one to collect this pretty song.<br>
+<br>
+In notebook 2, this song is separated from the previous one by two other pieces examined in connection with the Barzhaz songs:<br>
+- <a href="../alarchf.htm">An alarc'h</a><br>
+- <a href="../amzerdrf.htm">An amzer dremenet</a>.
+</td></table>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>SON: O PETRA  A RIMP...<br>
+<br><font size=-1>
+p. 157 / 86</b><br>
+<br>
+1. O, petra a rimp-ni hon daou?<br>
+O petra, ma dous?<br>
+O petra a rimp ni hon daou,<br>
+Pa n'hon-eus ket ni a vadaoù?<br>
+<br>
+2. Pa n'hon-eus-ni na ti, na loch <br>
+O na loch, ma dous!<br>
+Pa n'hon-eus-ni na ti, na loch <br>
+Na gwele da gousket en noz?<br>
+<br>
+3. Ni ray hon-daou e'l ar glujar,<br>
+Ar glujar, ma dous!<br>
+Ni ray hon-daou e'l ar glujar,<br>
+Ni chemelo dindan an douar.<br>
+<br>
+4. Madoù a ya, madoù a zeu<br>
+O a zeu, ma dous!<br>
+Madoù ' ya war bouez ar ster,<br>
+Hag ar garantez chom er ger! [1]<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b>CHANSON: O DIS-MOI COMMENT...<br>
+<br><font size=-1>
+p. 157 / 86</b><br>
+<br>
+1. O, dis-moi, comment ferons-nous,<br>
+O mon cher amour,<br>
+Dis-moi donc, comment ferons-nous,<br>
+Tous les deux, pour vivre sans un sou?<br>
+<br>
+2. N'ayant ni hutte, ni logis,<br>
+O mon cher amour<br>
+Hélas, ni hutte, ni logis <br>
+Et la nuit, pour dormir, point de lit?<br>
+<br>
+3. Comme la perdrix nous ferons,<br>
+O mon cher amour<br>
+Comme la perdrix nous ferons<br>
+Sous la terre un nid nous bâtirons.<br>
+<br>
+4. L'argent s'en vient, l'argent s'en va<br>
+Ma douce, crois-moi!<br>
+L'argent peut aller à vau-l'eau,<br>
+Mais l'amour au logis reste au chaud! [1]<br>
+<br>
+<i><font size=-2> Traduction C. Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>A SONG: HOW SHALL WE DO...<br>
+<br><font size=-1>
+p. 157 / 86</b><br>
+<br>
+1. How shall we do, what do you guess <br>
+O sweetheart, tell me! <br>
+How shall we do, O do you guess,<br>
+The two of us, to live penniless? <br>
+<br>
+2. Having neither hut nor cabin, <br>
+O my sweet darling! <br>
+Having neither hut nor cabin, <br>
+Without a bed at night, to sleep in? <br>
+<br>
+3. Now, we shall do like the partridge <br>
+Sweetheart, believe me! <br>
+Now, we shall do like the partridge <br>
+Under the ground a nest we will build. <br>
+<br>
+4. O money comes and money goes<br>
+Sweetheart, believe me! <br>
+It goes through all the highs and lows,<br>
+Whereas love at home will stay enclosed! [1] <br>
+<br>
+<i><font size=-2> Traduction C. Souchon (c) 2020</i></font>
+</td></tr></TABLE><br>
+
+<br>
+<b>NOTES</b><br>
+<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] La strophe 4 est une variation sur le proverbe "Madoù a zeu, madoù a ya" qui est cité par La Villemarqué dans <a href="quenouil.htm">"La quenouille d'ivoire</a>, str. 50.
+</font></td>
+<td width=50% valign=top><font size=-1>
+[1] Stanza 4 is a variation on the proverb "Madoù a zeu, madoù a ya" which is quoted by La Villemarqué in <a href="quenouil.htm">"La quenouille d'ivoire",</a> stanza 50.
+</font></td></table><br>
+
+<br>
+<embed src="marivbou.mid" height="60" autostart="true"><br>
+<audio src="marivbou.mp3" controls> </audio><br>
+<br>
+<a href="kantipou.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="ponker.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+
+<!--
+
+-->

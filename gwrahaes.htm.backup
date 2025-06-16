@@ -1,0 +1,1111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+<HTMLlang="fr">
+<HEAD>
+<TITLE>Gwrac'h Ahes</TITLE>
+<!--  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">-->  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<META Name="author" content="Christian Souchon">
+
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+</HEAD>
+<BODY>
+
+<table width=100%><td width=40% valign=top align=left>
+<a style="cursor:pointer;" onclick="return toggleMe('para40')"><img id="para40_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>A propos de la mÃ©lodie</b><br>
+
+<div id="para40" style="display:none;"><font size=-1> 
+<img src="chathrei.png" width=100%><br>
+<br>
+De Penguern n'a notÃ© aucune mÃ©lodie.<br>
+Celle proposÃ©e ici est un "milling song" de Cap-Breton, <i>"Cha Thraiginn Fhein Mo Chruinneag Dhonn"</i>, une forme de chant alternÃ© hÃ©ritÃ©e du "waulking song" Ã©cossais (cf; <a href="../morag.htm">A Mhorag</a>).<br>
+Dans le cas prÃ©sent comme dans le chant gaÃ©lique, un choeur prend le relais d'un soliste, sur un rythme fortement marquÃ©. <br>
+Dans le modÃ¨le Ã©cossais, le chant du choeur consiste en des onomatopÃ©es, par exemple. <i>"Agus O Mhorag/
+horo 's na horo gheallaidh/ Agus o Mhorag!"</i>
+
+
+</font></div>
+</td>
+
+<td width=20% valign=center align=center background=pierres1.jpg>
+<CENTER>
+<H1>Gwrac'h Ahes</h1>
+<h2> La Vieille AhÃ¨s</h2>
+<h2> The Hag Ahes</h2>
+Texte recueilli par Mme de Saint-Prix</a><br>
+<br>
+<font color=white>
+IntÃ©grÃ© Ã  la Collection "de Penguern"<br>
+MS N.91 Ã  la BibliothÃ¨que Nationale:<br> 
+Chants populaires de TrÃ©gor<br>
+Publ. in "Dastumad Penwern", 1983<br>
+<br>
+<i><A href="chathrei.mid"> MÃ©lodie</A><br>
+("Cha threiginn thein mo chruinneag dhonn")<br>
+Arrt: Christian Souchon (c) 2008</i><br>
+<br>
+Photo: Dominique Borderie (c) 2015<br>
+<br>
+
+</td>
+<td width=40% valign=top align=left>
+<a style="cursor:pointer;" onclick="return toggleMe('para41')"><img id="para41_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>A propos des illustrations</b><br>
+<div id="para41" style="display:none;"><font size=-1>
+Les images placÃ©es en tÃªte de trois des quatre chapitres des notes ci-dessous, sont tirÃ©es d'un opuscule intitulÃ© <b>"Auch ein Totentanz"</b> (Une danse macabre de notre Ã©poque) oÃ¹ sont reproduites six gravures sur bois  du peintre allemand<b> Alfred Rethel</b> (1816-1859). Le sujet en est un peu diffÃ©rent de celui de la "Vieille AhÃ¨s", mais pas tant que cela. Il s'agit d'un plaidoyer rÃ©actionnaire contre les rÃ©volutions de 1848 (l'ouvrage date de 1849) oÃ¹  l'on voit, selon l'artiste, les "illusions" popularisÃ©es par la RÃ©volution franÃ§aise, la libertÃ© , l' Ã©galitÃ©  et la fraternitÃ© , dÃ©verser sur une populace crÃ©dule qui coulait pourtant des jours heureux  dans les paradis monarchiques, une avalanche de dÃ©sastres et de maux en tout genre,   la grande joie de la Mort, affublÃ©e d'un chapeau puis d'une couronne de lauriers, qui parcourt sur son cheval les villes et les campagnes devenues des champs de ruines et de dÃ©solation.<br>
+Dans la gwerz bretonne, c'est l'Ankou sur son char grinÃ§ant qui clÃ´t le cortÃ¨ge des malheurs provoquÃ©s par l'ouverture au monde que reprÃ©sente la restauration de l'antique "chemin d'AhÃ¨s".<br>
+Les deux piÃ¨ces ont aussi en commun d' Ãªtre deux chefs-dâÅuvre, mÃªme si l'idÃ©ologie qui les sous-tend est fort discutable. A la dÃ©charge de Rethel, on notera que ces troublantes images sont la premiÃ¨re manifestation d'une maladie mentale qui nÃ©cessitera son internement en 1852 et causera sa mort Ã  l'asile en 1859. <br>
+Ajoutons qu'on ne peut pas exclure que Rethel ait lu le Barzhaz Breizh - et en particulier la "Peste d'Elliant". L'ouvrage de La VillemarquÃ© fut publiÃ©  dÃ¨s  dÃ©cembre 1840 par A. Keller et E. von Seckendorff sous le titre "Volkslieder aus der Bretagne".
+<font size=-1> 
+
+
+</font></div>
+</td>
+</table><br>
+<br>
+
+
+<TABLE BORDER=1 width=100%><tbody>
+<tr>
+<TD WIDTH=25% valign=top><b>
+<center>MANUSCRIT DE PENGUERN<br><b>
+<br>
+GROAH AES<br>
+<br>
+1. Arri groac'h AÃ«s en hon bro,<br>
+Kessomp meÃ¯n bras war en hincho ;<br>
+Kessomp meÃ¯n bras ha meÃ¯n bihan<br>
+War en hent bras en kreÃ¯s al lan.</i><br>
+<br>
+2. Nag an den kos a levere<br> 
+En he goaze war vene Bre :<br> 
+<br>
+3. - WoÃ«l a ve kernes ha bossen, <br>
+Wit groac'h AÃ«s en hon c'hichen; <br>
+WoÃ«l a ve bresel ha maro <br>
+Wit groac'h A s en hon c'hevro. <br>
+<br>
+4. Man groac'h AÃ«s en pen a Ian, <br>
+Honnes na deu ket ec'hunan:<br> 
+Truantourien a zo gant-hi <br>
+Da lakat 'n noas leuren ho ti, <br>
+<br>
+5. - Kessomp meÃ¯n bras ha meÃ¯n bihan<br>
+War en hent bras en kreÃ¯s al lan.<br>
+<br>
+6. - Kiri houarn a zo ganti <br>
+Ha kesek gwen war he c'hiri ;<br>
+<br>
+.................................<br>
+<br>
+7. Hag er gernÃ¨s gwen vel an erc'h <br>
+War geÃ¯n eun eÃ¯es deu warlec'h.<br>
+<br>
+8. - Kessomp meÃ¯n bras ha meÃ¯n bihan<br>
+War en hent bras en kreÃ¯s al lan.<br>
+<br>
+9. - Er brezel gwal, er brezel ter , <br>
+A deu warle(r)c'h gant an erer , <br>
+Gant er bleÃ¯di, gant er brini,<br> 
+So klasq kat kik tud da dibi.<br>
+<br>
+10. - Kessomp meÃ¯n bras ha meÃ¯n bihan<br>
+War en hent bras en kreÃ¯s al lan.</i><br>
+<br>
+11. - Ar vossen du, ar vossen wen, <br>
+A deu warle(r)c'h en eur c'har pren,<br>
+En eur c'har pren, n'hen wuic'hourat <br>
+An Ancou treut hen chareat.<br>
+<br>
+12.-  Kessomp meÃ¯n bras ha meÃ¯n bihan<br>
+War en hent bras en kreÃ¯s al lan.<br>
+<br>
+13. - Warle(r)c'h hounes na velan ken <br>
+Na velan den war er blenen.<br>
+Na velan ken mert ar goÃ«n bras<br>
+O kreiskin war an douar noas, <br>
+<br>
+14. - Arri groac'h AÃ«s en han bro<br> 
+Kessomp meÃ¯n bras war an hincho.<br>  
+</td>
+<td width=25% valign=top>
+<center>TRANSCRIPTION KLT</a><br>
+<br>
+GWRAC'H AHEZ<br>
+<br>
+1. Erru Gwrac'h Ahez en hor bro.<br>
+Kasomp mein bras war an henchoÃ¹!<br>
+Kasomp mein bras ha mein bihan<br>
+War an hent bras e-kreiz al lann!<br>
+<br>
+2. Nag an den kozh a lavare<br>
+En e goazez war Venez Brez:<br>
+<br>
+3. - Gwell e ve kernezh ha bosenn<br>
+'Vit Gwrac'h Ahez en hor kichen.<br>
+Gwell a ve brezel ha marv<br>
+'Vit Gwrac'h  Ahes en hor c'hevreoÃ¹.<br>
+<br>
+4. 'Ma Gwrac'h Ahes e penn al lann.<br>
+Honnezh na zeu ket hec'h unan:<br>
+Truantourien a zo ganti<br>
+Da lakaat 'n noazh leurenn ho ti.<br>
+<br>
+5. - Kasomp mein bras ha mein bihan<br>
+War an hent bras e-kreiz al lann!<br>
+<br>
+6. - Kirri houarn a zo ganti<br>
+Ha kezeg gwenn war he c'hirri.<br>
+<br>
+..............................<br>
+<br>
+7. Hag ar gernezh gwenn 'vel an erc'h<br>
+War gein un heizez 'zeu war-lerc'h.<br>
+<br>
+8. - Kasomp mein bras ha mein bihan<br>
+War an hent bras e-kreiz al lann!<br>
+<br>
+9. - Ar brezel gwall, ar brezel taer<br>
+A zeu war lerc'h gant an erer.<br>
+Gant ar vleizi, gant ar vrini<br>
+Zo 'klask kaout kig tud da zebriÃ±.<br>
+<br>
+10. - Kasomp mein bras ha mein bihan<br>
+War an hent bras e-kreiz al lann!<br>
+<br>
+11. - Ar vosenn zu, ar vosenn wenn<br>
+A zeu war-lerc'h en ur c'harr prenn,<br>
+En ur c'harr prenn o c'hwigourat.<br>
+An Ankou treut oc'h o charrat.<br>
+<br>
+12. - Kasomp mein bras ha mein bihan<br>
+War an hent bras e-kreiz al lann!<br>
+<br>
+13.-  War-lerc'h honnezh, na welan ken.<br>
+Na welan den war ar blaenenn.<br>
+Na welan ken 'met ar gwez bras<br>
+O kreskiÃ± war an douar noazh..."<br>
+<br>
+14. - Erru Gwrac'h Ahez en hor bro.<br>
+Kasomp mein bras war an henchoÃ¹!<br>
+<br>
+<font size=-2>KLT gant Ch. Souchon (c) 2011</font>
+</TD>
+<td width=25% valign=top><b>
+<center>TRADUCTION <br></b>
+<br>
+LA VIEILLE AHES<br>
+<br>
+1. La vieille AhÃ¨s vient par chez nous!<br>
+Posons des dalles bout Ã  bout!<br>
+Des pierres, petites et grandes<br>
+Pour la grand-route de la lande!</i><br>
+<br>
+2. Or le vieillard ainsi parlait,<br>
+Assis en haut du Menez-BrÃ©: <br>
+<br>
+3. - Bien mieux vaudraient peste et disette<br>
+Que la vieille AhÃ¨s qui s'apprÃªte.<br>
+Et guerre et mort vaudraient bien mieux<br>
+Que la vieille AhÃ¨s en ces lieux.<br>
+<br>
+4. AhÃ¨s est au bout de l'ajonc<br>
+Mais n'est pas seule. Voyez donc!<br>
+Un essaim de truands la suit<br>
+Qui viennent piller vos logis.<br>
+<br>
+5. - Des pierres, petites et grandes!<br>
+Pavons le chemin de la lande!<br>
+<br>
+6. - Des chariots ferrÃ©s Ã  prÃ©sent<br>
+Que traÃ®nent de grands chevaux blancs;<br>
+<br>
+.....................................<br>
+<br>
+7. Et la disette au teint de neige<br>
+Sur sa biche suit le cortÃ¨ge.<br>
+<br>
+8. - Des pierres, petites et grandes!<br>
+Pavons le chemin de la lande!<br>
+<br>
+9. - Et je vois la guerre Ã¢pre et folle<br>
+Avec l'aigle qui la survole.<br>
+Les loups, les corbeaux se dÃ©mÃ¨nent<br>
+Se disputant la chair humaine;<br>
+<br>
+10. - Des pierres, petites et grandes!<br>
+Pavons le chemin de la lande!<br>
+<br>
+11. - Puis peste noire et peste blanche<br>
+AttelÃ©es Ã  ce char de planches<br>
+Qui grince, oÃ¹ j'aperÃ§ois, juchÃ©,<br>
+L'Ankou dÃ©charnÃ©, son cocher.<br>
+<br>
+12. - Des pierres, petites et grandes!<br>
+Pavons le chemin de la lande!</i><br>
+<br>
+13. - Je ne vois plus rien qui le suive,<br>
+Ni, sur la plaine, Ã¢me qui vive.<br>
+Rien que ces arbres aux grands fÃ»ts<br>
+Lesquels croissent sur le sol nu...<br>
+<br>
+14. - La vieille AhÃ¨s vient par chez nous!<br>
+Posons des dalles bout Ã  bout! <br>
+<br>
+<font size=-2>Traduction: Ch. Souchon (c) 2011</font>
+ </td>
+<td width=25% valign=top><b>
+<center>TRANSLATION <br></b>
+<br>
+THE HAG AHES</b><br><br>
+1. The Hag Ahes comes to these parts.<br>
+Let us load large slabs on our carts,<br>
+Lay big and small rocks to secure<br>
+And pave the way across the moor!<br>
+<br>
+2. Do you hear what the old man says,<br>
+Seated atop the Menez-Brez?<br>
+<br>
+3. - Better plague of our own and dearth<br>
+Than Ahes passing along our earth.<br>
+Death and woes are sooner dismissed<br>
+Than the Hag Ahes in our midst.<br>
+<br>
+4. Hag Ahes is at the moor's end.<br>
+But not her alone: all her band:<br>
+Rogues and villains coming to boot,<br>
+Our homes to plunder and to loot.<br>
+<br>
+5. - Lay big and small rocks to secure<br>
+And pave the way across the moor!<br>
+<br>
+6. - Now iron waggons follow on<br>
+Which by snow white horses are drawn.<br>
+<br>
+.........................<br>
+<br>
+7. - Next comes hunger as white as snow,<br>
+Riding on the back of a doe.<br>
+<br>
+8. - Lay big and small rocks to secure<br>
+And pave the way across the moor!<br>
+<br>
+9. The war, gruesome to the feeble<br>
+Follows, with a circling eagle,<br>
+<font size=-1>And wolves and crows lured by their greed</font><br>
+For human flesh whereon to feed.<br>
+<br>
+10. - Lay big and small rocks to secure<br>
+And pave the way across the moor!<br>
+<br>
+11.<font size=-1> - White and black plague are two dragons,</font><br>
+Hitched up to a wooden waggon.<br>
+A wooden waggon whose wheels creak<br>
+Driven by Ankou, the thin freak.<br>
+<br>
+12. - Lay big and small rocks to secure<br>
+And pave the way across the moor!<br>
+<br>
+13. After him... I'm searching in vain:<br>
+No one to be seen on the plain.<br>
+Nothing but yonder immense wedge<br>
+Driving into bare ground its edge..."<br>
+<br>
+14. - Lay big and small rocks to secure<br>
+And pave the way across the moor! <br>
+<br>
+<font size=-2>Translated by Ch. Souchon (c) 2011</font>
+</td>
+</tr></tbody></TABLE>
+
+<br>
+
+<h3>Notes</h3>
+
+
+<table width=100%><tr>
+<td width=50% valign= top><font size= -1>
+
+<center><h2>
+<a style="cursor:pointer;" onclick="return toggleMe('para1')"><img id="para1_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+
+LE "CHEMIN D'AHES"</h2></center>
+
+<div id="para1" style="display:none;"><font size=-1>
+
+<b>La route</b><br>
+L'article "chemin" du Dictionnaire franÃ§ais-breton du PÃ¨re GrÃ©goire de Rostrenen (1732) indique:<br>
+<i><b>"Hent AhÃ¨s: Chemin d'AhÃ¨s</b>, grand chemin pavÃ© Ã  trois rangs de pierres l'un sur l'autre, que la Princesse AhÃ¨s, fondatrice de la ville de KerahÃ¨s ou Carhaix, fit faire depuis cette ville, d'un cÃ´tÃ©, jusqu'Ã  Nantes, de l'autre, jusqu'Ã  Brest, et qui d'espace en espace, et en plusieurs endroits, retient encore ce nom".</i><br>
+Ce chant est donc celui des cantonniers occupÃ©s Ã  entretenir l'antique route.<br>
+A ce chant rÃ©pond celui du vieillard qui, comme celui d'un autre poÃ¨me, <a href="kozdall.htm">Â« Le vieillard aveugle Â»</a>, bien loin de considÃ©rer pavage et dÃ©senclavement comme des progrÃ¨s, met en garde contre les menaces qu'ils impliquent, dans ses imprÃ©cations qui alternent avec les encouragements que se lancent les cantonniers.<br>
+<br>
+<b>La montagne</b><br>
+Le "MÃ©nez-BrÃ©" est une colline des CÃ´tes-d'Armor, vestige de la chaÃ®ne des monts d'ArrÃ©e, culminant Ã  302 mÃ¨tres et coiffÃ© de la petite chapelle Saint-HervÃ©. Outre Saint-HervÃ© qui aurait vÃ©cu au VIÃ¨me siÃ¨cle, le souvenir dâun autre personnage lÃ©gendaire est attachÃ© Ã  cette Â« montagne Â», le fameux <b>Guinclan</b>, que le non moins fameux recueil Barzhaz Breizh appelle Gwencâhlan, un prophÃ¨te dont parle le dictionnaire du PÃ¨re GrÃ©goire (1732). Est-ce le vieillard du poÃ¨me? Plusieurs auteurs bretons, en particulier Anatole Le Braz, dans les "Contes du Soleil et de la Brume" (1905), se font lâÃ©cho de lÃ©gendes qui situent sa tombe Ã  lâintÃ©rieur du MÃ©nez-BrÃ©. De nos jours, cette Â« montagne magique Â» surplombe la RN12 Ã  quatre voies qui relie Guingamp Ã  Morlaix!<br>
+<br>
+<center><img src="menebre.png"><br>
+Photos: Jacqueline Philippe-Quentin (c) 2019
+</center>
+</font></div>
+<center><h2>
+<a style="cursor:pointer;" onclick="return toggleMe('para0')"><img id="para0_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+ AUTHENTICITE DE CE POEME</h2></center>
+
+<div id="para0" style="display:none;"><font size=-1> 
+
+<center><img src="rethel1.jpg"></center>
+<br>
+<a style="cursor:pointer;" onclick="return toggleMe('para4')"><img id="para4_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Les deux versions du poÃ¨me</b><br>
+
+<div id="para4" style="display:none;"><font size=-1>
+Le folkloriste <b>FranÃ§ois-Marie Luzel</b> a consacrÃ© Ã  ce poÃ¨me grandiose dans le <i>Bulletin de la SociÃ©tÃ© ArchÃ©ologique du FinistÃ¨re</i>, 1887, tome 14, pp. 319-324, un article dont voici quelques extraits:<br>
+<li> <i>"La piÃ¨ce de poÃ©sie bretonne intitulÃ©e </i>'Groac'h AhÃ¨s'<i>, c'est-Ã -dire </i>'La Vieille' ou 'la fÃ©e AhÃ¨s'<i>, est gÃ©nÃ©ralement plus citÃ©e qu'elle n'est connue. On la lit dans la riche collection que <b>M. de Penguern</b> a faite des poÃ©sies populaires de Basse-Bretagne
+
+<li> et le texte breton n'en a Ã©tÃ© publiÃ© jusqu'ici que dans <b>l'Annuaire historique et archÃ©ologique de Bretagne</b> pour 1861, par <b>M. A. de la Borderie</b>, p.178...<br>
+La version qu'il donne diffÃ¨re et par le texte breton et par l'orthographe et par la traduction de celle qui existe dans la collection Penguern... [qui] est actuellement Ã  la BibliothÃ¨que Nationale de Paris, sous la cote "Fonds celtique 91"...Tome II, pages 123, 124 et 126..."</i><br>
+
+<li> Dans la classification de la tradition orale chantÃ©e en langue bretonne Ã©laborÃ©e par <b>Patrick Malrieu</b>, ce chant est rÃ©fÃ©rencÃ© sous le nÂ°<i> M-00096</i> et porte le titre critique <i>"Ar wrac'h Ahez", "La vieille AhÃ¨s"</i>. Il lui est assignÃ© le thÃ¨me <i>"Contestations politiques"</i>. Le site <i>"to.kan.bzh"</i> consacrÃ© Ã  la classification Malrieu recense 5 versions et 14 occurrences pour ce chant, en distinguant 5 collecteurs, Kerambrun et De Penguern Ã©tant comptÃ©s chacun 2 fois. Le 5Ã¨me collecteur est un nommÃ© Helliet citÃ© par le PÃ¨re Loeiz Le Floc'h dans la revue <i>"Studi hag Ober"</i> <b>1940</b>, nÂ°12. En rÃ©alitÃ© cette abondance d'occurrences est illusoire et tous ces textes reproduisent Ã  peu prÃ¨s fidÃ¨lement le poÃ¨me ci-dessus.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para5')"><img id="para5_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+
+<b>Version De Penguern (NÂ° 1)</b><br>
+<div id="para5" style="display:none;"><font size=-1> 
+<img src="depengern.png"  hspace=10 vspace=10 align=left>
+ 
+Luzel donne d'abord la version <b>De Penguern</b> qui est identique au texte ci-dessus, publiÃ© par l'association <i>"Dastum"</i> en 1983 dans <i>"Dastumad Penwern"</i>, pp. 304 et 305.<br>
+Dans ce recueil des notes prÃ©cisent que l'Ã©criture est celle de Kerambrun et que le titre, rÃ©pÃ©tÃ© sur certaines pages, n'est jamais Ã©crit de la mÃªme faÃ§on: p.123 recto, <i>"Groah AÃ«s"</i>, p.125 recto, <i>"Groac'h AÃ¨s"</i>, p.125 verso, <i>"Groac'h aÃ«s"</i> (et rien d'autre sur cette page).<br>
+L'introduction, signÃ©e par <b>Patrick Malrieu</b>, PrÃ©sident de Dastum, indique que cette Ã©dition <i>"s'appuie sur la copie faite par <b>Joseph Ollivier</b> (1878-1946, un chirurgien-dentiste de Landerneau!) en 1937 et dÃ©posÃ© Ã  la BibliothÃ¨que Municipale de Rennes, ... [travailleur acharnÃ© et] copiste scrupuleux [qui] a respectÃ© le manuscrit De Penguern avec rigueur, indiquant les passages mal compris, prÃ©cisant les lettres prÃªtant Ã  confusion... Il faut mentionner le caractÃ¨re exceptionnel de ces copies vÃ©ritablement calligraphiÃ©es..."</i><br>
+
+<li> A la strophe 4, Luzel ajoute une note qui, par rÃ©fÃ©rence au <i>Dictionnaire de la langue bretonne</i> de <i>Dom Le Pelletier</i>, paru en 1752, rapproche <i>'truantourien'</i> de <i>'truaig, truach'</i> dont le sens est passÃ©  d''hommage, soumission' (cf. anglais "true") Ã   celui d' 'impÃ´t ou droits Ã   payer'. Ce qui justifie cette explication, c'est la traduction franÃ§aise qui suit le texte breton dans la communication de Luzel avec le sous-titre <i>'Traduction d'une main inconnue'</i>. '<i>Dastum</i>' ne donne pas cette traduction, mais signale son existence: <i>"Une traduction franÃ§aise de ce texte <b>par Penguern</b> se trouve aux folios 124 et 126 en face du texte breton"</i>. C'est donc dans celle-ci que <i>'truantourien'</i> est traduit par <i>'percepteurs des impÃ´ts'</i>. Les dictionnaires ne connaissent que <i>'truant', pl. 'truanted' = 'gueux, truand' et 'truanter', pl. 'truanterien' = ' escornifleur, solliciteur'</i>. Nous avons optÃ©  pour le sens de "<i>gueux</i>" dans notre traduction, mais celui qui est suggÃ©rÃ©   par De Penguern fait Ã©galement sens dans le contexte.
+
+<li> Une autre note de Luzel a trait Ã   ce qui est certainement une erreur de lecture de De Penguern: Ã  la strophe 7 oÃ¹, selon sa traduction, la famine chevauche une '<i>chienne' ('kiez')</i> au lieu d'une <i>'biche' ('heizez',</i> prononcÃ©  et orthographiÃ© <i> 'e ez'</i>). 
+
+<li> Six autres courtes notes portent sur des dÃ©tails infimes relatifs, principalement, aux tournures bretonnes difficiles Ã    rendre en franÃ§ais: <i>"Le breton dit...."</i>; et une derniÃ¨re Ã        une surcharge Ã  la strophe 13 (<i>'dachen'</i>='champ'  remplacÃ©  par <i>'blenen</i>'='plaine'). Pour les 3 modifications qu'il signale, Luzel, prÃ©cise qu'elles ont  Ã©tÃ©  faites "<b>par une autre main"</b>. De son cÃ´tÃ© , Dastum, prÃ©cise que <i>'bledi"</i> (loups) est Ã©crit en surcharge sur un mot illisible.
+
+<li> Bien que Luzel n'en parle pas, la traduction franÃ§aise mot Ã    mot de la strophe 6 qu'il reproduit dans son article peut prÃªter Ã  confusion:<br>
+<i>"Elle a des charrettes ferrÃ©es/ Et des chevaux blancs <b>sur</b> ses charrettes ..."</i> Les chevaux sont bien Ã©videmment <b>attelÃ©s aux</b> charrettes, lesquelles <i>appartiennent</i> Ã     AhÃ¨s (c'est le sens du breton<i> 'a zo ganti</i>'). Peut-Ãªtre le tableau des malheurs annoncÃ©s s'interrompt-il ici, le temps d'un distique, pour dÃ©crire, le matÃ©riel qu'utilisent les cantonniers: des chariots aux roues cerclÃ©es de fer...
+
+<li> Enfin, on peut se demander si, au 3Ã¨me vers de la strophe 14, le mot <i>'go n'</i>= 'arbre' au singulatif en dialecte de TrÃ©gor, (<i>'go '</i>= 'arbres' au collectif), n'a pas Ã©tÃ©  entendu en lieu et place de <i>'genn' ou 'kogn'</i> qui dÃ©signent un<i> 'coin'</i> (ustensile). Le sens de ce passage deviendrait alors:<br> 
+<i>Je ne vois...<br>
+"Plus rien que ce grand coin pointu/ Qui s'enfonce dans le sol nu"</i>.
+
+<li> Nous retiendrons essentiellement de ce qui prÃ©cÃ¨de que ce beau texte a Ã©tÃ©  notÃ©  par Kerambrun d'une seule traite et que, vraisemblablement, les quelques modifications apportÃ©es ainsi que la traduction franÃ§aise sont de la main de De Penguern. Mais nous verrons un peu plus loin que Kerambrun n'est pas l'auteur de cet  Ã©crit. Comme il ressort du tÃ©moignage de FranÃ§ois VallÃ©e (cf. infra), il n'a fait que mettre en forme le texte original proprement-dit, un relevÃ©  de collecte que lui a fourni une autre intervenante, <b>Madame de Saint-Prix.</b><br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para6')"><img id="para6_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Version de l'annuaire historique de Bretagne (N  2)</b><br>
+<div id="para6" style="display:none;"><font size=-1> 
+<img src="borderie.jpg"  hspace=10 vspace=10 align=left> Cette version publiÃ©e, comme on l'a dit, par l'historien de la Bretagne<b>Arthur Le Moyne de La Borderie</b> (1827-1901) en 1861, ne diffÃ¨re vraiment de la prÃ©cÃ©dente que sur quatre points:
+
+<li> Le breton et la traduction franÃ§aise ont Ã©tÃ© , nous dit Luzel, <i>"revu[s] et, presque toujours corrigÃ©[s] heureusement , selon la mÃ©thode de Le Gonidec, par un habile diascÃ©vaste restÃ©  inconnu (car ce n'est pas Kerambrun qui  lui mÃªme orthographiait fort mal le breton)"</i>
+ 
+<li> L'antienne <i>"Kesomp mein bras ha mein bihan/ War an hent bras e-kreiz al lann!</i> traduite <i>"Portons de grandes pierres et de petites pierres / Sur le grand chemin, au milieu de la lande"</i> suit systÃ©matiquement chaque distique.
+
+<li> La traduction est pratiquement identique Ã  celle de De Penguern. Elle ne s'en  carte un peu qu'Ã  la strophe 3: <i>"Vit groac'h AÃ¨s en hon c'hevro"</i>, oÃ¹  l'expression [transcrite en breton standard (KLT) sous la forme <i>"en hor c'hevreoÃ¹ "</i>], rendue par <i>"dans notre patrie"</i>, devient <i>"en notre compagnie"</i>. Luzel indique, Ã  juste titre semble-t-il, que le premier sens, celui de <i>'patrie, pays commun'</i> est plus exact, mais que l'expression bretonne est inusitÃ©e selon lui. <i>'Kevre'</i> signifie "<i>lien de gerbe, de fagot, de flÃ©au ou de faux</i>' ainsi que <i>'ligue</i>'.
+
+<li> Enfin l'habile "diascÃ©vaste", - Luzel ne semble pas suggÃ©rer que ce puisse Ãªtre La Borderie lui-mÃªme,-- a fait prÃ©cÃ©der la strophe 2, d'un nouveau distique:<br>
+<br>
+<i>"Ann ere du, ann ere glaz / Zo en dachen o c'hoari vaz"<br>
+Les aigles noirs, les aigles gris / Sont dans le champ se querellant"</i>.<br>
+<br>
+Luzel souligne avec raison, l'imprÃ©cision de la traduction des mots qui dÃ©signent les couleurs, en s'appuyant sur le cÃ©lÃ¨bre dictionnaire de <i>Troude</i>. Il aurait pu aussi remarquer que la place de cette strophe dans le poÃ¨me est parfaitement  illogique et que si <i>"c'hoari vaz"</i> signifie bien, comme il l'indique, <i>"jouer du bÃ¢ton"</i>, cet exercice est pour le moins surprenant pour des aigles, quelle que soit leur couleur!<br>
+On peut penser que La Borderie (ou son secrÃ©taire) ait eu entre les mains le "<i>brouillon</i>" de Madame de Saint-Prix et qu'il ait remarquÃ© dans la "<i>mise au propre</i>" de Kerambrun une <b>omission</b> qu'il aura tentÃ©, maladroitement, de rÃ©parer.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para7')"><img id="para7_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+
+<b>Faut-il suspecter l'"authenticitÃ©  populaire" de la piÃ¨ce?</b><br>
+<div id="para7" style="display:none;"><font size=-1> 
+<img src="fmluzel.jpg"  hspace=10 vspace=10 align=left>C'est Ã   juste titre, enfin, qu'aprÃ¨s avoir soulignÃ© que dans la version NÂ° 1, les couplets sont de longueur variable, tantÃ´t deux, tantÃ´t quatre vers, Luzel attire notre attention sur la structure rÃ©guliÃ¨re de la version NÂ° 2, un distique suivi d'un couplet.<br>
+ Et le verdict tombe: [Cela]<i>"suffirait pour faire suspecter <b>l'authenticitÃ© populaire</b> de la piÃ¨ce. Les vieilles poÃ©sies bretonnes connues sous le nom de <b>GwerzioÃ¹ </b> ou Ballades, chants narratifs, [ou] historiques (et la Vieille AhÃ¨s semble  Ãªtre de ce genre), <b>n'ont jamais de refrain</b>..."</i> [contrairement Ã  d'autres catÃ©gories:] <i>'sonioÃ¹', 'baleoÃ¹', 'rimadelloÃ¹', litanies, marches, chansons Ã  danser, berceuses et autres.</i>"<br>
+Ce grief systÃ©matique d'inauthenticitÃ©, c'est le cheval de bataille de Luzel depuis 1867, l'annÃ©e du CongrÃ¨s celtique international de Saint-Brieuc qui vit l'Archiviste du FinistÃ¨re, <i>RenÃ©-FranÃ§ois Le Men</i>, accuser <i>ThÃ©odore Hersart de La VillemarquÃ©</i>, l'auteur du fameux recueil de chants populaires bretons, le  <i>Barzhaz Breizh</i>, d'avoir commis des faux en s'efforÃ§ant d'embellir le produit de ses collectes pour leur 
+confÃ©rer une antiquitÃ©  factice.C'Ã©tait le dÃ©but de la <i>"Querelle du Barzhaz"</i> oÃ¹ Luzel allait s'illustrer.<br>
+ En juillet 1872 Ã  Saint-Brieuc, au congrÃ¨s annuel de l'<i>Association bretonne "Kendalc'h"</i>, Luzel est chargÃ© de prÃ©senter un exposÃ© sur l'"<i>histoire authentique des chants populaires bretons</i>". La publication de ce rapport oÃ¹ il est question non seulement de rÃ©fections, mais aussi d'inventions dÃ©clenche une Ã¢pre polÃ©mique Ã  laquelle tous les folkloristes de l'Ã©poque prennent part... Tous, sauf La VillemarquÃ© qui se retranche dans un silence entÃªtÃ©  qui ne fera que  conforter ses adversaires dans leur conviction que les plus beaux textes du Barzhaz Ã©taient, au mieux d'habiles rÃ©fections, au pire des crÃ©ations sorties de l'imagination du "<i>barde de Nizon</i>".<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para30')"><img id="para30_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La "querelle de la Vieille AhÃ¨s"</b><br>
+<div id="para30" style="display:none;"><font size=-1> 
+La suspicion qui pÃ¨se sur la "Vieille AhÃ¨s" engendra, entre autre, une polÃ©mique entre l'ancien directeur de la <i>Revue Celtique</i>, le folkoriste <b>Henri Gaidoz</b> (1842-1932) et l'historien <b>Arthur de La Borderie</b> qui avait, on s'en souvient, fait paraÃ®tre en 1861 ce poÃ¨me dans l'<i>Annuaire historique et archÃ©ologique de Bretagne</i>. Gaidoz avait publiÃ©  dans sa revue un article postume du gÃ©ographe <b>Guillaume  Lejean</b>, dÃ©cÃ©dÃ©  le 2 fÃ©vrier 1871, dans lequel ce dernier dÃ©nonÃ§ait cette piÃ¨ce comme le<i> "type des chants bretons apocryphes"</i>. Or vingt ans auparavant, ce mÃªme Lejean avait examinÃ© cette piÃ¨ce, l'avait trouvÃ©e <i>"tr s curieuse"</i> et incitÃ© La Borderie Ã  la publier, ce qu'il fit une dizaine d'annÃ©es plus tard.<br> 
+Etait-ce la ballade ou cet article posthume de Lejean qui Ã©tait apocryphe? Dans le cadre d'une discussion avec Luzel dans les pages du <i>Bulletin de la SociÃ©tÃ© archÃ©ologique du FinistÃ¨re</i>, en 1887, La Borderie insinue que la seconde hypothÃ¨se est la bonne.<br> 
+Trois ans plus tard, en 1890, Gaidoz dÃ©clare qu'il n'en est rien; qu'en 1870 Lejean, mÃ»ri par la vie et l'Ã©tude, entendait <i>"dissiper les fantÃ´mes bardiques"</i> auxquels il croyait en 1850 dans un article destinÃ© Ã  la <i>Revue des Deux-Mondes</i>. Sa famille, aprÃ¨s son dÃ©cÃ¨s s'Ã©tait adressÃ©e Ã  Gaidoz pour que cet article paraisse dans la <i>Revue Celtique</i>.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para8')"><img id="para8_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b> Etre ou ne pas Ãªtre une gwerz...</b><br>
+<div id="para8" style="display:none;"><font size=-1> 
+Avant d'aller plus loin, on notera un dÃ©faut de l'argument avancÃ©  par Luzel contre <i>"La Vieille AhÃ¨s"</i>, Ã  savoir qu'il s'agit d'une oeuvre factice dÃ¨s lors qu'elle n'obÃ©it pas aux lois du genre "<i>gwerz</i>" dans lequel il voudrait Ã  toute force la ranger. Cet argument est Ã©minemment discutable, car il revient Ã   dÃ©nier Ã  un auteur, plÃ©bÃ©ien ou non, le droit de faire preuve d'originalitÃ©  et de s'affranchir tant soit peu de rÃªgles qui entravent sa crÃ©ativitÃ©.<br>
+<li> Les fameuses <i>"VÃªpres des Grenouilles"</i> sont aussi un poÃ¨me <i>sui generis</i> et personne n'irait pour autant contester leur authenticitÃ©.<br>
+<li> De mÃªme, le long poÃ¨me du <i>Barzhaz Breizh</i> intitul  <i>"Marzhin Barzh"</i> se fonde-t-il sur des <i>"fragments"</i> uniques en leur genre, communiquÃ©s, eux-aussi, par Madame de Saint-Prix Ã  La VillemarquÃ©, comme il l'indique dans une note,  dÃ¨s l'Ã©dition de 1839 <i>("J'ai Ã©tÃ©  mis sur la trace de ce chant...par une dame de Morlaix...")</i>. Donatien Laurent (cf.ci-aprÃ¨s) les a retrouvÃ©s, en 1964, sur une feuille double insÃ©rÃ©e entre deux folios du carnet oÃ¹ est consignÃ©, pp. 303 Ã    306, l'Ã©tonnant "<i>Merlin</i>" dont il a tirÃ© l'essentiel du "<i>Merlin Barde</i>" que Luzel, et les philologues Joseph Loth et Francis Gourvil rangeaient dans la catÃ©gorie des chants inventÃ©s. Il s'agit d'une <i>"Invitation au mariage"</i> et d'une version du conte <i>"Le garÃ§on qui vole le trÃ©sor de l'Ogre"</i> contaminÃ©e par un autre conte <i>"L'homme sauvage"</i> que la tradition bretonne associe souvent au personnage de Merlin.
+<li> On peut argumenter en sens inverse et soutenir que la version NÂ° 1 se prÃ©sente comme un <b>dialogue</b> (de sourds!) entre des cantonniers et un prophÃ¨te de malheur, avec des rÃ©parties de longueur variable pour le second. Le chant d'encouragement que se lancent les uns aux autres les premiers affecte deux formes diffÃ©rentes dont l'une apparaÃ®t deux fois, au dÃ©but et Ã  la fin du chant. Ce n'est donc pas prÃ©cisÃ©ment un couplet. Or, la grande majoritÃ©  des "gwerzioÃ¹ " se compose de dialogues. Celui de la Vieille AhÃ¨s est un dialogue d'un genre trÃ¨s particulier.<br>
+Quant Ã  la version 2, oÃ¹  la rÃ©plique des cantonniers peut effectivement  Ãªtre qualifiÃ©e de "couplet", c'est Ã   l'Ã©vidence un dÃ©marquage de la version 1.<br>
+Mais le vrai motif de la mÃ©fiance de Luzel - motif que celui-ci passe sous silence, dans l'article ci-dessus tout au moins -, c'est la suscpicion qu'il nourrit envers son cousin Kerambrun.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para9')"><img id="para9_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Le tÃ©moignage de FranÃ§ois VallÃ©e</b><br>
+<div id="para9" style="display:none;"><font size=-1> 
+A la page 18 de l'annexe introductive Ã   <i>Dastumad Penwern</i> (2 manuscrits de la collection de Penguern, publiÃ©s en 1983 par l'association <i>Dastum</i>),  figure un tÃ©moignage (en breton) de <b>FranÃ§ois VallÃ©e</b> (1860 -1949), linguiste, auteur d'un dictionnaire fameux, Ã  propos de <i>Guillaume-RenÃ©  Kerambrun</i>. Il a Ã©tÃ©  publiÃ©  dans "<i>Studi hag ober</i>" (NÂ° 12, <b>1940</b>) par le grammairien et poÃ¨te <i>Maodez Glanndour</i>, alias <i>PÃ¨re Louis Le Floc'h</i>, (1909 - 1986): <br>
+
+<table width=100%><td width=50% valign= top><font size= -1>
+<li> "E dastumad kanaouenno  Penguern ez eus ur <b>c'haierad war aÃ±v  Gwrac'h Ahez </b>. N'emaÃ±  ket e Levrdi Broadel Bro C'hall, hogen e Levrdi Roazhon. Kavet e oa bet e Stal Durance, levrier levrioÃ¹ kozh ha bet roet din. Her roet am-eus da levrdi Roazhon, a-unan gant kaieroÃ¹ all dianket eus an dastumad hag a oa ivez e ti Durance. <b>Bez  e kaver e kaierad  Gwrac'h Ahez  ur brouilhed kemeret, evit doare,
+diwar diweuz ar c'haner gant an Itron de St Prix</b>, hag eilskrivadur Kerambrun.
+
+<li> Embannet em-eus e <i> MÃ©moires de l'Association Bretonne </i> ha war <i> Groaz ar Vretoned </i> un darn eus ar c'hanaouennoÃ¹  kavet e ti Durance. N'em-eus ket embannet avat  Gwrac'h Ahez  diaes-diaes
+da ziluziaÃ± ar brouilhed anezhi. Tamallet e oa bet da Gerambrun beza  skrivet eus e benn e-unan ar ganaouenn en he fezh. Bez  a-walc h <b>en-deus renket adober un darn eus ar pozioÃ¹</b>, ar re oe re luziet e brouilhed an Itron de St Prix.
+
+<li> Diwar-benn Kerambrun, a reas da sekretour da Benguern, n' ouzhon netra, nemet e voe tamallet dezhaÃ±  beza  falset kalz a bezhioÃ¹. <b>Un tamall n'eo ket gwir war va menoÃ¹</b>. Kar e oa da Zenez Kerambrun, bet noter e Benac'h hag am-eus klevet hemaÃ±  oc'h ober ur veuleudi dleet eus ampartiz e gar. Eun tammig paotr  disoursi ez oa, am eus aoÃ±." 
+</td>
+<td width=50% valign= top><font size= -1>
+<li> "Dans la collection de chants de Penguern il y a un <b>cahier intitulÃ© "La vieille AhÃ¨s"</b>. Il n'est pas dÃ©posÃ© Ã   la BibliothÃ¨que nationale, mais Ã  celle de Rennes. On l'avait dÃ©couvert chez Durance, une librairie de livres anciens, qui me l'avait donnÃ© ...<br>
+J'en ai fait don Ã  mon tour Ã  la BibliothÃ¨que de Rennes, en mÃªme temps que d'autres cahiers manquant Ã  la collection, qui se trouvaient aussi Ã  la librairie Durance. <b>On trouve dans le cahier "Vieille AhÃ¨s" un premier jet recueilli, semble-t-il, des lÃ¨vres de la chanteuse par Mme de Saint-Prix</b> et une retranscription de Kerambrun.
+
+<li> J'ai publiÃ©  dans les <i>"MÃ©moires de l'Association Bretonne"</i> et dans <i>"Kroaz ar Vretoned"</i> une partie des chants dÃ©couverts chez Durance. Cependant je n'y ai pas joint "La Vieille AhÃ¨s", tant il est difficile de dÃ©chiffrer ce manuscrit. On avait reprochÃ© Ã  Kerambrun d'avoir Ã©crit lui-mÃªme la totalitÃ©  du chant. Je dirais plutÃ´t qu'<b>il lui a fallu refaire certaines strophes</b>, celles qui Ã©taient trop illisibles sur le brouillon de Mme de Saint-Prix. 
+
+<li> Au sujet de Kerambrun, qui faisait office de secrÃ©taire de Penguern, je ne sais rien, si ce n'est qu'on lui a reprochÃ©  d'avoir fait beaucoup de faux. C'est un <b>reproche injustifiÃ© Ã     mon avis</b>. Il Ã©tait parent de Denis Kerambrun, notaire Ã    Belle-Isle-en-Terre que j'ai souvent entendu faire un Ã©loge mÃ©ritÃ© des talents de son parent. Je crains seulement qu'il n'ait  Ã©tÃ© un peu 'tÃªte en l'air'".
+</td>
+</table><br>
+<center><img src="frvallee.jpg"></center><br>
+<br>
+
+Dans sa th se de doctorat sur la langue utilis e par Madame de Saint-Prix, consultable en ligne depuis juillet 2013, <b>M. Yvon Le Rol</b> , (note 257) nous apprend que <b>le pr cieux cahier a disparu</b> du fonds Fran ois Vall e conserv    la biblioth que de  Rennes-M tropole. Mais ce n'est certainement pas une raison de douter de la sinc rit  de ce t moignage.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para10')"><img id="para10_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La prÃ©vention de Luzel Ã  l'encontre de Kerambrun</b><br>
+<div id="para10" style="display:none;"><font size=-1> 
+Cette attitude confiante n'Ã©tait pas, on l'a dit, celle de FranÃ§ois-Marie Luzel. Dans une note annexÃ©e Ã  un chant de son recueil <i>"GwerzioÃ¹ Breiz-Izel"</i>, tome I, p.284 (1868),  celui-ci nous livre ses motifs:<br>
+- ce chant aurait Ã©tÃ© recueilli <b>uniquement par Kerambrun</b>;<br> 
+- ce mÃªme Kerambrun <b>l'aurait mystifiÃ© au moins une fois</b>.<br>
+A propos d'un autre chant, <i>"Les deux moines"</i>, il  Ã©crit:<br>
+<i>"Cette piÃ¨ce est, Ã  peu prÃ¨s, la seule de ce genre que j'aie recueillie contre les moines. J ai cependant fait bien des recherches pour trouver une version... de la ballade...connue sous le nom des <b>Moines de l Ile-Verte</b>...publiÃ©e dans </i>l'Athenaeum franÃ§ais<i> (annÃ©e 1854, p. 700). J ai sÃ©journÃ©  plusieurs jours dans le pays oÃ¹ l'on place la scÃ¨ne, j ai interrogÃ©  les habitants de Pleubihan, de Lanmaudes, de Paimpol, de Kerity-Beauport, mais vainement; je n ai mÃªme pas trouvÃ© un seul vers... <br>
+Mais aujourd hui que je tiens le mot de cette Ã©nigme, et que je connais l'auteur de ce pastiche, qui est rÃ©ellement rÃ©ussi quoique trop empreint de la rhÃ©torique et des sentiments modernes pour passer pour une poÃ©sie ancienne... Il y a seize ou dix-sept ans, le vÃ©ritable auteur de la piÃ¨ce, homme de talent et de beaucoup d'imagination...me rÃ©citait souvent ces vers, ainsi que quelques autres, <b>comme...la vieille AhÃ¨s</b>, et me demandait... :   As-tu trouvÃ© cela ?   Non, disais-je...mais je chercherai encore, et je trouverai. Tu peux chercher, reprenait-il...mais tu ne trouveras pas. Et... j interrogeais les aveugles, les fileuses, les tailleurs, les sabotiers... je leur citais... les beaux vers que [rÃ©citait] mon ami...et tous me rÃ©pondaient invariablement ...   Nous n'avons jamais entendu rien de semblable.  ..."</i><br>
+Et Luzel poursuit sa plaidoirie par cette envolÃ©e: <i>"Aussi puis-je dire en toute sincÃ©ritÃ©  que mon livre est un livre de bonne foi...."</i> (sous-entendu: "contrairement au Barzhaz" qu'il Ã©gratigne au passage et "aux pastiches de son cousin Kerambrun" qu'il omet soigneusement de nommer ici).<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para11')"><img id="para11_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>L'avis de Donatien Laurent</b><br>
+<div id="para11" style="display:none;"><font size=-1>
+Dans le cas de <i>"La Vieille AhÃ¨s"</i>, Luzel ignorait que Kerambrun avait travaillÃ© sur un document prÃ©existant fourni par Madame de Saint-Prix Ã  De Penguern, ce qui Ã´te Ã  sa dÃ©monstration   peu prÃ¨s toute pertinence.<br>
+En outre, il semble bien que Luzel n'ait pas Ã©tÃ© le <b>collecteur exhaustif </b>qu'il prÃ©tend Ãªtre. N'Ã©tant pas aurÃ©olÃ© du prestige que confÃ©raient Ã  Madame de Saint-Prix ou La VillemarquÃ© leurs origines aristocratiques, il ne savait pas ou ne pouvait pas porter ses investigations sur autant de zones gÃ©ographiques et de catÃ©gories sociales qu'il aurait Ã©tÃ©  nÃ©cessaire pour prÃ©tendre Ã   cette exhaustivitÃ©. Le nombre de "ses" chanteurs est relativement rÃ©duit. C'est ainsi que sa principale informatrice, <i>Marguerite Philippe de Pluzunet</i>,  lui a fourni Ã  elle seule une bonne partie de la matiÃ¨re de ses livres.<br>
+Le directeur de recherche au CNRS et directeur du CRBC de l'UniversitÃ© de Bretagne Occidentale,<a href="../gwenlaf.htm"> Donatien Laurent</a>, lors d'un colloque organisÃ© le 31 mars 2007   Ã  Lannion sur le thÃ¨me " <i>Jean-Marie de Penguern. collecteur et collectionneur, pionnier de la littÃ©rature orale en Bretagne</i>",  exposait qu'une gwerz peut parfaitement Ã©chapper aux recherches de certains collecteurs. Il en Ã©tait ainsi de la <i>"Gwerz sur la mort du fils aÃ®nÃ©  de KerguÃ©zec-Kericuff" (Gwerz an Aotro  Kergwezeg)</i>, qu'il avait Ã©tudiÃ©e en collaboration avec <i>Daniel Giraudon</i> (revue <i>"Planedenn"</i> NÂ° 6, hiver 1980-1981 et NÂ° 11, printemps 1982). Elle n'avait jamais Ã©tÃ©  collectÃ©e ni par Luzel, ni par de Penguern, bien que son origine se situÃ¢t Ã   PloÃ©zal en plein TrÃ©gor, leur zone d'investigation favorite. D'ailleurs on la rencontre encore de nos jours dans le mÃªme secteur.<br>
+A propos de l'intervention de Kerambrun dans la mise en forme du poÃ¨me recueilli par Madame de Saint-Prix, il convient de citer une phrase de Donatien Laurent dans son fameux ouvrage <i>"Aux sources du Barzaz-Breiz"</i>, 1989, p.19: <i>"Luzel, le grand folkloriste des annÃ©es 1860-1890, accusera plus tard nommÃ©ment Kerambrun d avoir mystifiÃ© Penguern en lui prÃ©sentant comme recueillies des piÃ¨ces qu il aurait lui-mÃªme composÃ©es<b>, mais il ne donne aucun argument sÃ©rieux Ã  l appui de cette assertion</b> et la question doit Ãªtre examinÃ©e sans parti-pris   Ã  partir des manuscrits laissÃ©s par Penguern et Kerambrun."</i><br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para12')"><img id="para12_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Traditions orales eschatologiques liÃ©es au dÃ©senclavement</b><br>
+<div id="para12" style="display:none;"><font size=-1>
+Nous sommes d'autant plus disposÃ©s Ã  nous rallier Ã  l''avis de FranÃ§ois VallÃ©e et Ã  voir dans ce beau poÃ¨me un texte populaire authentique, dont l'Ã©clat fut peut-Ãªtre un peu rehaussÃ©  par le talentueux Kerambrun, que, loin d'Ãªtre le seul en son genre, il appartient Ã  tout un <b>corpus de prophÃ©ties et formulettes liant dÃ©senclavement et visions eschatologiques</b>. Or, l'authenticitÃ©  de ces piÃ¨ces ne saurait Ãªtre mise en doute. Nous suggÃ©rons de consulter Ã  ce sujet les  pages de notre site internet que nous avons consacrÃ©es:<li> aux prophÃ©ties du <a href="../roesteva.htm">Roi Stevan (http://chrsouchon.free.fr/roesteva.htm)</a> publiÃ©es en 1891 par l'abbÃ©  Jean-Marie Guilloux (1848-1900), 
+<li> ainsi qu'Ã  l'autre poÃ¨me dÃ©jÃ  mentionnÃ©  de la collection de Penguern, dont la beauÃ©t est comparable Ã  celle de "Gwrac'h AhÃ¨s", <a href="kozdall.htm">Le vieillard aveugle (http://chrsouchon.free.fr/chants/kozdall.htm)</a>.<br>
+Le passage qui nous intÃ©resse est le suivant:<br>
+<table width=100%><td width=50% valign= top><font size=-1>
+ <br>
+26. Mallozh d an hencho  milliget<br> 
+Ha da kement o-deus int graet!<br>
+<br>
+27. Pa vo kemeret war pep lec h<br>
+D ober hencho , a deuo nec h.<br>
+<br>
+28. Pa vo kemeret war pep plas<br>
+D ober hencho  a deuo glaz.<br>
+<br>
+29. Neuze deuint an toko  gwenn<br>
+Hag an trubuilh hag an anken.<br>
+<br>
+30. Hep dale kouezho noz te val<br>
+Hag ez ayo ar bed da fall!<br>
+<br>
+<i>KLT gant Christian Souchon</i>
+</font></td>
+<td width=50% valign= top><font size=-1>
+ <br>
+26. Et malheur aux routes maudites <br>
+Et   vous-autres qui les f tes!<br>
+<br>
+27. Et, si l'on en met en tout lieu<br>
+Comme nous serons malheureux!<br>
+<br>
+28. Quand on en aura mis partout,<br>
+On sonnera le glas pour nous.<br>
+<br>
+29. Les casques blancs seront ici,<br>
+Les troubles et l'angoisse aussi,<br>
+<br>
+30. Et dans la pire obscuritÃ© <br>
+Notre monde ira s'abÃ®mer. <br>
+<br>
+<i>Traduction Christian Souchon </i>
+</font></td></table><br>
+<br>
+Voici, pour conclure ces considÃ©rations sur l'authenticitÃ©  de "Gwrac'h Ahez", ce qu'Ã©crivait FranÃ§ois VallÃ©e Ã   Maudez Glanndour, dans "<i>Studi hag Ober</i>", NÂ°  12, en 1940:<br>
+<table width=100%><td width=50% valign= top><font size= -1> 
+Ur C'hervarker nevez a c'houlenner eta, un den evit kutuilh e dastumad Pengwern, e dastumad An Uhel h.a. e kement gwerz a ve splann enni <b>evel ma eo Gwrac'h Ahez</b>, perzhioÃ¹ dibar hon speredegezh, un den a ijin ha barzh awalc'h evit pennober pezh n'eo ket peurc'hraet.<br>
+Ha perak ne zeufe ket unan adarre?
+</font></td>
+<td width=50% valign= top><font size= -1> 
+Ce qu'il nous faudrait, c'est un nouveau La VillemarquÃ©, un homme capable de cueillir dans les collections de De Penguern, de Luzel, etc. parmi tous les poÃ¨mes spendides qu'elles recÃ¨lent, <b>tels que La vieille AhÃ¨s</b>, ces fruits sans pareils de notre spiritualitÃ©, un homme assez  talenteux et poÃ¨te pour accomplir ce qui reste Ã  accomplir. <br>
+Cet homme, pourquoi ne viendrait-il pas un jour?<br> 
+</font></td>
+</table><br>
+Il nous reste Ã   dire quelques mots des deux protagonistes principaux de la discussion ci-dessus, <i>Madame de Saint-Prix</i> dont la bonne foi n'a jamais  Ã©tÃ©  mise en cause par personne et <i>Guillaume Kerambrun</i>, injustement pris  Ã  partie, avant de nous intÃ©resser Ã  un autre document bien plus ancien qui donne la parole Ã  l'Ã©poux de la "<i>Vieille AhÃ¨s</i>".<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para13')"><img id="para13_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La collectrice Mme de Saint Prix</b><br>
+<div id="para13" style="display:none;"><font size=-1>
+Madame de Saint-Prix (1789 - 1869), nÃ©e Emilie-Barbe Guitton  Ã©tait originaire de Callac. Elle Ã©pousa Charles de Saint-Prix en 1816 et vÃ©cut dans la rÃ©gion de Morlaix. Nombreux sont les tÃ©moignages de l'hospitalitÃ©  de son hÃ´tel oÃ¹ se cÃ´toyaient <i>"LÃ©gitimistes, RÃ©publicains et OrlÃ©anistes</i>" et aussi bien un "<i>gÃ©nÃ©ral en habit brodÃ© qu'un cultivateur en habit de bure</i>", s'il faut en croire l'Ã©loge funÃ¨bre de l'abbÃ©  KerzalÃ©.<br>
+Bretonnante accomplie, elle aurait dÃ©butÃ© ses collectes en 1820, peut-Ãªtre sur l'impulsion du grammairien <a href="../jaouiozf.htm">Le Gonidec (1775-1838)</a>, ami de son mari.<br>
+Elle n'a pas cherchÃ© Ã  Ã©diter elle-mÃªme ses recherches mais en a fait profiter d'autres collecteurs: La VillemarquÃ©  reconnaÃ®t avoir "<i> Ã©tÃ© mis sur la trace du poÃ¨me de Merlin, par madame de Saint-Prix, qui a bien voulu m'en communiquer des fragments chantÃ©s  au pays de TrÃ©guier</i>". Anatole Le Braz affirme, quant   Ã  lui, que "<i>Madame de Saint Prix rÃ©pÃ©ta maintes fois Ã  mon pÃ¨re  [</i>qui l'avait aidÃ©  dans ses collectes<i>] qu'elle avait fourni Ã  M. de La VillemarquÃ© nombre de gwerzes bretonnes</i>".<br>
+Le chevalier de FrÃ©minville (1787 -1848) signale dans ses "<i>AntiquitÃ©s bretonnes</i>" (1837) les piÃ¨ces qu'elle lui a communiquÃ©es.<br>
+Mais le principal bÃ©nÃ©ficiaire de son activitÃ© de collectrice fut l'avocat lannionnais <b>Jean-Marie de Penguern</b> (1807-1858) Ã   qui elle fit don d'une bonne partie de sa collection et qui en fit le manuscrit cotÃ© NÂ° 92 Ã  la <i>BibliothÃ¨que Nationale (Fonds celtique et basque)</i>. Ces trente chants proviennent en majeure partie des manuscrits 1 et 2 de la collectrice conservÃ©s Ã  l'<i>abbaye de LandÃ©vennec</i>. Cinq d'entre eux proviennent d'un troisiÃ¨me manuscrit manquant qui contenait peut-Ãªtre aussi l'original de "<i>Gwrac'h Ahes</i>"...<br>
+<br>
+<b>"Kaier ar Poher" a publiÃ©  en mars 2010, dans son NÂ° 28, pp. 1   Ã  6, un exposÃ©  dÃ©taillÃ© de M. Yvon Le Roll sur Madame de Saint-Prix.</b><br>
+<br><center>
+<img src="saint_pr.jpg"><br>
+<br>
+</center>
+</font></div>
+<a style="cursor:pointer;" onclick="return toggleMe('para14')"><img id="para14_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Guillaume-RenÃ© Kerambrun</b><br>
+<div id="para14" style="display:none;"><font size=-1>
+Natif de BÃ©gard,  aprÃ¨s avoir  Ã©tudiÃ©  le droit Ã  Rennes, <b>Guillaume-RenÃ©   Kerambrun</b> (1813- 1852) fonda une revue thÃ©Ã¢trale, publia des poÃ¨mes et devint un  Ã©crivain apprÃ©ciÃ©. Il aida en outre J.M. de Penguern dans ses collectes de chants populaires, mais il est soupÃ§onnÃ©  d'en avoir composÃ©  lui-mÃªme quelques-uns (les meilleurs!)<br>
+Cependant l'historien <b>Arthur de La Borderie</b> (1827 - 1901, auteur de la monumentale "<i>Histoire de Bretagne</i>") a dÃ©fendu la vÃ©racitÃ©  de la "<i>Vieille AhÃ¨s</i>" et de la <a href="paptimbr.htm">"<i>Ronde du papier timbrÃ©</i>"</a> contre l'opinion de Luzel et Le Braz et celle de La VillemarquÃ©, en ce qui concerne le second chant. Plus prÃ¨s de nous, Donatien Laurent considÃ¨re comme vraisemblablement authentiques deux autres chants incriminÃ©s par Luzel: <a href="bleizi.htm"> "<i>Les loups de la mer</i>"</a> et <a href="argad.htm">"<i>l'Attaque des Anglais</i>"</a> (Argadenn ar Saozon).<br>
+<br>
+</font></div>
+
+</font></div>
+<center><h2>
+<a style="cursor:pointer;" onclick="return toggleMe('para2')"><img id="para2_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+ORIGINES DE LA LEGENDE</h2></center>
+<div id="para2" style="display:none;"><font size=-1>
+<center><img src="rethel2.jpg"></center><br>
+<a style="cursor:pointer;" onclick="return toggleMe('para15')"><img id="para15_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Princesse ou vieille sorciÃ¨re?</b><br>
+<div id="para15" style="display:none;"><font size=-1>
+Le personnage malÃ©fique Ã©voquÃ©  par ce chant est, sans doute, l' Ã©ponyme supposÃ© de Carhaix.<br>
+En effet le nom breton de cette ville, Caerahes, a Ã©tÃ©  compris trÃ¨s tÃ´t comme une combinaison basÃ©e sur le prÃ©fixe breton d' origine latine 'Kaer' qui signifie 'lieu fortifiÃ©', et l'ensemble comme Ã©tant la 'ville fortifiÃ©e d'AhÃ¨s'. 
+<li> C'est cette tradition que suivait, au milieu du 17Ã¨me siÃ¨cle le juriste <b>Eguiner Baron</b>, lorsqu'il Ã©crivait:<br>
+<br>
+<table width=100%><td width=50% valign= top><font size=-2>
+<i>Exstat oppidum in comitatu Cornualensi Armoricae Britanniae, ab Ahae gigantis feminae nomine appelatum Ker-Ahez, quod verbum sonat Villa Ahae, </i>
+</td>
+<td width=50% valign= top><font size=-2>
+<i>Il existe dans le comtÃ© de Cornouaille, en Bretagne Armorique, une place-forte que du nom d'une femme gÃ©ante AhÃ¨s, on appelle Carhaix ce qui signifie "Ville d'AhÃ¨s".</i>
+</td></table><br>
+On remarque que ce texte faisait de la princesse une gÃ©ante...
+
+<li> Le gÃ©ographe <b>Jean OgÃ©e</b> (1728 - 1789), auteur d'un "Dictionnaire gÃ©ographique de... Bretagne" et d'un "Atlas itinÃ©raire de Bretagne" ne croit pas Ã  l'existence <a href=" ../kerizf.htm">de la citÃ© lÃ©gendaire d'Ys</a>. Il indique que certains la situent Ã  Carhaix (Keraes en breton) et regardent Karaes comme le Keris des anciens. Avant lui, l'hagiographe breton  <b>Albert le Grand</b> (1599-1641) avait dÃ©jÃ   rattachÃ©  le nom d'"AhÃ¨s" Ã  cette ville, dont il avait attribuÃ© la fondation Ã  une princesse AhÃ¨s.
+
+<li> Il existe une chanson de geste bien plus ancienne, la <b>Chanson d'Aiquin</b> (ou Aquin), dont l'original fut sans doute composÃ© entre 1170 et 1190 et qui est certainement la doyenne des  oeuvres littÃ©raires bretonnes en langue franÃ§aise. On y voit Charlemagne aux prises avec les "Sarrasins", comprenez les Normands, dont le roi est l'Aquin (Haakon?) qui donne son nom au long poÃ¨me.
+Ce dernier se rÃ©fugie dans la citÃ©  de Quarahes ou rÃ¨gne le vieil <b>OhÃ¨s</b> (variante d'AhÃ¨s). Ce qu'OhÃ¨s raconte de sa femme est directement inspirÃ© de la l gende de la voie romaine, le "Hent AhÃ¨s":<br>
+<br>
+<table width=100%><td width=50% valign= top><font size= -1>
+TEXTE ORIGINAL (Orthographe moderne)<br>
+Vers 852   920<br>
+<br>
+1. Moult ont OhÃ¨s entre eux fourment louÃ© <br>
+Qu il s'Ã©tait en l'histoire bien prouvÃ©;<br>
+Bien sept-vingt ans avait jÃ   en tout passÃ© .<br>
+De sa femme ont FranÃ§ais illec parlÃ© ,<br>
+Qui fut moult sage et fut de grande beautÃ© ;<br>
+Et ainsi lui ont enquis et demandÃ© <br>
+OÃ¹  elle fut nÃ©e et de quelle parentÃ© ?<br>
+Ce dit OhÃ¨s :   Rien ne vous soit celÃ© ,<br>
+<br>
+2. Elle fut fille de Corsout [1], de lui adorÃ©e,<br>
+Qui bien vÃ©cut trois cents ans passÃ©s;<br>
+Mais cette dame eut une moult folle pensÃ©e<br>
+Qui croyait vivre toujours en jeune Ã¢ge!<br>
+Elle fit faire un grand chemin ferrÃ©  [2]<br>
+Par oÃ¹ aller Ã  Paris la citÃ© <br>;
+Car le pays Ã©tait de bois plantÃ©;<br>
+<br>
+3. A Carahes, ce sachez de vÃ©ritÃ© ,<br>
+Fut le chemin commencÃ©  et fondÃ© <br>
+Par cette dame fut maint chÃªne coupÃ© <br>
+Et abattu maint grand arbre ramÃ©.<br>
+Quand ce chemin fut fait et compassÃ©,<br>
+Plus de vingt lieues fut le chemin ferrÃ©; [2]<br>
+Moult y ont lÃ  en en peu de temps ouvrÃ© <br>
+Jusqu'au terme que je vais vous conter :<br>
+<br>
+4. Que la dame eut un merle mort trouvÃ© .<br>
+De l'une en l'autre main l'a tournÃ©  et virÃ© .<br>
+Lors a la dame un soupir jetÃ©:<br>
+Que ce siÃ¨cle-ci n'est tout que vanitÃ©;<br>
+Qui plus y vit, plus a mal et peinÃ©;<br>
+N'y a si riche qui n'ait adversitÃ©!<br>
+Lors a la dame moult grandement pleurÃ©.<br>
+<br>
+5. De maintenant avait un clerc mandÃ©,<br>
+Qui Ã©tait maÃ®tre de la divinitÃ© ,<br>
+Et lui avait enquit et demandÃ© <br>
+Si l'on pouvait mourir sans Ãªtre tuÃ©<br>
+Ou mÃ©haignÃ©  ou plaiÃ©  ou naffrÃ© .<br>
+<br>
+6. Il lui dit : Oui, pour vÃ©ritÃ© !<br>
+Tous ceux mourront qui sont de mÃ¨re nÃ©s,<br>
+Et pas un seul n'en sera trestournÃ© ,<br>
+Ni n'en gardera un seul sa richetÃ© <br>
+Ni nul avoir qu il avait amassÃ© ,<br>
+Ni bourg, ni ville, ni chÃ©tel, ni citÃ© <br>
+Or, ni argent, ni denier monnayÃ©,<br>
+Ni drap de soie, cyclaton [3], ni cendÃ©  [4],<br>
+Ni nulle chose qu oncques a fait Dieu:<br>
+Car, Dame, Dieu l'a ainsi destinÃ© . <br>
+<br>
+7. Lors a la dame un soupir jetÃ©  :<br>
+ - HÃ©las, dit-elle, pourquoi fumes-nous nÃ©s ?<br>
+Or ne me prise un denier monnayÃ© <br>
+Ni ma richesse, ni ma grande poestÃ©.<br>
+Ainsi me dois tenir en grande viletÃ© !<br>
+Ja ne sera par moi le chemin achevÃ© ,<br>
+Moult me repens d'y avoir tant ouvrÃ©;<br>
+N'ert mes par moi fait ni  difiÃ© ,<br>
+Ni nulle autre oeuvre, car ce serait foltÃ©,<br>
+Car tout ce siÃ¨cle ne vaut un ail pilÃ©! <br>
+<br>
+8. Ainsi resta, comme vous ai contÃ© ,<br>
+Seigneurs Barons, dit OhÃ¨s le barbÃ© ,<br>
+Cette dame dont je vous ai parlÃ© <br>
+Elle fut morte bien Ã  cent ans passÃ© . <br>;
+<br>
+9. Oncques puis ne fus Ã  femme mariÃ© <br>
+Et non serai jamais Ã  mon Ã¢ge,<br>
+Car je suis moult vieux et moult usÃ©  ;<br>
+De sang de femme moult a que je fus nÃ©;<br>
+Car de femme ne sera vieil homme aimÃ©,<br>
+Qui ne la peut bien servir Ã   son grÃ© ;<br>
+Vieil homme froidit quand il est en Ã¢ge<br>
+Et jeune femme pour dire vÃ©ritÃ©<br>
+Souvent Ã©chauffe, telle est sa qualitÃ©,<br>
+Qui sont Ã  peine eux deux Ã   un grÃ©.   <br>
+<br>
+<i>Texte  publiÃ©  par F. Jo on des Longrais   Nantes,<br>
+ SociÃ©tÃ© des Bibliophiles Bretons, 1880<br>
+RemaniÃ© par Christian Souchon
+</td>
+<td width=50% valign= top><font size= -1>
+TEXTE MODERNISE<br>
+<br>
+<br>
+1. Plusieurs d'entre eux ont vivement fÃ©licitÃ©  OhÃ¨s<br>
+Qui avait fait la preuve de sa valeur en cette occasion.<br>
+Lui qui avait  cent quarante ans bien passÃ©s.<br>
+Les FranÃ§ais parlaient souvent de sa femme<br>
+Fort sage et d'une grande beautÃ©  ;<br>
+C'est ainsi qu ils lui demandaient<br>
+OÃ¹ elle Ã©tait nÃ©e et qui Ã©taient ses parents?<br>
+Voici ce que dit OhÃ¨s: "Je vais tout vous dire:<br>
+<br>
+2. Elle est la fille de Corsout, [1] sa fille adorÃ©e.<br>
+Lui vÃ©cut il y a trois cents ans, au bas mot;<br>
+Mais cette dame eut une idÃ©e incongrue.<br>
+Elle se croyait Ã©ternellement jeune!<br>
+Elle fit faire un grand chemin ferrÃ©  [2]<br>
+Qui menait Ã  Paris la citÃ©;<br>
+Car le pays Ã©tait couvert de bois.<br>
+<br>
+3. C est Ã  Carhaix, je ne vous mens pas,<br>
+Qu'on a commencÃ©  la route.<br>
+Cette dame fit couper un grand nombre de chÃªnes <br>
+Et abattre plein de grands arbres aux fortes branches<br>
+Quand cette route fut faite et arpentÃ©e.<br>
+Elle mesurait plus de vingt lieues;<br>
+Beaucoup de gens y ont travaillÃ© en peu de temps<br>
+Jusqu'au terme dont je vais vous parler :<br>
+<br>
+4. La dame a trouvÃ©  un jour un merle mort.<br>
+D'une main dans l'autre main l a retournÃ© .<br>
+Puis s'est mise Ã  soupirer<br>
+Qu'ici-bas tout n'est que vanitÃ©,<br>
+Que plus on vit, plus on prouve de mal et de peine;<br>
+Si riche qu'on soit, on est en butte   l adversitÃ©!<br>
+Et elle a  pleurÃ© Ã  chaudes larmes.<br>
+<br>
+5. Sur le champ, elle convoqua un homme d'Ã©glise,<br>
+Qui Ã©tait maÃ®tre en thÃ©ologie<br>
+Et elle s'informa auprÃ¨s de lui<br>
+S il est possible de mourir, sans Ãªtre tuÃ© <br>
+MutilÃ©, estropiÃ© ou blessÃ©.<br>
+<br>
+6. Il lui dit: "Oui, bien sÃ»r!<br>
+Tous ceux qui sont nÃ©s d'une mÃ¨re mourront,<br>
+Et pas un seul n y Ã©chappera,<br>
+Nul n'emportera une seule de ses richesses <br>
+Ni aucun avoir qu'il avait amassÃ©,<br>
+Ni bourg, ni ville, ni chÃ¢teau ni citÃ© <br>
+Ni or, ni argent, ni piÃ¨ce de monnaie,<br>
+Ni drap de soie, mÃªlÃ© d'or ou d'argent,<br>
+Ni rien de ce qui fut jamais crÃ©Ã© par Dieu :<br>
+Car, Madame, Dieu l'a voulu ainsi.  <br>
+<br>
+7. Alors cette dame a poussÃ© un soupir:<br>
+- HÃ©las, dit-elle, pourquoi sommes-nous nÃ©s ?<br>
+A prÃ©sent je n'estime pas mÃªme un denier<br>
+Ni ma richesse, ni ma grande puissance.<br>
+Je dois Ãªtre consciente de mon peu de valeur !<br>
+Jamais par moi la route ne sera terminÃ©e,<br>
+Je regrette fort d y avoir tant travaillÃ©.<br>
+Elle ne sera par moi ni continuÃ©e, ni terminÃ©e<br>
+Ni aucun autre ouvrage. Ce serait folie<br>
+Car tout ce bas monde vaut moins qu un ail pilÃ©!  <br>
+<br>
+8. Elle s'y tint, comme je viens de vous raconter,<br>
+Seigneurs Barons, dit OhÃ¨s le vieillard.<br>
+Et cette dame dont je vous ai parlÃ©<br>
+Elle est morte il y a plus de cent ans.<br>
+<br>
+9. Jamais plus je ne me suis mariÃ©<br>
+Et je ne le serai jamais, vu mon Ã¢ge,<br>
+Car je suis fort vieux et fort usÃ©;<br>
+D une femme il y a longtemps que je suis nÃ©;<br>
+Or d'une femme un vieil homme ne sera jamais aimÃ©,<br>
+S il ne peut  la servir comme elle le voudrait;<br>
+Un vieil homme refroidit avec l'Ã¢ge<br>
+Et une jeune femme pour dire la vÃ©ritÃ©<br>
+Souvent s'Ã©chauffe, telle est sa nature.<br>
+Difficile pour les deux de s accorder.<br>
+<br>
+<i>Transcrit par Christian Souchon</i>
+</td></table><br>
+<font size=-2>
+[1] <b>Corsout</b> : ce personnage apparaÃ®t sous le nom de   Corsoldus dans la 'Chronicon Briocense', Chronique de Saint-Brieuc rÃ©digÃ©e entre 1394 et 1415. Il pourrait Ãªtre la personification de Courseul, comme OhÃ¨s dÃ©signe Carhaix.<br>
+<br>
+[2] <b>Chemin ferrÃ© </b> :  Le <b>Pr. Jacques Ribard</b> (1926-2018), dans la revue Romania, 1971, N  366, pp. 262-266, donne Ã  propos de cette expression l explication la plus plausible : <i>  C'est, semble-t-il, de la duretÃ© des routes, par opposition aux chemins naturels, qu'a dÃ»  naÃ®tre, soit sous l'Empire romain, soit aprÃ¨s, l'usage du fer Ã  cheval ... Durant l' Ã©tÃ© , le cheval marchant uniquement dans la terre n'en avait pas besoin. Cette remarque nous a amenÃ© Ã  penser que du temps des gallo-romains les chevaux qui travaillaient Ã  la ferme et dans les champs n'ayant pas besoin de ferrure se voyaient nÃ©anmoins garnir les pieds d<b>'hipposandales</b> au moment oÃ¹ il fallait sur un certain parcours emprunter la voie publique recouverte de dalles ou de pierres.   Cela Ã©tant, ne pourrait-on pas expliquer les expressions (voie) <b>chaussÃ©e et chemin ferrÃ©</b> comme tirant leur origine de la nÃ©cessitÃ©, pour utiliser un type de route Ã  revÃªtement dur sans risquer l'usure du sabot de l'animal, de <b>chausser</b> ou de <b>ferrer</b> le pied du cheval (et peut-Ãªtre du boeuf), soit de faÃ§on dÃ©finitive (ferrure Ã  clous), soit de faÃ§on provisoire au moyen de l'hipposandale; ce qui devait suffire le plus souvent pour de petits trajets  </i><br>
+  Le mot 'ferrÃ©', aux strophes 2 et 3 n est donc pas une mauvaise lecture du mot 'perrÃ©' (empierrÃ©) qui existe lui aussi.<br>
+<br>
+[3] <b>Ciclaton</b> : (siglaton, segleton ) est un long manteau de soie ou de toute autre riche Ã©toffe Ã  l usage des hommes comme des femmes et aussi l'Ã©toffe dont on avait coutume de le tailler, ou du moins la bande circulaire qui le caractÃ©risait.<br>
+<br>
+[4] <b>Cend </b> : (cendal, cendau )  toffe de soie unie qui paraÃ®t avoir Ã©tÃ© analogue au taffetas <br>
+Ces deux dÃ©finitions sont tirÃ©es du "Dictionnaire de l'ancienne langue franÃ§aise et de tous ses dialectes du IXe au XVe siÃ¨cle", FrÃ©dÃ©ric Godefroy, 1880-1895.</font><br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para16')"><img id="para16_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Autres rÃ©fÃ©rences littÃ©raires</b><br>
+<div id="para16" style="display:none;"><font size=-1>
+ En rÃ©alitÃ©  il n'existe pas une, mais bien <b>six</b> sources des XIIÃ¨me  et XIIIÃ¨me siÃ¨cles appartenant Ã  la <i>MatiÃ¨re de Bretagne</i> oÃ¹ le nom de Carhaix est Ã©voquÃ©. M. <b>Goulven P ron</b>, chercheur associÃ©  au Centre d'Ã©tude des langues et littÃ©ratures anciennes Ã  l'UniversitÃ© de Rennes 2 et membre du CRBC de l UniversitÃ© de Bretagne occidentale, a consacrÃ© Ã  une lÃ©gendaire bataille livrÃ©e pour dÃ©fendre cette ville un passionnant <b>article dans le Kaier ar Poher NÂ°  60 de mars 2018, pp. 2-8.</b> <br>
+Si le hÃ©ros est tantÃ´t Arthur, tantÃ´t Tristan, tantÃ´t Charlemagne, le nom de la ville Ã  conquÃ©rir ou Ã  dÃ©fendre est toujours <b>Carahes</b> sous des formes diverses: Karahes, Karke, Carahes, Karahi... Le nom de son roi hÃ©site, dans quatre cas, entre <b>HoÃ«l</b> et <b>OhÃ¨s</b>. <br>
+<br>
+</font></div>
+<br>
+</font></div>
+<center><h2>
+<a style="cursor:pointer;" onclick="return toggleMe('para3')"><img id="para3_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+ETYMOLOGIE DE CARHAIX</h2></center><br>
+
+
+<div id="para3" style="display:none;"><font size=-1>
+<center><img src="rethel3.jpg"></center>
+<br>
+Comme on l'a dit, le nom de Carhaix - Caerahes a  Ã©tÃ©  compris trÃ¨s tÃ´t comme une combinaison basÃ©e sur le prÃ©fixe breton d'origine latine 'Kaer' qui signifie 'lieu fortifiÃ©', et l'ensemble comme Ã©tant la 'ville fortifiÃ©e d'AhÃ¨s'.<br>
+<br>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para17')"><img id="para17_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La ville d'AÃ«tius</b><br>
+<div id="para17" style="display:none;"><font size=-1> 
+<img src="tourdauv.jpg"  hspace=10 vspace=10 align=left>Le  <i>Dictionnaire  historique et gÃ©ographique de la province de Bretagne de Jean OgÃ©e</i>,  paru en 1778, dont la teneur fut collectivement  prolongÃ©e  et Ã©largie par plusieurs auteurs en 1843, consacre, dans le tome I une dizaine de pages (pp. 139   149 de l'Ã©dition de 1843) Ã  Carhaix  et spÃ©cialement Ã  l origine de ce nom. 
+
+<li> A l'article "Carhaix" un contributeur fameux expose son point de vue : Corret de Kerbeaufret, plus connu, en raison de sa glorieuse carriÃ¨re militaire, comme <b>ThÃ©ophile Malo de La Tour d'Auvergne</b> (1743-1800). <br> 
+Le 'Premier  grenadier de France' refuse, on ne sait trop pourquoi, de  voir en Carhaix  <i>"le chef-lieu des Ossismiens,  connu sous le nom de Vorganium  ou de Vorgium, dont parlent Strabon, PtolÃ©mÃ©e et Pomponius  Mela".</i>
+
+<li> Il est plus fondÃ© Ã  contester l'opinion d <b>Albert-Le-Grand</b>, dÃ©jÃ   mentionnÃ©, qui  dans sa 'Vie des saincts de la Bretaigne armorique', publiÃ©e en 1637 Ã  Nantes, attribue la fondation de cette ville Ã  une princesse nommÃ©e AhÃ¨s. Selon une note en bas de page du dictionnaire, <i> "AhÃ¨s ou  AchÃ©e,  [Ã©tait censÃ©e Ãªtre la] fille de <b>Conan MÃ©riadec</b>, qui vivait dans le VÃ¨me siÃ¨cle, pour d'autres, de Grallon, [laquelle]  dÃ©shonora la cour de son pÃ¨re par ses dÃ©bauches et attira l'ire de Dieu sur la ville d Is, qui fut dit-on, engloutie"</i>. Or, ajoute-t-il, <i> "l histoire rejette aujourd hui avec mÃ©pris tous les contes et fables que nous a laissÃ©s cet Ã©crivain auteur d'une Vie des saints de Bretagne..."</i><br>
+<li> Il note qu en consÃ©quence <i>"plusieurs modernes ont Ã©tÃ©  jusqu'Ã  regarder Keraes comme <b>le Keris des anciens</b>. Ils se sont efforcÃ©s de rÃ©tablir sur la surface du globe une ville qui, depuis plusieurs siÃ¨cles semblait en Ãªtre complÃ¨tement disparue."   </i>
+Sans doute est-ce pour cela que la princesse pÃ©cheresse de cette lÃ©gende maritime, Dahut, est parfois Ã©galement appelÃ©e AhÃ¨s.
+
+<li> La Tour d Auvergne fait Ã©galement un sort Ã  la thÃ©orie du <b>chanoine de Dol, M. DÃ©ric,</b> qui prÃ©tend dÃ©montrer que Keraes vient d un mot celtique Kerc'heic  qui voudrait dire   perdrix, alors que c'est lÃ   le <i> "cri qu on attribue Ã   la perdrix, et non pas son nom".</i> (p.141).
+
+<li> Son opinion est que " Keraes "  , ville d Aes, est un nom qui rend hommage au fondateur de cette ville qui ne serait autre qu <b>Aetius</b>, le  gÃ©nÃ©ral romain vainqueur d<b>'Attila aux Champs catalauniques</b> (451).<br>
+Il Ã©voque alors  <i> " les dÃ©bris de la voie romaine, dÃ©signÃ©e dans la table de Peutinger, et que les paysans du pays nommaient  Hent-aÃ¨s, chemin d AÃ¨s [ ] Le vulgaire les appelle <b> chaussÃ©es de Brunehaut </b>  ou <b> les chemins ferrÃ©s </b> ."  </i>  La premiÃ¨re dÃ©signation, explique-t-il, provient de Belgique oÃ¹ l on attribue la construction de semblables chaussÃ©es Ã  la reine des Francs qui termina sa redoutable carriÃ¨re attachÃ©e Ã  la queue d' un cheval en 613. L'autre, fort mystÃ©rieuse, n'en est pas moins authentique et ancienne puisque nous l'avons rencontrÃ©e dans la "Chanson d'Aiquin", strophes 2 et 3.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para18')"><img id="para18_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La ville des minerais fondÃ©e par les Romains</b><br>
+<div id="para18" style="display:none;"><font size=-1> 
+
+ A partir de la page 146, la thÃ¨se prÃ©cÃ©dente est discutÃ©e par des rÃ©dacteurs modernes, <b>continuateurs d'OgÃ©e</b>.
+
+<li> <i>"Le nom de  chaussÃ©e de Brunehaut  est totalement inconnu chez nous. "  </i>[Mais]<i> " la tradition  qui attribue Ã   la princesse AhÃ¨s la construction de ces voies romaines n'est </i> [sans doute]<i> qu une imitation, qu'une rÃ©miniscence de celle qui les  attribue en Belgique Ã   Brunehaut.
+<li> La ville ne fut pas fondÃ©e par AÃ«tius, mais par les <b>Romains</b> </i>[en raison de]<i> sa position au centre de la presqu'Ã®le. AbandonnÃ©e par les Romains, cette ville n'a dÃ»  prendre que tard  son nom de KERAES, car le Ker n'a pas en Bretagne une haute antiquitÃ© ... GrÃ©goire de Rostrenen traduit Carhaix par les mots  'Urbs Aesia' </i>[dans lesquels]<i> nous trouvons la vÃ©ritable Ã©tymologie du nom qui nous occupe Aesia dÃ©rivant du substantif 'aes'  qui  en latin signifie gÃ©nÃ©ralement   'omne metallum', et ces mots signifient dÃ¨s lors <b> 'la ville aux mÃ©taux'. </b>  Carhaix a dÃ» Ãªtre l'entrepÃ´t de riches mines du pays environnant. Un des chemins qui se dirigent sur Carhaix, traversant une partie des CÃ´tes-du-Nord, porte le nom de "Chemin de l Aestrat" oÃ¹  'Aestrat' </i>[chemin du minerai]<i>  est un plÃ©onasme local "</i><br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para19')"><img id="para19_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La ville des routes</b><br>
+<div id="para19" style="display:none;"><font size=-1>
+<img src="hent_ahe.jpg"  hspace=10 vspace=10 align=left>Pages  148 et 149 du mÃªme dictionnaire, une autre note signÃ©e <b>Louis Jacques Marie Bizeul</b> (1785-1861), nous rapproche bien d'avantage de ce que l'on considÃ¨re dÃ©sormais comme l'Ã©tymologie exacte de Carhaix: 
+
+<li><i>  Ce qui frappe surtout Ã  Carhaix, c est le grand nombre de voies romaines qui en sortaient dans toutes les directions  Nous trouvons sur l une d elles, Ã  peu de distance de Carhaix [donc avant son dÃ©placement] une colonne milliaire Ã©rigÃ©e sous Septime SÃ©vÃ¨re </i>[l'inscription Ã©tait encore lisible !]<i>, c est- -dire 200 ans au moins avant AÃ«tius...  </i>[lequel]<i> n'a pu fonder une ville sur laquelle se dirigeaient des routes si longtemps avant lui. On connaÃ®t neuf de ces voies...</i><br> 
+Suit une description dÃ©taillÃ©e de chacune des neuf voies.
+
+<li> A propos de la 5Ã¨me voie, celle de Carhaix Ã  la Pointe du Raz ou Cap-Sizun, il cite, d'aprÃ¨s le prÃ©sident de Robien  le   'Manuscrit sur la Bretagne' du chanoine Moreau (XVIÃ¨me siÃ¨cle) :<br>
+<i>   Le chemin qui va depuis Carhaix jusqu'Ã  Poul-Davy, dit-il, est appelÃ© Hent-AhÃ¨s. De lÃ   il s'Ã©tend jusqu'Ã  la baie des TrÃ©passÃ©s, entre Saint-Tary et la Pointe du Raz. Dans les lieux oÃ¹ ce chemin se fait encore voir en entier, surtout vers la Baie des TrÃ©passÃ©s, oÃ¹ il aboutit jusque sur les bords d'une rive escarpÃ©e au-dessus de la mer, on dÃ©couvre la largeur de ce chemin qui est d'environ 70 pieds. Il est pavÃ© de grandes pierres de taille.</i> Bizeul ajoute: <i>"Cette voie  doit nÃ©cessairement conduire Ã  un endroit de la cÃ´te oÃ¹ les Romains avaient fondÃ©, soit un port, soit une ville et peut-Ãªtre nous faire dÃ©couvrir quelque chose de positif sur cette ville d'Is qui a donnÃ© lieu Ã     tant de controverses . </i>
+
+<li> A propos de la 9 me,  la Voie de Carhaix Ã  Erquy,  il note qu elle passe prÃ¨s de la chapelle de ND de Kerhir prÃ¨s de Plounevez-Quintin, Ã  proximitÃ© de laquelle il a trouvÃ© en 1835 le tronÃ§on brisÃ© d'une colonne milliaire. <i>"Sur [celui-ci, indique-t-il]  les surnoms d Adiabenicus et de Parthicus m'ont fait reconnaÃ®tre Septime SÃ©vÃ¨re Ã  son 2Ã¨me consulat... Les lettres de l inscription Ã©taient de la plus belle forme romaine. Un cantonnier venait de macadamiser ce prÃ©cieux morceau d'antiquitÃ©. Je recommandai le tronÃ§on au maire de Plounevez qui m'accompagnait et il l'a, en effet, recueilli dans la salle de la mairie..."</i><br>
+C est ce mÃªme Bizeul qui donna la premiÃ¨re interprÃ©tation de l'inscription sur la borne de MaÃ«l-Carhaix (diffÃ©rente du tronÃ§on brisÃ© de Plounevez), comme on peut le lire dans le Kaier ar Poher NÂ° 65, p.10.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para20')"><img id="para20_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La ville des Osismes</b><br>
+<div id="para20" style="display:none;"><font size=-1>
+<img src="ferdilot.jpg"  hspace=10 vspace=10 align=left>Dans un article trÃ¨s dÃ©taillÃ©  intitulÃ©  <i>"Le roi HoÃ«l de KerahÃ¨s, OhÃ¨s le vieil barbÃ©, les "chemins d'AhÃ¨s" et la ville de Carhaix"</i>, publiÃ© dans la revue Romania, tome 29 NÂ° 115, pp.380-402, en 1900, le mÃ©diÃ©viste <b>Ferdinand Lot</b>, propose une autre  Ã©tymologie qui semble particuliÃ¨rement solide.
+
+<li>  Auparavant, il Ã©reinte son colÃ¨gue La Borderie qui ne doute pas de l'authenticitÃ©  du poÃ¨me de la Vieille AhÃ¨s publiÃ©, on s'en souvient, par ses soins en 1861. Cet auteur naÃ¯f  qui <i>"n'a pas la plus lÃ©gÃ¨re idÃ©e, cela va de soi [!], de la critique des traditions populaires"</i> avait dÃ©jÃ   pris pour argent comptant des forgeries fabriquÃ©es par La VillemarquÃ©, le "Tribut de Numinoe" et "Alain (Barbetorte) le Renard". A prÃ©sent, sur la foi d'un autre pastiche, le voilÃ   qui Ã©chafaude une thÃ©orie fumeuse oÃ¹  "AhÃ¨s" est le nom de code par lequel le peuple dÃ©signe la "domination romaine dans les Gaules", un nom comparable Ã  la <i>"RÃ©becca des Gallois... ou Ã  la sinistre Marianne qui traÃ®ne encore parmi nous..."</i>.<br>
+A propos de mÃ©connaissance de "la critique des traditions populaires", on est tentÃ©  de retourner le compliment Ã  Ferdinand Lot qui Ã©crit p. 382, en parlant d'AhÃ¨s:<i> "Elle entassait les bÃ¢tisses, chÃ¢teaux, palais et routes, s'imaginant ne jamais devoir mourir".</i> La tradition telle qu'elle s'exprime dans la chanson d'Aiquin et dans l'oralitÃ© bretonne, lie le nom d'AhÃ¨s, principalement sinon exclusivement aux <i>routes</i> qui sillonnent la contrÃ©e...Cependant il est parfaitement fondÃ© Ã      reconnaÃ®tre (p. 385) dans cette lÃ©gende l'archÃ©type du personnage qui fait l'expÃ©rience de la <b>vanitÃ© des choses humaines</b>. On le retrouve dans les rÃ©cits de la vie du Bouddha et dans le roman chrÃ©tien de "Barlaam et Joasaph" (qui venait juste de faire l'objet d'une Ã©tude sur "Saint Josaphat" par le philologue romaniste Gaston Paris).<br>
+Lot rÃ©fute Ã©galement comme <i>"un raisonnement [qui] ne tient pas debout"</i> une autre hypothÃ¨se du malheureux La Borderie qui suggÃ¨re que <i>"Carhaix tirerait son nom de Car-hays, localitÃ©  de Cornwall" </i>(Cornouailes britanniques).<br>
+Vient ensuite un exposÃ© sur la matiÃ¨re de Bretagne ou apparaÃ®t HoÃ«l, roi de KerahÃ¨s (et pÃ¨re de la deuxiÃ¨me Iseut dans le roman de Tristan); sur une identification probable de ce personnage avec la chanson de geste carolingienne, OhÃ¨s, seigneur de Carhaix, Ã©voquÃ© ci-dessus; et sur les liens de ces figures littÃ©raires avec AhÃ¨s la batisseuse de routes de la lÃ©gende locale.(cf. article de Goulven PÃ©ron dÃ©jÃ  mentionnÃ©).
+
+<li> Enfin aprÃ¨s de longues pages qui tÃ©moignent de la profonde  Ã©rudition de leur auteur, on en arrive Ã  l'Ã©tymologie de Carhaix (p.397-399). Elle se fonde sur des notes stÃ©nographiÃ©es contenues dans des manuscrits des IXÃ¨me et XÃ¨me  siÃ¨cles publiÃ©es par M. Bourquelot dans l"<i>Annuaire de la SociÃ©tÃ© des Antiquaires de France</i>", 1851, p. 265-293. Il s'agit d'une <b>liste de noms antiques de villes</b> oÃ¹ chacun est prÃ©cÃ©dÃ© du nom du peuple qui l'a remplacÃ©. F. Lot date cette liste du VIÃ¨me siÃ¨cle, Ã©poque oÃ¹  les noms antiques des villes tendaient Ã  se perdre. <i>"Or sous le nÂ° 63-64 on trouve 'Othismus Vorgium"</i>. L'historien en dÃ©duit:" <i>Ainsi, au moment oÃ¹ les Bretons arrivent en Armorique, la <b>capitale des Osismii</b> ne s'appelle plus </i>Vorgium<i> ou </i>Vorganium<i>...  mais </i>Osismii ou Osismios<i>"...Il est Ã©vident pour moi que Carhaix, Caer-OhÃ¨s est tout simplement la transcription bretonne de CIVITAS OSISMIORUM. OhÃ¨s reprÃ©sente en breton </i>Osismii ou Osismios".<br>
+Selon lui, les rÃ¨gles de la phonÃ©tique qui voudraient que certaines lettres se soient conservÃ©es ne sont pas un obstacle   sa dÃ©monstration.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para21')"><img id="para21_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Corophesium, la ville carrefour</b><br>
+<div id="para21" style="display:none;"><font size=-1>
+<img src="voiromai.jpg"  hspace=10 vspace=10 align=left>Les historiens et philologues contemporains ne sont plus de cet avis,  Ã©tant entendu que, dÃ©sormais, l identification de Carhaix avec la capitale de la citÃ© gauloise des Osismes, <i>Vorgium</i>, ne fait guÃ¨re de doute.
+
+<li> Au haut Moyen Ã¢ge, tandis que la localitÃ© proche, <i>Plouguer</i>, donnait son nom Ã  un pagus, le <i>Poher</i>, la   civitas des Osismes Ã©tait dÃ©mantelÃ©e et son ancienne capitale  Ã©tait devenue sans doute le lieu oÃ¹  sÃ©journa le roi carolingien Louis le Pieux (ou le DÃ©bonnaire) en <b>818</b>, appelÃ© <b>Corophesium</b> dans le manuscrit des <i>Annales de Lausanne</i>. Le linguiste et historien <b>LÃ©on Fleuriot</b> (1923-1987) dans  ses <i> Origines de la Bretagne </i> (Payot, 1980, p. 33) fait ce rapprochement du fait que ce roi rencontra Ã  cette occasion l'abbÃ©  de LandÃ©vennec Ã  <i>Briec</i>, Ã  une quarantaine de kilomÃ¨tres de Carhaix. Le texte visÃ©  <i>"...super fluvium Elegium juxta silvam quae dicitur Brisiaci.."</i> se rapporte d'ailleurs plus sÃ»rement Ã  <i>Priziac</i> oÃ¹ il existe une chapelle Saint-GuÃ©nol  et se lit sans doute <i>"...sur l'EllÃ©, prÃ¨s de la forÃªt de Priziac</i>. On se rapproche ainsi de Carhaix.<br>
+Quant Ã  Corophesium , il s'agirait de l'Ã©criture fautive d'un nom, (peut-Ãªtre  Carofes, comme pour Charroux dans la Vienne), issu du latin <b> quadruvium </b>, carrefour, qui dÃ©crit assez prÃ©cisÃ©ment la situation de cette ville. Ce nom a donnÃ© les dÃ©signations modernes: <b>Carhaix</b> en franÃ§ais et <b>Karaes</b> en breton (aujourd hui "Kara Plou" pour Carhaix-Plouguer). <br>
+
+<li> Une  analyse prÃ©cise de ce sujet a Ã©tÃ© faite par l historien  <b>Bernard Tanguy</b> (1940-2015) dans les <i> Dictionnaires des noms des communes du FinistÃ¨re </i>, chez ArMen-Le Chasse-MarÃ©e,   Ã  l'article Carhaix-Plouguer.<br>
+Ce nom breton apparaÃ®t pour la premiÃ¨re fois, orthographiÃ© <b>Caerahes</b>,  au XIe siÃ¨cle dans une charte signÃ©e par le comte de Cornouaille,  <b>HoÃ«l</b> (mort en 1084). Cet acte, Ã©tabli entre <b>1081</b> et <b>1084</b> avait pour but de  "<i> faire don d'une villa situÃ©e prÃ¨s de Caerahes, dans laquelle se trouve l'Ã©glise de Saint Quigeau (sanctus Kigavus) ."</i> Le bÃ©nÃ©ficiaire de la donation Ã©tait l abbaye de QuimperlÃ©. Cet acte figure dans le <i>Cartulaire de Quimperl </i>  ( Ã©d. L. MaÃ®tre et P. Berthou, Paris, 1896, N  XXXVIII).<br>
+Ce passage de  Vorgium Ã  Caerahes  est contraire Ã  la rÃ¨gle qui vit aux IIIÃ¨me et IVÃ¨me siÃ¨cles les chefs-lieux de citÃ©s adopter le nom du peuple dont ils Ã©taient la capitale: Chartres Ã©tait celle des Carnutes, Corseul celle des Coriosolites, etc. Si le nom des Osismes n'apparaÃ®t pas dans "Carhaix", il survit peut-Ãªtre dans celui de "Brest".<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para22')"><img id="para22_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>La Princesse Galiana et Merlin</b><br>
+<div id="para22" style="display:none;"><font size=-1>
+Cette figure lÃ©gendaire d AhÃ¨s  issue d'une Ã©tymologie populaire n'est pas un cas isolÃ©.
+ 
+<img src="palgalia.jpg"  hspace=10 vspace=10 align=left><li> Un autre exemple de nom d'ancienne voie romaine Ã  l'origine d'une lÃ©gende locale est le <b>Palais de Galienne</b> Ã  TolÃ¨de, qui joue un rÃ´le important dans une chanson de geste du XIIÃ¨me siÃ¨cle intitulÃ©e <b>'Mainet'</b>. Ce poÃ¨me narre les aventures de jeunesse attribuÃ©es par la lÃ©gende Ã  Charlemagne, et notamment son exil en Espagne, pour Ã©chapper Ã  ses deux demi-frÃ¨res.<br>
+Il accomplit bien des exploits et obtient la main de la <b>belle Galienne</b>, la fille de Galafre, le roi maure d'Espagne.<br>
+Or, il existe effectivement Ã  TolÃ¨de, un peu Ã  l'Ã©cart de la citÃ©, un bÃ¢timent appelÃ© "<b>Palais de Galiana</b>". Selon l'historieÃ© espagnol <b>MenÃ©ndez Pidal</b> (1869-1968), ce nom de "Galienne" n'Ã©tait pas celui d'une femme en particulier, mais "senda Galiana" dÃ©signait la "<b>Via Galliana</b>", c'est Ã   dire, l'ancienne <b>route romaine</b> reliant TolÃ¨de et son palais "<b>aux Gaules</b>", c'est- -dire Ã  la France.
+
+<li> De la mÃªme faÃ§on, le nom gallois de Merlin, <b>"Myrddin"</b> empruntÃ© aux 6 poÃ¨mes prÃ©-Galfridiens (antÃ©rieurs Ã  Geoffroy de Monmouth; on les date du 10Ã¨me ou du 9Ã¨me siÃ¨cle) attribuÃ©s au barde de ce nom du fait qu'il y prend la parole Ã  la premiÃ¨re personne, semble transposer dans le domaine gallois une tradition sur laquelle s'appuie  ledit <b>Geoffroy de Monmouth</b> (1095-1155) dans sa <b>Vita Merlini</b>  (Vie de Merlin) que l'on date de 1149.<br>
+Celle-ci faisait du protagoniste de rÃ©cits d'origine Ã©cossaise sur le thÃ¨me de l'homme sauvage aux dons de prophÃ¨te, un soi-disant hÃ©ros local, <b>Ã©ponyme de la ville de Carmarthen, "Caerfyrddin"</b> en gallois. Il s'agissait d'une fausse  Ã©tymologie: [Caer]-myrddin Ã©tait connu Ã  l'Ã©poque romaine sous le nom celto-latin de <b>"Moridunum"</b>, forteresse maritime. <br> 
+Comme dans notre "ChÃ¢teaudun", la citÃ©  fortifiÃ©e est dÃ©signÃ©e par deux mots diffÃ©rents dans le mÃªme nom: 'Caer' (breton   'Ker') qui comme 'chÃ¢teau' provient du latin 'castrum' ou de son dÃ©rivÃ© 'castellum'; et 'dunum', mot purement celte ayant Ã  l'origine la mÃªme signification qui avait fini par ne plus Ãªtre comprise.<br>
+Que Geoffroy ait optÃ© pour la forme <i> Merlinus </i> dÃ¨s ses premiers Ã©crits, <i>Prophetiae Merlini</i>  et <i>Historia Regum Britanniae</i>, (ProphÃ©ties de Merlin et Histoire des rois de Bretagne) rÃ©digÃ©s entre 1134 et 1138, indique peut-Ãªtre l'influence d'une autre tradition Ã  laquelle s'est surimposÃ©e Ã  celle de Carmarthen.<br>
+<br>
+</font></div>
+
+<a style="cursor:pointer;" onclick="return toggleMe('para23')"><img id="para23_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+<b>Conclusion</b><br>
+<div id="para23" style="display:none;"><font size=-1>
+
+Certains verront dans le repli et le refus d'ouverture sur l'univers qui s'exprime dans "AhÃ¨s" et dans la tradition dont ce chant procÃ¨de, la consÃ©quence des souffrances endurÃ©es par le menu peuple des campagnes et des villes de Bretagne, du fait de la venue de gens d'armes honnis et des pillages subis lors de conflits majeurs: guerre de succession de Bretagne, guerre de Cent ans, guerre de la Ligue...<br>
+D'autres pourront y voir, au second degrÃ©, une exhortation  au retranchement dans une identitÃ©  rÃ©gionale sublimÃ©e par un passÃ©   fantasmÃ©, identitÃ©  qu'il convient de prÃ©server de contacts aussi impurs que dangereux! C'est sur l'exaltation d'une telle attitude  que s'achÃ¨ve le Barzhaz Breizh (p. 534 de l'Ã©dition 1867) qui invite le peuple breton Ã  demeurer  <i>"...<b>retranchÃ©</b> dans ses moeurs nationales comme dans sa presqu'Ã®le; dÃ©fendu par sa langue et par son caractÃ¨re; fidÃ¨le aux souvenirs et aux traditions du passÃ©..."</i><br>
+<br>
+AhÃ¨s, Galiana, Merlin...Ces exemples ne sont sans doute pas les seuls et la liste des hÃ©ros lÃ©gendaires qui naquirent de l'Ã©tymologie populaire d'un toponyme devenu incomprÃ©hensible ne  s'arrÃªte certainement  pas lÃ  . Mais, Ã  n'en pas douter, le cas de Carhaix est unique : c est le seul  oÃ¹ la qualitÃ©  qu'exprimait le nom original, Ã  savoir l accessibilitÃ©  remarquable d une citÃ©  situÃ©e au carrefour de grandes routes, est remise en question et dÃ©noncÃ©e dans un poÃ¨me  qui Ã©numÃ¨re les souffrances et les drames auxquels on s'expose en voulant Ã    nouveau y tendre.
+</font></div>
+</div></font>
+<center><img src="senechal.jpg"></center>
+
+
+</td>
+<td width=50% valign= top>
+<center><h2>
+<a style="cursor:pointer;" onclick="return toggleMe('para24')"><img id="para24_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;">
+ENGLISH ABSTRACT</h2></center><br>
+
+<div id="para24" style="display:none;"><font size=-1>
+
+<b>  Ahes  Highway  </b><br>
+The article  "way"   in the French-Breton dictionary composed by the Rev. Gregory of Rostrenen in 1732 reads:<br>
+ Hent AhÃ¨s: "Ahes  Highway" is a three layer paved roadway built by Princess Ahes who founded  Kerahes viz. Carhaix, to link this town with Nantes on the one hand, and Brest on the other hand. This denomination is still in use from place to place. <br>
+This song is, consequently, sung by the roadmenders who are busy restoring the ancient road.<br>
+It is is echoed by the old man who, like his counterpart in <a href="kozdall.htm">An den kozh dall</a>, far from considering this opening up to the outer world a progress, points out in his curses alternating with the road builders' cheers, the dangers it implies.<br>
+<br>
+<b>Is this a forgery?  FranÃ§ois VallÃ©e's opinion</b><br>
+In the preface to "Dastumad Penwern" (The De Penguern Collection published in 1983 by Dastum) there is a long account (in Breton language) by <b>FranÃ§ois VallÃ©e</b> (1860 -1949, a linguist who composed a famous dictionary) concerning Guillaume-RenÃ©  Kerambrun. It was published in "Studi hag ober" (N  12, <b>1940</b>) by the grammarian and poet <b>Maodez Glanndour</b> (alias the Reverend Pierre Le Floch, 1909 - 1986): <br>
+"Included in the De Penguern song collection is a roughbook titled  "The Hag AhÃ¨s". It is not deposited at the BibliothÃ¨que Nationale, but at Rennes University Library. It was discovered in Durance antique bookshop. They made me a gift of this document, that I gave to the Rennes University Library, along with other fascicles missing in the De Penguern Collection  that were kept at  Durance's. It seems that the roughbook "The Hag AhÃ¨s" contains a first draft of the song as jotted down from somebody's singing  by  Mme de Saint-Prix, intertwined with a  transcription by Kerambrun.<br>
+I published in the "Memories of the Breton Association" and in the magazine "Kroaz ar Vretoned" part of the songs discovered at Durance's. Yet I did not include "The Hag Ahes" on account of its uneasy deciphering. Kerambrun was suspected of having written himself the whole song. It seems beyond doubt that he had to rewrite part of the verses that were too confused in the draft of Mme de Saint-Prix.<br>
+About Kerambrun, who acted as a secretary helping de Penguern with his collection, I know nothing, except that he was repeatedly charged with forgery, an unwarranted reproach in my opinion. He was a relative to Denis Kerambrun, a solicitor at Belle-Isle-en-Terre whom I often heard  deservedly praising the merits of this relation of his who, I am afraid, sometimes just  acted a bit  thoughtlessly".<br>
+In his doctoral thesis- downloadable online since July 2013 - M. Yvon LE ROL states: " <b>A new copy</b> of this ballad was discovered recently (early 2012), in the archives of the "D partement" C tes du Nord (shelf tag: 85J119) by M. J r me Caou n, while investigating the Kerouartz family collection. There is no noticeable discrepancy between it and the De Penguern MS version: numbers of lines and stanzas are equivalent. Only in handwriting and/or spelling do they differ. In the view of M. CaouÃ«n, FrÃ©dÃ©ric de Kerouartz who had added margin remarks and comments could have committed the song to writing."<br>
+<br>
+<b>The collector, Mme de Saint Prix</b><br>
+Madam de Saint-Prix (1789 - 1869), nÃ©e Emilie-Barbe Guitton was originating from Callac (near Vannes). She married Charles de Saint-Prix in 1816 and spent a lifetime in the Morlaix area. Many are those who bore witness to the eclectic hospitality of her salon where  mixed together "Legitimists, Republicans and Orleanists" and  as well a "general in evening dress" as a "farmer in frieze clothes", so said the Reverend KerzalÃ© in the funeral oration he delivered in praise of her.<br>
+A perfect Breton speaker, she may have started her collecting in 1820, possibly prompted by the grammarian <a href="../jaouiozf.htm">Le Gonidec (1775-1838)</a>, who was a friend of her husband's.<br>
+She made no attempt at publishing herself her investigations but allowed other collectors to avail themselves of them : La VillemarquÃ©  admits that he was "set on the track of the poem about  Merlin, by Madam de Saint-Prix, who was kind enough to contribute some fragments sung in Tregor". Anatole Le Braz states on the other hand that " Madam de Saint Prix often said to my father that she had helped  M. de La VillemarquÃ©   to many Breton laments".<br>
+The writer Chevalier de FrÃ©minville (1787 -1848) hints in his narrative "AntiquitÃ©s bretonnes" (1837) at pieces she had contributed.<br>
+But it was De Penguern who most gained by her exertions when she gave him the greatest part of her collection that was  to become MS NÂ° 92 in the stocks of the Biblioth que Nationale.
+<br>
+<br>
+<b>Guillaume-RenÃ©  Kerambrun (1813- 1852)</b><br>
+He was born at  BÃ©gard (between Lannion and Guingamp,  studied laws in Rennes, founded a theatre magazine, published poems and became a writer of renown. He helped, furthermore,  J.M. de Penguern with his collection of folk songs, but he is suspected of having composed himself a few pieces (the best ones!)<br>
+However, the historian <b>Arthur de La Borderie</b> (1827 - 1901, the author of the imposing "History of Brittany") defended the genuineness of the "Hag AhÃ¨s" and the " Stamped paper Dance" songs against Luzel's and Le Braz' charges, as well as La VillemarquÃ©'s insinuation concerning the second song. More recently, the musicologist <a href="../gwenlaf.htm"> Donatien Laurent</a> took sides with Kerambrun's defenders as he considers as probably genuine two other songs incriminated  by Luzel: <a href="bleizi.htm">"The wolves of the sea"</a> and <a href="argad.htm">"Raid of Saxons"</a> (Argadenn ar Saozon).<br>
+<br>
+<b>A princess or a giant hag?</b><br>
+The nefarious character referred to in this song is likely to be the alleged eponymous figure of Carhaix town.<br>
+The geographer Jean Og e (1728 -1789), who wrote a "Geographic Dictionary of Brittany" and an "Atlas - Itinerary of Brittany", does not believe in the existence of Is. He remarks that in some people's opinion Is was the inland town Carhaix (Kera s in Breton): Keraes was the Ker-Is of old. Before him Albert Le Grand had already connected the name "AhÃ¨s" with this town, as he had ascribed its foundation to a certain Princess AhÃ¨s.<br>
+In fact (according to <a href="../rannouf.htm">M. Bernard Tanguy</a>) both the Breton "Kerhaes" and the French "Carhaix" are for an old "Carofes" prolonging the Latin "Quadruvium", crossroads. The latter had early replaced "Vorgion", the previous name of the main town of the tribe Osismii. The town Charroux in the d partement Allier has the same etymology.
+The "Guide de la Bretagne mystÃ©rieuse - FinistÃ¨re" (Tchou 1966) asserts  that "old established tradition [in the Carhaix area] sees in AhÃ¨s a legendary princess (or goddess) who may be traced in several places of the Breton inland: a hamlet named "Carhaix" between Rohan and BrÃ©han-LoudÃ©ac, a "Corn-Carhai" on the Portsall rocks near PloudalmÃ©zeau and a township "CaraÃ«s" on Ushant Island. The mid 17th century lawman <b>Eguiner Baron</b> referred to this tradition  when he wrote:<br>
+<i>Exstat oppidum in comitatu Cornualensi Armoricae Britanniae, ab Ahae gigantis feminae nomine appelatum Ker-Ahez, quod verbum sonat Villa Ahae</i>, i.e.<br>
+There is in the county Cornouaille, in Armorica, a fortified place named after the gigantic woman AhÃ¨s, as "Carhaix" means "town of AhÃ¨s".<br>
+It is remarkable that this text should make of the princess a giant...<br>
+<br>
+<b>Old Oh s' wife</b><br>
+However there is a by far older chanson de geste, the  <a href="../alarchf.htm"><b>Song of Aiquin</b></a> (or Aquin), whose original was very likely composed between 1170 and 1190 and which is, to be sure, the oldest still extant literary Breton work written in French. It features Charlemagne fighting against the "Saracens", i.e. the pagan Normans whose king is the Aquin (Haakon?) in the title of this lengthy poem. One of the companions of the emperor is named Old <b>Oh s</b> (a variant to AhÃ¨s). What he tells about his wife is evidently derived from the tale of the Roman highway known as "Hent AhÃ¨s".<br>
+<br>
+<table width=100%><td width=50% valign= top><font size=-2>
+They praised Ohes a great deal, all of them,<br>
+Who had proved so brave on that occasion,<br>
+Far o'er a hundred and forty years old<br>
+He was. Of his wife did the French oft speak<br>
+Who they knew had been both wise and charming;<br>
+So they inquired from him and asked him<br>
+Where she was born and who were her parents.<br>
+OhÃ¨s said :   Nothing be concealed from you!<br>
+<br>
+She was Courseul s much cherished daughter.<br>
+He was o er three hundred years when he died;<br>
+So that this dame had the insane idea<br>
+That she would be young and fair forever!<br>
+A long iron-wheeled car way she ordered<br>
+To be made that would lead to Paris town,<br>
+Out of her country surrounded by woods;<br>
+<br>
+In the town of Carhaix, to tell the truth,<br>
+Was the highway s start point and inception<br>
+Many an oak was felled by this lady<br>
+As well as many a tall branched tree.<br>
+When the finished portion was measured,<br>
+It had a length of over twenty leagues,<br>
+A short lapse of time, but many workers!<br>
+Now I ll tell you how it came to an end:<br>
+<br>
+The lady once picked up a dead blackbird.<br>
+Passed it from one hand into the other.<br>
+Then the poor lady has given a sigh:<br>
+Is in this world everything but vain?<br> 
+The more you live, the more you must suffer;<br>
+The richest man can't shun adversity!<br>
+And the sad lady has wept a great deal.<br>
+<br>
+Thereupon she has summoned a clerk<br>
+Who was a teacher of theology,<br>
+She inquired from him and asked him<br>
+If one could die without being killed<br>
+Or ill-used or wounded or stabbed.<br>
+</td>
+<td width=50% valign= top><font size=-2>
+He said:   Yes, Milady, to speak the truth!<br>
+Whoever was born by mother will die<br>
+And no one is excepted from that rule<br>
+Or is allowed to keep their riches<br>
+Or any good that they had gathered:<br>
+No borough, no town, castle or city,<br>
+No gold, no silver, no coined penny,<br>
+No silk or damask cloth whatsoever,<br>
+None of the things that God has created:<br>
+That is the way the Lord has directed. <br>
+<br>
+- O woe is me, says she, why were we born?<br>
+I don't rate myself a coined penny.<br>
+Nor do I my riches and great power.<br>
+I have no great opinion of myself!<br>
+Now, never shall the highway be finished<br>
+I do regret the work put into it!<br>
+Nevermore shall I have a hand in it<br>
+Or any work. It would be a folly<br>
+A crushed garlic clove, that s what this world s worth!  <br>
+<br>
+She did abide by it. As I told you,<br>
+Lords and Barons, declared the Old Oh s,<br>
+The said lady lived to be far over <br>
+A hundred years old. Then the lady died.<br>
+<br>
+Never after did I marry again.<br>
+Never ever shall I, given my age,<br>
+For I am quite an old and weary man<br>
+Who long ago from woman s blood was born.<br>
+No woman will ever love an old man,<br>
+Who cannot satisfy her lust fully;<br>
+When growing old men get  colder,<br>
+While a young wife to tell the truth<br>
+Oft catches fire, her special gift,<br>
+Both will hardly fit together.  </font><br>
+</td></table><br>
+<br>
+Another instance of a local tale arisen from the name of an ancient Roman highway is addressed in connection with Michel Galiana's poem, <a href="../galiana/pringali.htm">Galiana's Palace</a><br>
+Furthermore, the Welsh name of Merlin, "Myrddin", borrowed from the 6 "pre-Galfridian" poems ascribed to the Bard of that ilk, seems to have its similar origin in a tradition Geoffrey of Monmouth was aware of. According to it, the protagonist of the tales, of Scottish origin, of the wild man with prophetic gifts, was supposed to be an eponymous local hero who gave his name to Carmarthen, in Welsh "Caerfyrddin". It was a false etymology, since [Caer]-myrddin was known in Roman times as "Moridunum", sea-fortress (hence "Myrddin").
+</font></div><center>
+<img src="manuscri.png"></center>
+</td></tr></table>
+<center>
+<br></i>
+<Embed src="chathrei.mid"  height=60  autostart="true"><br>
+<br>
+<audio src="Oldahes.mp3" controls></audio><br>
+<br>
+Listen to "Old AhÃ¨s" in English<br>
+<br>
+
+
+
+
+<A Href="..\bosennf.htm">Retour   "La Peste d'Elliant du "Barzhaz Breizh"</A> (Back to the Barzhaz song "The Plague in Eliant")<BR>
+<br>
+<A Href="../penwern.htm">Taolenn</A><BR>
+<br> 
+<a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a><br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 

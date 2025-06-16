@@ -1,0 +1,1072 @@
+<HTML>
+<HEAD>
+<TITLE>Kloareg Ar Gall</TITLE>
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="description" content="Midi File, Lyrics and Information to Ar vinorez">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Manac'h Gwilhaouig Ar Gall, Le moinr Guillaume Le Gall, Monk William Le Gall, La Villemarqué, Keransquer">
+<script type="text/javascript">
+function toggleMe(a){
+var e=document.getElementById(a);
+var i = document.getElementById(a + '_image');
+if(!e)return true;
+if(e.style.display=="none"){
+e.style.display="block"
+i.src = 'moins.gif';
+} else {
+e.style.display="none"
+i.src = 'plus.gif';
+}
+return false;
+}
+</script>
+</HEAD>
+<BODY> 
+
+<CENTER>
+<H1>Manac'h Gwilhaouig Ar Gall</h1>
+<h2>Le moine Guillaume Le Gall</h2>
+<h3>Monk William Le Gall</h3>
+<h4>Chant collecté par Théodore Hersart de La Villemarqué<br>
+dans le 2ème Carnet de Keransquer (pp. 141 / 75 - 142 et 211 /127 - 211 bis) .</h4>
+
+<img src="plourin.jpg" width=600><br>
+<br>
+<a href="plourin.mid">Mélodie: "Kloarek Plourin" </a><br>
+<font size=-1><i>Arrangement Léon-Marie Louyer de Villermay (1852-1914)</i></font><br>
+<br>
+<table width=100%>
+<td width=36% valign=top><font size=-1>
+<b>A propos de la mélodie:</b><br>
+Il s'agit ici de "Kloarek Plourin", tiré de "Musiques bretonnes" de Maurice Duhamel (1913), p. 89, chant N° 177, interprêté par Marguerite Philippe à Pluzunet pour un enregistrement phonogarphique de F. Vallée destiné à la Faculté des Lettres de Rennes. <br>
+Le chant de référence est la version collectée par F-M. Luzel dans ses "Gwerzioù", tome II, page 360, "Kloarek Plourin", le "Clerc de Plourin".<br>
+L'harmonisation reproduit largement celle composée par le violoniste Léon-Marie Louyer de Villermay (1852-1914) pour une version de cette gwerz chantée par Marguerite Philippe et publiée sous le titre "Kabusin ar Gwen" (le Capucin Le Guen) dans la "Revue de Bretagne" par F. Vallée. Celui-ci écrit:<i>" La mélodie de Kabusin ar Gwen est fort belle et peut prendre rang à côté de celles de "Ar Baradoz" et de "Treinded Santel" pour l'expression du sentiment religieux. De plus ... elle appartient à un <a href="../musique.htm">mode ancien</a> que M. Bourgault-Ducoudray ne mentionne pas dans son recueil..."</i><br>
+Le compositeur L; de Villermay indique dans une note qu'il s'agit du mode hypo-mixolydien et qu'il a utilisé dans son harmonisation  successivement l'harmonie grégorienne du 8ème mode et le contrepoint avec une harmonie "moderne" (en 1903).<br> 
+Autre exemple de ce mode: <a href="../fhirachu.mid">Fhir a chuil duinn as caoile mala</a> (a23, Jeune homme châtain aux beaux sourcils), un chant jacobite cryptique écossais.<br>
+<br>
+<b>A propos du texte</b><br>
+Le site <a href="https://tob.kan.bzh/chant-00152.html">Ton.kan.bzh</a> consacré à la classification Malrieu  donne à ce chant:<br>
+-  la référence M -00152 <br>
+- le titre critique breton : Ar chloareg choant gantañ bezañ kapusin<br>
+- le critique français : Le clerc qui veut être capucin<br>
+- le titre critique anglais : The cleric who wants to be a capuchin<br>
+- thèmes : résumés de vie, destinées, vies de personnages historiques<br>
+Il recense 5 versions et 8 occurrences, auxquelles il faut ajouter la présente version tirée du 2ème carnet et qui doit avoir été notée entre 1840 et 1844. Si la première partie du chant (str. 1 à 22) est séparée de la seconde (str. 23 à 41), c'est sans doute parce que, quand le chant a été noté, ces parties se trouvaient sur un même feuillet double, dans lequel un cahier de 17 autres feuillets doubles fut inséré par la suite, obligeant La Villemarqué à faire un renvoi: <i>"V. p. 127"</i><br>
+Parmi les collecteurs on retrouve les noms habituels : <br>
+- François Vallée  "Kabusin ar Gwen", 1903  (Marguerite Philippe, Pluzunet)<br>
+- François-Marie Luzel "Kloarek Plourin", 1864 (Anna Salic, Keramborgne) GBI II p. 360.<br>
+- Jean-Marie de Penguern, "Cabucin"- "Kloareg Kroaz ar Mendi", avant 1856 , MS 112, transcrit par J. Ollivier.<br>
+- Abbé Jean Mathurin Cadic "Mab ur prins bras galuet de chervij Doué / Vocation du fils dun grand prince", avant 1893, Revue Morbihanaise 1891-1913, p.312, et un collecteur inhabituel:<br>
+- Abbé Henri Duine de Kerbeuzec "Le capucin de Tromelin" , Plougasnou, avant 1896, "Cojoù Breiz", 1896 (en français).<br>
+La présente version est donc la première qu'on ait collectée. <br>
+<br>
+<b>Comparaison entre les versions</b><br>
+Le site Tob.kan.bzh indique:<br>
+<i>" - Le clerc de Huelgoat devient capucin dans un grand collège dEspagne (Vallée ne dit pas pourquoi il titre "Kapusin ar Gwenn").<br>
+- Le "Clerc de Kroas ar Mendy" va au couvent "Melin ar roue".<br>
+- Pour le "Clerc du manoir de Tromelin", sans préciser ses raisons, H. de Kerbeuzec date ce chant du XVIe siècle. Le manoir de Tromelin est situé en Plougasnou. Les ruines de sa chapelle, recueillies, ont formé le sanctuaire du couvent de Pontplancouet, dans la même paroisse.<br>
+- Le "Clerc de Plourin", de Huelgoat va au couvent de Perhet."</i><br>
+- Dans la présente version, le jeune homme s'appelle Guillaume le Gall, mais "Ar Gwenn" (Le Guen) est le nom de jeune fille de sa mère (str. 19). Cependant une variante (str. 22) la nomme "Marig Kelenn" (Marie Quélen). Le jeune homme entre chez les Capucins à Nantes. Il habite Huelgoat. Certaines strophes (le cortège de jeunes gens qui accompagnent son départ, dialogue à propos de son héritage) indiquent clairement que ce clerc est le fils de personnages riches et puissants.<br>
+Ce chant où s'exprime une foi profonde et sincère ne doit en aucun cas être rangé parmi les <a href="../kloaregf.htm">"chansons de clercs"</a>.
+</td>
+<td width=28% valign=center align=left><font size=-2>
+<center><img src="capucin.png" width=90%><br></center>
+<br>
+Si H. de Kerbeuzec date ce chant du 16ème siècle c'est peut-être parce que l'engouement du jeune Guillaume Le Gall pour la branche de l'ordre des Franciscains que sont les <b>Capucins</b> trahit la nouveauté de cette institution. Or, après avoir été conçue en 1525 par Matthieu de Baschi, moine franciscain de Montefiorentino aidé des frères Louis et Raphaël de Fossombrone, c'est en 1528 que cette réforme fut approuvée par le Pape Clément VII qui maintenait toutefois ces porteurs de barbes et de capuces plus amples et plus pointus sous la juridictions des "Frères mineurs observantins". Ils furent affranchis de cette obéissance en 1619. La réforme visait à retrouver l'esprit franciscain primitif (<b>pauvreté totale, vie érémitique</b>) tel qu'il est décrit dans la présente gwerz (en particulier aux strophes 3 - 5, 13, 34 - 37). La métaphore inhabituelle de l'arbre pour désigner la Croix et l'étonnante géographie de l'autre-monde où le paradis entoure la vallée de Josaphat (str.38 - 41)  pourraient illustrer la troisième revendication majeure des Capucins: la <b>liberté de prédication</b>.<br>
+Dans la version de Luzel, le clerc va au couvent de Perhet. Peut-être s'agit-il de Perret, une localité proche de Rostrenen. Cette ville a vu naître un Capucin fameux, le père Grégoire l'auteur du Dictionnaire franco-breton de 1732.<br>
+Selon Wikipédia, "les Capucins portaient tous, avant le Concile Vatican II, une robe d'étoffe brune, ou grise dans certains pays de l'hémisphère Sud." Notre gwerz parle de "robe grise" (str. 25). Mystère!
+<li> La <b>rue de l'Hermitage à Nantes</b> doit son nom à un ancien hermitage fondé en <b>1529</b> par un franciscain du nom de Gilles Bellyan dans un terrain appartenant au seigneur de la Hautière.<br>
+Mais ce n'est qu'en <b>1614</b> que l'hermitage est remplacé par un couvent  doté d'une chapelle, confié aux frères appelé ici "Petits Capucins". La <b>Place des Capucins</b> qui exista à cet endroit marqua leur présence à cet endroit. En 1630, on construit un hospice (hôpital). Les Capucins y sont peu nombreux: de 12 en 1729, ils ne sont plus que 7 en 1790. Le monastère est évacué puis vendu en 1793.
+<li> Dans la gwerz, il peut aussi s'agir des "Grands Capucins" qui donnèrent leur nom à la <b>rue Neuve-des-Capucins</b> (quai de la Fosse - rue de l'Héronnière) ainsi nommée en 1830, en souvenir des capucins établis à Nantes en <b>1568</b>, rue du Marchix en 1593, puis vers 1629 à l'emplacement de ladite rue Neuve..<br>
+<li> Les Capucins revinrent à Nantes en 1874. Après le départ définitif des religieux, la propriété est cédée à la Ville en 1985. Le parc de l'ancien couvent des Capucins devient un parc public (<b>Parc des Capucins</b>, ouvert en 1993). Les bâtiments conventuels abritent depuis 1990, le centre chorégraphique national de Nantes et un centre médico-social.<br>
+<br>
+<p class=norme>
+<a style="cursor:pointer;" onclick="return toggleMe('para1')"><img id="para1_image" src="plus.gif" style="border:0;margin-right:5px;vertical-align:top;"> <b>English</b><br></a>
+
+<div id="para1" style="display:none;"><font size=-2>
+We may suppose that H. de Kerbeuzec dates this song from the 16th century  because the fanatic infatuation of the young Guillaume Le Gall for the branch of the Franciscan order known as <b>Capuchins</b> could betray the novelty of this institution. This movement was initiated in 1525 by Matteo di Baschi, a Franciscan friar of Montefiorentino and supported by the brothers Luiggi and Raffaele di Fossombrone. In 1528 this reform was approved by Pope Clement VII who maintained however these bearded friars in their wide hooded robes under the jurisdiction of the so-called "Observant Friars Minor". It was not until 1619 that they were freed from this obedience. The reform was aimed at restoring the genuine Franciscan spirit (<b>total poverty, eremitic life</b>) which pervades the present gwerz (see in particular stanzas 3 - 5, 13, 34 - 37). The unusual images of the Calvary Cross represented as a tree, as well as the puzzling topology of the otherworld with paradise surrounding the Josaphat valley (str. 38 - 41) could illustrate the third major claim of the Capuchins, namely <b> free preaching. </b><br>
+In Luzel's version, the clerk is said to enter the "Perhet convent". Maybe we should read "Perret", a locality near Rostrenen. The latter city saw the birth of a famous Capuchin, Father Grégoire, the author of the 1732 Franco-Breton Dictionary.<br>
+According to Wikipedia, "all Capuchins wore, before the Second Vatican Council, a robe of brown, or of grey cloth in some southern hemisphere countries." It is therefore surprising that the present gwerz should mention a "grey dress" (str. 25).!<br>
+<br>
+. The <b>rue de l'Hermitage in Nantes</b> owes its name to an old hermitage founded in <b>1529</b> by a Franciscan by the name of Gilles Bellyan on an estate belonging to the Lord de la Hautière. <br>
+But it was not until <b>1614</b> that the hermitage was replaced by a convent with a chapel run by the so-called "Little Capuchins". The former <b>Place des Capucins</b> marked their presence there. In 1630, a hospice was appended. The friars dwelling there were few: from 12 in 1729, their number had decreased to 7 by 1790. The monastery premises were evacuated, then sold in auction in 1793.<br>
+<br>
+. But the present gwerz may also refer to the "Grands Capucins" who gave their name to the <b> Rue Neuve-des-Capucins </b> (between the Quai de la Fosse and the Rue de l'Héronnière). The name exists since 1830 and hints at a  Capuchin congregation established in Nantes in <b> 1568 </b>, who moved to the Rue du Marchix in 1593, then around 1629 to the above mentioned Rue Neuve ...<br> 
+<br>
+. A century after the Revolution, the Capuchins returned to Nantes in 1874. After the friars had definitely left, the property was donated to the City in 1985. The gardens of the former Capuchin convent became a public park (<b>Parc des Capucins </b>, which opened in 1993). Since 1990, the convent buildings have housed the National Choreographic Center of Nantes and a medico-social center.<br>
+</font></div> 
+
+</td>
+<td width=36% valign=top><font size=-1>
+<b>About the tune</b><br>
+This tune is titled "Kloarek Plourin", taken from "Musiques bretonnes" by Maurice Duhamel (1913), p. 89, song No. 177, performed by Marguerite Philippe in Pluzunet for a phonographic roll recording by F. Vallée intended for the Faculty of Letters in Rennes.<br>
+The lyrics connected to it are the version of the "Clerc de Plourin" collected by F-M. Luzel in his "Gwerzioù", volume II, page 360.<br>
+The present harmonization largely reproduces that composed by the violinist Léon-Marie Louyer de Villermay (1852-1914) for a version of this gwerz sung by Marguerite Philippe and published under the title "Kabusin ar Gwen" (Le Capucin Le Guen) in the " Revue de Bretagne "by F. Vallée. The latter writes: <i>"The melody of "Kabusin Ar Gwen" is very beautiful and can rank alongside those of "Ar Baradoz" and "Treinded Santel" for the intensity of religious sentiment. On the other hand ... it belongs to an old <a href="../musique.htm">musical mode</a> that M. Bourgault-Ducoudray does not mention in his book ..." </i><br>
+The composer L. de Villermay states in a note that it is the hypo-mixolydian mode and that he used in his harmonization successively the Gregorian harmony of the 8th mode and the counterpoint with a "modern" harmony (in 1903).<br>
+Another instance of this unusual mode: <a href="../fhirachu.mid"> Fhir a chuil duinn as caoile mala </a> (a23, Brown-haired lad with thin eyebrows), a Scottish cryptic Jacobite song. <br>
+<br>
+<b>About the lyrics</b><br>
+The <a href="https://tob.kan.bzh/chant-00152.html">Ton.kan.bzh</a> site dedicated to the Malrieu classification ascribes to this song:<br>
+- the reference M -00152<br>
+- the Breton critical title: "Ar chloareg choant gantañ bezañ kapusin"<br>
+- the French critical title: "Le clerc qui veut être capucin"<br>
+- the English critical title: The clerk who wants to be a capuchin<br>
+- the themes: summaries of life, destinies, lives of historical figures<br>
+It lists 5 versions and 8 occurrences of this ballad, to which we should add the present version taken from La Villemarqué's Second Notebook, which should have been recorded between 1840 and 1844. If the first part of the song (str. 1 to 22) is separated from the second (str . 23 to 41), it is undoubtedly because, when the song was noted, these parts were on the same double sheet, into which a ream of 17 additional double sheets was subsequently inserted, causing La Villemarqué to add the hint: "See p. 127"<br>
+The collectors' names are the usual names:<br>
+- François Vallée "Kabusin ar Gwen", 1903 (sung by Marguerite Philippe, Pluzunet)<br>
+- François-Marie Luzel "Kloarek Plourin", 1864 (sung by Anna Salic, Keramborgne) GBI II p. 360.<br>
+- Jean-Marie de Penguern, "Cabucin" - "Kloareg Kroaz ar Mendi", before 1856, MS 112, transcribed by J. Ollivier.<br>
+- Father Jean Mathurin Cadic "Mab ur prins bras galuet de chervij Doué / Vocation of the son of a great prince", before 1893, Revue Morbihanaise 1891-1913, p.312 ... plus an unusual collector:<br>
+- Abbé Henri Duine de Kerbeuzec "Le capucin de Tromelin", Plougasnou, before 1896, "Cojoù Breiz", 1896 (in French).<br>
+The version at hand should be therefore the oldest record of this ballad with religious background.<br>
+<br>
+<b>Comparison between different versions</b><br>
+As stated on the Tob.kan.bzh site:<br>
+<i>"- The "Clerk of Huelgoat" becomes Capuchin in a large college in Spain (Vallée does not givr the reason for the title" Kapusin ar Gwenn ").<br>
+- The "Clerk of Kroas ar Mendy" goes to the convent "Melin ar Roue".<br>
+- As for the "Clerk of Tromelin Manor", without elucidating his reasons, H. de Kerbeuzec dates this song from the 16th century. Tromelin Manor is located near  Plougasnou. The remains of its dilapidated chapel were used to build the chapel  of the Pontplancouet convent in the same parish.<br>
+- The "Clerk of Plourin", a native of Huelgoat goes to a convent in Perhet."</i><br>
+- In the present version, the young man is called Guillaume le Gall, but "Ar Gwenn" (Le Guen) is the maiden name of his mother (str. 19). However a variant (str. 22) names her "Marig Kelenn" (Marie Quélen). The young man enters a  Capuchin convent in Nantes. He is a native of Huelgoat. Some stanzas (the procession of young people accompanying him when he leaves, the dialogue about his heritage) clearly show that he is the son of rich and powerful people.<br>
+This ballad where deep and sincere faith is expressed should by no means be classified among the usual <a href="../kloaregf.htm">"kloareg ditties".</a><br>
+</td></table><br>
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=31% valign=top>
+BREZHONEK<br>
+<br>
+<center><b>MANAC'H GWILHAOUIG AR GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 75</b><br>
+<br>
+Le moine<br>
+<br>
+I<br>
+1. - Pemp bloaz war-nugent zo bremañ,<br>
+'Baoe me oan krouet er bed-mañ.<br>
+<br>
+2. Netra n'am-eus me perc'hennet<br>
+'Med ur galon [zo] leun a berched.<br>
+<br>
+3. Me a garfe bout er plasig<br>
+Lec'h ne glefin 'met an trouzig (X)<br>
+<br>
+<i>(en marge à gauche:)</i><br> 
+(X) 4. An trouzig d'eus ar preñved,<br>
+O krignat ar c'higoù marvet<br>
+O krignat prenn an arched,<br>
+<br>
+5. Lech ne glefin 'met ur pintig<br>
+Lec'h ne glefin netra bemde,<br>
+Ma mamm baour, 'met pediñ Doue. -<br>
+<br>
+6. - Gwell eo ganin, ma mab kloareg,<br>
+' Chomfech er ger ha bout beleg.<br>
+Plijadur m'am-eus ho kwellet<br>
+<br>
+7. Dar zul dho kwel dre ar vered<br>
+Da ganañ dimp an oferenn-bred,<br>
+<br>
+8. - Micher ar beleg zo karguz.<br>
+Ma ene paour zo morc'heduz.<br>
+<br>
+9. - Ouzhpenn ar gark d'eus ec'h ene<br>
+D'eus ene re-all 'ma ivez.<br>
+<br>
+<i>(en marge gauche verticalement:) </i><br>
+ema / emaint<br>
+<br>
+<i>(en marge à droite)</i><br>
+10. - Ma zadig paour, mar ma c'harit,<br>
+Me a yey bremañ d'ar gouent.<br>
+<br>
+11. Choazit ar gouent a garfet,<br>
+N'hen ho lintr mar karet<br>
+<br>
+<b>P. 142</b><br>
+<br>
+12.  Gwell eo ganin, ma mamm, monet<br>
+Dar gouent dar Gabusined.<br>
+<br>
+13. Lec'h ne glevin netra bemde<br>
+Nemet pedennoù da Zoué. <br>
+*********************************<br>
+II<br>
+14. Kriz vije ar galon na ouelje<br>
+En Huelgoat neb a vije,<br>
+<br>
+15. Wel't an henchoù bras o leizhañ<br>
+Gant an dud yaouank na ouelfe.<br>
+<br>
+16. Gant an dud yaouank o ouelañ,<br>
+Kloareg Ar Gall o tiblasañ :<br>
+<br>
+17. - Keno, ma mam, keno ma zat,<br>
+Dam choarezed, avantur vad;<br>
+<br>
+18. Met dam breudeur ne larann ket<br>
+E zeuy d'an Naoned dam gwelet. -<br>
+<br>
+19. - Janed ar Gwennig a lare<br>
+War an hent bras pa yae.<br>
+Da Guillou r Gall  (Kloarek Gwenn) an deiz a oe:<br>
+<br>
+20. - Itron Varia, en hoc'h iliz,<br>
+Gouarnet-c'hwi din ma yaouankiz!<br>
+*********************************<br>
+III<br>
+21. - Poent eo dit/dimp mont da wel't hor mab<br>
+Degas de(zh)añ ur gobrik (un dra) bennag.<br>
+<br>
+22. Janed ar Gwennig ( Marig Kelenn) a lare<br>
+E ker Naoned pa 'n errue:<br>
+<br>
+<i>(V. p. 127)</i>
+<br>
+<b>p 211 / 127</b><br>
+<br>
+23. - Aet eo ar bale-sakr en-dro,<br>
+Me a glev ma mab o kanañ.<br>
+<br>
+24. N'eo ket c'hoazh an oferenn-bred,<br>
+Ar proses en-dro d'ar vered.<br>
+<br>
+25. Me wel ma mab gwisket en griz,<br>
+Ur c'hordenn reun oc'h ober kriz.<br>
+<br>
+26. - Demat deoch, ma map kloareg.<br>
+- Ha deoch ma zat, deuet dam gwel't,<br>
+Ma mamm baour, hag he-deus yeched?<br>
+<br>
+27. - Yach eo, a drugarez Doue,<br>
+Deuet eo dho kwelet koulz ha me. <br>
+Ema e-maez amañ ganin.<br>
+<br>
+28. - O Itron Varia Druez!<br>
+Fidel eor vamm dar vugale!<br>
+<br>
+29. Dont hanter-kant lev dam gwelet<br>
+Ha me biskoazh n'eus (nem-boa ket) dellezet.<br>
+<br>
+30. -Ma mabig paour mar ma c'harit,<br>
+Breman paz' eomp deut dho kwelet,<br>
+Petra diganimp a (choulet)  c'hoantait?<br>
+<br>
+31. - Netra diganeoch na choulan<br>
+'Met ho kimiat da jom amañ.<br>
+<br>
+32. - C'hwi ho-po hon bennoz hon daou.<br>
+(Hon kimiat hon daou chwi n'efoc'h) +<br>
+<br>
+33. Hag an nebeut d'eus hor madoù.<br>
+Ha lod eus ar madoù a zo.<br>
+<br>
+34. + Me bedo Doue noz ha deiz<br>
+M'am-bo ma lod e-barzh ane(zh)oc'h.<br>
+<br>
+35. Me bedo Doue deiz ha noz<br>
+M'am-bo ma lod er baradoz. (*)<br>
+<br>
+<b>p. 211 bis</b><br>
+<br>
+36. Mar 'm-eus madoù evit (heritaj) ma darn,<br>
+Roit dar beourien va bro dre ran.<br>
+<br>
+37. + Ma bedont Doue deiz ha noz<br>
+M'am-bo ma lod er baradoz. -<br>
+<br>
+38. Er menez Kalvar zo ur we(zh)enn<br>
+Ar gaerañ, welas den biken,<br>
+<br>
+39. Hag a renkan ar gwelllañ dindan<br>
+Kevret gant Mari Madalen. (**)<br>
+<br>
+40. Keno ma mamm, keno ma zat,<br>
+Keno dan traonienn Josefat.<br>
+<br>
+41. Barzh baradoz p'eo war dro,<br>
+Gant gras Doue ni nem gwelo. -<br>
+<br>
+(*) E stumm An Uhel: "N choulennan tra euz ho mado, /Met un dousenn mouchouero, / Da secha r glis hag ann daero,/ Pa vinn prezek er parousio."<br>
+<br>
+(**) E stumm An Uhel: "War mene Kalvar zo ur groaz, / Ar gaera a welis biskoaz; / Eomp holl d sikour hi dougenn, / Sambles gant Mari Madalenn; / 
+Ni welo hon Zalver binniget / Ebars ar groaz krusifiet!"<br>
+<br>
+<font size=-2><i>KLT gant Christian Souchon</i></font>
+</td>
+<td width=32% valign=top> 
+TRADUCTION FRANCAISE<br>
+<br>
+<center><b> LE MOINE GUILLAUME LE GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 75</b><br>
+<br>
+Le moine<br>
+<br>
+I<br>
+1. - Il y a ce jour vingt-cinq ans,<br>
+Que je suis venu dans ce monde.<br>
+<br>
+2. De biens je n'en ai point sinon  <br>
+Un coeur que la malice inonde.<br>
+<br>
+3. Je souhaite être en un lieu de deuil<br>
+Où je n'entendrais à la ronde (X)<br>
+<br>
+<i>(en marge à gauche:)</i><br> 
+(X) 4. Que le seul bruit des vers qui sondent,<br>
+Les chairs pourries qui se morfondent,<br>
+Ainsi que le bois du cercueil,<br>
+<br>
+5. Un seul chant: celui du pinson<br>
+Chaque jour donnant sa leçon<br>
+M'enseignant, mère, à prier Dieu. -<br>
+<br>
+6. -  Mon fils, tu sais que je préfère<br>
+-rais que tu sois le vicaire.<br>
+De ce bourg, afin que mes yeux<br>
+<br>
+7. Chaque dimanche au cimetière<br>
+Te voient à la messe en ces lieux.<br>
+<br>
+8. - Métier de prêtre est redoutable.<br>
+Et ma pauvre âme le pressent:<br>
+<br>
+9. Outre son âme, il est comptable<br>
+De celle d'autrui tout autant.<br>
+<br>
+<i>(en marge gauche verticalement:) </i><br>
+il est  / ils sont<br>
+<br>
+<i>(en marge à droite)</i><br>
+10. - Père, ai-je votre permission <br>
+De me retirer au couvent?<br>
+<br>
+11. - Choisissez-en un mon garçon!<br>
+Vous avez mon consentement.<br>
+<br>
+<b>P. 142</b><br>
+<br>
+12.  Mère, l'ordre que je préfère<br>
+Serait celui des Capucins.<br>
+<br>
+13. Chez qui l'on n'entend d'ordinaire<br>
+Rien d'autre qu'office divin. <br>
+*********************************<br>
+II<br>
+14. Qu'elle eût été cruelle l'âme<br>
+Qui par Huelgoat eût passé,<br>
+<br>
+15. Et n'eût, voyant sur la grand'route<br>
+Tous ces jeunes gens assemblés,<br>
+<br>
+16. A leurs pleurs mêlé quelques gouttes<br>
+Quand le clerc Le Gall s'en allait :<br>
+<br>
+17. - Adieu ma mère, adieu mon père<br>
+A mes soeurs ma bénédiction!<br>
+<br>
+18. Mais je ne vous dis rien, mes frères: <br>
+A Nantes nous nous reverrons. -<br>
+<br>
+19. - Jeannette le Guennic devise<br>
+Avec Guillot (avec le clerc Le Guen) tandis qu'il va<br>
+Sur la grand'route, ce jour-là:<br>
+<br>
+20. "Dame Marie en votre église<br>
+Prenez soin de mon jeune gars!"<br>
+*********************************<br>
+III<br>
+21. - Il est temps de rendre visite<br>
+A notre fils, de le doter.<br>
+<br>
+22. Et tandis qu'elle entrait à Nantes,<br>
+Jeannette Le Guennic ( Marion Le Quélen) disait<br>
+<br>
+<i>(Voir. p. 127)</i>
+<br>
+<b>p 211 / 127</b><br>
+<br>
+23. - La procession s'est mise en branle,<br>
+Et j'entends notre fils chanter.<br>
+<br>
+24. Ce n'est point encor la grand' messe:<br>
+Le tour d'église a commencé,<br>
+<br>
+25. C'est mon fils dans sa cotte grise,<br>
+Ceint d'un rude cordon de crin.<br>
+<br>
+26. - Mon fils le clerc, bonjour. - Mon père<br>
+Est là! Je brûle qu'on me dise<br>
+Si ma mère se porte bien.<br>
+<br>
+27. - Mais fort bien! A Dieu j'en rends grâce.<br>
+Elle est venue aussi vous voir. <br>
+Elle attends dehors sur la place.<br>
+<br>
+28. - La fidélité d'une mère,<br>
+O Notre-Dame de Pitié!<br>
+<br>
+29. Cinquante lieues qu'elle a dû faire:<br>
+En quoi l'aurais-je mérité?<br>
+<br>
+30. - Mon cher enfant, voici la cause<br>
+De notre venue. Tous les deux,<br>
+Voulons léguer nos biens au mieux.<br>
+<br>
+31. - De vous je n'attends qu'une chose:<br>
+L'accord pour rester en ces lieux.<br>
+<br>
+32. - Vous avez, soyez en sûr, notre<br>
+Accord et sans restriction +<br>
+<br>
+33. Quelques-uns de nos biens, en outre,<br>
+Et nous en avons à foison.<br>
+<br>
+34. + Passer nuit et jour en prière:<br>
+Tel est le lot que j'ai requis.<br>
+<br>
+35. Prier Dieu des journées entières<br>
+Sera mon lot au paradis.(*) <br>
+<br>
+<b>p. 211 bis</b><br>
+<br>
+36. Je cède ma part d'héritage<br>
+Aux pauvres gens de mon pays.<br>
+<br>
+37. + Ils prieront Dieu. Leur parrainage <br>
+Me gagnera ce lieu béni. -<br>
+<br>
+38. Au mont Calvaire il est un chêne<br>
+Le plus beau que jamais l'on vit-<br>
+<br>
+39. Auprès de Marie Madeleine:<br>
+Où trouverais-je un tel abri? (**)<br>
+<br>
+40. Nous nous reverrons, père et mère,<br>
+Dans la vallée de Josaphat.<br>
+<br>
+41. Puis au paradis qui l'enserre,<br>
+Si Dieu permet que cela soit. -<br>
+<br>
+(*) Version Luzel: "Je ne demande rien de vos biens,/ Si ce nest une douzaine de mouchoirs,/
+Pour essuyer la sueur et les larmes,/ Quand je serai à prêcher dans les paroisses."<br>
+<br>
+(**)  Version Luzel: "Sur la montagne du Calvaire est une croix, / La plus belle que jamais je vis. /  Allons tous aider à la porter, /Avec Marie Madeleine, / Nous verrons notre Seigneur béni / Attaché sur la croix!"<br>
+<br>
+<i><font size=-2>Traduction  Christian Souchon (c) 2020</i></font>
+</TD>
+<td width=37% valign=top>
+ENGLISH TRANSLATION<br>
+<br>
+<center><b>FRIAR WILLIAM LE GALL</b></center><br>
+<br><font size=-1>
+<b>p. 141 / 78</b><br>
+<br>
+The Capuchin friar<br>
+<br>
+I<br>
+1. - Twenty-five years have passed by now <br>
+And I'm still living here below. <br>
+<br>
+2. I never have owned anything <br>
+Except a heart that's full of sin. <br>
+<br>
+3. I'd like to dwell in a recess <br>
+From all mundane ado to rest (X) <br>
+<br>
+<i> (left margin :) </i> <br>
+(X) 4. Hearing but the faint noise of worms <br>
+Gnawing at the flesh falling from<br>
+Dead bones and wood of coffin boards, <br>
+<br>
+5. A place where you hear finch's chord <br>
+And nothing else the whole long day, <br>
+Mother, than men of God who pray - <br>
+<br>
+6. - My son the clerk, I would find best<br>
+You might stay with us as a priest. <br>
+To see you I would be so glad:<br>
+<br>
+7. On Sundays the churchyard you had<br>
+To cross to sing High Mass for us <br>
+<br>
+8. - But being a priest is no light thing <br>
+My soul knows the load it may bring: <br>
+<br>
+9. Beside the load of your own soul <br>
+That of your parish as a whole . <br>
+<br>
+<i> (left margin vertically :) </i> <br>
+we have / they have <br>
+<br>
+<i> (right margin) </i> <br>
+10. - I beg as gift of my parents', <br>
+Bounty to go to the convent. <br>
+<br>
+11.- Please, choose the convent that you want, <br>
+If it is your choice, I consent. <br>
+<br>
+<b> P. 142 </b> <br>
+<br>
+12. - I prefer, my mother, to be <br>
+Sent to a Capuchin abbey. <br>
+<br>
+13. A place where friars always pray<br>
+To God and praise Him night and day - <br>
+********************************* <br>
+II <br>
+14. Cruel the heart of whoever may <br>
+In Huelgoat, keep his tears at bay, <br>
+<br>
+15. On seeing the highway filling up <br>
+With children, both small and grown up, <br>
+<br>
+16. Young people who're lamenting all<br>
+When departing from Clerk Legall! <br>
+<br>
+17. - Goodbye my mother, my father, <br>
+And good luck to you my sisters; <br>
+<br>
+18. To my brothers I say nothing:<br>
+In Nantes.we will soon be meeting - <br>
+<br>
+19. - Jeanne Leguennic as she rode <br>
+With the young clerk on the main road. <br>
+With Guillaume Legal (with the Clerc Leguen) said that day: <br>
+<br>
+20. - Virgin Mary, in your church, may <br>
+You take care of my boy always! <br>
+********************************* <br>
+III <br>
+21. - It's time we went and saw our son <br>
+And that his heirloom right be done. <br>
+<br>
+22. Jeannette Leguennic (Marion Le Quélen) said on<br>
+Arriving that day in Nantes town: <br>
+<br>
+<i> (See p. 127) </i>
+<br>
+<b> p 211 / 127 </b> <br>
+<br>
+23. - Around the church the procession<br>
+Goes and I hear singing my son. <br>
+<br>
+24. High Mass does not start already, <br>
+They still walk round the cemetery. <br>
+<br>
+25. I see my son. In grey he's dressed, <br>
+A rough horsehair cord round his waist. <br>
+<br>
+26. - My son the clerk, good day to you!<br>
+- To you who have come for me, too! <br>
+Is my dear mother in good health? <br>
+<br>
+27. - Thank God, health is her greatest wealth<br>
+She came to see you too. Outside<br>
+She has decided to abide.<br>
+<br>
+28. - How faithful is, Blessed Virgin,<br>
+A dear mother to her children! <br>
+<br>
+29. Travels fifty leagues to see me<br>
+O I don't deserve it, surely!. <br>
+<br>
+30. - Now my dear son, if you love me <br>
+Who have come to see you, tell me: <br>
+What do you want to inherit? <br>
+<br>
+31. - I ask for nothing, you know it,<br>
+Except permission to stay here. <br>
+<br>
+32. - We give you our blessing, my dear<br>
+(Of us both you have permission) + <br>
+<br>
+33. But have some goods in addition.<br>
+For goods we have in profusion. <br>
+<br>
+34. + I pray to God late and early: <br>
+This is the lot bestowed on me. <br>
+<br>
+35. Praying at sunset and sunrise <br>
+Will be my lot in paradise. (*) <br>
+<br>
+<b> p. 211 bis </b> <br>
+<br>
+36. My heirloom you shall give freely<br>
+To the paupers in my country. <br>
+<br>
+37. + They shall pray to God night and day. <br>
+That to heaven I find my way. - <br>
+<br>
+38. On Mount Calvary there's a tree, <br>
+The rarest that was ever seen, <br>
+<br>
+39. Is there a better place to be <br>
+Than beside Mary-Magdalene? (**) <br>
+<br>
+40. My mother, my father, farewell! <br>
+We shall meet in Josaphat's vale <br>
+<br>
+41. To paradise may we then plod, <br>
+The three of us, so help us God! - <br>
+<br>
+(*) Luzel version: "I do not ask for anything from you, / Except a dozen tissues, /
+To wipe away sweat and tears, / When I am preaching in parishes. "<br>
+<br><br>
+(**) Luzel version: "On Mount Calvary is a cross, / The most beautiful that I ever saw. / Let us all help to carry it, / As did Marie Madeleine, / We will see our blessed Lord / Nailed on the Cross ! "<br>
+<br>
+<i><font size=-2>Translation Christian Souchon (c) 2020</i></font><br>
+</td></tr></TABLE><br>
+<br>
+<img src=tregornan.jpg><br>
+<br>
+Procession de ND de Pitié à Trégornan (Rostrenen)<br>
+<br>
+<embed src="plourin.mp3" height="60" autostart="true"><br>
+<br>
+<a href="montreze.htm"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="../present.htm"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br><script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 
+
+<!-- 
+Ur chloarek iaouank a Blourinn
+N eûs choantêt mont da gabusinn ;
+D gabusinn n eus choantêt monet,
+Dar gouent vraz, kouent Perhet.
+
+  Kriz a galon neb na oelje,
+En kêr Huelgoat ma vije,
+Welet ann douar o chlebia,
+Gant ar chloarek o kimiada :
+
+   Adieu, ma mamm, adieu, ma zad,
+Adieu dar gêr a Huelgoat ;
+Adieu dar gêr a Huelgoat,
+Dam choarezed avantur vad.
+
+  Euz ma breudeur n gimiadan ket,
+A deui dar gouent dam gwelet ;
+A deui dar gouent dam gwelet,
+Dar gouent vraz, kouent Perhet.
+
+   Ma mab, mar bijach bet bêlek,
+Plijadur ganach bon bije bet,
+Ho kwelet dar sul tro r vered,
+En prosession n offern-bred.
+
+   Bea bêlek a zo kargus,
+Ur vicher a zo danjerus;
+Ur vicher a zo danjerus,
+Gwell eo bea relijius.
+
+
+II
+
+  He dad, he vamm a lavare
+Er gêr ann Naonet parrue : (parruent)
+ Pelech man r gouent vraz aman ?
+Me m eûs ur mab kloarek en-han ; [1]
+
+Me m eûs en-hi ur mab kloarek,
+War ar studi d vea bêlek.
+ E-tro ar vered eo ema,
+Me gred hen klewan o kana ;
+
+  Me gred ema tro ar vered,
+En prosession nn offern-bred.
+ Demad dach-chui, ma mab kloarek.
+ Dach, ma zad, phoch deut dam gwelet ;
+
+  Dach, ma zad, phoch deut dam gwelet.
+Ma mamm ha hi zo en ieched ?
+ Ieched walch d-eûs digant Doue ;
+Ho mamm zo ama koulz ha me.
+
+   Itron Varia a Drue,
+Pegen braz eo ar garante ;
+Pegen braz eo ar garante
+A ur vamm wit he bugale !
+
+  Dont hanter-kant lew dam gwelet,
+Ha me nam eus ket meritet !
+ Ma mab, pa z omp deut dho kwelet,
+Petra ho mado a choantêt ?
+
+   Netra ma mado n choantaan.
+Met ho pennoz da chomm aman.
+ Bea pô hon bennoz hon daou,
+Hag un neubeud euz hon mado.
+
+   N choulennan tra euz ho mado,
+Met un dousenn mouchouero,
+Da secha r glis hag ann daero,
+Pa vinn prezek er parousio.
+
+  Pa vô etrezoch ar partaj,
+Roït dar baourienn ma heritaj ;
+Roït m heritaj d baourienn ma bro,
+Wit mho defo sonj achanon ;
+
+  Wit mho defo sonj achanon,
+Ma pedfont Doue ewit-on.
+War mene Kalvar zo ur groaz,
+Ar gaera a welis biskoaz ;
+
+
+  Eomp holl d sikour hi dougenn,
+Sambles gant Mari Madalenn ;
+Ni welo hon Zalver binniget
+Ebars ar groaz krusifiet !
+
+
+Kanet gant Anna Salik,
+Plouaret. 1864.
+
+******
+
+ Un jeune clerc de Plourin
+A désiré se faire capucin ;
+Il a désiré se faire capucin,
+Dans le grand couvent, le couvent de Perhet.
+
+  Cruel eût été de cur celui qui neût pleuré,
+Sil eût été dans la ville de Huelgoat,
+À voir la terre mouillée
+(Par les larmes) du clerc qui faisait ses adieux.
+
+   Adieu, ma mère, adieu, mon père,
+Adieu à la ville de Huelgoat ;
+Adieu à la ville de Huelgoat,
+Et bonne chance à mes surs.
+
+  À mes frères je ne fais pas mes adieux,
+Ils viendront me voir au couvent ;
+Ils viendront me voir au couvent,
+Au grand couvent, le couvent de Perhet.
+
+   Mon fils, si vous aviez été prêtre,
+Vous auriez fait notre bonheur,
+En vous voyant, le dimanche, faire le tour du cimetière,
+À la procession de la grandmesse.
+
+   Etre prêtre est une grande charge,
+Cest un métier dangereux ;
+Cest un métier dangereux,
+Mieux vaut être religieux.
+
+II
+
+  Son père et sa mère disaient
+En arrivant dans la ville de Nantes :
+ Où est le grand couvent par ici ?
+Jy ai un fils clerc ;
+
+Jy ai un fils clerc,
+Qui étudie pour être prêtre.
+ Il fait le tour du cimetière, [1]
+Je crois lentendre chanter ;
+
+  Je crois quil fait le tour du cimetière,
+À la procession de la grandmesse.
+ Bonjour à vous, mon fils le clerc.
+ Et à vous, mon père, puisque vous êtes venu me voir ;
+
+  Et à vous, mon père, puisque vous êtes venu me voir,
+Ma mère est-elle en bonne santé ?
+ Dieu lui donne assez bonne santé :
+Votre mère est ici, comme moi.
+
+  Madame Marie de Pitié,
+Combien grand est lamour ;
+Combien grand est lamour
+Dune mère pour ses enfants !
+
+  Venir à cinquante lieues me voir,
+Et moi qui ne lai pas mérité !
+ Mon fils, puisque nous sommes venus vous voir.
+Que désirez-vous de votre bien ?
+
+   Je ne désire rien de mon bien,
+(Je ne désire) que votre bénédiction pour rester ici.
+ Vous aurez notre bénédiction à tous deux,
+Et un peu de nos biens.
+
+   Je ne demande rien de vos biens,
+Si ce nest une douzaine de mouchoirs,
+Pour essuyer la sueur et les larmes,
+Quand je serai à prêcher dans les paroisses.
+
+  Quand vous ferez votre partage,
+Donnez mon héritage aux pauvres ;
+Donnez mon héritage aux pauvres de mon pays,
+Afin quils se souviennent de moi ;
+
+  Afin quils se souviennent de moi,
+Et quils prient pour moi.
+Sur la montagne du Calvaire est une croix,
+La plus belle que jamais je vis ;
+
+ Allons tous aider à la porter,
+Avec Marie Madeleine :
+Nous verrons notre Seigneur béni
+Attaché sur la croix !
+
+À la procession de la grandmesse, on faisait le tour du cimetière, qui environnait les églises de nos campagnes.
+
+
+*********
+
+1.  - Il y a maintenant vingt-cinq annnées<br>
+que je suis venu au monde.<br>
+<br>
+2. Je n'ai jamais rien possédé<br>
+hormis un coeur plein de péché.<br>
+<br>
+3. J'aimerais être en un lieu<br>
+où je n'entendrais qu'un seul petit bruit (X)<br>
+<br>
+<i>(en marge à gauche:)</i><br> 
+(X) 4. Le petit bruit des vers<br>
+qui rongent les chairs des morts<br>
+ainsi que le bois des cercueils,<br>
+<br>
+5. Un lieu où l'on n'entend que le pinson<br>
+Où l'on n'entend rien d'autre chaque jour,<br>
+Ma chère mère,.que la prière adressée à Dieu -<br>
+<br>
+6. - J'aimerais mieux, monfils le clerc, <br>
+Que vous restiez chez nous comme prêtre..<br>
+J'aurais le plaisir de vous voir<br>
+<br>
+7. Le dimanche traverser le cimetière<br>
+Pour nous chanter la grand' messe<br>
+<br>
+8. - Le métier de prêtre est ardu.<br>
+Ma pauvre âme le regrette.<br>
+<br>
+9. - Outre la charge de ton âme<br>
+tu as celle des âmes des autres.<br>
+<br>
+<i>(en marge gauche verticalement:) </i><br>
+on a / ils ont<br>
+<br>
+<i>(en marge à droite)</i><br>
+10. - Mon cher père, si vous m'aimez,<br>
+Vous me laisserez aller au couvent.<br>
+<br>
+11.-  Choisissez le couvent que vous voulez,<br>
+Il me convient si c'est votre choix.<br>
+<br>
+<b>P. 142</b><br>
+<br>
+12.  Je préfère, ma mère, aller<br>
+au couvent des Capucins.<br>
+<br>
+13. Où je n'entendrai chaque jour<br>
+que des prières qui montent vers Dieu. <br>
+*********************************<br>
+II<br>
+14. Cruel le coeur qui n'eût pas pleuré<br>
+à Huelgoat, quel qu'il fût,<br>
+<br>
+15. qui eût vu la grand' route se remplir<br>
+de jeunes gens et n'eût point pleuré.<br>
+<br>
+16. De jeunes gens qui déploraient ,<br>
+le départ du clerc Legall:<br>
+<br>
+17. - Adieu ma mère, adieu mon père,<br>
+Et vous mes soeurs, bonne chance;<br>
+<br>
+18. Mais à vous mes frères je ne dis rien<br>
+Car vous viendrez me voir à Nantes. -<br>
+<br>
+19. - Jeanne Leguennic disait<br>
+Tout en marchant sur la grand' route.<br>
+à Guillaume Legal  (au Clerc Leguen) ce jour-là:<br>
+<br>
+20. - Vierge Marie, en votre église,<br>
+prenez soin de mon jeune garçon!!<br>
+*********************************<br>
+III<br>
+21. - Il est temps que nous allions voir notre fils<br>
+pour lui apporter un peu de récompense.<br>
+<br>
+22. Jeanne Leguennic ( Marie Quélen) disait <br>
+En arrivant à Nantes:<br>
+<br>
+<i>(V. p. 127)</i>
+<br>
+<b>p 211 / 127</b><br>
+<br>
+23. - La procession fait le tour de l'église. <br>
+J'entends mon fils qui chante.<br>
+<br>
+24. La grand' messe n'a pas commencé,<br>
+Ce n'est encore que la procession autour du cimetière.<br>
+<br>
+25. Je vois mon fils habillé en gris,<br>
+Un cruel cordon de crin autour de la taille.<br>
+<br>
+26. - Bonjour à vous, mon fils le clerc.<br>
+- A vous aussi mon père qui êtes venu me voir.<br>
+Ma chère mère est-elle en bonne santé?<br>
+<br>
+27. - Elle va bien, grâce à Dieu,<br>
+Elle est venue vous voir elle aussi. <br>
+Elle attend dehors.<br>
+<br>
+28. - O Notre-Dame de Pitié!<br>
+Comme une mère est fidèle à ses enfants!<br>
+<br>
+29. Parcourir cinquante lieues pour me voir<br>
+C'est une faveur que je ne mérite pas.<br>
+<br>
+30. -  Mon cher fils, si vous m'aimez,<br>
+Maintenant que nous sommes venus vous voir,<br>
+Dites-nous ce que vous voulez en héritage?<br>
+<br>
+31. - Je ne vous demande rien<br>
+hormis la permission de rester ici.<br>
+<br>
+32. - Nous vous donnons, tous les deux, notre bénédiction<br>
+(Vous avez notre permission, de l'un comme de l'autre) +<br>
+<br>
+33. Ainsi qu'un peu de nos biens<br>
+Et des biens, nous en avons beaucoup.<br>
+<br>
+34. + Je prie Dieu le jour et la nuit<br>
+C'est le lot qui m'échoie parmi vous.<br>
+<br>
+35. Je prierai Dieu la nuit et le jour<br>
+Ce sera mon lot au paradis. (*)<br>
+<br>
+<b>p. 211 bis</b><br>
+<br>
+36. Si j'ai des biens en héritage,<br>
+Donnez-les en partage aux pauvres de mon pays.<br>
+<br>
+37. + Qu'ils prient Dieu la nuit et le jour.<br>
+J'aurai ma récompense au paradis. -<br>
+<br>
+38. Au mont Calvaire il est un arbre,<br>
+Le plus beau que l'on vit jamais,<br>
+<br>
+39. Et la croix que je vois sous son écorce,<br>
+Dressez-la avec Marie-Madeleine! (**)<br>
+<br>
+40. Adieu ma mère, adieu mon père,<br>
+Nous nous reverrons dans la vallée de Josaphat.<br>
+<br>
+41. Puis au paradis qui l'entoure,<br>
+Avec la grâce de Dieu -<br>
+<br>
+(*) Version Luzel: "Je ne demande rien de vos biens,/ Si ce nest une douzaine de mouchoirs,/
+Pour essuyer la sueur et les larmes,/ Quand je serai à prêcher dans les paroisses."<br>
+<br><br>
+(**)  Version Luzel: "Sur la montagne du Calvaire est une croix, / La plus belle que jamais je vis. /  Allons tous aider à la porter, /Avec Marie Madeleine, / Nous verrons notre Seigneur béni / Attaché sur la croix!"<br>
+
+
+*****************************
+https://webcache.googleusercontent.com/search?q=cache:8xTj1vrx-UEJ:www.franciscains-nantes.org/articles.php%3Flng%3Dfr%26pg%3D2944%26mnuid%3D2937%26tconfig%3D0+&cd=2&hl=fr&ct=clnk&gl=fr
+
+Les Franciscains à Nantes
+
+Mahaut de Pordic rédige son testament l'année 1247 en faveur des Frères mineurs de la ville de Nantes. Comme partout en France c'est le succès. Deux ans auparavant les fils de saint François arrivent dans la ville ducale au coeur d'un litige entre Pierre 1er, duc de Bretagne et Galeran, évêque de Nantes. C'est ce dernier qui fait venir les frères. Il les établit sur ses terres jouxtant les remparts, rue Perdue. Mais voilà, en pleine restructuration militaire dans le Duché, le duc construit de nouveaux remparts qui passeront sur les terres de l'évêque. Ce qui ajoute au conflit existant. En 1252, les frères peuvent édifier leur couvent. Les Franciscains y restent dans l'actuelle rue Saint-Jean jusqu'en 1791.
+
+En 1332, Gérard de Machecoul fait appel aux Frères mineurs de Nantes pour les établir à Bourgneuf-en-Retz à charge de fonder un hôpital avec douze frères.
+
+Avec la réforme de l'Observance franciscaine initiée par Bernardin de Sienne (1380 - 1444) pour un retour à l'idéal primitif de la Règle, un couvent réformateur s'établit à Savenay et à Clisson en 1410 avec le soutien d'Olivier de Clisson. Ils accompagnent un renouveau spirituel dans tout le monde catholique de l'époque. La Bretagne se couvre de quinze Couvents, le duc s'appelle François. Ruffigné voit l'arrivée des frères en 1428 et Ancenis en 1448. Les Cordeliers de Nantes deviennent Observants en 1517.
+
+Rue Neuve des Capucins
+==================
+Le XVIème siècle est celui de nouvelles réformes et de nombreux franciscains bretons rejoignent Luther. Des frères entrent dans les [Henri Laudrin (300).jpg ] réformes Capucines( ou encore deviennent Récollets). Les premiers s'établissent à Nantes en 1593 sur l'actuel quartier Graslin. 
+
+Les Capucins de l'Hermitage de Nantes
+============================
+En 1529, s'installe un frère en ermite à la pointe de Miséry (rue de l'Hermitage). En 1622, ce lieu devient un Couvent de Capucins. Ils étaient déjà à Machecoul en 1615. (Et les Observants de Nantes deviennent Récollets en 1639.) Tous ces Couvents sont fermés en1790. (Les Récollets reviendront à Saint-Nazaire en 1872 et à Nantes en 1887), les Capucins en 1874. Il reste aujourd'hui le Couvent de la place Canclaux (avec la Chapelle des Franciscains). (AL 32)
+
+Frère Henri Laudrin, ofm -Rennes
+dans "Église en Loire-Atlantique" - n° 75 (octobre 2017)
+
+****************************
+https://fr.wikipedia.org/wiki/Parc_des_Capucins_de_Nantes
+
+Le parc des Capucins est un jardin paysager ouvert au public de la ville de Nantes d'une superficie de 0,85 ha1, dans le quartier Hauts-Pavés - Saint-Félix.
+
+Le parc, dont l'entrée principale se situe sur son côté nord, rue Noire AN30 (un deuxième accès se trouve rue d'Iéna au sud-ouest), est comme son nom l'indique le parc de l'ancien couvent des capucins qui s'y établirent en 1874. Après le départ définitif des religieux, la propriété est cédée à la Ville en 1985. Les bâtiments conventuels abritent depuis 1990, le centre chorégraphique national de Nantes et un centre médico-social, tandis que le parc est ouvert au public le 13 février 19931.
+Rue Neuve des Capucins AN33
+**********************************
+https://fr.wikipedia.org/wiki/Rue_de_l%27Hermitage_%28Nantes%29
+
+Rue de l'Hermitage (Nantes) AL35
+====================
+La rue doit son nom à un ancien hermitage fondé en 1529 par un franciscain dans un terrain appartenant à la Seigneurie de la Hautière 2,3.
+
+Le mardi 2 novembre 1529, un moine franciscain du nom de Gilles Bellyan est autorisé par le seigneur de la Hautière à s'installer en ermite à la pointe de Miséry à l'extrémité ouest de l'artère 3 à l'emplacement de l'actuel « Manoir de l'Hermitage » 4.
+
+En 1614, l'hermitage est remplacé par un monastère doté d'une chapelle qui est confié à l'un des ordres de la Famille franciscaine, les frères mineurs capucins appelé ici « petits capucins » (pour ne pas le confondre avec le couvent des grands capucins installés dans le centre de Nantes, rue Neuve-des-Capucins). La place des capucins qui exista à cet endroit marqua leur présence à cet endroit. Trois ans après l'ouverture de ce monastère, on y érige une croix rouge dotée des armes de la ville de Nantes afin de marquer la fin d'une épidémie de peste 3.
+
+En 1630, on construit un hospice. Les Capucins y sont peu nombreux et leurs effectifs baissent régulièrement en l'espace de quelques décennies : de 12 en 1729, ils ne sont plus que 7 en 1790, si bien que leur monastère est évacué l'année suivante et vendu en 17933.
+
+******************************
+La rue Neuve-des-Capucins 
+====================
+
+La rue Neuve-des-Capucins relie le quai de la Fosse à la rue de l'Héronnière. Elle est bitumée et ouverte à la circulation automobile.
+La rue porte ce nom depuis le 29 septembre 1830, en souvenir des religieux capucins établis à Nantes en 1568, au Marchix AN31 en 1593, puis vers 1629 à l'emplacement de l'actuel cours Cambronne.
+Une pétition de 1749, dans laquelle figure le gardien des grands capucins (nommé ainsi par opposition au petit couvent de rue l'Hermitage), réclame la possibilité daccès de cette rue pour les voitures. Dans un autre de 1752, l'aplanissement demandé donne lieu à des protestations des rues voisines, entre autres des habitants « dune petite ruelle nommée la Héronnière ».
+
+Le 1er octobre 1985, la médiathèque Jacques-Demy, la plus importante et la plus ancienne de la ville, est inaugurée située sur le côté ouest de la rue, après trois ans de travaux, sur un terrain vierge de construction depuis la démolition de bâtiments détruits lors des bombardements de la Seconde Guerre mondiale2,3.
+
+
+
+
+
+
+
+FLAVIEN DE BLOIS, Les capucins de l'Ermitaae de Narites (1529-1880).
+Nantes, 1881. 
+*******************************************************************
+https://fr.wikipedia.org/wiki/Fr%C3%A8res_mineurs_capucins
+
+Les Frères mineurs capucins (en latin : Ordo Fratrum Minorum Capuccinorum, abrégé en ofm cap ou OFM Cap.) forment l'une des trois branches masculines du premier ordre religieux de la famille franciscaine, approuvé comme institut religieux de droit pontifical en 1528 par le pape Clément VII. De nombreux frères provenant presque tous de la branche de l'Observance et séparée de celle des Conventuels ont rallié alors ce nouvel ordre. Ils sont ainsi nommés du capuce ou capuchon dont ils couvrent leur tête. Les capucins sont aujourd'hui au nombre de 10 286, répartis à travers le monde. Leur ministre général est le P. Roberto Genuin (de nationalité italienne), depuis le 3 septembre 2018.
+
+Ils furent établis en 1525 par Matthieu de Baschi, moine franciscain de Montefiorentino, qui voulut réformer son ordre. Ils résidaient pour la plupart dans les Marches d'Ancône, dans cette province où le souvenir des premiers compagnons de saint François d'Assise et celui des Spirituels se perpétue. Ces moines sont motivés par la dynamique de réforme ou renouveau qui enfièvre l'Ordre franciscain depuis le xiiie siècle. Les Spirituels (qui sont condamnés en 1317) n'ont pas cessé de promouvoir une pratique intransigeante de pauvreté absolue légitimée par l'exemple de François et de ses compagnons. Ce courant de retour authentique aux sources est la principale motivation dans la réforme capucine.
+
+Frère Matthieu de Baschi venant de l'Observance ne veut plus porter l'habit de son Ordre, ayant eu la vision de saint François portant un habit avec un capuchon pointu (janvier 1525). Il demande au pape par l'intermédiaire de la duchesse de Camérino (nièce du pape) une dispense orale pour porter cet habit et prêcher d'une manière itinérante.
+
+Frère Mathieu est à l'initiative en quelque sorte d'une réforme attendue par plus de sept cents frères de son propre Ordre qu'est l'Observance. À la suite de ce début de réforme, Louis de Fossombrone et ses futurs compagnons gagnent l'estime de la duchesse de Camérino qui devient leur protectrice à cause de leur abnégation au service des pestiférés.
+
+Fr. Louis et ses compagnons mènent une vie érémitique selon la règle des ermitages de saint François, ces premiers frères portaient un habit avec un capuchon pointu, une barbe et vivaient d'aumônes.
+
+En 1535 se tient le chapitre si longtemps attendu, après que les Capucins du groupe des Reformati se sont tournés vers le ministre général des Conventuels. Il était alors possible d'établir la jeune fraternité et son gouvernement sur le fondement solide du droit. Bernardino d'Asti est nommé vicaire général, après avoir été le chef du mouvement réformateur dans la province romaine de l'Observance. Ni Matthieu de Baschi, ni Louis de Fossombrone n'ont, comme lui, marqué d'un sceau indélébile l'organisation et la forme de la vie de l'ordre naissant. Bernardino d'Asti reçut plus tard le nom de « Père de l'Ordre des Capucins » en donnant les premières constitutions à l'Ordre en 1536. L'ordre fut approuvé par Paul III en 1536.
+
+Le pape Paul III en 1543, après le départ de certains frères influents dans l'Ordre (Bernardin d'Ochino) leur interdit toute activité apostolique pendant deux ans voulant même supprimer l'Ordre. Mais le cardinal Sanseverino parla en faveur des accusés et conseilla de vérifier auparavant la conduite des membres de l'Ordre. Ils se sont donc résignés à vivre dans leurs couvents ou leurs ermitages. Le pape nomme un commissaire général avec mission de rétablir la paix dans l'Ordre. Pour cette mission difficile il choisit François de Jesi qui fut élu par la suite vicaire général. L'interdiction comprenait aussi de ne pas pouvoir s'étendre au-delà des Alpes et cela de 1535 à 1550. Ces restrictions sont dues à des raisons de politique interne entre le pape et le ministre général des Observants, ce dernier voulant attirer les Capucins sous son obédience. L'influence des Observants cessa peu à peu, ce qui contribua à creuser de plus en plus la distance entre les deux branches. C'est la génération d'après Bernardin d'Asti qui eut tendance à considérer l'Ordre comme un rameau distinct de l'arbre franciscain.
+
+C'est finalement en 1574 que Grégoire XIII donne la liberté aux Capucins de se répandre partout dans le monde. La même année, les premiers frères Capucins arrivent au couvent de Meudon et à Paris introduits en France sous Catherine de Médicis et Charles IX, ils s'y multiplièrent rapidement (voir Couvent des Capucins Saint-Honoré). Ils sont également, à cette époque, à l'appui de la Contre-Réforme, ...
+
+Par la suite, plusieurs promulgations sont faites :
+
+en 1608 les Capucins sont déclarés « de vrais frères mineurs et fils de saint François » ;
+en 1619 un bref (lettre du pape ne comportant pas son sceau) promulgue que le supérieur général s'appellera ministre général au même titre que les autres.
+
+Introduction
+Le temps de la formation initiale est un temps dinitiation et de cheminement, avec des frères et dans louverture à lEsprit Saint, un temps dapprofondissement de lappel à suivre Jésus Christ à la manière de François dAssise et des frères qui lont suivi.
+Il sagit daider le candidat à entrer dans la consécration de sa vie à Dieu dans une forme de vie particulière, insérée dans la vie de lÉglise et de la société daujourdhui. La vie de prière et doraison en est un des piliers, le lieu de lunité, de la continuité, de la croissance intérieure.
+
+Les étapes de formation
+Accueil vocationnel
+Par des séjours de durées variées, en diverses fraternités, celui qui sintéresse à notre forme de vie peut découvrir la réalité au quotidien de ce qui nous anime. Par les échanges avec des frères, il peut interroger son propre cheminement et confirmer son choix davancer dans le don de sa vie avec nous. Ces séjours sont aussi pour les frères loccasion de mieux connaître le candidat afin de se prononcer sur son éventuelle admission à létape suivante.
+
+Postulat
+Ce temps est une initiation à notre forme de vie de frère mineur. Par la vie menée en frères, la prière liturgique ensemble ou personnelle, le service dans les tâches communes de la maison, le postulant se découvre davantage lui-même et inséré dans une fraternité. Il peut ainsi discerner si son appel le conduit bien chez les Capucins. Les frères peuvent aussi confirmer ou non son appel dans notre Ordre. Actuellement, cette étape se déroule en italien, en Sardaigne, en collaboration avec les Provinces du Centre de lItalie.
+
+Noviciat
+Le noviciat est un temps de retrait pendant lequel le frère est invité à fonder son engagement religieux dans lOrdre des Capucins sur une expérience spirituelle. Les conditions sont réunies pour quil développe la dimension de lintériorité et se laisse saisir par la personne du Christ. Le novice choisit librement demprunter le chemin de la minorité en se rendant disponible et proche de ses frères. Dans cette perspective de formation au charisme franciscain-capucin, il fréquente les textes fondateurs pour intérioriser notre "esprit de famille". Le noviciat sachève par la première profession (vux temporaires). Actuellement, cette étape se déroule en italien, au couvent de Camerino, dans la province des Marches, en collaboration avec les Provinces du Centre de lItalie.
+
+Profession temporaire
+Devenu profès temporaire, le frère approfondit et intègre les éléments structurants (pauvreté, chasteté, obéissance, vécues en frère mineur) reçus au noviciat en vue de la profession perpétuelle. Y est recherchée lintégration progressive de la dimension de minorité et de fraternité comme source de la vie à la suite du Christ. Pour cela, laccent est mis sur la relation fraternelle, la minorité et le service, par une vie simple ensemble et des expériences concrètes de rencontres (avec des personnes en difficultés, des personnes dautres cultures ).
+Puis, afin de mûrir le choix de lengagement définitif dans notre Ordre, le frère sengage dans un parcours détudes adapté offrant lintelligence de la foi et une compréhension du monde. La mise en uvre de cette période est cependant telle quelle favorise la vie capucine ordinaire (prière, services dans la fraternité, ).
+
+https://paroisseshautecornouaille.fr/patrimoine/a-la-decouverte-de-tregornan/

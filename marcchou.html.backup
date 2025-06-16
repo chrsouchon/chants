@@ -1,0 +1,655 @@
+<HTML>
+<HEAD>
+<TITLE>La Marche des Chouans</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="expires" content="86400"><META Name="author" content="Christian Souchon">
+<META Name="keywords" content="folk music, traditional music, celtic music, midi, Brittany, Breton music, Abbé François Cadic, musique bretonne, marche des Chouans ">
+<META Name="description" content="Midi File, French and English translation of the Breton lyrics and Information on 'Marche des Chouans">
+</HEAD>
+<BODY>
+<center><h1>Marche des chouans</h1>
+<h2>Complainte des chouans</h2>
+<h2>March and Lament of the Chouans</h2>
+<h4>Textes publiés par l'Abbé François Cadic (en novembre et décembre 1913, puis en mars 1923)</h4>
+
+<img src="Quiberon1795.png" height=400 width=810 border=0 name=AP><br>
+<br>
+<img src="chouchoi.png" height=35 width=360 usemap=#CARTE border=0>
+<br>
+<MAP name=CARTE>
+
+<AREA onmouseover="document.AP.src='marchoua.png';" 
+onMouseOut="document.AP.src='Quiberon1795.png';"
+shape=RECT target=_blank coords=1,1,120,35 href="marchoua.mid">
+
+<AREA onmouseover="document.AP.src='marchou2.png';" 
+onMouseOut="document.AP.src='Quiberon1795.png';"
+shape=RECT target=_blank coords=121,1,240,35 href="marchou2.mid">
+
+<AREA onmouseover="document.AP.src='compchou.png';" 
+onMouseOut="document.AP.src='Quiberon1795.png';"
+shape=RECT target=_blank coords=241,1,360,35 href="compchou.mid">
+
+</map>
+Balayer les 3 cases jaunes pour afficher les partitions, cliquer pour entendre les arrangements MIDI<br>
+Illustration: "Le combat de Quiberon" par Jean Sorieul (1850)<br>
+
+<table width=80%>
+<td width=33% valign=top align=center>
+<Audio src="marchoua.mp3" controls></Audio><br>
+Mélodie 1: Marche des Chouans 1<br>
+</td>
+<td width=33% valign=top align=center>
+<Audio src="marchou2.mp3" controls></Audio><br>
+Mélodie 2: Marche des Chouans 2<br>
+</td>
+<td width=33% valign=top align=center>
+<Audio src="compchou.mp3" controls></Audio><br>
+Mélodie 3: Complainte des Chouans<br>
+</td></table>
+<br><br>
+<i>Les mélodies 1 et 3 sont pratiquement identiques</i><br>
+<i><font size=-2>Arrangement Christian Souchon (c) 2023</font></i><br> 
+Source: "Paroisse bretonne de Paris" de l'abbé François Cadic, N° 131, 132 (PBP: nov. et déc. 1913, pp. 378-381) et N° 172 (PBP: mars 1923, p 493-494) <br>
+<br>
+<table width=100%>
+<td width=50% valign=top>
+<b>A propos de la mélodie</b><br>
+La mélodie N°1 a été publiée par l'abbé François Cadic sous le titre "Marche des chouans" dans "La Paroisse Bretonne" (novembre 1913, Dastum : p.378-380, classification Malieu: M-00028).<br>
+La mélodie N°2 a été publiée 1 mois plus tard sous le n°132, "Variante à la chanson de la marche des chouans", p.381. Elle vient de Moustoir-Ac et est sensiblement différente de la précédente.<br>
+La mélodie N°3 ne put être publiée dans les N° de la "Paroisse" de février et mars 1918 consacrés au chant N°146, "Derniers chouans" (classification Malrieu: M-00034), par suite de contraintes matérielles dûes à la guerre.<br> 
+Elle le fut, avec une réédition des paroles, sous le titre "N°172, Complainte des chouans", en mars 1923. L'abbé Cadic ne semble pas avoir remarqué combien elle est proche de la mélodie 1.<br>
+<br>
+<b>A propos du texte</b><br>
+La mélodie 1 est interprétée (bouton en bas de page) par le chanteur <b>Marcel Nobla</b>, doté d'une belle voix adaptée aux chants de marins: "Jean-François de Nantes", "Siège de Montaigu", "Pique la Baleine"... Il commença sa carrière dans les années 1950!<br>
+Sur le site "marcel-legay-a-la-rtf-en-1956", on apprend qu'en 1956 c'était un artiste fameux du cabaret le "Lapin Agile".
+Il était chanteur et guitariste et il excella dans divers registres de la chanson, quelle soit traditionnelle, historique, révolutionnaire, paillarde, Au Lapin Agile, il chanta Aristide Bruant et Marcel Legay. Son interprétation de "Si la Garonne avait voulu" de Gustave Nadaud  est restée dans la mémoire des fidèles du "Lapin".<br>
+<i>On peut supposer qu'il est l'auteur des paroles françaises</i> qui sont extraites de la traduction publiée par F. Cadic avec le texte vannetais dont on trouvera ici un équivalent KLT.
+
+</td>
+<td width=50% valign=top>
+<b>About the tune</b><br>
+Melody No. 1 was published by the Rev. François Cadic in La Paroisse Bretonne, under the title "The Chouans' March", (November 1913, Dastum: pp. 378-380, Malrieu item: M. 00028).<br>
+Melody No. 2 was published 1 month later under N°132, "Variant to the Chouans' march", p.381. It comes from Moustoir-Ac and is significantly different from the previous.<br>
+Melody No. 3 could not be published in the Paroisse issues of February and March 1918 dedicated to song N°146, The last Chouans (Malrieu item: M-00034), on account of material constraints due to the war.<br> 
+It was, along with a reissue of the lyrics, under the title N°172 "Lament of the  Chouans", in March 1923. Rev. Cadic does not seem to have noticed how close it is to melody N° 1.<br> 
+<br>
+<b>About the lyrics</b><br>
+Melody 1 is performed (button at the bottom of the page) by singer <b>Marcel Nobla</b>, with a beautiful voice suited to sea shanties: "Jean-François de Nantes", "Siege of Montaigu", "Pique la Baleine". .. He began his career in the 1950s!<br>
+On the site "marcel-legay-a-la-rtf-en-1956", we learn that in 1956 he was a famous cabaret artist at Montmartre's "Lapin Agile".<br>
+He was a singer and guitarist and he excelled in various registers of song, whether traditional, historical, revolutionary, bawdy  At "Lapin Agile", he sang Aristide Bruant's and Marcel Legay's songs. His interpretation of If the Garonne had wanted by Gustave Nadaud remained in the memory of the faithful visitors of Lapin.<br>
+<i>We can assume that he is the author of the French lyrics</i> of the song at hand, which are derived from the translation published by F. Cadic along with the Vannes dialect text of which we will find here a KLT equivalent.
+</td></table><br>
+<br>
+<h2>1° Marche des Chouans</h2>
+<b>Publié par François Cadic dans la "Paroisse Bretonne de Paris", novembre 1913.</b><br>
+
+<br>
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=33% valign=top>
+BREZHONEG (Stumm KLT)<br>
+<br>
+1. N'ho-peus ket soñj, Bretoned,<br> 
+a-gostez douar Alre (ter)<br>
+Hag er bloaz mil seizh kant<br> 
+pe(v)ar ugent ha pemzek? (bis)<br>
+<br>
+2. Hag er bloaz mil seizh kant<br> 
+pe(v)ar ugent ha pemzek<br>
+Pa ruilhe 'r bolidi,<br> 
+gouel Zant Per en Alre<br> 
+<i>(Stumm all: "Pa oa ur c'hombat bras...")</i><br> 
+<br>
+3. Pa ruilhe 'r bolidi<br> 
+war 'r pavez en Alre<br>
+Hag e-kreiz ar plasenn,<br> 
+Gwezenn al Liberte<br> 
+<br>
+4. Hag e-kreiz ar plasenn,<br> 
+Gwezenn al Liberte<br> 
+Ha p'erruas eno<br> 
+avant-gard ar Mercier<br>
+<br>
+5. P'erruas Jorj eno <br>
+ha gantañ La-Vendé.<br>
+Hag a grias "Qui vive!",<br> 
+hini na responte.<br>
+<br>
+6. Da zeizh eur da vintin<br> 
+e pasent en Alre<br>
+An taoloù warnezhe <br>
+ker stank e'l ar gwenan.<br>
+<br>
+7. Hag ar Jeneral Jorj<br> 
+a Vrec'h e-tal Alre<br>
+Henezh 'daolas ur c'hri<br> 
+d'ar penn eus an arme:<br>
+<br>
+8. Henezh 'daolas e vouezh<br> 
+partoud dre an arme:<br>
+"Kouraj-ta, mes enfants!<br> 
+Kouraj, va bugale!<br>
+<br>
+9. Kouraj-ta, mes enfants!<br> 
+Kouraj, va bugale!<br>
+Skarzhomp ar ganailh-mañ<br> 
+er-maez deus an Alre,<br>
+<br>
+10. Skarzhomp ar ganailh-mañ<br> 
+er-maez deus an Alre,<br>
+Betek Kroaz an tri c'horn<br> 
+greomp an ambroug dezhe.<br>
+<br>
+11. Fourchit o c'hanolioù!<br> 
+Lakait o da vlêjal!<br>
+Mallozh ruz! Ni o gwelo <br>
+astennet war an douar."<br>
+<br>
+12. Er-maez deus an Alre<br> 
+o-deus int holl boutet<br>
+Betek Kroaz an tri c'horn<br> 
+o-deus int ambrouget.<br>
+<i>(Stumm all: "Betek prad ar men houarn...")</i><br>
+<br>
+13. Antronoz deiz warlerc'h <br>
+e oant ivez skarzhet<br>
+War 'n hent da Giberen <br>
+e oant bet konduet.<br>
+<br>
+13. Pemp pe c'hwec'h deiz goude<br> 
+war traezhenn Kiberen<br>
+E ruilhe bolidi<br> 
+ker stank e'l ar gwenan.<br>
+<br>
+14. Pa erruas Jorj eno <br>
+n'hag ivez La-Vende<br>
+Int a c'houlenn a-benn <br>
+ar penn deus an arme.<br>
+<br>
+15. Ar penn deus an arme<br> 
+pa o-deus bet kavet<br>
+Da gombat war an traezh <br>
+e oant bet daveet.<br>
+<br>
+16. Neve(zi)nti vat e-bet <br>
+atav ne errue:<br>
+Int a welas gwall splann <br>
+oe treizoni dioute.<br>
+<br>
+17. Jorj neuze a laras<br> 
+ober buhan retred<br>
+Tolpet en-deus e dud <br>
+evit bout ambarket<br>
+<br>
+18. Aet eo ha zastumas <br>
+eizh batimant pe nav<br>
+Da rein d'ar zoudarded<br> 
+vit diskenn e Sarzho.<br>
+<br>
+19. A-ziouzh pemp mil den<br> 
+o-doe ar re ruz<br>
+Na chome mui gante<br> 
+'met pemp kant "difestus".<br>
+<br>
+20. Ha c'hoazh e-tal ar mor<br> 
+ha pa oant erruet<br>
+Kentoc'h 'vit koll buez<br> 
+o-doe en-em rantet.<br>
+<br>
+<i> Vannetais transcrit KLT <br>
+par Christian Souchon</i>
+</td>
+<td width=34% valign=top> 
+CHANT FRANCAIS<br>
+<br>
+1. N'avez-vous souvenance,<br> 
+Bretons d'auprès Auray, O gai ! (bis)<br>
+De l'an quatre-vingt-quinze<br>
+<i>De l'an mille sept-cent<br>
+<br>
+de l'an mille sept-cent<br>
+quatre-vingt-quinze</i><br>
+Quand les boulets roulaient?(bis)<br>
+A la saint Pierre, O gai !<br>
+<i>(variante:"Il y eut un grand combat...")</i><br>
+<br>
+<i>Quand les boulets roulaient <br>
+sur le pavé d'Auray</i><br>
+Au milieu de la place<br>
+L'arbre de Liberté! (bis)<br>
+<br>
+<i>Au milieu de la place<br>
+L'arbre de Liberté!</i><br>
+2. Arriva l'avant-garde<br>
+L'avant-garde à Mercier, O gai<br>
+<br>
+<i>Lorsque George arriva<br>
+ainsi que La-Vendée<br>
+Qu'il s'écria "Qui vive?"<br>
+Nul ne lui répondit<br>
+<br>
+A sept heures du matin<br>
+ils passèrent Auray<br>
+Sur eux les coups pleuvaient<br>
+Drus comme essaim d'abeilles</i><br>
+<br>
+Et puis l' général Georges<br>
+De Brec'h tout près d'Auray<br>
+<i>Lequel poussa un cri<br>
+à la tête de l'armée<br>
+<br>
+Sa voix se fit entendre<br>
+de par toute l'armée</i><br>
+"Courage !  criait-t-il,<br>
+Courage donc, les gars !<br>
+<br>
+<i>Courage, les enfants!<br>
+Courage, mes enfants!<br>
+Chassons cette canaille<br>
+Chassons-la hors d'Auray</i><br>
+<br>
+Chassons cette canaille<br>
+<i>Chassons-la hors d'Auray</i><br>
+Jusque là-bas à la Grand-Croix!<br>
+<i>Faisons-lui un brin de conduite</i><br>
+<br>
+<i>Enfourchons leurs canons!<br>
+Mettons-les à beugler!<br>
+Palsambleu, qu'on les voie<br>
+étendus sur le sol!"<br>
+<br>
+Et en-dehors d'Auray<br>
+ils les ont tous boutés<br>
+A la Croix des Trois coins<br>
+Ils les ont reconduits.<br>
+<i>(Variante: Jusqu'à la Croix de fer...)</i><br>
+<br>
+Le lendemain ce fut<br>
+A leur tour de céder...</i><br>
+On leur fit la conduite<br>
+Jusques à Quiberon.<br>
+<br>
+<i>Cinq ou six jours ensuite<br>
+sur la grève à Quiberon<br>
+c'est les boulets qui pleuvent<br>
+Drus comme essaim d'abeilles.</i><br>
+<br>
+3. Puis George et la Vendée<br>
+<i>Puis George et la Vendée<br>
+ont demandé la tête<br>
+la tête de l'armée</i><br>
+<br>
+La tête de l'armée ont pris<br>
+<i>sitôt qu'ils l'ont trouvée.<br>
+Au combat sur la grève<br>
+ils furent engagés.</i><br>
+<br>
+Mais aucune bonne nouvelle<br>
+Ne leur parvenait plus.<br>
+<i>C'était une évidence</i><br>
+La trahison rôdait.<br>
+<br>
+Georges nous ordonna :<br>
+« Battez vite en retraite !<br>
+<i>Il rassembla ses hommes<br>
+tous, pour les embarquer</i><br>
+<br>
+<i>Il réunit huit ou neuf bateaux:</i><br>
+"Il nous faut descendre à Sarzeau.<br>
+Des bâtiments nous attendent,<br>
+allez mes braves Chouans !"<br>
+<br>
+<i>Et sur les cinq mille hommes<br>
+que comptait la rouge armée<br>
+En état de combattre<br>
+cinq-cents il lui restait.<br>
+<br>
+C'est pourquoi sur la grève,<br>
+quand ils touchaient au but,<br> 
+Pour demeurer en vie<br>
+tous, ils se sont rendus.</i><br>
+<br>
+<i>En italiques: traduction des vers<br>
+bretons absents du chant français.</i><br>
+</TD>
+<td width=33% valign=top>
+ENGLISH<br>
+<br>
+1. Do you remember,<br>
+Bretons from Auray, O gay! (bis)<br>
+The year seventeen hundred<br>
+and ninety-five<br>
+<br>
+<i>Seventeen hundred<br>
+and ninety-five,</i><br>
+When the balls were rolling?(bis)<br>
+On Saint Peters Day, O gay!<br>
+<i>(variant: "There was a great fight...")</i><br>
+<br>
+<i>When the balls were rolling<br>
+on the pavement of Auray</i><br>
+In the middle of the square<br>
+The Tree of Liberty! (bis)<br>
+<br>
+<i>In the middle of the square<br>
+The Tree of Liberty!</i><br>
+2. Arrived the avant-garde<br>
+The avant-garde of Mercier, O gay<br>
+<br>
+<i>When George arrived<br>
+as well as La-Vendée,<br>
+He cried out Who lives?<br>
+Nobody answered him.<br>
+<br>
+At seven in the morn<br>
+they passed along Auray<br>
+Blows rained down on them<br>
+Thick as a swarm of bees.</i><br>
+<br>
+And then General George<br>
+From Brec'h next to Auray<br>
+<i>Came and uttered a cry<br>
+at the head of the army<br>
+<br>
+And George's voice was heard<br>
+throughout the entire army</i><br>
+" Courage ! courage! he shouted,<br>
+Courage then, companions!<br>
+<br>
+<i>Courage, courage children!<br>
+Courage, the lot of you!<br>
+Let's chase away this scoundrels<br>
+Let's chase them out of Auray!</i><br>
+<br>
+Let's chase away this scoundrels<br>
+<i>Let's chase them out of Auray</i><br>
+All the way to the High Cross! <br>
+<i>Let us see them out!<br>
+<br>
+Let us ride their cannon!<br>
+Let us make their guns bellow!<br>
+By Jove, we shall see them<br>
+lying stretched out on the ground!<br>
+<br>
+And out of Auray<br>
+they have kicked them all,<br>
+To the Three Corner Cross<br>
+They have taken them back.<br>
+(Variant: To the Iron Cross...)<br>
+<br>
+Alas, the next day it was<br>
+their turn to give in...</i><br>
+We were shown the way<br>
+As far back as Quiberon.<br>
+<br>
+<i>Five or six days later<br>
+there, on Quiberon's beach<br>
+The cannonballs were raining<br>
+thick as a swarm of bees.</i><br>
+<br>
+3. Then George and La-Vendée<br>
+<i>Then George and La-Vendée<br>
+They asked for the head<br>
+the head of the army.</i><br>
+<br>
+The head of the army they took<br>
+<i>as soon as they found it.<br>
+To lead the battle on the shore<br>
+they were hired instantly.</i><br>
+<br>
+But no good news anymore<br>
+Was to reach them that day.<br>
+<i>There was obviously</i><br>
+Betrayal on the way.<br>
+<br>
+Georges ordered us:<br>
+Quickly retreat! Quickly!<br>
+<i>He gathered all his men<br>
+to take them all on board<br>
+<br>
+Eight or nine vessels:</i><br>
+We'll go down to Sarzeau.<br>
+where vesseils wait for us,<br>
+Come on, my brave Chouans all!<br>
+<br>
+<i>Out of five thousand men<br>
+who were in the Red army<br>
+And were ready to fight,<br>
+but five hundred were left.<br>
+<br>
+This is why on the shore<br>
+where they had reached their goal,<br>
+So as to stay alive<br>
+They surrendered all.<br>
+<br>
+In italics: translation of the Breton
+verses missing in the French march.</i>   
+</td></tr></table><br>
+<br>
+NOTES:<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] L'abbé François Cadic publia ce chant avec un commentaire que l'on peut résumer ainsi (Paroisse Bretonne, novembre 1913):<br>
+Ce chant sans doute composé immédiatement après les événements de 1795 fut à la mode sous la Restauration. Quand les Bourbons,(Charles X) furent renversés en 1830, les Légitimistes l'adoptèrent comme chant de protestation contre Louis-Philippe et de soutien envers le comte de Chambord, Henri V, ce qui lui valut d'être interdit.<br>
+François Cadic et son cousin, ancien vicaire d'Auray reconstituèrent chacun de son côté cette marche à partir de fragments recueillis à Pontivy, Pluvigner, Moustoir-Arc et Arragon. les résultats obtenus n'offrent que peu de différences.<br>
+Ce n'est pas un chant de victoire, mais un tragique récit qui commence par les combats sur la plage de Quiberon , qui se termine par la retraite des Chouans sur Sarzeau et Pont-Aven et par la capitulation de l'"Armée rouge" des émigrés. 
+Le poète s'arrête avec complaisance sur la prise d'Auray. Un détachement de l'armée royaliste sous les ordres de Boisberthelot avec Georges Cadoudal et Pierre-Mathurin Mercier, dit La Vendée arriva de Carnac et pénétra dans la ville le 25 juin 1795,sans coup férir. Les insurgés furent accueillis avec enthousiasme par la population. Ils étaient 5000, tant émigrés que chouans. Les 400 hommes de la garde nationale s'étaient joints à eux.<br>
+Deux jours après, le général Hoche reprenait la ville avec 2000 hommes, après une charge de cavalerie. Boisberthelot blessé dut battre en retraite et se replier sur Quiberon.
+Cette retraite fut un désastre sur lequel le Tyrtée breton ne s'étend pas.
+</font></td>
+<td width=50% valign=top><font size=-1>
+[1] Father François Cadic published this song with a commentary that can be summarized as follows (Paroisse Bretonne, November 1913):<br> 
+This song, undoubtedly composed immediately after the events of 1795, was fashionable under the Restoration. When the Bourbons (Charles X) were overthrown in 1830, the Legitimists adopted it as a song of protest against Louis-Philippe and of support for the Count of Chambord, Henri V, which led to it being banned.<br>
+François Cadic and his cousin, former vicar of Auray, each reconstructed this march from fragments collected in Pontivy, Pluvigner, Moustoir-Arc and Arragon. the results obtained offer little difference.<br> 
+It is not a song of victory, but a tragic story which begins with the fighting on the beach of Quiberon. It ends with the retreat of the Chouans to Sarzeau and Pont-Aven and the capitulation of the "Red Army" of the  emigrants. The poet dwells with complacency on the capture of Auray. A detachment of the royalist army under the orders of Boisberthelot with Georges Cadoudal and Pierre-Mathurin Mercier, known as La Vendée, arrived from Carnac and entered the town on June 25, 1795, without firing a shot. The insurgents were welcomed with enthusiasm by the population. There were 5,000 of them, both Emigrants and Chouans. The 400 men of the national guard had joined them.<br> Two days later, General Hoche retook the city with 2000 men, after a cavalry charge. Boisberthelot, injured, had to retreat and fall back on Quiberon. This retreat was a disaster upon which the Breton Tyrteus does not dwell.
+</font></td> </table><br>
+<br>
+<center>
+<h2>2° Complainte des Chouans</h2>
+
+<b>Texte et mélodie recueillis par l'Abbé Cadic<br>
+<br>
+
+<TABLE BORDER=1 width=100%><tr>
+<TD WIDTH=33% valign=top>
+BREZHONEG (Stumm KLT)<br>
+<br>
+1. O selaouit va breudeur<br>
+ha va c'hamaraded!<br>
+Na truezus a vicher<br>
+hon-eus-ni kemeret!<br>
+Ha paz eomp d'ar pardon,<br>
+O pe d'an asamble<br>
+Diskouezet omp gant ar biz:<br>
+"Sell, Chouaned aze!"<br>
+<br>
+2. Ha paz eomp d'an davarn<br>
+gant hor c'hamaraded<br>
+Diskoue(z)et omp gant ar biz:<br>
+"Sell, aze Chouaned!"<br>
+Ha paz eomp da vale<br>
+e-mesk hor c'honsorted<br>
+Diskoue(z)et omp gant ar biz:<br>
+"Sell, aze Chouaned!"<br>
+<br>
+3. Mar hon-eus ar maleur<br>
+da respont gant rezon:<br>
+N'o-deus da damall deomp<br>
+netra 'med hor prizon!<br>
+N'eo ket c'hwi, tudjentil,<br>
+naren nag ho prizon<br>
+A ray deomp-ni cheñchiñ,<br>
+leuskel hon opinion<br>.
+<br>
+4. Rak me glev ur vouezh dous,<br>
+ur vouezh dous o laret:<br>
+"Dalc'homp, dalc'homp fidel,<br>
+Fidel dalc'homp bepret!<br>
+O feiz-ta, va breudeur,<br>
+dra sur ni a zalc'ho,<br>
+Ni a varvo mil gwech<br>
+kentoc'h evit mankout!" [1]<br>
+<br>
+<i> Transcription KLT: Christian Souchon</i>
+</td>
+<td width=34% valign=top> 
+FRANCAIS<br>
+<br>
+1. Camarades mes frères.<br>
+Quel bien triste métier<br>
+Avons-nous bien pu faire<br>
+dans un proche passé!<br>
+Partout où l'on s'assemble,<br>
+il se trouve des gens<br>
+Qui du doigt nous désignent:<br>
+"Voyez, ce sont des Chouans!"<br>
+<br>
+2. Ou quand à la taverne,<br>
+on rejoint ses amis,<br>
+Des doigts vers nous se pointent:<br>
+"Là-bas, des Chouans assis!"<br>
+Et si jamais en groupe,<br>
+on arpente les rues<br>
+A nos oreilles sonne<br>
+"Des Chouans!", chanson connue!<br>
+<br>
+3. Si par malheur on ose<br>
+dérouler ses raisons,<br>
+Alors on vous assène:<br>
+"Vous étiez en prison!"<br>
+- Ce que n'a pu la geôle,<br>
+en vain votre mépris<br>
+Le tente: à cur fidèle<br>
+faire changer d'avis.<br>
+<br>
+4. J'entends à mon oreille<br>
+chuchoter une voix:<br>
+"Avec persévérance,<br>
+continuons le combat!<br>
+De défendre la cause,<br>
+amis, jurons encor:<br>
+Honte à ceux qui renoncent!<br>
+Plutôt cent fois la mort! " [1]<br>
+<br>
+<i>Traduction:Christian Souchon"</i>  
+</TD>
+<td width=33% valign=top>
+ENGLISH<br>
+<br>
+1. Comrades and brethren, listen:<br>
+Whas it so bad a job<br>
+What we all once attempted<br>
+Which is banned by the mob?<br>
+For wherever we gather<br>
+Some bloke points, indignant,<br>
+To us with the reminder:<br>
+"Beware, these are Chouans!<br>
+<br>
+2. When we go to the tavern<br>
+With friends a drink to share,<br>
+Towards us point stern fingers:<br>
+Chouans sitting over there!<br>
+And if a party of us<br>
+Happen to walk the streets,<br>
+Somebody will say " Chouans there!"<br> 
+and everyone repeats.<br>
+<br>
+3. If by mishap we offer<br>
+To unfold our reasons,<br>
+The argument they proffer:<br>
+Is: You were in prison!<br>
+- Now should your contempt perform<br>
+What prison failed to do?<br>
+Making true hearts to conform<br>
+With what they think untrue.<br>
+<br>
+4. To my ear a voice whispers<br>
+A voice both soft and light:<br>
+"Let us, with perseverance,<br>
+Let's go on with the fight!<br>
+Friends, the right cause to defend,<br> 
+Let's promise loud and high: <br>
+I, rather than to give up,<br> 
+A thousand times would die " [1]<br>
+<br>
+<i>Translation:Christian Souchon"</i>   
+</td></tr></table><br>
+<br>
+
+NOTES:<br>
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+[1] L'abbé Cadic pense, sans doute avec raison que, si cette chanson fut composée lorsque les Chouans durent déposer les armes, elle trouva un nouveau regain de popularité sous Louis-Philippe, quand les réfractaires se lancèrent dans une folle tentative de guérilla qui ressemblait fort à du brigandage. Ils n'avaient plus pour résister au découragement que le bien faible espoir en l'avènement du prétendant légitimiste, le comte de Chambord, petit fils de Charles X. Celui qui se faisait appeler Henri V avait organisé sa cour au château de Frohsdorf en Autriche dont il avait hérité en 1851. C'est là qu'il mourut en 1883 à l'âge de 63 ans.
+L'abbé Cadic poursuit: "Légitimistes impénitents, [ces derniers Chouans] se rendirent compte cependant du discrédit que leur avait valu leurs excès dans l'opinion des gens. Ils étaient devenus l'objet de la risée, quand ce n'était pas de la haine du public et il suffisait qu'ils parussent dans une réunion quelconque pour qu'on les montrât du doigt, en accablant de quolibets et de mauvaises plaisanteries [...] ces Don Quichotte de la légitimité... La foule n'est guère disposée à donner son suffrage aux causes perdues, ni à ménager les vaincus.  ... Aujourd'hui la complainte des Chouans est oubliée" (écrit en 1923).
+Plusieurs chansons furent composées sous l'Empire avec un caractère nettement anti-Chouan. François Cadic pense que la présente chanson en dialecte de Vannes a dû voir le jour précisément dans "cette bastille irréductible de la légitimité que formaient les cantons de Pontivy, de Baud et de Locminé..."<br>
+<br>
+La réédition de "La Paroisse bretonne de Paris" sous le titre "Chansons populaires de Bretagne", par les Presses Universitaires de Renne, Dastum et le CRBC en avril 2010, dans la collection "Patrimone oral de Bretagne", donne en notes, p. 493, les variantes suivantes:
+str.1: "Kristenien, va breudeur, O, ha va kamaraded/ Na bourrabl an amzer hon-eus ni bet kavet"= "Chrétiens, mes frères et camarades/ Qu'il était agréable le temps où nous avons vécu!"<br>
+str. 2: "Ha paz eomp-ni d'ar foar pe d'an asamble" =" Quand nous allons à la foire ou à l'assemblée".<br>
+str. 5: "N'o-deus ken a venas 'met hon fout er prizon" = "Ils n'ont plus d'autre menace que de nous 'mettre' en prison".<br>
+str. 8: "O, ya-sur. Herri Pemp, O ya-sur ni zalho" ="Oh, c'est sûr, Henri V, lui, nous le soutiendrons!"
+</font></td>
+<td width=50% valign=top><font size=-1>
+[1] Rev. Cadic thinks, undoubtedly rightly, that if this lament was composed when the Chouans had to lay down their arms, it found a new revival of popularity under Louis-Philippe, when the refractories started a mad attempt to guerrilla warfare which looked very much like brigandage. They had no more to resist discouragement than the very faint hope in the advent of the legitimist pretender, the Count of Chambord, grandson of Charles X. who used to style himself Henry V and had settled his court at Frohsdorf castle in Austria, a mansion which he had inherited in 1851. It was there that he died in 1883 at the age of 63.<br>
+Father Cadic states further: "Unrepentant legitimists, [the so-called Last Chouans] however realized the discredit that their excesses had earned them in the poeple's opinion. They had become the object of ridicule, when it was not hatred of the public. Hardly had they appeared in any meeting than they were pointed out, overwhelmed with jeers and bad jokes [...] as Don Quixotes of legitimacy... The crowd "is hardly disposed to give their votes to lost causes, nor to spare the vanquished. ... Today the "Lament of the Chouans" is forgotten" (written in 1923).<br>
+Several songs were composed under the Empire with a distinctly anti-Chouan character. François Cadic thinks that the present song in Vannes dialect must have seen the light of day precisely in "this irreducible bastille of legitimacy, en area encompassing the cantons of Pontivy, Baud and Locminé..."<br>
+<br>
+The reissue of "La Paroisse bretonne de Paris" under the title "Popular Songs of Brittany", by the Presses Universitaires de Renne, Dastum and the CRBC, in April 2010, in the collection "Patrimone oral de Bretagne", gives in notes, p . 493, the following variants:<br>
+str.1: "Kristenien, va breudeur, O, ha va kamaraded/ Na bourabl an amzer hon-eus ni bet kavet"= "Christians, my brothers and comrades/ How pleasant was the time in which we lived!"< br>
+str. 2: "Ha paz eomp-ni d'ar foar pe d'an asamble" = "When we go to the fair or to the assembly".<br>
+str. 5: "N'o-deus ken a venas 'met hon fout er prizon" = "They have no other threat than to 'put' us in prison".<br>
+str. 8: "O, ya-sur. Herri Pemp, O ya-sur ni zalho" ="Oh, for sure, Henry V, we will support him!"
+</font></td> </table><br>
+<br>
+<center>
+
+<table width=100%>
+<td width=20% valign=top align=center>
+<img src="Cadoudal1.png" width=80%><br>
+<br>
+Georges Cadoudal
+</td>
+<td width=20% valign=top align=center>
+<img src="Lavendee.png" width=80%><br>
+<br>
+Pierre Mercier La Vendée
+</td>
+<td width=20% valign=top align=center>
+<img src="Nobla.png" width=80%><br>
+<br>
+Marcel Nobla
+</td>
+<td width=20% valign=top align=center>
+<img src="HenriV.png" width=80%><br>
+<br>
+Le comte de Chambord
+</td>
+<td width=20% valign=top align=center>
+<img src="Hoche.png" width=80%><br>
+<br>
+Lazare Hoche
+</td>
+</table><p>
+<audio src="marnobla.mp3" controls></audio><br>
+La marche des Chouans (mélodie N° 1) chantée en français par Marcel Nobla<br>
+<br>
+<A Href="../rehlazf.html">Retour à "Ar re c'hlaz"</A><BR><br> 
+<A Href="../penwern.html">Taolenn</A><BR>
+<br>
+<table border>
+<td width=100% valign=top bgcolor=yellow><p class=norme><font face=verdana color=black size=-1><b><center>
+Ce chant est étudié dans<br>
+"Les Chouans selon Villemarqué",<br> 
+
+<a href="https://www.amazon.fr/gp/product/B09GJHMX2R/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_top">un livre au format A4.</a><br>
+<br><center>
+<a href="https://www.amazon.fr/gp/product/B09GJHMX2R/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_top"><img src="chouanvi.jpg"></a><br>
+<br>
+<font size=-2><i> Cliquer sur le lien ou sur l'image ci-dessus</i></font><br>
+
+</td>
+</table><br>
+<br>
+
+<a href="soufflet.html"><img src="fle_ga.gif" width="10" height="10" alt="précédent" border="0"></a> <a href="../homepage.html" target="_top" alt="Welcome Page"><img src="home1.gif"></a> <a href="habichou.html"><img src="fle_dr.gif" width="10" height="10" alt="suite" border="0"></a>
+<br>
+<script language="JavaScript" src="../maj.js"></script><script language="JavaScript">maj()</script></BODY></HTML> 

@@ -1,0 +1,709 @@
+<HTML>
+<HEAD>
+<TITLE>Emgann an Arzhoniz</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="expires" content="86400">
+<META Name="author" content="Christian Souchon">
+<META Name="keywords" content="folk music, traditional music, celtic music, breton music, midi, Le cantique des Arzonnais, Le combat des Arzonnais, La prière des Arzonnais, Emgann an Arzhoniz, the combat of the Arzon sailors, gwerz, M-00048 ">
+<META Name="description" content="Midi File, French and English translation of the Breton lyrics and Information on ''Emgann an Arzhoniz">
+<script language="javascript">
+function prechargerImages()
+{if (document.images)
+{var fichiersImages = prechargerImages.arguments;
+var prechargerTableau = new Array();
+for (var i=0; i < fichiersImagr.length; i++)
+{prechargeTableau[i] = new Image;
+prechargeTableau[i].src = fichiersImage[i];}}}
+</script>
+<script language="javascript">
+prechargerImages('arzon1.png','arzon.png';'retourar.jpg"');
+</script>
+</HEAD>
+<BODY><CENTER>
+<H1>Emgann an Arzhoniz</h1>
+<h2> Le combat des Arzonnais</h2>
+<h3> The combat of the Arzon sailors</h3>
+<b>Ballade publiée dans "Paroisse Bretonne de Paris" de  février 1906"<br> par l'Abbé François Cadic</b><br>
+<br>
+<img src="retourar.jpg" width=980 height=540 border=0 name=AP><br>
+<br>
+Image tirée du film "Master and Commander" de Peter Weir (déc. 2003)<br>
+<br>
+<img src= "arzotune.jpg" height=50 width=320 usemap=#CARTE border=0>
+
+<MAP name=CARTE>
+
+<AREA onmouseover="document.AP.src='arzon.png';" 
+onMouseOut="document.AP.src='retourar.jpg';"
+shape=RECT target=_blank coords=1,1,160,50 href="arzon.mid">
+
+<AREA onmouseover="document.AP.src='arzon1.png';" 
+onMouseOut="document.AP.src='retourar.jpg';"
+shape=RECT target=_blank coords=161,1,320,50 href="arzon1.mid">
+
+</map>
+<br>
+
+<table width=100%>
+
+<tr><td width=50% valign=center ><font size=-1>
+1° "La prière des Arzonnais" publiée dans "Trente Mélodies popluaires de Basse-Bretagne"  par <b>Bourgault-Ducoudray,</b><br>
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="arzon.mp3" preload="auto" controls> Mélodie 1</audio><br>
+</td></tr>
+
+<tr><td width=50% valign=center ><font size=-1>
+2° "Cantique des Arzonnais" publié dans "Paroisse Bretonne de Paris", février 1906 par <b>François Cadic</b> <br
+</td>
+<td width=50% valign=center, align=center><font size=-1>
+<audio src="arzon1.mp3" preload="auto" controls> Mélodie 2</audio><br>
+</td></tr>
+</table><br>
+<br>
+<i><font size=-2>Arrangement Christian Souchon (c) 2021</font></i><br> 
+<br>
+
+<table width=100%>
+<td width=50% valign=top><font size=-1>
+<b>A propos des mélodies</b><br>
+Le site "tob.kan.bzh" (TOB pour "Tradition Orale en langue Bretonne") est une base de données en ligne qui liste les occurrences de chansons traditionnelles en langue bretonne. Il utilise la classification élaborée par Patrick Malrieu, fondateur et ancien président de l'association Dastum ("collectage" en breton).<br> 
+Le catalogue TO, regroupe sous le même N°, <b>M-00048</b> et le même "titre critique",
+<li> "Emgann Arzhoniz"  les textes français et breton publiés avec la mélodie N°2 sous le titre <b>"Cantique des Arzonnais"</b>  par l'Abbé François Cadic dans la revue mensuelle "Paroisse bretonne de Paris", février 1906 
+<li> et une mélodie <b>"La prière des Arzonnais"</b> dont on trouve la notation musicale dans les <b>"Trente mélodies populaires de Basse-Bretagne" publiées en 1885</b> par le chef d'orchestre et compositeur <b>Louis-Albert Bourgault-Ducoudray</b> (1840-1910)  (mélodie N°1).<br>
+Concernant cette dernière, le collecteur indique:<br>
+"Cet air est un spécimen du mode hypophrygien [sol majeur  sans fa dièse, ici abaissé d'un ton]. On remarquera la modulation passagère produite par la présence du <b>la bémol</b> [mesure 15]. Cette note, 3ème degré de l'échelle [...] n'est autre que la fameuse <b>corde variante</b> du moyen âge. Elle existait aussi dans l'échelle diatonique connue chez les anciens sous le nom de "système immuable... "<br>
+La partition indique en outre que la mélodie fut chantée par un certain <b>Guillaume Cloître de Châteauneuf du Faou.</b><br>
+<br>
+<b>A propos du texte</b><br>
+<li> Le texte breton du "Cantique des Arzonnais" est une <b>interprétation du texte français</b> publié par l'Abbé Cadic (cf. ci-dessous, col. 1), lequel doit être contemporain des événements auxquels il se rapporte (bataille de Solebay, 7 juin 1672). C'est ce qui ressort du style et de l'orthographe originale (conservée par François Cadic) de ce document dont il n'indique pas l'origine. Peut-être était-il conservé, avec l'ex-voto à la basilique de Sainte-Anne d'Auray. L'ancienneté du chant français est attestée à la strophe 12 par l'usage du mot "classe" pour désigner une "flotte", un des sens principaux du latin "classis".
+
+<li> Dans les "Trente Mélodies..." de 1885, la mélodie est assortie d'un texte, au sujet duquel L-A. Bourgault-Ducoudray précise:<br>
+" Monsieur Coppée s'est inspiré pour sa poésie, d'une autre chanson plus ancienne."  Ce "Monsieur Copée" n'est autre que le poète (Parnassien à ses débuts, puis poète du quotidien, honni des "zutistes", Verlaine, Rimbaud, Charles Cros), dramaturge, romancier  et académicien <b>François Coppée</b> (1842-1906).<br>
+C'est sans doute ladite chanson plus ancienne qui figurera p. 28  de l'édition de 1931 (cf. colonne 2,ci-dessous). On remarque immédiatement que le titre concerne des "Arvoriz" (Armoricains) et non des "Arzoniz" (Arzonnais) et que, si la chanson évoque bien l'ex-voto offert à la sainte après l'expédition contre la Hollande, la bataille navale qu'elle décrit oppose les enfants de Sainte Anne à des Anglais au large d'Ouessant (str. 2). Cette gwerz en 3 strophes <b>mélange</b> donc les événement de 1672 avec l'une des deux batailles navales, sinon les deux:<br>
+- combat victorieux que livra le capitaine breton Charles <b>Cornic-Duchêne</b> (1731-1809) à trois vaisseaux anglais le 24 juin <b>1758 au large de Molène</b> (Ouessant). ou encore<br>
+- combat entre <b>La Surveillante</b> et le vaisseau anglais le Québec, au large d'<b>Ouessant, le 6 octobre 1779</b>, raconté dans un <a href="../levierf.htm">Chanson du Pilote</a>.
+
+<li> Quant à "la <b>chanson moderne</b>  [dont] les paroles ne présentent que peu d'intérêt" et dont F Coppée ne s'est pas inspiré ce pourrait être celles de l'Abbé J-M. Kerbiriou reproduites dans la colonne 4. Les strophes 6 et 10 semblent faire écho à  des strophes similaires de la "Surveillante".
+</td>
+<td width=50% valign=top><font size=-1>
+<b>About the tune</b><br>
+The site "tob.kan.bzh" (TOB for "Tradition Orale en langue Bretonne") is an online database which lists the occurrences of traditional songs in the Breton language. It uses the classification developed by Patrick Malrieu, founder and former president of the Dastum society("collecting" in Breton). <br>
+The TO catalog groups together under the same item number, <b> M-00048 </b> and the same "critical title",
+
+<li> "Emgann an Arzhoniz" the French and Breton texts published with the melody N ° 2 under the title <b> "Cantique des Arzonnais" </b> by Abbé François Cadic in the monthly review "Paroisse bretonne de Paris" , February 1906
+
+<li> and a melody <b> "The prayer of the Arzon sailors" </b> whose musical notation can be found in the <b> "Thirty popular melodies of Lower Brittany" published in 1885 </b> by the conductor of orchestra and composer <b> Louis-Albert Bourgault-Ducoudray </b> (1840-1910) (melody N ° 1). <br>
+Regarding the latter tune, the collector indicates: <br>
+"This tune is a specimen of the hypophrygian mode [G major without F sharp, here lowered by one tone]. Note that  the transient modulation produced by the presence of <b> A flat </b> [bar 15]. , 3rd degree of the scale [...] is none other than the famous <b>variant scale</b> of the Middle Ages. It also existed in the diatonic scale, known among the ancients under the name of "system immutable ... "<br>
+The score further indicates that the melody was sung by a named <b>Guillaume Cloître of Châteauneuf du Faou. </b> <br>
+<br>
+<b>About the lyrics</b><br>
+<li> The Breton text of the "Cantique des Arzonnais" is an <b>interpretation of the French text</b> published by Abbé Cadic (cf. below, col. 1), which must be contemporary with the events to which it relates (Battle of Solebay, June 7, 1672). This is what emerges from the style and original spelling (kept by François Cadic) of this document, of which it does not indicate the origin. Perhaps it was preserved, with the ex-voto in the basilica of Sainte-Anne d'Auray. The antiquity of the French song is attested in stanza 12 by the use of the word "class" to designate a "fleet", one of the main meanings of the Latin "classis".
+
+<li> In the "Thirty Melodies ..." of 1885, the melody is accompanied by a text, about which L-A. Bourgault-Ducoudray specifies: <br>
+"Monsieur Coppée was inspired for his poetry, by another older song." This "Monsieur Copée" is none other than the poet (Parnassian in his beginnings, then "everyday poet", hated by the "zutists", Verlaine, Rimbaud and Charles Cros), playwright, novelist and academician <b>François Coppée</b> (1842-1906). <br>
+It is undoubtedly the said older song which will appear on p. 28 of the 1931 edition (cf. column 2, below). We immediately notice that the title has "Arvoriz" (Armoricans) and not "Arzoniz" (Arzon people) and that, if the song evokes the ex-voto offered to the saint after a raid against Holland, the naval battle that it describes pits Sainte Anne's children against the English off Ouessant (str. 2). This gwerz in 3 stanzas therefore <b>mixes</b> the events of 1672 with one (if not both) of the two naval battles: <br>
+- a victorious battle opposing the Breton captain Charles <b>Cornic-Duchêne</b> (1731-1809) to three English vessels on June 24, <b>1758 off Molène</b> (Ushant),<br>
+- or the fight between <b>La Surveillante</b> and the English vessel Quebec, off Ouessant, October 6, <b>1779</b>, recounted in the  Barzhaz <a href="../levierf.htm">Song of the Helmsman</a>.
+
+<li> As for "the <b>modern song</b> [whose] lyrics are of little import" and from which F Coppée was not inspired, it could be the text byf Abbot J-M. Kerbiriou reproduced in column 4. Stanzas 6 and 10 which seems to echo similar stanzas from the "Surveillante" song.
+<br>
+</td></table><br>
+<br>
+<img src="arzopilo.jpg"><br>
+
+
+
+<br>
+<h3>1° Paroles de la "Prière des Arzonnais" mélodie collectée par L.-A. Bourgault-Ducoudray</h3>
+
+
+<TABLE BORDER=1 width=100%>
+<TD WIDTH=25% valign=top><h5>
+Texte de François Coppée (Edition 1885)<br>
+<br>
+La prière des ArZonnais<br>
+<br>
+1. Nous étions là vingt gars d'Arzon,<br>
+Marins durs à la peine,<br>
+Sur un vaisseau de cent canons<br>
+Avec Monsieur Duquesne [2]<br>
+Mais au milieu de branlebas<br>
+Et quand le canon tonne<br>
+Les Arzonnais ne tremblent pas<br>
+Sainte Anne est leur patronne.<br>
+<br>
+2. Après deux mois de grosse mer<br>
+Au fond du <i>Zuiderzee</i><br>
+Deux Hollandais par le travers<br>
+Nous lâchent leur bordée<br>
+Trente sont morts du premier coup,<br>
+Chez nous, chez nous, personne!<br>
+Les Arzonnais sont tous debout:<br>
+Sainte Anne est leur patronne<br>.
+<br>
+3. Bonnet en main, marchant nu-pieds<br>
+Portant cierges de cire,<br>
+Nous venons tous pour t'apporter<br>
+Un beau petit navire.<br>
+Prens notre hommage avec nos voeux,<br>
+Sainte Anne, on te le donne.<br>
+Les Arzonnais tombent joyeux<br>
+Aux pieds de leur patronne!<br>
+<br><br><br><br>
+<font color="blue">
+********************<br>
+Prayer of the Arzon sailors (column 1)<br>
+<br>
+1. The twenty of us, Arzon lads, <br>
+Were gallant and hard sailors, <br>
+On a one-hundred-gun ship <br>
+Commanded by Monsieur Duquesne [2] <br>
+But in the midst of a combat <br>
+And when the cannon thunders <br>
+The Arzon sailors do not tremble <br>
+Since Saint Anne is their Patron saint. <br>
+</font>
+
+
+
+</h5></td>
+<td width=25% valign=top><h5> 
+Texte breton (publié en 1931)<br>
+<br>
+Pedenn an ArVoriz<br>
+<br>
+1. Ni voa kerzhet da redek mor<br>
+Var bourzh ul lestr a vrezel<br>
+Ugent martolod z an Arvor<br>
+Gwir vugale Breizh-Izel<br>
+Paotred seder ha dienkrez,<br>
+Morse gwelet o krenañ.<br>
+'Raok en eñvor hor Patronez:<br>
+Hor Mamm eo Santez Ana!.<br>
+<br>
+2. <font color="red">Kichen Eusa dre vor diroll<br>
+ Z-eus <i>ul lestr saoz</i> o chedal,<br>
+Hag a laka gant un trouz foll,<br>
+E ganolioù da grozal. (*) [3]</font><br>
+War-sav paotred, ha tan varno! :<br>
+Ha tregont Saoz o kouezañ !<br>
+Ar Vretoned ' jom holl war-sav:<br>
+Hor Mamm eo Santez Ana!<br>
+<br>
+3.  Didrouz, divoned, diarchen,<br>
+Gant hor gouloù benniget<br>
+Ni zegas deoch ul lestr melen,<br>
+Graet gant ho martololed<br>
+Deut int hirio da zaoulinañ<br>
+Dirak ho skeudenn zantel :<br>
+Plijet ganeoch o bennigañ,<br>
+Patronez hor Breizh-Izel !<br>
+<br>
+<font size=-2><i>KLT Christian Souchon (c) 2021</font>
+</i><br><br><br>
+<font color="blue">
+********************<br>
+Prayer of the Arzon sailors  (column 1)<br>
+<br>
+2. After two months of heavy seas <br>
+At the bottom of the <i> Zuiderzee </i> <br>
+Two Dutch ships pour their fire on us<br>
+A whole raw of their broadside guns <br>
+Thirty were killed by the first shot, <br>
+Of us, of us, no one was hit! <br>
+The Arzon lads are all standing: <br>
+For Saint Anne is their Patron saint.<br>
+<font color="red"><br>
+********************<br>
+(*) <i>Column 2: str 2, lines 1-4:</i><br>
+2. Off Ushant, in heavy weather,<br>
+<i>An English ship</i> is watching,<br>
+And in a frightening uproar,<br>
+Launches a broadside cannonade. [3]
+</font>
+</h5></td>
+<TD WIDTH=25% valign=top><h5>
+Traduction du texte breton de 1931<br>
+<br>
+Prière des ARMORICAINS<br>
+<br>
+1. Nous partîmes courir les mers<br>
+Sur un vaisseau de guerre<br>
+Tous les vingts, matelots d'Armor<br>
+Bretons à l'âme fière<br>
+Libres de chagrins, de tracas,<br>
+Trembler ne nous sied guère.<br>
+Notre patronne est toujours là:<br>
+Sainte Anne, notre mère!.<br>
+<br>
+2. Au large d'Ouessant, par gros temps,<br>
+Un <i>navire anglais</i> guette,<br>
+Et dans un vacarme effrayant,<br>
+Une bordée nous jette. [3]<br>
+Debout les gars et feu sur eux! :<br>
+Trente Anglais s'écroulèrent !<br>
+Tous les Bretons restaient debout:<br>
+Sainte Anne est notre mère!<br>
+<br>
+3. Tenant un cierge, sans un mot,<br>
+Déchaussés et nu-tête<br>
+Nous venons t'offrir ce cadeau,<br>
+Cette jolie maquette.<br>
+Devant ton image ployons<br>
+Le genou! Qu'accompagne :<br>
+Chacun ta bénédiction,<br>
+Mère de la Bretagne!<br>
+<br>
+<font size=-2><i>Traduction Christian Souchon (c) 2021</font></i>
+<br><br><br>
+<font color="blue">
+********************<br>
+Prayer of the Arzon sailors (column 1)<br>
+<br>
+3. Hat in hand, and walking barefoot <br>
+Carrying burning wax candles, <br>
+All of us, we come to bring you <br>
+This pretty little yellow ship. <br>
+Take our homage with our wishes, <br>
+Saint Anne, as we give it to you. <br>
+The Arzon lads pious and happy <br>
+Bend their knee to their Patron saint! <br>
+</h5></td>
+<TD WIDTH=25% valign=top><h5>
+Version Rimée par l'Abbé J-M. Kerbiriou<br>
+("Armorica", pp. 174 à 176,<br> 
+chez Dumont à Brest, 1892)<br>
+<br>
+Refrain<br>
+Gloire, gloire à notre Patronne,<br>
+Au nom partout si glorieux,<br>
+A sainte Anne dont la couronne<br>
+Brille si belle dans les cieux !<br>
+<br>
+1. Vers ton bien-aimé sanctuaire,<br>
+Joyeux, nous dirigeons nos pas ...<br>
+C'est toi dont le bras tutélaire ·'<br>
+Nous a gardés dans les combats,<br>
+<br>
+2. Au vent notre fière oriflamme,<br>
+Nous voilà courant sur la mer ...<br>
+Ah! je le jure par mon âme!<br>
+Malheur aux vaisseaux de RUYTER!<br>
+<br>
+6b. Cent fois plus pressés que la grêle,<br>
+Boulets, obus pleuvent sur nous ...<br>
+Mais sainte Anne nous est fidèle,<br>
+Et nous méprisons tous les coups.<br>
+<br>
+6a. On voit éclatèr les tonnerres·<br>
+Aux deux flancs de notre vaisseau,<br>
+Puis des cris, d'ardentes colères,<br>
+Du sang qui ruisselle dans l'eau ...<br>
+<br>
+7b. Gloire, gloire à notre Patronne,<br>
+Au nom partout si glorieux,<br>
+A sainte Anne dont la couronne<br>
+Brille si belle dans les cieux !<br>
+<br>
+8/9. Un boulet dans cette tempête<br>
+Frappe un de nos marins au front;<br>
+Malheur! La moelle de sa tête<br>
+Jaillit sur un enfant d'Arzon.<br>
+<br>
+10. Tout craque, sabords et mâture ..<br>
+Mais pour les vaillants Arzonnais<br>
+Pas seulement une blessure!<br>
+Nous te bénissons à jamais!<br>
+<br>
+11/12. Gloire, gloire à notre Patronne<br>
+Au nom partout si glorieùx!<br>
+A sainte Anne dont Ia couronne<br>
+Brille si belle dans les cieux!
+</h5><font size=-2>
+<i> Les strophes sont repérées d'après celles les plus ressemblantes du "Cantique des Arzonnais" ci-après.</i></font>
+
+</td>
+</tr></TABLE>
+<br><br>
+
+<h3>2° "Cantique des Arzonnais" collecté par l'Abbé F. Cadic</h3>
+
+<TABLE BORDER=1 width=100%>
+<TD WIDTH=25% valign=top><h5>
+CANTIQUE DES ARZONNAIS [1]<br>
+Chanson française d'origine:<br>
+<br>
+Refrain:<br>
+Sainte Mère de Marie<br>
+Par un miraculeux sort,<br>
+Vous nous conservez la vie<br>
+Dans le danger de la mort.<br>
+<br>
+1. Avec actions de grâces<br>
+Nous venons en ce saint lieu<br>
+Honorer en cette place<br>
+La sainte aïeule de Dieu.<br>
+<br>
+2. Nous avons été de bande<br>
+Quarante et deux Arzonnois<br>
+A la guerre de Hollande<br>
+Pour le plus grand de nos rois<br>.
+<br>
+3. Ce peuple de notre côte<br>
+Vint ici à grand concours<br>
+Les fêtes de Pentecôte<br>
+Implorer votre secours.<br>
+<br>
+4. Pendant que l'ordre nous mande<br>
+Qu'il nous fallait faire état<br>
+De voguer vers la Hollande<br>
+Pour leur livrer le combat.<br>
+<br>
+5. Ce fut de juin le septième<br>
+Mil six cent septante et trois [1]<br>
+Que le combat fut extrème<br>
+De nous et les Hollandois.<br>
+<br>
+6. Les boulets comme la grêle<br>
+Passaient parmi nos vaisseaux<br>
+Brisant mâts, cordages, voiles,<br>
+Et mettant tout en lambeaux.<br>
+<br>
+7. La merveille est toute sûre<br>
+Que pas un homme d'Arzon<br>
+Ne reçut la moindre injure<br>
+De mousquet, ni de canon.<br>
+<br>
+8. Un d'Arzon changeant de place.<br>
+Un boulet vint à passer,<br>
+Brisant de celui la face<br>
+Qui venait de s'y placer?<br>
+<br>
+9. L'Arzonnais la sauvant belle,<br>
+Eut l'épaule et les deux yeux<br>
+Tout couverts de la cervelle<br>
+De ce pauvre malheureux.<br>
+<br>
+10. De Jésus la Sainte Aïeule<br>
+Par un bienfait singulier<br>
+Nous connaissons que vous seule<br>
+Nous gardiez en ce danger.<br>
+<br>
+11. Par humble reconnaissance<br>
+Nous fléchissons les genoux,<br>
+Adorant votre puissance<br>
+Qui a paru envers nous.<br>
+<br>
+12. Recevez toutes nos classes<br>
+Pour tout le temps à venir;<br>
+Sous l'asile de vos grâces,<br>
+Nul ne pourra mal finir.  [4] [5] [6]<br>
+</h5></td>
+<td width=25% valign=top><h5> 
+EMGANN AN ARZHONIZ [1]<br>
+Equivalent breton du précédent<br>
+<br>
+Diskan:<br>
+Santez Ana benniget<br>
+Dre ho merit ha puisañs<br>
+C'hwi ho-peus hon difennet<br>
+D'eus ar marv ha pep soufrañs.<br>
+<br>
+1. Deuet eomp d'ho ti benniget<br>
+Evit  ho trugarekaat<br>
+Ho-peus bet hon prezervet<br>
+En dañjer hag er c'hombat.<br>
+<br>
+2. Arzhoniz en ur vandenn<br>
+A zo bet aet d'an arme<br>
+War-dro un daou-ugent den<br>
+Dre gomandamant ar Roue.<br>
+<br>
+3. Ni zo bet pemp kant pe dost<br>
+Hor fians hag hor rekour<br>
+E-lec'h-mañ, da Pantekost<br>
+D'ho supliañ d'hon sikour.<br>
+<br>
+4. Ni a eas a-barzh ar Vañch<br>
+Dre ord an-nep a gomand<br>
+Evit kombat a revañj<br>
+D'oc'h al listri a Holland.<br>
+<br>
+6a. Ken eeun a oe an tennoù<br>
+A bep kostez d'hol listri<br>
+Ma diskaren ar gouelioù<br>
+Ar fardaj hag ar gwernioù.<br>
+<br>
+6b.Tennoù kanol a zeue deomp<br>
+Ker stank evel ar grizilh<br>
+Asuret biskoazh ne voemp<br>
+E dañjerusoc'h peril.<br>
+<br>
+7a. Ur mirakl eo asuret<br>
+N'en-deus bet den a Arzhon<br>
+A-gement zo ofañset<br>
+Gant arkebut ha kanol.<br>
+<br>
+7b.Tost dezhe e oe bleset<br>
+Ha lazhet tud a-bep-tu<br>
+Hep    ne oent int ofañset<br>
+Dre ho sikour ha vertuz.<br>
+<br>
+8/9. A-hont e oe ur paour den<br>
+Dibennet d'un tenn kanol<br>
+Ken a sailhas mel e benn<br>
+D'oc'h fas unan a Arzhon.<br>
+<br>
+11/12 Ni ho ped a galon vat<br>
+Santez Ana benniget<br>
+D'hon c'honservein er stad vat<br>
+En amzer a zo da zonet.  [4] [5] [6]<br>
+<br>
+<font size=-2><i>KLT Christian Souchon (c) 2021</font>
+</i><br>
+</h5></TD>
+<td width=25% valign=top><h5>
+COMBAT DES ARZONNAIS [1]<br>
+Traduction du chant breton précédent<br>
+<br>
+Refrain:<br>
+Sainte Anne que Dieu bénit, <br>
+vos vertus, votre puissance, <br>
+ont éloigné de nos têtes <br>
+la mort et tous les dangers!<br>
+<br>
+1. Nous courons à votre maison sainte <br>
+pour offrir des actions de grâces.<br> 
+Car vous nous avez préservés <br>
+dans les dangers du combat!<br>
+<br>
+2. Une troupe d'Arzonnais <br>
+était partie pour l'armée;<br>
+ ils étaient plus de quarante <br>
+et soumis aux ordres du roi!<br>
+<br>
+3. Pleins de foi, pleins de confiance, <br>
+nous tous, paroissiens d'Arzon,<br> 
+nous vînmes ici vous implorer <br>
+le saint jour de la Pentecôte!<br>
+<br>
+4. Nous voilà voguant dans la Manche, <br>
+avec celui qui nous commande,<br> 
+cherchant combat et vengeance <br>
+contre les vaisseaux hollandais!<br>
+<br>
+6a. Coups de canon nous arrivent <br>
+plus pressés que la grèle!<br> 
+Oh non, jamais, jamais nous ne fûmes <br>
+en pareil danger!<br>
+<br>
+6b. De chaque flanc du vaisseau <br>
+des tonnères de bordées fracassent <br>
+et font tomber câbles, voiles <br>
+et mâts et cordages.<br>
+<br>
+7a. O véritable miracle: <br>
+aucun des enfants d'Arzon <br>
+ne reçut la moindre offense <br>
+de boulet ni d'arquebuse!<br>
+<br>
+7b. Près d'eux à droite et à gauche,<br> 
+tués ou blessés, tombent les hommes; <br>
+mais pour eux, votre secours,<br> 
+votre vertu les défendait.<br>
+<br>
+8/9. Là, près de nous, un boulet <br>
+frappe un pauvre matelot <br>
+et la moëlle de sa tête <br>
+jaillit sur un enfant d'Arzon!<br>
+<br>
+11/12. Nous vous prions de bon coeur,<br> 
+sainte Anne, que Dieu bénit: <br>
+conservez-nous en grâce <br>
+maintenant et toujours!  [4] [5] [6]<br>
+<br>
+</h5></td>
+<td width=25% valign=top><h5>
+COMBAT OF THE ARZON SAILORS [1]<br>
+Translated from "Emgann an Arzhonis"<br>
+<br>
+Chorus:<br>
+Saint Anne whom our Lord God may bless,<br>
+Your merits as well as your power,<br>
+Have moved away from our heads<br>
+Violent death and any danger!<br>
+<br>
+1. Let's all run to your holy house<br>
+To offer thanksgiving to you.<br>
+For it was you who preserved us<br>
+Amidst the dangers of combat!<br>
+<br>
+2. A party of Arzon sailors<br>
+Were enlisted in the navy,<br>
+- There were more than forty of them -<br>
+Pursuant to the King's orders!<br>
+<br>
+3. Full of faith, full of confidence,<br>
+Five hundred Arzon men or so,<br>
+Have come here to implore you<br>
+On the holy day of Pentecost!<br>
+<br>
+4. We're sailing the English Channel,<br>
+By order of our commander,<br>
+Who is seeking fight and revenge<br>
+Against the Dutch army and ships!<br>
+<br>
+<i>5. It was on June the seventh <br>
+Sixteen hundred and seventy-three [1] <br>
+That the hardest fight was fought <br>
+Between us and the Dutch enemy.</i> <br>
+<br>
+6a. Undodged cannon shots were flowing<br>
+Onto our ships, thicker  than hail,<br>
+And they dropped cables and sails<br>
+And they dropped masts and ropes.<br>
+<br>
+6b. Thicker than hail or pouring rain<br>
+Thundering cannons fired at us!<br>
+Oh no, never, Mary's Mother<br>
+Never were we in such danger!<br>
+<br>
+7a. But lo! A true wonder occurred:<br>
+Since none of us, Arzon's children<br>
+Received the slightest offence<br>
+From arquebus or cannonball!<br>
+<br>
+7b. Close on the right and left of them, <br>
+Killed or wounded sailormen fell.<br>
+The Arzon lads did not. Your help,<br>
+And your power defended them.<br>
+<br>
+8/9. And next to us, a cannonball<br>
+Hit an unfortunate sailor<br>
+So that the marrow of his brain<br>
+Squirted on an Arzon lad's face!<br>
+<br>
+11/12. Today we earnestly ask you,<br>
+Saint Anne, whom our Lord God may bless:<br>
+Keep us, soul and body, in grace<br>
+Now and in times to come, always! [4] [5] [6]<br>
+<br>
+</h5></td>
+
+</tr></TABLE>
+<br><br>
+<img src="ducruyte.jpg" width=90%><br>
+<br>
+Abraham Duquesne, Bataille de Solebay, Michel de Ruyter<br>
+<br>
+Notes:<br>
+<table width=100%><tr>
+<td width=50% valign=top><font size=-1>
+<b> [1] La bataille de Solebay</b><br>
+Nous recopions ici la description de ces événements faite à la page <a href="../levierf.htm">Chanson du pilote</a>:<br>
+Sainte Anne avait déjà été déjà manifesté la toute puisance de son intercession lors d'une autre bataille navale qui fut livrée le <b>7 juin 1672</b> sur les côtes du Suffolk, devant la rade de Solebay, par les flottes unies de Cromwell et de Colbert contre les Hollandais de Guillaume d'Orange. Ceux-ci, commandés par l'amiral <b>Michel de Ruyter</b>(1607-1676) engagèrent la flotte supérieure en nombre du Duc d'York et du comte Jean  d'Estrée (1624-1707). L'issue de la bataille demeura indécise et la tempête dispersa les navires.<br>
+Des marins bretons, originaires d'Arzon à l'entrée du golfe de Morbihan, avaient pris part à cette bataille. Ils s'étaient rendus en pèlerinage à Sainte-Anne d'Auray un jour de Pentecôte et avaient promis d'y revenir chaque année à la même date, pourvu que Sainte Anne les ramenât tous sains et saufs dans leurs foyers. Ils composèrent un cantique en français qui raconte leur campagne. <br>
+L'Abbé François Cadic est d'avis que le chant breton qu'il publie également est une adaptation tardive (fin18ème, début 19ème siècle) du chant français contemporain des événements auxquels il a trait. <br>
+<br>
+<b>[2]  Abraham Duquesne (1610-1688)</b><br>
+"Le 7 juin 1672, le  lieutenant général des armées navales Abraham Duquesne commande "Le Terrible", 68-70 canons, et participe sous les ordres de l'amiral d'Estrées, lui-même sous les ordres du duc d'York (le futur roi <a href="../hymnus.htm">Jacques II</a>, nommé grand-amiral, commandant de la flotte royale après le retour sur le trône de son frère, Charles II en 1660), à la bataille de Solebay contre la marine hollandaise. Il manuvre trop lentement pour soutenir efficacement d'Estrées et pire, ne répond pas aux ordres dattaque du duc d'York et laisse échapper la flotte hollandaise alors que la flotte anglo-française se trouvait dans une position très favorable. En agissant ainsi, il se conforme aux ordres de son roi: Louis XIV avait donné aux amiraux français des instructions secrètes consistant à laisser les flottes anglaises et hollandaises s'entre-déchirer, la flotte française prétexte la présence de vents défavorables pour ne prendre qu'une part mineure au combat - mais il s'expose également à la critique. Le marquis de Martel, pour s'être élevé contre ces ordres secrets déshonorants, fut envoyé à la Bastille." (souce: Wikipédia).<br>
+<br>
+<b> [3] Le chant de Cornic - Duchêne</b><br>
+Comme il est dit dans la notice d'introduction ci-dessus, la première moitié de la strophe 2 du chant breton "Pedenn an ARVORIZ" dont F. Coppée s'est inspiré pour composer son poème français "Prière des ARZONNAIS" emprunte à un autre chant.<br>
+Cet autre chant raconte comment le capitaine breton Charles Cornic-Duchêne (1731-1809)  livra combat à trois vaisseaux anglais le 24 juin 1758, comme il est précisé dans la "Biographie bretonne" de P. Levot, 1852, au §5 dun article de Charles Alexandre. Les paroles du chant désignent les lieux de cette rencontre mémorable: "Maen guen ar Pordichoc" (ou "Gondichoc"). Il s'agit d'un rocher au <b>sud-ouest de Molène</b>. De même "Melemeur"  et "La Basse Longue", sans doute "Bas Hir", désignent des rochers dans le même secteur que celui où eut lieu la bataille entre <a href="../levierf.htm">la Surveillante et le Québec</a>, 21 ans plus tard.<br>
+Voici comment le site "tob.kan.bzh" (chant M-00051) résume les faits:<br>
+<i>"A la Saint Jean peu avant minuit, Cornic rencontra lAnglais. Combat de cinq heures et demie. Échange de canonnade. Une volée anglaise abat le pavillon.<br>
+ « Hourra: les Français amènent »<br>.
+En entendant cela, Cornic fait feu de plus belle et hisse le grand pavillon et défie lAnglais en prenant son porte-voix.
+Le lendemain, il y eut une volée du grand navire anglais qui séloigne ensuite au large. A cinq heures, Cornic était près du Melemeur, protégé par la batterie de lîle de Molène. Les bateaux de Molène approchent.<br>.
+Dur le cur qui neût pleuré sur la Félicité devant le pont couvert de sang. Cornic, le vaillant homme, a soutenu le combat contre trois Anglais.<br>.
+Je ne peux vous nommer clairement qui a composé le chant. Ce sont des jeunes filles."</i><br>.
+Ce chant a été collecté par Célestin Port avant 1800 en Basse-Bretagne. Il a pour incipit: <i>"Sélaouit cana mé o pet / Écoutez je vous prie"</i>. Il a fait l'objet d'une communication de Pierre Le Roux dans la "Revue Celtique", 1870-1934, année 1898 - Tome 19, p. 1-12, dans lequel est reproduit le texte du manuscritoriginal qui date du 18ème siècle.<br>
+Puis d'une "Etude sur chanson bretonne du XVIIIe siècle" par Emile Ernault dans la même revue, 1898 - Tome 19, p. 242, <br>
+<br>
+<b> [4] Le culte rendu à Sainte Anne</b><br>
+L'étonnante invulnérabilité, défiant les statistiques (pas un homme touché sur quarante) dont bénéficièrent les Arzonnais à Solebay peut s'expliquer, pour des esprits forts, par le double-jeu de Duquesne qui prit soin de ne pas s'exposer aux canons ennemis,<br>
+Les intéressés y virent, quant à eux, un effet de l'action protectrice d'une nouvelle-venue dans le panthéon de la ferveur bretonne: Sainte Anne qu'on célébrait tout près de chez eux, à Auray, depuis une cinquantaine d'années.<br> 
+On retrouve Sainte Anne à l'oeuvre comme protectrice du fameux Les Aubrays qui chassa les brigands de Lannion en 1634 (ou, selon La Villemarqué, de Morvan,  vicomte de Léon qui vivait au IXème siècle) dans trois parties du long poème <a href="../lezbreif.htm">Lez-Breizh</a>.<br>
+
+ 
+
+Voici quelques extraits de l'article Wikipédia consacré à cette sainte:<br>
+"Sainte Anne est la mère de la Vierge Marie dans la tradition catholique ainsi que dans la tradition musulmane sous le nom de Hannah. Aucun texte du Nouveau Testament ne mentionne la figure d'Anne qui apparaît cependanr dans des apocryphes qui font le parallèle avec  Anne, mère de Samuel, prophète et dernier juge d'Israël. Les évangiles apocryphes la dépeignent comme une femme pieuse longtemps stérile. Une scène de sa vie légendaire est la rencontre miraculeuse d'Anne et de son mari Joachim à la Porte dorée à Jérusalem, après l'annonce au couple de la prochaine naissance d'un enfant. L'Église de l'Orient accepte ces récits, dans une version présentée comme une traduction par saint Jérôme, qui leur ôte les traits les plus merveilleux. Beaucoup de saints orientaux ont prêché sur sainte Anne, tels saint Jean Damascène, saint Épiphane, saint Sophrone de Jérusalem.<br>
+La <b>cathédrale Sainte-Anne d'Apt</b> est l'une des plus anciennes églises d'Occident à avoir mis en honneur le culte d'Anne, l'aïeule du Christ. Déjà, au cours du XIIe siècle sa fête y était célébrée le 26 juillet."<br>
+<br>
+<b> [5] Sainte Anne en Bretagne</b><br>
+"En Bretagne, le culte de sainte Anne ne prit vraiment forme qu'à partir des apparitions en 1624 au paysan <b>Yves Nicolazic</b> en un lieu qui devint le sanctuaire de <b>Sainte-Anne-d'Auray</b>, un lieu de dévotion et de pèlerinage important. <br>
+Auparavant, surtout avant le XIIe siècle, ce culte existait, mais plus sporadiquement ou localement comme au sanctuaire de <b>Sainte-Anne-la-Palud</b>, établi vers l'an 500. L'un des Actes apocryphes latins désignés sous le titre de <i>Virtutes Apostolorum</i> écrit au VIe siècle, atteste quil existait un culte ancien à sainte Anne répandu dans toute l' Armorique.<br> 
+Un syncrétisme exista longtemps avec la figure de l'antique <b>déesse Ana / Dana</b> (la déesse-mère des "Tuatha Dé Danann" en Irlande) liée à la fertilité/ les invocations de cette déité, comme les prières à sainte Anne, défont la stérilité des couples. La popularité de cette dernière chez les Bretons de l'époque est en partie expliquée par la persistance du souvenir de l'antique déesse celtique.<br>
+Une légende rapportée par Anatole Le Braz, décrit Sainte Anne comme originaire de <b>Plonévez-Porzay</b>. Anne est mariée à un seigneur cruel et jaloux, qui lui interdit davoir des enfants. Lorsquelle tombe enceinte, il la chasse du château de Moëllien. Son errance avec la petite Marie la conduit à la plage de Tréfuntec où lattend un ange, près dune barque. Selon la volonté de Dieu, l'ange l'amène jusquen Galilée. Bien des années plus tard, Marie épouse Joseph et devient la mère du Christ. Anne revient en Bretagne pour y finir sa vie dans la prière et distribue ses biens aux pauvres.<br>
+<br>
+<b> [6] Sainte Anne d'Auray</b><br>
+Le plus important ce sont ses apparitions au paysan <b>Yvon Nicolazic, en 1624 près d'Auray</b> dans le Morbihan, dont le couple restait sans enfant. Elle lui demanda la construction d'une chapelle en son honneur, près du village de Ker-Anna (qui en breton signifie Le village d'Anne) sur un champ où il travaillait, car à cet endroit-même, lui confia la sainte, une chapelle avait déjà été construite en son nom au 7e siècle avant d'être démolie, coupant court à la dévotion naissante. Dans la nuit du 7 mars 1625, Yvon Nicolazic, son beau-frère et quatre voisins, guidés par la lueur d'un grand cierge, déterrèrent effectivement une <b>ancienne statue</b> abimée de sainte Anne avec des restes de couleurs azurées et dorées. Des moines capucins d'Auray la retouchèrent pour lui redonner son éclat. Pendant ce temps, Yvon Nicolazic s'employa à bâtir une nouvelle chapelle avec lappui de quelques frères Carmes, avant d'avoir le bonheur de découvrir que son couple était devenu fécond. À la suite de deux enquêtes successives, l'évêque de Vannes Sébastien de Rosmadec autorisa le culte et le 26 juillet 1625, il y eut foule pour la première messe de célébration. Très vite les pèlerins vinrent très nombreux au lieu saint où les conversions, les guérisons et les grâces se multipliaient. Plus tard, la chapelle, de toute façon trop petite, sera saccagée pendant la Révolution et démolie pour permettre la construction d'un petit séminaire et d'une <b>basilique</b>. Le lieu a pris le nom de Sainte-Anne-d'Auray. Le pardon qui s'y déroule chaque année est le plus important de Bretagne, troisième lieu de pèlerinage en France après Lourdes et Lisieux. En 1914, le pape Pie X déclara officiellement sainte Anne patronne de la Bretagne avec saint Yves depuis la fin du Moyen Âge. À ce jour, Sainte-Anne-d'Auray est le seul lieu d'apparition de sainte Anne dans le monde.<br>
+En 1996, à l'initiative de l'évêque en place Mgr Gourvès, le <b>pape saint Jean-Paul II</b>vint la prier dans son sanctuaire breton. Il est le premier pape à avoir foulé le sol de Bretagne. "
+
+
+ 
+</td>
+<td width=50% valign=top><font size=-1>
+ <b> [1] The Battle of Solebay </b> <br>
+We copy here the description of these events made on the page <a href="../levierf.htm"> Song of the pilot </a>: <br>
+Saint Anne had already shown the full power of her intercession during another naval battle which was fought on <b>June 7, 1672</b> on the coast of Suffolk, in front of the roadstead of Solebay, by the united fleets of Cromwell and Colbert against the Dutch by Guillaume d'Orange. These, commanded by Admiral <b>Michel de Ruyter</b> (1616-1676) engaged the larger fleet of the Duke of York and the Count of Estrée. The outcome of the battle remained undecided and the storm dispersed the ships. <br>
+Breton sailors, originally from Arzon at the entrance to the Gulf of Morbihan, took part in this battle. They had made a pilgrimage to Sainte-Anne d'Auray on a previous day of Pentecost and had promised to return there each year on the same date, provided that Saint Anne would bring them all safe and sound back to their homes. They composed a hymn in French which recounts their campaign. <br>
+Abbé François Cadic is of the opinion that the Breton song which he also publishes, is a late adaptation (late 18th, early 19th century) of the French song contemporary of the events it reports. <br>
+<br>
+ <b>[2] Abraham Duquesne (1610-1688) </b> <br>
+"On June 7, 1672, the lieutenant general of the French navy Abraham Duquesne commanded "Le Terrible", a 68-70 gun vessel, and participated under the orders of Admiral Jean d'Estrées (1624-1707), who was himself under the orders of the Duke of York (the future King <a href="../hymnus.htm">James II </a>, appointed Grand Admiral, commander of the royal navy after the return to the throne of his brother, Charles II in 1660), at The Battle of Solebay against the Dutch Navy. He maneuvered too slowly to effectively support d'Estrées and still worse, failed to respond to the Duke of York's attack orders and let the Dutch fleet escape while the Anglo-French fleet was in a very favourable position. By doing so, he complied, in fact, with his King's orders. Louis XIV had given the French admirals secret instructions to let the English and Dutch fleets tear each other apart. The French fleet took as a pretext the presence of unfavorable winds to take only a minor part in the combat. In doing so, Duquesne exposed himself to well-deserved criticism. However, Marquis de Martel, for having protested against these dishonorable secret orders, was sent to the Bastille. "(Source: Wikipedia). <br>
+<br>
+<b> [3] The song of Cornic - Duchêne </b> <br>
+As stated in above introductory note, the first half of stanza 2 of the Breton song "Pedenn an ARVORIZ" from which F. Coppée was inspired to compose his French poem "Prayer of the ARZON lads" borrows from a other song. <br>
+This other song tells how the Breton captain Charles Cornic-Duchêne (1731-1809) fought three English vessels on June 24, 1758, as stated in the "Breton Biography" of P. Levot, 1852, in §5 of an article by Charles Alexandre. The words of the song designate the places of this memorable meeting: "Maen guen ar Pordichoc" (or "Gondichoc"). It is a rock <b> southwest of Molène </b>. Likewise "Melemeur" and "La Basse Longue", undoubtedly "Bas Hir", designate rocks in the same sector as that where the battle between <a href="../levierf.htm">lLa Surveillante and HMS Quebec</a> took place, 21 years later. <br>
+Here is how the site "tob.kan.bzh" (song M-00051) summarizes the facts: <br>
+<i> "On Saint John's Day shortly before midnight, Cornic met the English. It was a five-and-a-half-hour fight. Exchange of cannonade. An English volley brought down the French flag. <br>
+- "Hooray: the French surrender" <br>.
+Hearing this, Cornic fires again and hoists the big flag and challenges the Englishman by means of a megaphone.
+The next day they were engaged by the large English ship which then moved out to sea. At five o'clock, Cornic was near Melemeur reef, protected by the coast battery on the island of Molène. Molène's boats are approaching. <br>.
+Hard the heart that would not have cried of joy, seeingthe blood-covered deck o!f their ship! Cornic, the gallant captain, had fought alone against three English vessels. <br>.
+I cannot easily answer the question: who composed the song? Three young girls did. "</i> <br>.
+This song was collected by Célestin Port before 1800 in Lower Brittany. The song's incipit is: <i> "Sélaouit cana mé o pet / Listen please to my song" </i>. It was the subject of a communication by Pierre Le Roux in the "Revue Celtique", 1870-1934, year 1898 - Book 19, p. 1-12, in which is reproduced the text of a manuscript which dates from the 18th century. <br>
+Then of a "Study on a Breton song of the 18th century" by Emile Ernault in the same review, 1898 - Tome 19, p. 242, <br>
+<br>
+<b> [4] The worship of Saint Anne </b> <br>
+The astonishing invulnerability, defying the statistics (not one man injured or killed in forty) of which the Arzon sailors availed themselves at Solebay can be explained by a strong minded historian as the result of Duquesne's  double play who made a point of not exposing his fleet to the enemy's guns, <br>
+Those concerned considered it, for their part, an effect of the protective action of a newcomer to the pantheon of Breton fervour, Saint Anne who had been celebrated very close to their home, in Auray, back then for about fifty years.<br>
+We find Saint Anne at work as the protector of the famous Les Aubrays who drove brigands from Lannion in 1634 (or, according to La Villemarqué, of Morvan, viscount of Leon who lived in the 9th century) in three parts of the long <a href = "../ lezbreif.htm">Lez-Breizh</a> poem. <br>
+Here are some excerpts from the Wikipedia article on this topic: <br>
+"Saint Anne is the mother of the Virgin Mary in the Catholic tradition as well as in the Muslim tradition under the name of Hannah. No text in the New Testament mentions the figure of Anne who appears however in apocryphal gospels which draw a parallel with Anne, mother of Samuel, prophet and last judge of Israel. The apocryphal gospels depict her as a pious woman, long childless. A scene in her legendary life is the miraculous meeting of Anne and her husband Joachim at the Golden Gate in Jerusalem, after the announcement to the couple of the imminent birth of a child. The Eastern Church accepts these accounts, in a version presented as a translation by Saint Jerome, which deprives them of the most wonderful features. Many Eastern saints preached on Saint Anne, such as Saint John Damascene, Saint Epiphanes, Saint Sophronius of Jerusalem. <br>
+The <b> Saint-Anne-of-Apt Cathedral </b> is one of the oldest churches in the West to harbour the worship of Anne, the grandmother of Christ. Already during the 12th century his feast was celebrated there on July 26. "<br>
+<br>
+<b> [5] Sainte Anne in Brittany </b> <br>
+"In Brittany, the worship of Saint Anne really took shape only when the holy lady appeared in 1624 to a modest peasant <b>Yves Nicolazic</b> at a place that was to become the sanctuary of <b> Sainte-Anne-d'Auray </b>, an important place of devotion and pilgrimage. <br>
+Previously, especially before the 12th century, this veneration existed but more sporadically or locally, for instance at the sanctuary of <b> Sainte-Anne-la-Palud </b> established around the year 500. As stated in one of the apocryphal "Latin Acts" referred to under the title of <i> Virtutes Apostolorum</i>, written in the 6th century, there was an old-established cult to Saint Anne, widespread in Armorica. <br>
+Syncretism had been at work for a long time, merging the holy woman with the figure of the ancient <b>goddess Ana / Dana</b> (the mother goddess of the "Tuatha Dé Danann" in Ireland) linked to fertility, as is  Saint Anne in prayers asking her to undo sterility in couples. Her popularity among the Bretons of the time is partly explained by this remanence in people's memory of the ancient Celtic goddess. <br>
+A legend reported by Anatole Le Braz, describes her as originating from <b>Plonévez-Porzay</b> (north of Locronan). Anne is married to a cruel and jealous lord, who forbids her to have children. When she becomes pregnant, he drives her away from her home, Moëllien castle. Her wandering with little Mary leads her to the beach of Tréfuntec where an angel is waiting for her, near a boat. According to God's will, the angel brings her to Galilee. Many years later, Mary married Joseph and became the mother of Christ. Anne returns to Brittany to end her life in prayer and distributes her goods to the poor. <br>
+<br>
+<b> [6] Sainte-Anne-d''Auray </b> <br>
+A pivotal event in the story of Saint Anne's worship is her appearance to the peasant <b> Yvon Nicolazic, in 1624, near Auray </b> in Morbihan, whose wife remained childless. She asked him to build a chapel in her honour, near the village of Ker-Anna (which in Breton means "The village of Anne") on a field where he worked, because in this very place, so told him the saint, a chapel had already been built, dedicated to her, in the 7th century before it was demolished, thus cutting short the nascent devotion. On the night of March 7, 1625, Yvon Nicolazic, his brother-in-law and four neighbours, guided by the light of a large candle, effectively unearthed an <b>old damaged statue</b> of Saint Anne that had preserved remains of colours, azure and golden. Capuchin monks from Auray retouched it to restore its luster. During this time, Yvon Nicolazic worked to build a new chapel with the support of a few Carmelite brothers, before having the happiness of discovering that his couple had become fruitful. Following two successive inquiries, the Bishop of Vannes, Sébastien de Rosmadec authorized worship and, on July 26, 1625, there was a crowd for the first celebratory mass. Very quickly the pilgrims came in great numbers to the holy place where conversions, healings and graces multiplied. Later, the chapel, that had anyway become too small, was ransacked during the Revolution and demolished to allow the construction of a minor seminary and a huge <b>basilica</b>. The place took the name of Sainte-Anne-d'Auray. The "Pardon" celebration that takes place there each year is the most important in Brittany. This is the third place of pilgrimage in France after Lourdes and Lisieux. In 1914, Pope Pius X officially declared Saint Anne the patron saint of Brittany with Saint Yves since the end of the Middle Ages. To this day, Sainte-Anne-d'Auray is the only place of apparition of Saint Anne in the world. <br>
+In 1996, at the initiative of the incumbent Bishop Gourvès, <b>Pope Saint John Paul II</b> came to pray to her in her Breton sanctuary. He is the first pope to have set foot on Brittany soil. "
+
+
+</td>
+</tr></table><br>
+<br>
+
+
+<Embed src="arzon.mid"  height=60  autostart="true"><br>
+<audio src="arzon.mp3" controls></audio><br>
+<br>
+<A Href="../levierf.htm">Retour à "Chant du Pilote"</A><BR><br>
+<A Href="../penwern.htm">Taolenn</A><BR><br> 
+<a href="../homepage.htm" target="_top" alt="Welcome Page"><img src="home1.gif"></a><br>
+<script language="JavaScript" src="../maj.js"></script>
+<script language="JavaScript">maj()</script></BODY></HTML> 
+
+
+
+<!--
+-->
